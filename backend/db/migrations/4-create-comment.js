@@ -10,14 +10,17 @@ module.exports = {
       },
       userID: {
         type: Sequelize.INTEGER,
+        allowNull: false,
         references: { model: 'Users' }
       },
       songID: {
         type: Sequelize.INTEGER,
+        allowNull: false,
         references: { model: 'Songs' }
       },
       body: {
-        type: Sequelize.TEXT
+        type: Sequelize.TEXT,
+        allowNull: false
       },
       createdAt: {
         allowNull: false,
