@@ -17,3 +17,6 @@ fetch('/erudite/lyrics', {
 + npx sequelize model:generate --name Comment --attributes userID:integer,songID:integer,body:text
 + npx dotenv sequelize db:migrate
   + npx dotenv sequelize db:migrate:undo:all (if needed)
++ npx sequelize seed:generate --name demo-user
++ npx dotenv sequelize db:seed:all
+
