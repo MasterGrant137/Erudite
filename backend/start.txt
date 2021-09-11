@@ -1,9 +1,0 @@
-route: /hello/world
-fetch('/erudite/lyrics', {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "XSRF-TOKEN": `KrIs8VBc-IIMpDbUCZ-meR0pirLGGywBCqIM`
-    },
-    body: JSON.stringify({ hello: 'world' })
-  }).then(res => res.json()).then(data => console.log(data));
