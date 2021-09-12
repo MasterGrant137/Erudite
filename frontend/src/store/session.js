@@ -16,6 +16,27 @@ const removeUser = () => {
   };
 };
 
+export const signup = (user) => async dispatch => {
+  const { username, email, password } = user;
+  const response = await csrfFetch('/erudite/users', {
+    method: 'POST',
+    body: JSON.stringify({
+      username,
+      password,
+      email
+    }),
+  });
+  const data = await response.json();
+  dispatch(setUser(data.user));
+  return response;
+}
+
+// window.store.dispatch(window.sessionActions.signup({
+//   username: 'NewUser',
+//   email: 'new@user.io',
+//   password: 'password'
+// }));
+
 export const login = (user) => async dispatch => {
   const { credential, password } = user;
   const response = await csrfFetch('/erudite/session', {
