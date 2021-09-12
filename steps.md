@@ -13,3 +13,5 @@ window.store.dispatch(window.sessionActions.login({
   password: 'password'
 }));
 ```
++ Test the restoreUser thunk action
+`window.store.dispatch(window.sessionActions.restoreUser());`
