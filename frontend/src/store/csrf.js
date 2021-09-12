@@ -18,5 +18,5 @@ export async function csrfFetch(url, options = {}) {
 }
 
 export function restoreCSRF() {
-  return csrfFetch('/api/csrf/restore');
+  return csrfFetch('/erudite/csrf/restore');
 }
