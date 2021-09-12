@@ -1,1 +1,12 @@
-/* TODO Add site wide styles */
+* {
+    box-sizing: border-box;
+}
+
+button {
+    border-radius: 1vw;
+    cursor: pointer;
+}
+
+button:hover {
+    box-shadow: 0 0 0.40vw rgb(0, 0, 0);
+}
