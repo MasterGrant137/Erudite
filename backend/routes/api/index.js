@@ -6,9 +6,10 @@ router.use('/session', sessionRouter);
 
 router.use('/users', usersRouter);
 
-router.post('/test', (req, res) => {
-  res.json({ requestBody: req.body });
-});
+//? for frontend and backend route testing
+// router.post('/test', (req, res) => {
+//   res.json({ requestBody: req.body });
+// });
 
 //? testing user
 // router.get(
