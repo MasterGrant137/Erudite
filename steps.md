@@ -24,3 +24,5 @@ window.store.dispatch(window.sessionActions.signup({
   password: 'password'
 }));
 ```
++ Test in the browser's dev tools console
+`window.store.dispatch(window.sessionActions.logout());`
