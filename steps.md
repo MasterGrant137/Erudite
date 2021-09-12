@@ -15,3 +15,12 @@ window.store.dispatch(window.sessionActions.login({
 ```
 + Test the restoreUser thunk action
 `window.store.dispatch(window.sessionActions.restoreUser());`
+
++ Test signup
+```
+window.store.dispatch(window.sessionActions.signup({
+  username: 'NewUser',
+  email: 'new@user.io',
+  password: 'password'
+}));
+```

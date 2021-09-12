@@ -1,4 +1,4 @@
-.form-container {
+.auth-form-container {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -7,20 +7,20 @@
 }
 
 
-.login-form {
+.auth-form {
     display: flex;
     flex-direction: column;
     align-items: center;
     border: 0.2vw solid black;
 }
 
-#login-button {
+.auth-button {
     background-color: gray;
     color: white;
     transition: background-color 0.5s ease-in-out, color 0.5 ease-in-out;
 }
 
-#login-button:hover {
+.auth-button:hover {
     background-color: rgb(36, 209, 36);
     color: black;
 }

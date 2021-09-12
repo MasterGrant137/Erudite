@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import * as sessionActions from '../../store/session';
 import { useDispatch, useSelector } from 'react-redux';
 import { Redirect } from 'react-router-dom';
-import './LoginForm.css';
+import '../../auth.css';
 
 
 const LoginFormPage = () => {
@@ -27,8 +27,8 @@ const LoginFormPage = () => {
     }
 
     return (
-      <div className='form-container'>
-        <form onSubmit={handleSubmit} className='login-form'>
+      <div className='auth-form-container'>
+        <form onSubmit={handleSubmit} className='auth-form'>
           <ul hidden={!errors.length ? true : false}>
             {errors.map((error, idx) => <li key={idx}>{error}</li>)}
           </ul>
@@ -47,7 +47,7 @@ const LoginFormPage = () => {
               required
               placeholder='password'
             />
-          <button type="submit" id='login-button'>Log In</button>
+          <button type="submit" className='auth-button'>Log In</button>
         </form>
       </div>
     );
