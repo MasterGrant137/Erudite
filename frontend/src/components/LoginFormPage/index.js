@@ -47,7 +47,7 @@ const LoginFormPage = () => {
               required
               placeholder='password'
             />
-          <button type="submit" className='auth-button'>Log In</button>
+          <button type="submit">Log In</button>
         </form>
       </div>
     );

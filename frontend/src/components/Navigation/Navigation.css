@@ -1,0 +1,10 @@
+.nav-link-container {
+    list-style: none;
+    display: flex;
+    justify-content: right;
+     gap: 1vw;
+}
+
+.nav-links {
+    text-decoration: none;
+}

@@ -1,12 +1,29 @@
 * {
     box-sizing: border-box;
+    background-color: black;
 }
 
 button {
     border-radius: 1vw;
     cursor: pointer;
+
+    background-color: gray;
+    color: white;
+    transition: background-color 0.5s ease-in-out, color 0.5 ease-in-out;
 }
 
 button:hover {
-    box-shadow: 0 0 0.40vw rgb(0, 0, 0);
+    box-shadow: 0 0 0.40vw black;
+    background-color: rgb(36, 209, 36);
+    color: black;
+}
+
+a {
+    color: #F1D4D4;
+    transition: background-color 0.5s ease-in-out, color 0.5 ease-in-out;
+}
+
+a:hover {
+    color: #C060A1;
+    transition: background-color 0.5s ease-in-out, color 0.5 ease-in-out;
 }
