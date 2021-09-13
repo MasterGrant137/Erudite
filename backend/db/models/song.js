@@ -5,6 +5,10 @@ module.exports = (sequelize, DataTypes) => {
       type: DataTypes.STRING,
       allowNull: false
     },
+    userID: {
+      type: DataTypes.INTEGER,
+      allowNull: false,
+    },
     title: {
       type: DataTypes.STRING,
       allowNull: false
@@ -31,6 +35,7 @@ module.exports = (sequelize, DataTypes) => {
     // associations can be defined here
     Song.hasMany(models.Annotation, { foreignKey: 'songID' });
     Song.hasMany(models.Comment, { foreignKey: 'songID' });
+    Song.belongsTo(models.User, { foreignKey: 'userID' })
   };
   return Song;
 };

@@ -84,6 +84,7 @@ module.exports = (sequelize, DataTypes) => {
     // associations can be defined here
     User.hasMany(models.Annotation, { foreignKey: 'userID' });
     User.hasMany(models.Comment, { foreignKey: 'userID' });
+    User.hasMany(models.Song, { foreignKey: 'userID' });
   };
   return User;
 };
