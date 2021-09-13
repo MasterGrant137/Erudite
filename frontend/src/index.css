@@ -32,8 +32,12 @@ a:hover {
     color: #C060A1;
 }
 
-input {
-    color: #F1D4D4;
+form {
+    background-color: rgba(241, 212, 212, 0.5);
+}
+
+input[type='text'] {
+    color: black;
 }
 
 ul {

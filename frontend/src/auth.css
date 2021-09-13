@@ -1,7 +1,7 @@
 .auth-wrapper {
     animation: auth-scroll 30s ease-in-out infinite alternate;
     background-image: url('./images/background-art.png');
-    border: solid white 0.75vw;
+    border: 0.25vw solid #F1D4D4;
     height: 75vh;
 }
 
@@ -20,7 +20,7 @@
     gap: 1vw;
     align-items: center;
     border: 0.2vw solid #F1D4D4;
-    color: #F1D4D4;
+    color: black;
     padding: 1.5vw;
 }
 
