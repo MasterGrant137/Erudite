@@ -1,20 +1,25 @@
 * {
     box-sizing: border-box;
+    font-size: 1vw;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    margin: 1vw;
     background-color: black;
 }
 
 button {
-    border-radius: 1vw;
+    border-radius: 0.25vw;
     cursor: pointer;
-
-    background-color: gray;
+    background-color: #6A097D;
     color: white;
     transition: background-color 0.5s ease-in-out, color 0.5 ease-in-out;
 }
 
 button:hover {
     box-shadow: 0 0 0.40vw black;
-    background-color: rgb(36, 209, 36);
+    background-color: #C060A1;
     color: black;
 }
 
@@ -25,5 +30,12 @@ a {
 
 a:hover {
     color: #C060A1;
-    transition: background-color 0.5s ease-in-out, color 0.5 ease-in-out;
+}
+
+input {
+    color: #F1D4D4;
+}
+
+ul {
+    color: #F1D4D4;
 }

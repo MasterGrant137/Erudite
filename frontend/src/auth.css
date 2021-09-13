@@ -1,15 +1,29 @@
+.auth-wrapper {
+    animation: auth-scroll 30s ease-in-out infinite alternate;
+    background-image: url('./images/background-art.png');
+    border: solid white 0.75vw;
+    height: 75vh;
+}
+
 .auth-form-container {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    height: 50vw;
+    height: 75vh;
 }
 
 
 .auth-form {
     display: flex;
     flex-direction: column;
+    gap: 1vw;
     align-items: center;
-    border: 0.2vw solid black;
+    border: 0.2vw solid #F1D4D4;
+    color: #F1D4D4;
+    padding: 1.5vw;
+}
+
+@keyframes auth-scroll {
+    100% { background-position-y: 100%; }
 }

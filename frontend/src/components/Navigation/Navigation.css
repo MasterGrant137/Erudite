@@ -2,9 +2,13 @@
     list-style: none;
     display: flex;
     justify-content: right;
-     gap: 1vw;
+    gap: 1vw;
 }
 
 .nav-links {
     text-decoration: none;
+}
+
+.profile-dropdown {
+    list-style: none;
 }
