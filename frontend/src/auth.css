@@ -24,6 +24,10 @@
     padding: 1.5vw;
 }
 
+.auth-form > ul {
+    color: black;
+}
+
 @keyframes auth-scroll {
     100% { background-position-y: 100%; }
 }

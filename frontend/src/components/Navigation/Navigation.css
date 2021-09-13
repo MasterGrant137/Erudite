@@ -1,7 +1,8 @@
 .nav-link-container {
     list-style: none;
     display: flex;
-    justify-content: right;
+    justify-content: center;
+    align-items: center;
     gap: 1vw;
 }
 
@@ -11,4 +12,5 @@
 
 .profile-dropdown {
     list-style: none;
+    color: #F1D4D4;
 }
