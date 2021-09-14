@@ -28,9 +28,4 @@ function App() {
   );
 }
 
-// export const geniusClientToken = () => process.env.REACT_APP_GENIUS_CLIENT_TOKEN;
-// const geniusClientToken = process.env.REACT_APP_GENIUS_CLIENT_TOKEN;
-
-// module.exports = {geniusClientToken};
-
 export default App;
