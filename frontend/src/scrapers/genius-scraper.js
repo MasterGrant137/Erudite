@@ -38,14 +38,25 @@ const lyricsScraper = (artistSongsArr) => {
         axios.get(`${song.result.url}`)
             .then(res => {
                 const $ = cheerio.load(res.data);
-                const html = pretty($.html());
+                //! const html = pretty($.html());
+                //! const title = $('h1').get(0).children[0].data
+
                 // const lyrics = $('body').children().find('div').each((idx, div) => {
                 //    $(div).attribs
                 // })
-                const lyrics = $('body > div > .lyrics').children().each((idx, ele) => {
-                   $(ele)
-                })
-                console.log(lyrics);
+                // const lyrics = $('div').each((idx, ele) => {
+                //    $(ele)
+                // })
+                const lyricsDiv = $('.Lyrics__Container-sc-1ynbvzw-8').text()
+
+                console.log(lyricsDiv);
+                // fs.writeFile('./scraped-info.txt', pretty(`${lyricsDiv}`), err => {
+                //     if (err) {
+                //         console.error(`A wild error has appeared in the bushes: ${err}`);
+                //     } else {
+                //         console.log('Successful scrape!');
+                //     }
+                // })
             })
             .catch(err => {
                 console.log(`End of the line error: ${err}`);
