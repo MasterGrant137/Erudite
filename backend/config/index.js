@@ -11,9 +11,4 @@ module.exports = {
       secret: process.env.JWT_SECRET,
       expiresIn: process.env.JWT_EXPIRES_IN,
     },
-    geniusConfig: {
-      id: process.env.GENIUS_CLIENT_ID,
-      secret: process.env.GENIUS_CLIENT_SECRET,
-      token: process.env.GENIUS_CLIENT_TOKEN
-    }
   };

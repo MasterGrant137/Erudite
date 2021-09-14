@@ -4,6 +4,7 @@ import { Route, Switch } from 'react-router-dom';
 import LoginFormPage from './components/LoginFormPage';
 import SignupFormPage from './components/SignupFormPage';
 import Navigation from "./components/Navigation";
+import HomePage from './components/HomePage';
 import * as sessionActions from './store/session';
 
 function App() {
@@ -18,16 +19,18 @@ function App() {
       <Navigation isLoaded={isLoaded} />
       {isLoaded && (
         <Switch>
-          <Route path="/login">
-            <LoginFormPage />
-          </Route>
-          <Route path="/signup">
-            <SignupFormPage />
-          </Route>
+          <Route path="/login"><LoginFormPage /></Route>
+          <Route path="/signup"><SignupFormPage /></Route>
+          <Route path='/'><HomePage /></Route>
         </Switch>
       )}
     </>
   );
 }
+
+// export const geniusClientToken = () => process.env.REACT_APP_GENIUS_CLIENT_TOKEN;
+// const geniusClientToken = process.env.REACT_APP_GENIUS_CLIENT_TOKEN;
+
+// module.exports = {geniusClientToken};
 
 export default App;

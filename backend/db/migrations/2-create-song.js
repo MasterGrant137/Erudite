@@ -11,7 +11,7 @@ module.exports = {
       userID: {
         type: Sequelize.INTEGER,
         allowNull: false,
-        references: { model: 'Users' } 
+        references: { model: 'Users' }
       },
       artist: {
         type: Sequelize.STRING,
@@ -33,6 +33,9 @@ module.exports = {
       },
       media: {
         type: Sequelize.STRING
+      },
+      visits: {
+        type: Sequelize.INTEGER
       },
       coverArt: {
         type: Sequelize.STRING

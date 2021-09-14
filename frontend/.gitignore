@@ -18,7 +18,9 @@
 .env.test.local
 .env.production.local
 .eslintcache
+genius-auth.json
 steps.md
+routes.md
 
 npm-debug.log*
 yarn-debug.log*

@@ -24,6 +24,9 @@ module.exports = (sequelize, DataTypes) => {
     media: {
       type: DataTypes.STRING,
     },
+    visits: {
+      type: DataTypes.INTEGER,
+    },
     coverArt: {
       type: DataTypes.STRING,
     },
