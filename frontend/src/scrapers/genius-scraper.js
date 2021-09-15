@@ -40,14 +40,15 @@ const lyricsScraper = (artistSongsArr) => {
                 const $ = cheerio.load(res.data);
                 //! const html = pretty($.html());
                 //! const title = $('h1').get(0).children[0].data
-                //! const lyrics = $('.Lyrics__Container-sc-1ynbvzw-8').text()
 
                 const lyrics = $('.Lyrics__Container-sc-1ynbvzw-8').each((idx, div) => {
-                    $(div).children()
+                    $(div)
                 })
 
 
-                f1Seeder(lyrics);
+
+                //? new Date().getTime() finds toString() as performant as interpolation
+                f1Seeder(`${lyrics}`)
             })
             .catch(err => {
                 console.log(`End of the line error: ${err}`);
