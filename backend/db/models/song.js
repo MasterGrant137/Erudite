@@ -15,7 +15,6 @@ module.exports = (sequelize, DataTypes) => {
     },
     producer: {
       type: DataTypes.STRING,
-      allowNull: false
     },
     body: {
       type: DataTypes.TEXT,
@@ -30,9 +29,6 @@ module.exports = (sequelize, DataTypes) => {
     coverArt: {
       type: DataTypes.STRING,
     },
-    backgroundArt: {
-      type: DataTypes.STRING,
-    }
   }, {});
   Song.associate = function(models) {
     // associations can be defined here

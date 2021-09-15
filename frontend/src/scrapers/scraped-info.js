@@ -1,55 +1,49 @@
-const obj = `{Heard a lot of things through the grapevine
-Heard the tick-tock of the clock, still I feel fine
+[Intro: Serj Tankian]
+We're rolling "Suicide"
 
-All my hours feel so close
-To the kiss of morning
-Though sky's morose
-And the clouds are mourning
+[Verse: Serj Tankian]
+Wake up (Wake up)
+Grab a brush and put a little makeup
+Hide your scars to fade away the shakeup (Hide the scars to fade away the shakeup)
+Why'd you leave the keys upon the table?
+Here you go, create another fable, you wanted to
+Grab a brush and put a little makeup, you wanted to
+Hide the scars to fade away the shakeup, you wanted to
+Why'd you leave the keys upon the table? You wanted to
 
-Take my leather-bound journal to the Lethe
-All the wayworn souls by that river won't forget me
+[Chorus: Serj Tankian with Daron Malakian]
+I don't think you trust
+In my self-righteous suicide
+I cry when angels deserve to die
 
-Frozen
-In the bitter blizzard that's called
-Wisdom
-Build a brazen movement
-Then a kingdom
+[Verse: Serj Tankian]
+Ah! Wake up (Wake up)
+Grab a brush and put a little makeup (A little bit)
+Hide the scars to fade away the (Hide the scars to fade away the shakeup)
+Why'd you leave the keys upon the table?
+Here you go, create another fable, you wanted to
+Grab a brush and put a little makeup, you wanted to
+Hide the scars to fade away the shakeup, you wanted to
+Why'd you leave the keys upon the table? You wanted to
+[Chorus: Serj Tankian with Daron Malakian]
+I don't think you trust
+In my self-righteous suicide
+I cry when angels deserve to die
+In my self-righteous suicide
+I cry when angels deserve to die
 
-You lost reverence
-Because of close proximity
-Your residence
-Is in the bowеls of normalcy
-Sages eaten
+[Bridge: Serj Tankian &amp; Daron Malakian]
+Father, father, father, father
+Father, father, father, father
+Father, into your hands I commend my spirit
+Father, into your hands
+Why have you forsaken me?
+In your eyes, forsaken me?
+In your thoughts, forsaken me?
+In your heart, forsaken me? Oh
 
-Know I
-Do keep a pеn in my vicinity
-Able to knight a willing subject
-Upon a bended knee
-Don't vie
-For my vantage point, unpreparedly
-'Cause you might be harrowed
-By the things your inner eyes will see
-
-Pick a card
-Wonder who you'll meet upon the boulevard
-Of your dreams
-Met the Reaper just the other day
-The scenes with themes
-Macabre
-Are embedded in my very seams
-Abracadabra
-Create as I speak and I speak as it truly seems
-
-Speak too much truth
-Gotta lie low
-Hard to spit a rhyme while in Hades with a halo
-
-I feel craft is the lotion to dryness
-When you next address me
-You may utter words: Your Highness
-
-Frozen
-In the bitter blizzard that's called
-Wisdom
-Build a brazen movement
-Then a kingdom}`
+[Outro: Serj Tankian &amp; Daron Malakian]
+Trust in my self-righteous suicide
+I cry when angels deserve to die
+In my self-righteous suicide
+I cry when angels deserve to die

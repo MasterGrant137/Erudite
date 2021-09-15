@@ -24,7 +24,6 @@ module.exports = {
       },
       producer: {
         type: Sequelize.STRING,
-        allowNull: false,
       },
       body: {
         type: Sequelize.TEXT,
@@ -38,9 +37,6 @@ module.exports = {
         type: Sequelize.INTEGER
       },
       coverArt: {
-        type: Sequelize.STRING
-      },
-      backgroundArt: {
         type: Sequelize.STRING
       },
       createdAt: {
