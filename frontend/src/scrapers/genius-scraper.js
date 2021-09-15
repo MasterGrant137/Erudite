@@ -4,8 +4,8 @@ const pretty = require('pretty');
 const { geniusClientToken } = require('./genius-auth.json');
 const { f1Seeder } = require('../data-formatting/seeder-functions');
 
-const artist = '137-us'
-// const artist = 'System-of-a-Down'
+// const artist = '137-us'
+const artist = 'System-of-a-Down'
 //? finding artist by ID
 // const url = `https://api.genius.com/artists/${id}/songs?per_page=10`;
 //? allowing for search by artist
@@ -41,11 +41,12 @@ const lyricsScraper = (artistSongsArr) => {
                 const html = pretty($.html());
 
                 const titleMeta = $('meta[property=og:title]').attr().content;
+                const producerDiv = $('.HeaderMetadata__Section-sc-1p42fnf-2').find('a')
                 const lyricsDiv = $('.Lyrics__Container-sc-1ynbvzw-8').each((idx, div) => $(div));
 
-
                 //? new Date().getTime() shows toString() to be as performant as interpolation
-                f1Seeder(`${lyricsDiv}`)
+                f1Seeder(`${producerDiv}`)
+                // f1Seeder(producerDiv)
             })
             .catch(err => {
                 console.log(`End of the line error: ${err}`);
