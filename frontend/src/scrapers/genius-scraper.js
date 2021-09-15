@@ -1,8 +1,8 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-const fs = require('fs');
 const pretty = require('pretty');
 const { geniusClientToken } = require('./genius-auth.json');
+const { f1Seeder } = require('../data-formatting/seeder-functions');
 
 const artist = '137-us'
 //? finding artist by ID
@@ -40,23 +40,11 @@ const lyricsScraper = (artistSongsArr) => {
                 const $ = cheerio.load(res.data);
                 //! const html = pretty($.html());
                 //! const title = $('h1').get(0).children[0].data
+                //! const lyrics = $('.Lyrics__Container-sc-1ynbvzw-8').text()
 
-                // const lyrics = $('body').children().find('div').each((idx, div) => {
-                //    $(div).attribs
-                // })
-                // const lyrics = $('div').each((idx, ele) => {
-                //    $(ele)
-                // })
-                const lyricsDiv = $('.Lyrics__Container-sc-1ynbvzw-8').text()
+                const lyrics = $('.Lyrics__Container-sc-1ynbvzw-8').text()
 
-                console.log(lyricsDiv);
-                // fs.writeFile('./scraped-info.txt', pretty(`${lyricsDiv}`), err => {
-                //     if (err) {
-                //         console.error(`A wild error has appeared in the bushes: ${err}`);
-                //     } else {
-                //         console.log('Successful scrape!');
-                //     }
-                // })
+                f1Seeder(lyrics);
             })
             .catch(err => {
                 console.log(`End of the line error: ${err}`);
