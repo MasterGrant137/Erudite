@@ -11,9 +11,10 @@ const f1Seeder = (lyricsDivStr) => {
     // const title = artistAndTitleArray[1];
 
     //? body
-    const brTagRegex = /<br>/g
-    const strayTagsRegex = /(<(?:a|span|div|\/|).*?>)|(.*?)/g
-    const body = lyricsDivStr.replace(brTagRegex, '\n').replace(strayTagsRegex, '$2');
+    const brDivRegex = /<br>|<(\/)?div>/g
+    const ampersandRegex = /&amp;/g
+    const strayTagsRegex = /(<(?:a|span|\/|).*?>)|(.*?)/g
+    const body = lyricsDivStr.replace(brDivRegex, '\n').replace(ampersandRegex, '\u0026').replace(strayTagsRegex, '$2');
 
     //? producer
 

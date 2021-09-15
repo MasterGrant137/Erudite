@@ -4,8 +4,8 @@ const pretty = require('pretty');
 const { geniusClientToken } = require('./genius-auth.json');
 const { f1Seeder } = require('../data-formatting/seeder-functions');
 
-// const artist = '137-us'
-const artist = 'System-of-a-Down'
+const artist = '137-us'
+// const artist = 'System-of-a-Down'
 //? finding artist by ID
 // const url = `https://api.genius.com/artists/${id}/songs?per_page=10`;
 //? allowing for search by artist
@@ -17,7 +17,6 @@ const searchUrl = `${url}`
 
 
 const geniusFetcher = () => {
-
     axios.get(searchUrl, {
         headers: { 'Authorization': `Bearer ${geniusClientToken}` },
         data: { 'q': artist }
@@ -44,10 +43,9 @@ const lyricsScraper = (artistSongsArr) => {
                 const titleMeta = $('meta[property=og:title]').attr().content;
                 const lyricsDiv = $('.Lyrics__Container-sc-1ynbvzw-8').each((idx, div) => $(div));
 
-                f1Seeder(`${lyricsDiv}`)
 
-                //? new Date().getTime() finds toString() as performant as interpolation
-                // f1Seeder(`{${songInfo}}`)
+                //? new Date().getTime() shows toString() to be as performant as interpolation
+                f1Seeder(`${lyricsDiv}`)
             })
             .catch(err => {
                 console.log(`End of the line error: ${err}`);
