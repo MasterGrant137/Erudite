@@ -42,7 +42,10 @@ const lyricsScraper = (artistSongsArr) => {
                 //! const title = $('h1').get(0).children[0].data
                 //! const lyrics = $('.Lyrics__Container-sc-1ynbvzw-8').text()
 
-                const lyrics = $('.Lyrics__Container-sc-1ynbvzw-8').text()
+                const lyrics = $('.Lyrics__Container-sc-1ynbvzw-8').each((idx, div) => {
+                    $(div).children()
+                })
+
 
                 f1Seeder(lyrics);
             })
