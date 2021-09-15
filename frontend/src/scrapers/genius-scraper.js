@@ -41,11 +41,11 @@ const lyricsScraper = (artistSongsArr) => {
                 const html = pretty($.html());
                 //! const title = $('h1').get(0).children[0].data
 
-                const titleTag = $('title');
+                const metaTitle = $('title');
                 const lyricsDiv = $('.Lyrics__Container-sc-1ynbvzw-8').each((idx, div) => $(div));
 
 
-                f1Seeder(`${titleTag}`)
+                f1Seeder(`${metaTitle}`)
 
 
                 //? new Date().getTime() finds toString() as performant as interpolation

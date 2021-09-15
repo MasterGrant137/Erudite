@@ -1,29 +1,31 @@
 const fs = require('fs');
-//file seeder write route: '../../../backend/db/seeders/file-name'
-// final parameters: titleTagStr, producer, lyricsDivStr, media, visits, coverArt, backgroundArt
-const f1Seeder = (titleTag) => {
+// file seeder write route: '../../../backend/db/seeders/file-name'
+// final parameters: metaTitleStr, producer, lyricsDivStr, media, visits, coverArt, backgroundArt
+// js Seeding template: `const obj = \`{${body}}\``
+const f1Seeder = (metaTitleStr) => {
 
-    //? title
-    const 
+    //? artist & title
+    const artistAndTitleRegex = /(<title>)(.*?)(\sLyrics \| Genius Lyrics)(<\/title>)/g
+    const artistAndTitleArray = metaTitleStr.replace(artistAndTitleRegex, '$2').split(' \u2013 ');
+    const artist = artistAndTitleArray[0].replace('&nbsp;', '\u0020');
+    const title = artistAndTitleArray[1];
+
+    console.log(artist, title);
 
     //? body
-    // const openDivRegex = /<div.*?>/g
-    // const closeDivRegex = /<\/div>/g
+    // const divTag = /<div.*?>|<\/div>/g
     // const brTagRegex = /<br>/g
-    // const body = body.replace(openDivRegex, '').replace(closeDivRegex, '').replace(brTagRegex, '\n');
-
-    // console.log(songInfo);
+    // const body = lyricsDivStr.replace(divTag, '').replace(brTagRegex, '\n');
 
     // const dbEntry = `{${artist},${title},${producer},${body},${media},${visits},${coverArt},${backgroundArt}},`
 
-    //* change back to formattedLyrics after testing!
-    fs.writeFile('./scraped-info.txt', dbEntry, err => {
-        if (err) {
-            console.error(`A wild error has appeared in the bushes: ${err}`);
-        } else {
-            console.log('Successful scrape!');
-        }
-    })
+    // fs.writeFile('./scraped-info.js', artistAndTitleArray, err => {
+    //     if (err) {
+    //         console.error(`A wild error has appeared in the bushes: ${err}`);
+    //     } else {
+    //         console.log('Successful scrape!');
+    //     }
+    // })
 }
 
 module.exports = { f1Seeder };
