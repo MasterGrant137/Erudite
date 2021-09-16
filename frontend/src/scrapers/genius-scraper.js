@@ -4,11 +4,14 @@ const pretty = require('pretty');
 const { geniusClientToken } = require('./genius-auth.json');
 const { songSeeder } = require('../data-formatting/seeder-functions');
 
-const artistArr = ['137-us','System-of-a-Down']
+
+// const artist = '137-us'
+const artistArr = ['137-us', 'System-of-a-Down', 'JID'];
+// const artist = 'System-of-a-Down'
 //? finding artist by ID
 // const url = `https://api.genius.com/artists/${id}/songs?per_page=10`;
 //? allowing for search by artist
-const url = `https://api.genius.com/search?per_page=3/`;
+const url = `https://api.genius.com/search?per_page=10/`;
 // const fltr = '/search?per_page=10&page=';
 
 // const searchUrl = `${url}${artist}`
@@ -31,22 +34,22 @@ const geniusFetcher = () => {
     })
 }
 
-
 const lyricsScraper = (artistSongsArr) => {
     artistSongsArr.forEach(song => {
         axios.get(`${song.result.url}`)
             .then(res => {
                 const $ = cheerio.load(res.data);
                 const html = pretty($.html());
-                console.log(song.result.url);
+
                 const namesMeta = $('meta[property=og:title]').attr().content;
                 const producerDiv = $('.HeaderMetadata__Section-sc-1p42fnf-2').find('a');
                 const bodyDiv = $('.Lyrics__Container-sc-1ynbvzw-8').each((idx, div) => $(div));
                 const mediaIFrame = $('.MusicVideo__Container-sc-1980jex-0').find('iFrame');
-                const pyongsSpan = $('.LabelWithIcon__Label-sc-1ri57wg-1').get(3).children[0].data;
+                const pyongsSpan = $('.LabelWithIcon__Label-sc-1ri57wg-1').last().text();
                 const coverArtMeta = $('meta[property=og:image]').attr('content');
 
                 songSeeder(`${namesMeta}`, `${producerDiv}`, `${bodyDiv}`, `${mediaIFrame}`, `${pyongsSpan}`, `${coverArtMeta}`);
+                // songSeeder(`${producerDiv}`)
             })
             .catch(err => {
                 console.log(`End of the line error: ${err}`);

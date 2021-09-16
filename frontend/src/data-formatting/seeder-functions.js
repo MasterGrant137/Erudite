@@ -4,7 +4,7 @@ const songSeeds = [];
 
 
 
-// file seeder write route: '../../../backend/db/seeders/file-name'
+// namesMetaStr, producerDivStr, bodyDivStr, media, visits, coverArt
 
 const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visits, coverArt) => {
     //? regex tier 1
@@ -28,10 +28,10 @@ const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visits, cov
     const title = artistAndTitleArray[1];
 
     //? producer
-    const producer = producerDivStr.replace(lastAnchor, '').replace(closedAnchor, pipe).replace(strayTagsRegex2, '$4');
+    let producer; if (producerDivStr) producer = producerDivStr.replace(lastAnchor, '').replace(closedAnchor, pipe).replace(strayTagsRegex2, '$4');
 
     //? body
-    const body = bodyDivStr.replace(brDivRegex, '\n').replace(amp, ampersand).replace(strayTagsRegex1, '$2');
+    let body; if (bodyDivStr) body = bodyDivStr.replace(brDivRegex, '\n').replace(amp, ampersand).replace(strayTagsRegex1, '$2');
 
     //$ media, visits, & cover art = raw
 
@@ -44,6 +44,15 @@ const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visits, cov
             console.log('Successful scrape!');
         }
     })
+
+    //? for testing
+    // fs.writeFile('./song-seeds.js', `${producer}`, err => {
+    //     if (err) {
+    //         console.error(`A wild error has appeared in the bushes: ${err}`);
+    //     } else {
+    //         console.log('Successful scrape!');
+    //     }
+    // })
 }
 
 module.exports = { songSeeder };
