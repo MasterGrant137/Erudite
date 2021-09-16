@@ -44,12 +44,11 @@ const lyricsScraper = (artistSongsArr) => {
                 const producerDiv = $('.HeaderMetadata__Section-sc-1p42fnf-2').find('a')
                 const bodyDiv = $('.Lyrics__Container-sc-1ynbvzw-8').each((idx, div) => $(div));
                 const mediaIFrame = $('.MusicVideo__Container-sc-1980jex-0').find('iFrame');
-
-                const artMeta
+                const pyongsSpan = $('.LabelWithIcon__Label-sc-1ri57wg-1').text();
+                const coverArtMeta = $('meta[property=og:image]').attr('content');
 
                 //? new Date().getTime() shows toString() to be as performant as interpolation
-                f1Seeder(`${mediaIFrame}`)
-                // f1Seeder(producerDiv)
+                f1Seeder(pyongsSpan);
             })
             .catch(err => {
                 console.log(`End of the line error: ${err}`);

@@ -1,9 +1,9 @@
 const fs = require('fs');
 // file seeder write route: '../../../backend/db/seeders/file-name'
-// final parameters: namesMetaStr, producerDivStr, bodyDivStr, mediaIFrame, visits, coverArt
+// final parameters: namesMetaStr, producerDivStr, bodyDivStr, mediaIFrameStr, visitsNum, coverArtMetaStr
 // js Seeding template: `const obj = \`{${body}}\``
 // dbEntry template: const dbEntry = `{${artist},${title},${producer},${body},${media},${visits},${coverArt}},`
-const f1Seeder = (mediaIFrame) => {
+const f1Seeder = (visitsNum) => {
     //? regex tier 1
     const nbsp = /&nbsp;/g
     const amp = /&amp;/g
@@ -30,13 +30,12 @@ const f1Seeder = (mediaIFrame) => {
     //? body
     // const body = bodyDivStr.replace(brDivRegex, '\n').replace(amp, ampersand).replace(strayTagsRegex1, '$2');
 
-    //? media=raw
+    //? visits = raw
 
-    //? coverArt
-
+    //? media & cover art = raw
 
 // console.log(producer);
-    fs.writeFile('./scraped-info.js', mediaIFrame, err => {
+    fs.writeFile('./scraped-info.js', `${visitsNum}`, err => {
         if (err) {
             console.error(`A wild error has appeared in the bushes: ${err}`);
         } else {
