@@ -31,13 +31,13 @@ module.exports = {
         unique: true
       },
       media: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING(1000)
       },
       visits: {
         type: Sequelize.INTEGER
       },
       coverArt: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING(1000)
       },
       createdAt: {
         allowNull: false,

@@ -35,7 +35,7 @@ const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visits, cov
 
     //$ media, visits, & cover art = raw
 
-    songSeedsArr.push(`{artist: "${artist}", title: "${title}", producer: "${producer}", body: \`${body}\`, media: \`${media}\`, visits: ${visits}, coverArt: "${coverArt}", createdAt: newDate(), updatedAt: newDate()}`)
+    songSeedsArr.push(`{userID: ${1}, artist: "${artist}", title: "${title}", producer: "${producer}", body: \`${body}\`, media: \`${media}\`, visits: ${visits}, coverArt: "${coverArt}", createdAt: new Date(), updatedAt: new Date()}`)
 
     fs.writeFile('./scraped-info.js', `${songSeedsArr}`, err => {
         if (err) {
