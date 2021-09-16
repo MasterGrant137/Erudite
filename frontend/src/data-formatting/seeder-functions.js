@@ -1,6 +1,6 @@
 const fs = require('fs');
 // file seeder write route: '../../../backend/db/seeders/file-name'
-// final parameters: namesMetaStr, producerDivStr, bodyDivStr, mediaIFrameStr, visitsNum, coverArtMetaStr
+// final parameters: namesMetaStr, producerDivStr, bodyDivStr, mediaIFrameStr, visits, coverArt
 // js Seeding template: `const obj = \`{${body}}\``
 // dbEntry template: const dbEntry = `{${artist},${title},${producer},${body},${media},${visits},${coverArt}},`
 const f1Seeder = (visitsNum) => {
@@ -20,22 +20,20 @@ const f1Seeder = (visitsNum) => {
     const strayTagsRegex2 = /(<(?:a|span|\/|).*?>)|(View All Credits)|(&nbsp;)|(.*?)/g
 
     // //? artist & title
-    // const artistAndTitleArray = namesMetaStr.replace(nbsp, space).split(`${space}${enDash}${space}`);
-    // const artist = artistAndTitleArray[0];
-    // const title = artistAndTitleArray[1];
+    const artistAndTitleArray = namesMetaStr.replace(nbsp, space).split(`${space}${enDash}${space}`);
+    const artist = artistAndTitleArray[0];
+    const title = artistAndTitleArray[1];
 
     //? producer
-    // const producer = producerDivStr.replace(lastAnchor, '').replace(closedAnchor, pipe).replace(anchorTxtRegex, '$4');
+    const producer = producerDivStr.replace(lastAnchor, '').replace(closedAnchor, pipe).replace(anchorTxtRegex, '$4');
 
     //? body
-    // const body = bodyDivStr.replace(brDivRegex, '\n').replace(amp, ampersand).replace(strayTagsRegex1, '$2');
+    const body = bodyDivStr.replace(brDivRegex, '\n').replace(amp, ampersand).replace(strayTagsRegex1, '$2');
 
-    //? visits = raw
+    //? media, visits, & cover art = raw
 
-    //? media & cover art = raw
-
-console.log(visitsNum);
-    fs.writeFile('./scraped-info.js', visitsNum, err => {
+    console.log(visitsNum);
+    fs.writeFile('./scraped-info.js', `{artist: "${artist}", title: "${title}", producer: "${producer}", body: \`${body}\`, media: "${media}", visits: ${visits}, coverArt: ${coverArt}},`, err => {
         if (err) {
             console.error(`A wild error has appeared in the bushes: ${err}`);
         } else {
