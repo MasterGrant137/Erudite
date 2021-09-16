@@ -6,7 +6,14 @@ const { setTokenCookie, requireAuth } = require('../../utils/auth');
 const { Song } = require('../../db/models');
 
 router.get('/', asyncHandler(async(req, res) => {
-    const songs = await Song.findAll();
+    const songs = await Song.findAll({
+        where: {
+            visits
+        },
+        order: [
+            ['visits', 'DESC']
+        ]
+    });
     return res.json(songs);
 }))
 

@@ -10,7 +10,6 @@ const HomePage = () => {
     const dispatch = useDispatch();
 
     const songs = useSelector(state => {
-        console.log(state);
         return state.songs;
     })
 
