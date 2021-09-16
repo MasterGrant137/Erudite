@@ -4,8 +4,7 @@ const pretty = require('pretty');
 const { geniusClientToken } = require('./genius-auth.json');
 const { songSeeder } = require('../data-formatting/seeder-functions');
 
-// const artist = '137-us'
-const artist = 'System-of-a-Down'
+const artistArr = ['137-us','System-of-a-Down']
 //? finding artist by ID
 // const url = `https://api.genius.com/artists/${id}/songs?per_page=10`;
 //? allowing for search by artist
@@ -17,18 +16,18 @@ const searchUrl = `${url}`
 
 
 const geniusFetcher = () => {
-    axios.get(searchUrl, {
-        headers: { 'Authorization': `Bearer ${geniusClientToken}` },
-        data: { 'q': artist }
-    })
-    .then(res => {
-        // const primaryArtistObj = res.data.response.hits[0].result.primary_artist;
-        const artistSongsArr = res.data.response.hits
-
-        lyricsScraper(artistSongsArr)
-    })
-    .catch(err => {
-        console.error(`A wild error appeared: ${err}`)
+    artistArr.forEach(artist => {
+        axios.get(searchUrl, {
+            headers: { 'Authorization': `Bearer ${geniusClientToken}` },
+            data: { 'q': artist }
+        })
+        .then(res => {
+            const artistSongsArr = res.data.response.hits
+            lyricsScraper(artistSongsArr)
+        })
+        .catch(err => {
+            console.error(`A wild error appeared: ${err}`)
+        })
     })
 }
 
@@ -39,7 +38,7 @@ const lyricsScraper = (artistSongsArr) => {
             .then(res => {
                 const $ = cheerio.load(res.data);
                 const html = pretty($.html());
-
+                console.log(song.result.url);
                 const namesMeta = $('meta[property=og:title]').attr().content;
                 const producerDiv = $('.HeaderMetadata__Section-sc-1p42fnf-2').find('a');
                 const bodyDiv = $('.Lyrics__Container-sc-1ynbvzw-8').each((idx, div) => $(div));
@@ -57,7 +56,3 @@ const lyricsScraper = (artistSongsArr) => {
 
 
 geniusFetcher();
-
-
-
-// module.exports = geniusScraper();
