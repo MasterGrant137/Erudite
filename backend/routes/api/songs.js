@@ -5,18 +5,9 @@ const router = express.Router();
 const { setTokenCookie, requireAuth } = require('../../utils/auth');
 const { Song } = require('../../db/models');
 
-router.get(
-    '/songs',
-    asyncHandler(async (req, res) => {
-      const { artist, title, producer, body, media, visits, coverArt } = req.body;
-      const user = await Song.signup({ email, username, password });
-
-      await setTokenCookie(res, user);
-
-      return res.json({
-        user,
-      });
-    }),
-  );
+router.get('/', asyncHandler(async(req, res) => {
+    const songs = await Song.findAll();
+    return res.json(songs);
+}))
 
 module.exports = router;

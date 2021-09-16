@@ -1,3 +1,11 @@
 .home-page-container {
-    background-color: red;
+    color: #F1D4D4;
+}
+
+#home-page-header {
+    font-size: 4vw;
+    width: 100vw;
+    margin: 0;
+    color: #57CC99;
+    text-align: center;
 }
