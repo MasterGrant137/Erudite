@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const songSeedsArr = [];
+const songSeeds = [];
 
 
 
@@ -35,9 +35,9 @@ const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visits, cov
 
     //$ media, visits, & cover art = raw
 
-    songSeedsArr.push(`{userID: ${1}, artist: "${artist}", title: "${title}", producer: "${producer}", body: \`${body}\`, media: \`${media}\`, visits: ${visits}, coverArt: "${coverArt}", createdAt: new Date(), updatedAt: new Date()}`)
+    songSeeds.push(`{userID: ${1}, artist: "${artist}", title: "${title}", producer: "|${producer}", body: \`${body}\`, media: \`${media}\`, visits: ${visits}, coverArt: "${coverArt}", createdAt: new Date(), updatedAt: new Date()}`)
 
-    fs.writeFile('./scraped-info.js', `${songSeedsArr}`, err => {
+    fs.writeFile('./song-seeds.js', `const songSeedsArray = [${songSeeds}]${'\n\n'}module.exports = { songSeedsArray };`, err => {
         if (err) {
             console.error(`A wild error has appeared in the bushes: ${err}`);
         } else {
@@ -46,4 +46,4 @@ const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visits, cov
     })
 }
 
-module.exports = { songSeeder, songSeedsArr };
+module.exports = { songSeeder };

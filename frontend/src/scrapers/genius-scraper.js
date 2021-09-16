@@ -9,7 +9,7 @@ const artist = 'System-of-a-Down'
 //? finding artist by ID
 // const url = `https://api.genius.com/artists/${id}/songs?per_page=10`;
 //? allowing for search by artist
-const url = `https://api.genius.com/search?per_page=2/`;
+const url = `https://api.genius.com/search?per_page=3/`;
 // const fltr = '/search?per_page=10&page=';
 
 // const searchUrl = `${url}${artist}`
