@@ -1,9 +1,12 @@
 const fs = require('fs');
+
+const songSeedsArr = [];
+
+
+
 // file seeder write route: '../../../backend/db/seeders/file-name'
-// final parameters: namesMetaStr, producerDivStr, bodyDivStr, mediaIFrameStr, visits, coverArt
-// js Seeding template: `const obj = \`{${body}}\``
-// dbEntry template: const dbEntry = `{${artist},${title},${producer},${body},${media},${visits},${coverArt}},`
-const f1Seeder = (visitsNum) => {
+
+const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visits, coverArt) => {
     //? regex tier 1
     const nbsp = /&nbsp;/g
     const amp = /&amp;/g
@@ -25,21 +28,22 @@ const f1Seeder = (visitsNum) => {
     const title = artistAndTitleArray[1];
 
     //? producer
-    const producer = producerDivStr.replace(lastAnchor, '').replace(closedAnchor, pipe).replace(anchorTxtRegex, '$4');
+    const producer = producerDivStr.replace(lastAnchor, '').replace(closedAnchor, pipe).replace(strayTagsRegex2, '$4');
 
     //? body
     const body = bodyDivStr.replace(brDivRegex, '\n').replace(amp, ampersand).replace(strayTagsRegex1, '$2');
 
-    //? media, visits, & cover art = raw
+    //$ media, visits, & cover art = raw
 
-    console.log(visitsNum);
-    fs.writeFile('./scraped-info.js', `{artist: "${artist}", title: "${title}", producer: "${producer}", body: \`${body}\`, media: "${media}", visits: ${visits}, coverArt: ${coverArt}},`, err => {
-        if (err) {
-            console.error(`A wild error has appeared in the bushes: ${err}`);
-        } else {
-            console.log('Successful scrape!');
-        }
-    })
+    songSeedsArr.push(`{artist: "${artist}", title: "${title}", producer: "${producer}", body: \`${body}\`, media: \`${media}\`, visits: ${visits}, coverArt: "${coverArt}", createdAt: newDate(), updatedAt: newDate()},`)
+
+    // fs.writeFile('./scraped-info.js', `${songSeedsArr}`, err => {
+    //     if (err) {
+    //         console.error(`A wild error has appeared in the bushes: ${err}`);
+    //     } else {
+    //         console.log('Successful scrape!');
+    //     }
+    // })
 }
 
-module.exports = { f1Seeder };
+module.exports = { songSeeder, songSeedsArr };
