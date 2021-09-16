@@ -41,14 +41,14 @@ const lyricsScraper = (artistSongsArr) => {
                 const html = pretty($.html());
 
                 const namesMeta = $('meta[property=og:title]').attr().content;
-                const producerDiv = $('.HeaderMetadata__Section-sc-1p42fnf-2').find('a')
+                const producerDiv = $('.HeaderMetadata__Section-sc-1p42fnf-2').find('a');
                 const bodyDiv = $('.Lyrics__Container-sc-1ynbvzw-8').each((idx, div) => $(div));
                 const mediaIFrame = $('.MusicVideo__Container-sc-1980jex-0').find('iFrame');
-                const pyongsSpan = $('.LabelWithIcon__Label-sc-1ri57wg-1').text();
+                const pyongsSpan = $('.LabelWithIcon__Label-sc-1ri57wg-1').get(3).children[0].data;
                 const coverArtMeta = $('meta[property=og:image]').attr('content');
-
+            
                 //? new Date().getTime() shows toString() to be as performant as interpolation
-                f1Seeder(pyongsSpan);
+                f1Seeder(`${pyongsSpan}`);
             })
             .catch(err => {
                 console.log(`End of the line error: ${err}`);

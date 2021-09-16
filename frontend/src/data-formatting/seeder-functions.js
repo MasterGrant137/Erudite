@@ -34,8 +34,8 @@ const f1Seeder = (visitsNum) => {
 
     //? media & cover art = raw
 
-// console.log(producer);
-    fs.writeFile('./scraped-info.js', `${visitsNum}`, err => {
+console.log(visitsNum);
+    fs.writeFile('./scraped-info.js', visitsNum, err => {
         if (err) {
             console.error(`A wild error has appeared in the bushes: ${err}`);
         } else {
