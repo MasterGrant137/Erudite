@@ -31,11 +31,11 @@ const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visits, cov
     let producer; if (producerDivStr) producer = producerDivStr.replace(lastAnchor, '').replace(closedAnchor, pipe).replace(strayTagsRegex2, '$4');
 
     //? body
-    let body; if (bodyDivStr) body = bodyDivStr.replace(brDivRegex, '\n').replace(amp, ampersand).replace(strayTagsRegex1, '$2');
+    let body; if (bodyDivStr) body = bodyDivStr.replace(brDivRegex, '\n').replace(amp, ampersand).replace(nbsp, space).replace(strayTagsRegex1, '$2');
 
     //$ media, visits, & cover art = raw
 
-    songSeeds.push(`{userID: ${1}, artist: "${artist}", title: "${title}", producer: "|${producer}", body: \`${body}\`, media: \`${media}\`, visits: ${visits}, coverArt: "${coverArt}", createdAt: new Date(), updatedAt: new Date()}`)
+    songSeeds.push(`{userID: ${1}, artist: "${artist}", title: "${title}", producer: "${producer ? pipe + producer : ''}", body: \`${body}\`, media: \`${media}\`, visits: ${visits}, coverArt: "${coverArt}", createdAt: new Date(), updatedAt: new Date()}`)
 
     fs.writeFile('./song-seeds.js', `const songSeedsArray = [${songSeeds}]${'\n\n'}module.exports = { songSeedsArray };`, err => {
         if (err) {

@@ -19,7 +19,7 @@ const HomePage = () => {
     }, [dispatch])
 
     const songDiv = Object.values(songs).map(song => (
-        <textarea key={song.id}>{song.body}</textarea>
+        <textarea key={song.id} value={song.body} />
     ))
 
     return (
