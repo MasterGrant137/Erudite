@@ -35,15 +35,15 @@ const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visits, cov
 
     //$ media, visits, & cover art = raw
 
-    songSeedsArr.push(`{artist: "${artist}", title: "${title}", producer: "${producer}", body: \`${body}\`, media: \`${media}\`, visits: ${visits}, coverArt: "${coverArt}", createdAt: newDate(), updatedAt: newDate()},`)
+    songSeedsArr.push(`{artist: "${artist}", title: "${title}", producer: "${producer}", body: \`${body}\`, media: \`${media}\`, visits: ${visits}, coverArt: "${coverArt}", createdAt: newDate(), updatedAt: newDate()}`)
 
-    // fs.writeFile('./scraped-info.js', `${songSeedsArr}`, err => {
-    //     if (err) {
-    //         console.error(`A wild error has appeared in the bushes: ${err}`);
-    //     } else {
-    //         console.log('Successful scrape!');
-    //     }
-    // })
+    fs.writeFile('./scraped-info.js', `${songSeedsArr}`, err => {
+        if (err) {
+            console.error(`A wild error has appeared in the bushes: ${err}`);
+        } else {
+            console.log('Successful scrape!');
+        }
+    })
 }
 
 module.exports = { songSeeder, songSeedsArr };
