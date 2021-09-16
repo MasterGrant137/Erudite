@@ -40,12 +40,15 @@ const lyricsScraper = (artistSongsArr) => {
                 const $ = cheerio.load(res.data);
                 const html = pretty($.html());
 
-                const titleMeta = $('meta[property=og:title]').attr().content;
+                const namesMeta = $('meta[property=og:title]').attr().content;
                 const producerDiv = $('.HeaderMetadata__Section-sc-1p42fnf-2').find('a')
-                const lyricsDiv = $('.Lyrics__Container-sc-1ynbvzw-8').each((idx, div) => $(div));
+                const bodyDiv = $('.Lyrics__Container-sc-1ynbvzw-8').each((idx, div) => $(div));
+                const mediaIFrame = $('.MusicVideo__Container-sc-1980jex-0').find('iFrame');
+
+                const artMeta
 
                 //? new Date().getTime() shows toString() to be as performant as interpolation
-                f1Seeder(`${producerDiv}`)
+                f1Seeder(`${mediaIFrame}`)
                 // f1Seeder(producerDiv)
             })
             .catch(err => {
