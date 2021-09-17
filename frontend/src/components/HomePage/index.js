@@ -14,15 +14,12 @@ const HomePage = () => {
         return state.songs;
     })
 
-    const [hidden, setHidden] = useState(true)
+    const [visibility, setVisibility] = useState('hidden-home-lyrics');
+    const [color, setColor] = useState(null);
 
     useEffect(() => {
         dispatch(homeSongs());
     }, [dispatch])
-
-    useEffect(() => {
-        setHidden(true);
-    }, [])
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
         <div key={song.media.replace(iframeRegex, '$2')}>
@@ -32,17 +29,23 @@ const HomePage = () => {
                 src={song.media.replace(iframeRegex,'$3')}
                 title={song.title}
                 allow='fullscreen'
+                onMouseOver={() => setVisibility('visible-home-lyrics')}
+                onMouseOver={() => setColor(color ? null : 'blueClass')}
+                onMouseOut={() => setColor(null)}
              />
-             <textarea id='home-lyrics' type='text' key={song.id} onHover={() => setHidden(false)} hidden={hidden} value={song.body} disabled />
+             <textarea id='visible-home-lyrics' type='text' key={song.id} value={song.body} disabled></textarea>
         </div>
     ));
 
 
     return (
         <div id='home-page-container'>
-            <div id='home-page-header'>Erudite</div>
-            <div id='song-visits-carousel'>Top Songs</div>
-            <div id='home-songs-container'>{songAndLyricsDiv}</div>
+            <div id='home-page-header' className={color}>Erudite</div>
+            <div id='song-visits-header'>Top Songs</div>
+            <div id='carousel-nav'><span>⬅️</span><span>➡️</span></div>
+            <div id='home-songs-container'>
+                {songAndLyricsDiv}
+            </div>
         </div>
     );
 }

@@ -1,32 +1,63 @@
 #home-page-container {
     color: #F1D4D4;
     display: grid;
-    justify-content: center;
     grid-template-areas:
     'a'
     'b';
+
+    justify-content: center;
+
+    animation: home-scroll 30s ease-in-out infinite alternate;
+    background-image: url('../../images/background-art.png');
+    border: 0.25vw solid #F1D4D4;
+    height: 90vh;
+    width: 100%;
+    overflow: hidden;
 }
 
 #home-page-header {
     font-size: 4vw;
     color: #57CC99;
     grid-area: 'a';
+    /* justify-content: center; */
+    text-align: center;
+}
+
+#carousel-nav {
+    display: flex;
+    justify-content: space-between;
 }
 
 #home-songs-container {
     height: 50vh;
-    width: 80vw;
-    overflow: hidden;
+    width: 100vw;
+    overflow-x: hidden;
     grid-area: 'b';
 
     display: flex;
-    justify-content: center;
 }
 
 #home-videos {
-    height: 100%;
+    height: 80%;
 }
 
-#home-lyrics {
-    display: block;
+#visible-home-lyrics {
+    height: 20%;
+    width: 100%;
+}
+
+#hidden-home-lyrics {
+    display: none;
+}
+
+.blueClass {
+    background-color: blue;
+}
+
+.redClass {
+    background-color: red;
+}
+
+@keyframes home-scroll {
+    100% { background-position-y: 100%; }
 }
