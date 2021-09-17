@@ -22,15 +22,15 @@ const HomePage = () => {
 
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
-        <div>
+        <div key={song.media.replace(iframeRegex, '$2')}>
             <iframe
-                key={song.id}
-                id={song.media.replace(iframeRegex, '$2')}
+                key={song.media.replace(iframeRegex, '$2')}
+                id='home-videos'
                 src={song.media.replace(iframeRegex,'$3')}
                 title={song.title}
                 allow='fullscreen'
              />
-             <p key={song.id}>{song.body}</p>
+             <textarea id='home-lyrics' type='text' key={song.id} value={song.body} disabled />
         </div>
     ));
 

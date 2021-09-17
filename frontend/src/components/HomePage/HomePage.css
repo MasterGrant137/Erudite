@@ -1,10 +1,10 @@
 #home-page-container {
     color: #F1D4D4;
     display: grid;
-    grid-template-columns: 1fr 5fr;
+    justify-content: center;
     grid-template-areas:
-    'a a a'
-    'b b b';
+    'a'
+    'b';
 }
 
 #home-page-header {
@@ -18,4 +18,16 @@
     width: 80vw;
     overflow: hidden;
     grid-area: 'b';
+
+    display: flex;
+    justify-content: center;
+}
+
+#home-videos {
+    height: 100%;
+
+}
+
+#home-lyrics {
+    display: block;
 }
