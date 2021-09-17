@@ -25,6 +25,7 @@ const HomePage = () => {
             id={song.media.replace(iframeRegex, '$2')}
             src={song.media.replace(iframeRegex,'$3')}
             title={song.title}
+            allow='fullscreen'
          />
     ))
 
