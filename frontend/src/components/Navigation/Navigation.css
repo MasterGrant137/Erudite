@@ -1,10 +1,14 @@
-.nav-link-container {
+#nav-links-ul {
+    padding: 0;
+}
+
+#nav-links-li {
+    width: 100%;
     list-style: none;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 1vw;
-    width: 100%;
 }
 
 .nav-links {
