@@ -7,6 +7,8 @@ import '../../auth.css';
 import { useEffect } from 'react';
 
 const HomePage = () => {
+    const iframeRegex= /(<iframe)|id="(.*?)"|src="(.*?)"|title="(.*?)"(><\/iframe>)/g
+
     const dispatch = useDispatch();
 
     const songs = useSelector(state => {
@@ -18,17 +20,24 @@ const HomePage = () => {
     }, [dispatch])
 
     const songDiv = Object.values(songs).map(song => (
-        <textarea key={song.id} value={song.body} />
+        <iframe
+            key={song.id}
+            id={song.media.replace(iframeRegex, '$2')}
+            src={song.media.replace(iframeRegex,'$3')}
+            title={song.title}
+         />
     ))
 
     return (
-        // <div className='home-page-container'>
-        //    <img src='https://images.genius.com/82646d80bd948c23d78cdf246798f9c8.640x480x1.jpg\' />
-        // </div>
         <div className='home-page-container'>
-        <div id='home-page-header'>Erudite</div>
-        <div id='songs-div'>{songDiv}</div>
-      </div>
+            <div id='home-page-header'>Erudite</div>
+            <div id='songs-div'>
+                {songDiv}
+            </div>
+            <div>
+            </div>
+
+        </div>
     );
 }
 
