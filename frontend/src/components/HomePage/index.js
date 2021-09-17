@@ -19,22 +19,26 @@ const HomePage = () => {
         dispatch(homeSongs())
     }, [dispatch])
 
-    const songIFrame = Object.values(songs).map(song => (
-        <iframe
-            key={song.id}
-            id={song.media.replace(iframeRegex, '$2')}
-            src={song.media.replace(iframeRegex,'$3')}
-            title={song.title}
-            allow='fullscreen'
-         />
+
+
+    const songAndLyricsDiv = Object.values(songs).map(song => (
+        <div>
+            <iframe
+                key={song.id}
+                id={song.media.replace(iframeRegex, '$2')}
+                src={song.media.replace(iframeRegex,'$3')}
+                title={song.title}
+                allow='fullscreen'
+             />
+             <p key={song.id}>{song.body}</p>
+        </div>
     ));
 
-    
 
     return (
         <div id='home-page-container'>
             <div id='home-page-header'>Erudite</div>
-            <div id='home-songs-container'>{songIFrame}</div>
+            <div id='home-songs-container'>{songAndLyricsDiv}</div>
         </div>
     );
 }
