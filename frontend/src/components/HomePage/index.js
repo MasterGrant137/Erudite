@@ -60,12 +60,14 @@ const HomePage = () => {
 
     return (
         <div id='home-page-container'>
-            <div id='home-headers-container'>
-                <div id='home-page-header'>Erudite</div>
-                <div id='song-visits-header'>Top Songs</div>
-            </div>
-            <div id='home-carousel'>
-                {songAndLyricsDiv}
+            <div id='background-color-wrapper'>
+                <div id='home-headers-container'>
+                    <div id='home-page-header'>Erudite</div>
+                    <div id='song-visits-header'>Top Songs</div>
+                </div>
+                <div id='home-carousel'>
+                    {songAndLyricsDiv}
+                </div>
             </div>
         </div>
     );
