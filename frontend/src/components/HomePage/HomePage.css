@@ -36,6 +36,7 @@
     height: 50vh;
     width: 100%;
     overflow-x: scroll;
+    overflow-y: visible;
     grid-area: 'b';
     justify-content: left;
     display: flex;
@@ -45,25 +46,29 @@
     display: none;
 }
 
-#home-videos {
+#home-video {
     height: 80%;
-}
-
-#visible-home-lyrics {
-    height: 20%;
-    width: 100%;
+    margin-bottom: -1vh;
 }
 
 #hidden-home-lyrics {
     display: none;
 }
 
-.blueClass {
-    background-color: blue;
+#visible-home-lyrics {
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    height: 20%;
+    width: 100%;
+    background-color: rgba(241, 212, 212, 0.8);
+    transition: height 2s;
 }
 
-.redClass {
-    background-color: red;
+#visible-home-lyrics:hover {
+    height: 30%;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #57CC99;
 }
 
 @keyframes home-scroll {
