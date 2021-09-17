@@ -44,8 +44,7 @@ const HomePage = () => {
                 <div id='home-page-header' className={color}>Erudite</div>
                 <div id='song-visits-header'>Top Songs</div>
             </div>
-            <div id='carousel-nav'><span>⬅️</span><span>➡️</span></div>
-            <div id='home-songs-container'>
+            <div id='home-carousel'>
                 {songAndLyricsDiv}
             </div>
         </div>

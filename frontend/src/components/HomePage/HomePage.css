@@ -4,14 +4,12 @@
     grid-template-areas:
     'a'
     'b';
-
     justify-content: center;
 
     animation: home-scroll 30s ease-in-out infinite alternate;
     background-image: url('../../images/background-art.png');
     border: 0.25vw solid #F1D4D4;
     height: 90vh;
-    /* width: 100%; */
     overflow: hidden;
 }
 
@@ -34,18 +32,17 @@
     text-align: center;
 }
 
-#carousel-nav {
+#home-carousel {
+    height: 50vh;
+    width: 100%;
+    overflow-x: scroll;
+    grid-area: 'b';
+    justify-content: left;
     display: flex;
-    justify-content: space-between;
 }
 
-#home-songs-container {
-    height: 50vh;
-    width: 100vw;
-    overflow-x: hidden;
-    grid-area: 'b';
-
-    display: flex;
+::-webkit-scrollbar {
+    display: none;
 }
 
 #home-videos {
