@@ -19,7 +19,7 @@ const HomePage = () => {
         dispatch(homeSongs())
     }, [dispatch])
 
-    const songDiv = Object.values(songs).map(song => (
+    const songIFrame = Object.values(songs).map(song => (
         <iframe
             key={song.id}
             id={song.media.replace(iframeRegex, '$2')}
@@ -27,17 +27,14 @@ const HomePage = () => {
             title={song.title}
             allow='fullscreen'
          />
-    ))
+    ));
+
+    
 
     return (
-        <div className='home-page-container'>
+        <div id='home-page-container'>
             <div id='home-page-header'>Erudite</div>
-            <div id='songs-div'>
-                {songDiv}
-            </div>
-            <div>
-            </div>
-
+            <div id='home-songs-container'>{songIFrame}</div>
         </div>
     );
 }

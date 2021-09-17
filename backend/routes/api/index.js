@@ -3,6 +3,7 @@ const sessionRouter = require('./session.js');
 const usersRouter = require('./users.js');
 const songsRouter = require('./songs.js')
 
+//? prefixes every file's route with its respective name
 router.use('/session', sessionRouter);
 router.use('/songs', songsRouter);
 router.use('/users', usersRouter);

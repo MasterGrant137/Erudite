@@ -1,6 +1,7 @@
 const router = require('express').Router();
 const apiRouter = require('./api');
 
+//? prefixes all routes with erudite
 router.use('/erudite', apiRouter);
 
 if (process.env.NODE_ENV === 'production') {

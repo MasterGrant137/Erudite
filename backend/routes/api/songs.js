@@ -8,9 +8,10 @@ const { Song } = require('../../db/models');
 router.get('/', asyncHandler(async(req, res) => {
     const songs = await Song.findAll({
         order: [
-            ['visits', 'DESC']
+            ['visits', 'DESC'],
+
         ],
-        limit: 10
+        limit: 20
     });
     return res.json(songs);
 }))

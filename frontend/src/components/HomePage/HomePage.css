@@ -1,11 +1,21 @@
-.home-page-container {
+#home-page-container {
     color: #F1D4D4;
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-template-areas:
+    'a a a'
+    'b b b';
 }
 
 #home-page-header {
     font-size: 4vw;
-    width: 100vw;
-    margin: 0;
     color: #57CC99;
-    text-align: center;
+    grid-area: 'a';
+}
+
+#home-songs-container {
+    height: 50vh;
+    width: 80vw;
+    overflow: hidden;
+    grid-area: 'b';
 }
