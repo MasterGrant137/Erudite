@@ -4,6 +4,7 @@
     justify-content: center;
     align-items: center;
     gap: 1vw;
+    width: 100%;
 }
 
 .nav-links {

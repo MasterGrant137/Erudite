@@ -40,8 +40,10 @@ const HomePage = () => {
 
     return (
         <div id='home-page-container'>
-            <div id='home-page-header' className={color}>Erudite</div>
-            <div id='song-visits-header'>Top Songs</div>
+            <div id='home-headers-container'>
+                <div id='home-page-header' className={color}>Erudite</div>
+                <div id='song-visits-header'>Top Songs</div>
+            </div>
             <div id='carousel-nav'><span>⬅️</span><span>➡️</span></div>
             <div id='home-songs-container'>
                 {songAndLyricsDiv}

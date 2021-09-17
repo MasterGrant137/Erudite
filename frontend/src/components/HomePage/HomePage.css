@@ -11,15 +11,26 @@
     background-image: url('../../images/background-art.png');
     border: 0.25vw solid #F1D4D4;
     height: 90vh;
-    width: 100%;
+    /* width: 100%; */
     overflow: hidden;
+}
+
+#home-headers-container {
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    grid-area: 'a';
 }
 
 #home-page-header {
     font-size: 4vw;
     color: #57CC99;
-    grid-area: 'a';
-    /* justify-content: center; */
+    text-align: center;
+}
+
+#song-visits-header {
+    font-size: 1.5vw;
+    color: #57CC99;
     text-align: center;
 }
 
