@@ -38,7 +38,8 @@ const HomePage = () => {
                 value={song.body}
                 onMouseOver={() => setVisibility('visible-home-lyrics')}
                 onMouseOut={() => setVisibility('hidden-home-lyrics')}
-                disabled />
+                disabled
+                />
         </div>
     ));
 

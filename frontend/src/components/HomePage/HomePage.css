@@ -33,7 +33,7 @@
 }
 
 #home-carousel {
-    height: 50vh;
+    height: 80vh;
     width: 100%;
     overflow-x: scroll;
     overflow-y: visible;
@@ -47,8 +47,13 @@
 }
 
 #home-video {
-    height: 80%;
-    margin-bottom: -1vh;
+    height: 60vh;
+    margin-bottom: -0.60vh;
+    transition: height 1.5s;
+}
+
+#home-video:hover {
+    height: 40vh;
 }
 
 #hidden-home-lyrics {
@@ -59,14 +64,14 @@
     margin: 0;
     padding: 0;
     cursor: pointer;
-    height: 20%;
+    height: 10vh;
     width: 100%;
     background-color: rgba(241, 212, 212, 0.8);
-    transition: height 2s;
+    transition: height 1.5s;
 }
 
 #visible-home-lyrics:hover {
-    height: 30%;
+    height: 40vh;
     background-color: rgba(0, 0, 0, 0.9);
     color: #57CC99;
 }
