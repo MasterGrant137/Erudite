@@ -15,6 +15,7 @@ const HomePage = () => {
     })
 
     const [visibility, setVisibility] = useState('hidden-home-lyrics');
+    const [size, setSize] = useState('big-home-video')
 
     useEffect(() => {
         dispatch(homeSongs());
@@ -24,20 +25,33 @@ const HomePage = () => {
         <div key={song.media.replace(iframeRegex, '$2')}>
             <iframe
                 key={song.media.replace(iframeRegex, '$2')}
-                id='home-video'
+                id={size}
+                className='home-video'
                 src={song.media.replace(iframeRegex,'$3')}
                 title={song.title}
                 allow='fullscreen'
-                onMouseOver={() => setVisibility('visible-home-lyrics')}
-                onMouseOut={() => setVisibility('hidden-home-lyrics')}
+                onMouseOver={() => {
+                    setVisibility('visible-home-lyrics');
+                    setSize('small-home-video');
+                }}
+                onMouseOut={() => {
+                    setVisibility('hidden-home-lyrics');
+                    setSize('big-home-video');
+                }}
              />
              <textarea
                 id={visibility}
                 type='text'
                 key={song.id}
                 value={song.body}
-                onMouseOver={() => setVisibility('visible-home-lyrics')}
-                onMouseOut={() => setVisibility('hidden-home-lyrics')}
+                onMouseOver={() => {
+                    setVisibility('visible-home-lyrics');
+                    setSize('small-home-video');
+                }}
+                onMouseOut={() => {
+                    setVisibility('hidden-home-lyrics');
+                    setSize('big-home-video')
+                }}
                 disabled
                 />
         </div>

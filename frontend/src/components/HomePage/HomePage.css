@@ -46,13 +46,16 @@
     display: none;
 }
 
-#home-video {
-    height: 60vh;
+.home-video {
     margin-bottom: -0.60vh;
     transition: height 1.5s;
 }
 
-#home-video:hover {
+#big-home-video {
+    height: 60vh;
+}
+
+#small-home-video {
     height: 40vh;
 }
 
