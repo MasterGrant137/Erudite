@@ -14,29 +14,28 @@
 }
 
 #home-headers-container {
+    cursor: default;
     width: 100%;
     display: grid;
     justify-content: center;
     grid-area: 'a';
+    color: #57CC99;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
 #home-page-header {
     font-size: 4vw;
-    color: #57CC99;
-    text-align: center;
 }
 
 #song-visits-header {
     font-size: 1.5vw;
-    color: #57CC99;
-    text-align: center;
 }
 
 #home-carousel {
     height: 80vh;
     width: 100%;
     overflow-x: scroll;
-    overflow-y: visible;
     grid-area: 'b';
     justify-content: left;
     display: flex;
@@ -67,14 +66,14 @@
     margin: 0;
     padding: 0;
     cursor: pointer;
-    height: 10vh;
+    height: 12%;
     width: 100%;
     background-color: rgba(241, 212, 212, 0.8);
     transition: height 1.5s;
 }
 
 #visible-home-lyrics:hover {
-    height: 40vh;
+    height: 50%;
     background-color: rgba(0, 0, 0, 0.9);
     color: #57CC99;
 }
