@@ -15,6 +15,7 @@
 
 #background-color-wrapper {
     background-color: rgba(0, 0, 0, 0.6);
+    overflow-x: scroll;
 }
 
 #home-headers-container {
@@ -38,7 +39,6 @@
 #home-carousel {
     height: 80vh;
     width: 100%;
-    overflow-x: scroll;
     grid-area: 'b';
     justify-content: left;
     display: flex;

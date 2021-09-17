@@ -21,6 +21,7 @@ function App() {
         <Switch>
           <Route path="/login"><LoginFormPage /></Route>
           <Route path="/signup"><SignupFormPage /></Route>
+          <Route path="/songs/:songID"></Route>
           <Route path='/'><HomePage /></Route>
         </Switch>
       )}

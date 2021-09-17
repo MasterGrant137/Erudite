@@ -11,6 +11,11 @@ router.get('/', asyncHandler(async(req, res) => {
         limit: 20
     });
     return res.json(songs);
+}));
+
+router.get('/:id(\\d+)', asyncHandler(async(req, res) => {
+    let { term } = req.query;
+    return term;
 }))
 
 module.exports = router;
