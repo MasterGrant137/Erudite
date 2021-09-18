@@ -40,6 +40,7 @@ const LoginFormPage = () => {
                 onChange={(e) => setCredential(e.target.value)}
                 required
                 placeholder='username or email'
+                aria-label='username or email'
               />
               <input
                 type="password"
@@ -47,6 +48,7 @@ const LoginFormPage = () => {
                 onChange={(e) => setPassword(e.target.value)}
                 required
                 placeholder='password'
+                aria-label='password'
               />
             <button type="submit">Log In</button>
           </form>

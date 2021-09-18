@@ -36,6 +36,7 @@ function SignupFormPage() {
                     </ul>
                     <input
                         placeholder='email'
+                        aria-label='email'
                         type='email'
                         value={email}
                         onChange={(e) => setEmail(e.target.value)}
@@ -43,12 +44,14 @@ function SignupFormPage() {
                     />
                     <input
                         placeholder='username'
+                        aria-label='username'
                         value={username}
                         onChange={(e) => setUsername(e.target.value)}
                         required
                     />
                     <input
                         placeholder='password'
+                        aria-label='password'
                         type='password'
                         value={password}
                         onChange={(e) => setPassword(e.target.value)}
@@ -56,6 +59,7 @@ function SignupFormPage() {
                     />
                     <input
                         placeholder='confirm password'
+                        aria-label='confirm password'
                         type='password'
                         value={confirmPassword}
                         onChange={(e) => setConfirmPassword(e.target.value)}

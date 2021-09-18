@@ -1,4 +1,3 @@
-
 const SEARCH_SONGS = 'songs/searchSongs';
 
 const initialState = {};
@@ -13,12 +12,11 @@ const searchSongs = (queries) => {
 
 //? thunks
 export const queriedSongs = () => async dispatch => {
-    // const titleRegex = '/:id(\\d+)';
-    // const titleRegex = '1';
-    const response = await fetch(`erudite/songs/breakthrough`);
+    // const query = /:id(\\d+)/;
+    const response = await fetch(`erudite/songs/:query`);
     if (response.ok) {
-        const queries = await response.json();
-        dispatch(searchSongs(queries));
+        const results = await response.json();
+        dispatch(searchSongs(results));
     }
 }
 

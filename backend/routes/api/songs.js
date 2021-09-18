@@ -14,7 +14,7 @@ router.get('/', asyncHandler(async(req, res) => {
     return res.json(songs);
 }));
 
-router.get('/breakthrough', asyncHandler(async(req, res) => {
+router.get('/', asyncHandler(async(req, res) => {
     const songs = await Song.findAll()
 
     return res.json(songs);
