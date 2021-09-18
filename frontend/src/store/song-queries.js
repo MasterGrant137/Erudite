@@ -26,8 +26,8 @@ const queriedSongsReducer = (state = initialState, action) => {
         case SEARCH_SONGS: {
             const queryResults = {};
 
-            action.songs.forEach(song => {
-                queryResults[song.id] = song;
+            action.queries.forEach(query => {
+                queryResults[query.id] = query;
             })
             return {...state,...queryResults};
         }

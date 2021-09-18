@@ -22,13 +22,7 @@ const ProfileButton = ({ user, query, setQuery, activePage }) => {
 
     const onSubmit = (e) => {
       e.preventDefault();
-      // console.log(`This is after submit: ${query}`);
-      // const searchInput = e.target.children[0];
-      // const searchInputID = searchInput.id;
-      // let query = searchInput.value;
-      // console.log(query);
-      // history.push(`search/${query}`)
-      // setQuery(e.target.value)
+
       console.log(`then I'm hit with this as a query: ${query} and this as a value: ${e.target.value}`);
       console.log(`furthermore, this is window.location: ${window.location} and origin: ${window.origin}`);
 
@@ -45,16 +39,6 @@ const ProfileButton = ({ user, query, setQuery, activePage }) => {
     dispatch(sessionActions.logout());
   };
 
-//   <form
-//   action='/'
-//   method='get'
-//   autoComplete='off'
-//   onSubmit={onSubmit}
-// />
-
-// onChange={(e) => setQuery(e.target.value)}
-
-// onClick={handleXClick}
   return (
     <>
       <button onClick={!showMenu ? () => setShowMenu(true) : () => setShowMenu(false)} id='nav-menu-reveal-btn'>🏡</button>

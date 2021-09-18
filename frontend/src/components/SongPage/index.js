@@ -13,15 +13,22 @@ const SongPage = () => {
     }, [dispatch])
 
     const songs = useSelector(state => {
-        console.log(state);
+        console.log(`THIS IS STATE.QUERIES: ${state}`);
         return state.queries
     });
 
-    console.log(`${songs} ARE HERE`);
+
+    // const results = songs.map(song => (
+    //     <div>
+    //         {song.title}
+    //     </div>
+    // ))
+
+    console.log(`${songs} is songs on SongPage index.js`);
 
     return (
-        <div>
-            Alive
+        <div id='song-page-container'>
+            I'm ALIVE
         </div>
     )
 
