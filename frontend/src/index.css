@@ -39,3 +39,7 @@ form {
 input[type='text'] {
     color: black;
 }
+
+::-webkit-search-cancel-button {
+    cursor: pointer;
+}

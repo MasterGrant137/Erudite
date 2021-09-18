@@ -1,23 +1,35 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { useDispatch } from 'react-redux';
-import { useHistory, useParams } from "react-router-dom";
 import * as sessionActions from '../../store/session';
 
-function ProfileButton({ user }) {
-  const history = useHistory();
-  const { query } = useParams();
+const ProfileButton = ({ user, query, setQuery, activePage }) => {
   const dispatch = useDispatch();
   const [showMenu, setShowMenu] = useState(false);
-
-  const onSubmit = (e) => {
-    e.preventDefault();
-    history.push(`?s=${query}`)
+  const handleXClick = () => {
+    setQuery('');
   }
+
+  // const onSubmit = (e) => {
+  //   e.preventDefault();
+  //   const searchInput = e.target.children[0];
+  //   const searchInputID = searchInput.id;
+  //   let query = searchInput.value;
+  //   // history.push(`erudite/songs/?=${query}`)
+  //   // query = '';
+  // }
 
   const logout = (e) => {
     e.preventDefault();
     dispatch(sessionActions.logout());
   };
+
+//   <form
+//   action='/'
+//   method='get'
+//   autoComplete='off'
+//   onSubmit={onSubmit}
+// />
+
 
   return (
     <>
@@ -27,13 +39,9 @@ function ProfileButton({ user }) {
           <li>{user.username}</li>
           <li>{user.email}</li>
           <li>
-            <form
-              action='/'
-              method='get'
-              autoComplete='off'
-              onSubmit={onSubmit}
-            >
-              <input type='search'></input>
+            <form>
+              <button onClick={handleXClick}>X</button>
+              <input type='search' value={query} onChange={(e) => setQuery(e.target.value)} />
             </form>
           </li>
           <li><button onClick={logout}>Log Out</button></li>

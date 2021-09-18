@@ -12,8 +12,7 @@ const searchSongs = (queries) => {
 
 //? thunks
 export const queriedSongs = () => async dispatch => {
-    // const query = /:id(\\d+)/;
-    const response = await fetch(`erudite/songs/:query`);
+    const response = await fetch(`erudite/songs/search`);
     if (response.ok) {
         const results = await response.json();
         dispatch(searchSongs(results));

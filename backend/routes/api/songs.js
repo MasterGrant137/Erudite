@@ -14,8 +14,10 @@ router.get('/', asyncHandler(async(req, res) => {
     return res.json(songs);
 }));
 
-router.get('/', asyncHandler(async(req, res) => {
-    const songs = await Song.findAll()
+router.get('/search', asyncHandler(async(req, res) => {
+    const songs = await Song.findAll({
+        limit: 1
+    })
 
     return res.json(songs);
 }))
