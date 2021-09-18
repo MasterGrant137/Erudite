@@ -5,6 +5,7 @@ import LoginFormPage from './components/LoginFormPage';
 import SignupFormPage from './components/SignupFormPage';
 import Navigation from "./components/Navigation";
 import HomePage from './components/HomePage';
+import SongPage from './components/SongPage';
 import * as sessionActions from './store/session';
 
 function App() {
@@ -19,9 +20,9 @@ function App() {
       <Navigation isLoaded={isLoaded} />
       {isLoaded && (
         <Switch>
+          <Route path="/songs"><SongPage /></Route>
           <Route path="/login"><LoginFormPage /></Route>
           <Route path="/signup"><SignupFormPage /></Route>
-          <Route path="/songs/:songID"></Route>
           <Route path='/'><HomePage /></Route>
         </Switch>
       )}

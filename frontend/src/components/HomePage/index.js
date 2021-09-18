@@ -10,6 +10,10 @@ const HomePage = () => {
     const dispatch = useDispatch();
     const iframeRegex= /(<iframe)|id="(.*?)"|src="(.*?)"|title="(.*?)"(><\/iframe>)/g
 
+    useEffect(() => {
+        dispatch(homeSongs());
+    }, [dispatch])
+
     const songs = useSelector(state => {
         return state.songs;
     })
@@ -17,9 +21,6 @@ const HomePage = () => {
     const [visibility, setVisibility] = useState('hidden-home-lyrics');
     const [size, setSize] = useState('big-home-video')
 
-    useEffect(() => {
-        dispatch(homeSongs());
-    }, [dispatch])
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
         <div key={song.media.replace(iframeRegex, '$2')}>
@@ -56,7 +57,6 @@ const HomePage = () => {
                 />
         </div>
     ));
-
 
     return (
         <div id='home-page-container'>

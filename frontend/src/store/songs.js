@@ -1,7 +1,6 @@
 import { csrfFetch } from './csrf';
 
 const GET_SONGS = 'songs/getSongs';
-const SEARCH_SONGS = 'songs/searchSongs';
 
 const initialState = {};
 
@@ -13,28 +12,12 @@ const getSongs = (songs) => {
     };
 };
 
-const searchSongs = (query) => {
-    return {
-        type: SEARCH_SONGS,
-        query
-    }
-}
-
 //? thunks
 export const homeSongs = () => async dispatch => {
     const response = await fetch(`/erudite/songs/`);
     if (response.ok) {
         const songs = await response.json();
         dispatch(getSongs(songs));
-    }
-}
-
-export const queriedSongs = () => async dispatch => {
-    const titleRegex = '/:id(\\d+)';
-    const response = await fetch(`erudite/songs/${titleRegex}`);
-    if (response.ok) {
-        const songs = await response.json();
-        dispatch(searchSongs(songs));
     }
 }
 
@@ -45,8 +28,8 @@ const songReducer = (state = initialState, action) => {
         case GET_SONGS: {
             const newSongs = {};
 
-            action.songs.forEach(ele => {
-                newSongs[ele.id] = ele;
+            action.songs.forEach(song => {
+                newSongs[song.id] = song;
             })
 
             return {...state,...newSongs};
