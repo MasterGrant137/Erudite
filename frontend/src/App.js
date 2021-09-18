@@ -20,7 +20,7 @@ function App() {
       <Navigation isLoaded={isLoaded} />
       {isLoaded && (
         <Switch>
-          <Route path="/songs/:query"><SongPage /></Route>
+          <Route path="/search"><SongPage /></Route>
           <Route path="/login"><LoginFormPage /></Route>
           <Route path="/signup"><SignupFormPage /></Route>
           <Route path='/'><HomePage /></Route>

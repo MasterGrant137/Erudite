@@ -13,14 +13,15 @@ const SongPage = () => {
     }, [dispatch])
 
     const songs = useSelector(state => {
-        console.log(state.queries);
+        console.log(state);
         return state.queries
     });
 
+    console.log(`${songs} ARE HERE`);
 
     return (
         <div>
-            I'm alive
+            Alive
         </div>
     )
 

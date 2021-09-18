@@ -1,22 +1,35 @@
 import React, { useState } from "react";
 import { useDispatch } from 'react-redux';
+import { useHistory } from "react-router-dom";
 import * as sessionActions from '../../store/session';
 
 const ProfileButton = ({ user, query, setQuery, activePage }) => {
+  const history = useHistory();
   const dispatch = useDispatch();
   const [showMenu, setShowMenu] = useState(false);
+
   const handleXClick = () => {
+    console.log(`THIS IS BEFORE ERASURE: ${query}`);
     setQuery('');
   }
 
-  // const onSubmit = (e) => {
-  //   e.preventDefault();
-  //   const searchInput = e.target.children[0];
-  //   const searchInputID = searchInput.id;
-  //   let query = searchInput.value;
-  //   // history.push(`erudite/songs/?=${query}`)
-  //   // query = '';
-  // }
+  const handleInputChange = (e) => {
+    console.log(`THIS IS RIGHT AFTER CHANGE: ${e.target.value}`);
+    e.preventDefault();
+    setQuery(e.target.value);
+  }
+
+  const onSubmit = (e) => {
+    e.preventDefault();
+    // console.log(`This is after submit: ${query}`);
+    // const searchInput = e.target.children[0];
+    // const searchInputID = searchInput.id;
+    // let query = searchInput.value;
+    // console.log(query);
+    // history.push(`search/${query}`)
+    // setQuery(e.target.value)
+    history.push(e.target.value)
+  }
 
   const logout = (e) => {
     e.preventDefault();
@@ -30,7 +43,7 @@ const ProfileButton = ({ user, query, setQuery, activePage }) => {
 //   onSubmit={onSubmit}
 // />
 
-
+// onChange={(e) => setQuery(e.target.value)}
   return (
     <>
       <button onClick={!showMenu ? () => setShowMenu(true) : () => setShowMenu(false)} id='nav-menu-reveal-btn'>🏡</button>
@@ -39,9 +52,13 @@ const ProfileButton = ({ user, query, setQuery, activePage }) => {
           <li>{user.username}</li>
           <li>{user.email}</li>
           <li>
-            <form>
+            <form method='GET' onSubmit={onSubmit}>
               <button onClick={handleXClick}>X</button>
-              <input type='search' value={query} onChange={(e) => setQuery(e.target.value)} />
+              <input
+                type='search'
+                value={query}
+                onChange={handleInputChange}
+                />
             </form>
           </li>
           <li><button onClick={logout}>Log Out</button></li>
