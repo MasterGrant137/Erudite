@@ -8,28 +8,37 @@ const ProfileButton = ({ user, query, setQuery, activePage }) => {
   const dispatch = useDispatch();
   const [showMenu, setShowMenu] = useState(false);
 
-  const handleXClick = () => {
-    console.log(`THIS IS BEFORE ERASURE: ${query}`);
-    setQuery('');
-  }
 
-  const handleInputChange = (e) => {
-    console.log(`THIS IS RIGHT AFTER CHANGE: ${e.target.value}`);
-    e.preventDefault();
-    setQuery(e.target.value);
-  }
+  // const handleXClick = () => {
+    //   console.log(`THIS IS BEFORE ERASURE: ${query}`);
+    //   setQuery('');
+    // }
 
-  const onSubmit = (e) => {
-    e.preventDefault();
-    // console.log(`This is after submit: ${query}`);
-    // const searchInput = e.target.children[0];
-    // const searchInputID = searchInput.id;
-    // let query = searchInput.value;
-    // console.log(query);
-    // history.push(`search/${query}`)
-    // setQuery(e.target.value)
-    history.push(e.target.value)
-  }
+    const handleInputChange = (e) => {
+      console.log(`THIS IS RIGHT AFTER CHANGE: ${e.target.value}`);
+      e.preventDefault();
+      setQuery(e.target.value);
+    }
+
+    const onSubmit = (e) => {
+      e.preventDefault();
+      // console.log(`This is after submit: ${query}`);
+      // const searchInput = e.target.children[0];
+      // const searchInputID = searchInput.id;
+      // let query = searchInput.value;
+      // console.log(query);
+      // history.push(`search/${query}`)
+      // setQuery(e.target.value)
+      console.log(`then I'm hit with this as a query: ${query} and this as a value: ${e.target.value}`);
+      console.log(`furthermore, this is window.location: ${window.location} and origin: ${window.origin}`);
+
+      if (`${window.location}`.includes('/search')) {
+        history.push(`${query}`)
+      } else if (!`${window.location}`.includes('/search')) {
+        history.push(`search/${query}`)
+      }
+    }
+
 
   const logout = (e) => {
     e.preventDefault();
@@ -44,6 +53,8 @@ const ProfileButton = ({ user, query, setQuery, activePage }) => {
 // />
 
 // onChange={(e) => setQuery(e.target.value)}
+
+// onClick={handleXClick}
   return (
     <>
       <button onClick={!showMenu ? () => setShowMenu(true) : () => setShowMenu(false)} id='nav-menu-reveal-btn'>🏡</button>
@@ -53,7 +64,7 @@ const ProfileButton = ({ user, query, setQuery, activePage }) => {
           <li>{user.email}</li>
           <li>
             <form method='GET' onSubmit={onSubmit}>
-              <button onClick={handleXClick}>X</button>
+              <button>X</button>
               <input
                 type='search'
                 value={query}
