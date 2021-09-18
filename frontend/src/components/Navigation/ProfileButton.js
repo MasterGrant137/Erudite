@@ -9,10 +9,10 @@ const ProfileButton = ({ user, query, setQuery, activePage }) => {
   const [showMenu, setShowMenu] = useState(false);
 
 
-  // const handleXClick = () => {
-    //   console.log(`THIS IS BEFORE ERASURE: ${query}`);
-    //   setQuery('');
-    // }
+  const handleXClick = () => {
+      console.log(`THIS IS BEFORE ERASURE: ${query}`);
+      setQuery('');
+    }
 
     const handleInputChange = (e) => {
       console.log(`THIS IS RIGHT AFTER CHANGE: ${e.target.value}`);
@@ -64,7 +64,7 @@ const ProfileButton = ({ user, query, setQuery, activePage }) => {
           <li>{user.email}</li>
           <li>
             <form method='GET' onSubmit={onSubmit}>
-              <button>X</button>
+              <button onClick={handleXClick} type='button'>X</button>
               <input
                 type='search'
                 value={query}
