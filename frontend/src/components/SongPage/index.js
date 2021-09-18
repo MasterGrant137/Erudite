@@ -1,10 +1,13 @@
 import React from 'react'
 import '../../song.css'
+import { Heading } from '../Heading'
+import { SongsList } from '../SongsList'
 
 export const SongPage = () => {
     return (
         <div className='song-page-container'>
-            <h1>Song Page</h1>
+            <Heading />
+            < SongsList />
         </div>
     )
 }
