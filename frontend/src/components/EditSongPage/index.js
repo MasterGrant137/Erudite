@@ -1,12 +1,12 @@
 import React from 'react'
 import '../../song.css'
 
-export const SongPage = () => {
+export const EditSong = () => {
     return (
         <div className='song-page-container'>
-            <h1>Song Page</h1>
+            <h1>Edit Song</h1>
         </div>
     )
 }
 
-export default SongPage;
+export default EditSong;
