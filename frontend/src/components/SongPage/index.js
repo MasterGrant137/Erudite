@@ -1,15 +1,17 @@
 import './SongPage.css'
-import { queriedSongs } from '../../store/song-queries';
+import { getSongs } from '../../store/songs.js'
 import { useDispatch, useSelector } from 'react-redux';
 import '../../auth.css';
 import { useEffect, useState } from 'react';
+import { useParams } from 'react-router-dom';
 
 
 const SongPage = () => {
     const dispatch = useDispatch();
+    const { id } = useParams();
 
     useEffect(() => {
-        dispatch(queriedSongs())
+        dispatch(getSongs())
     }, [dispatch])
 
     const songs = useSelector(state => {
