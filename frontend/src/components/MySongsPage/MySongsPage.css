@@ -17,6 +17,7 @@
 #mySongs-bg-color-wrapper {
     background-color: rgba(0, 0, 0, 0.6);
     overflow-x: scroll;
+    height: 100vh;
 }
 
 #mySongs-headers-container {
@@ -59,6 +60,11 @@
     margin: 0 2vw;
 }
 
+#mySongs-input-form {
+    height: 100%;
+    width: 100%;
+}
+
 #mySongs-lyrics-field {
     height: 100%;
     width: 100%;
@@ -81,7 +87,8 @@
     padding: 0;
     cursor: pointer;
     height: 12%;
-    width: 100%;
+    width: 25vw;
+    margin: 0 2vw;
     background-color: rgba(241, 212, 212, 0.8);
     transition: height 1.5s;
 }

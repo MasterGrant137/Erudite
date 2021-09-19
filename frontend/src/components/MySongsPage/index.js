@@ -15,8 +15,8 @@ export const MySongsPage = () => {
         return state.songs;
     })
 
-    const [visibility, setVisibility] = useState('hidden-mySongs-lyrics');
-    const [size, setSize] = useState('big-mySongs-video')
+    const [visibility, setVisibility] = useState('hidden-mySongs-info');
+    const [size, setSize] = useState('big-mySongs-lyrics')
 
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
@@ -25,8 +25,6 @@ export const MySongsPage = () => {
                 key={song.media.replace(iframeRegex, '$2')}
                 id={size}
                 className='mySongs-lyrics'
-                title={song.title}
-                allow='fullscreen'
                 onMouseOver={() => {
                     setVisibility('visible-mySongs-info');
                     setSize('small-mySongs-lyrics');
@@ -36,8 +34,14 @@ export const MySongsPage = () => {
                     setSize('big-mySongs-lyrics');
                 }}
             >
-                <h1>{song.title}</h1>
-                <textarea id='mySongs-lyrics-field'>{song.body}</textarea>
+                <form id='mySongs-input-form'>
+                    <input id='mySongs-song-title' value={song.title} />
+                    <input id='mySongs-song-artist' value={song.artist} />
+                    <input id='mySongs-song-producer' value={song.producer} />
+                    <input id='mySongs-song-media' value={song.media} />
+                    <span>Visits: {`${song.visits}`}</span>
+                    <textarea id='mySongs-lyrics-field'>{song.body}</textarea>
+                </form>
              </div>
              <textarea
                 id={visibility}
