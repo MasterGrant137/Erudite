@@ -1,5 +1,7 @@
+import { set } from 'js-cookie';
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
+import { NavLink } from 'react-router-dom';
 import { mySongs } from '../../store/songs';
 import './MySongsPage.css'
 
@@ -17,14 +19,11 @@ export const MySongsPage = () => {
 
     const [visibility, setVisibility] = useState('hidden-mySongs-info');
     const [size, setSize] = useState('big-mySongs-lyrics');
-    const [disabled, setDisabled] = useState(true);
-    const [buttonText, setButtonText] = useState('Edit');
-    const [buttonType, setButtonType] = useState('button')
 
     const onSubmit = (e) => {
         e.preventDefault();
 
-
+        
     }
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
@@ -42,23 +41,14 @@ export const MySongsPage = () => {
                     setSize('big-mySongs-lyrics');
                 }}
             >
-                <form id='mySongs-input-form' onSubmit={onSubmit}>
-                    <input id='mySongs-song-title' value={song.title} />
-                    <input id='mySongs-song-artist' value={song.artist} />
-                    <input id='mySongs-song-producer' value={song.producer} />
-                    <input id='mySongs-song-media' value={song.media} />
-                    <button
-                        type={buttonType}
-                        onClick={() => {
-                            setDisabled(false)
-                            setButtonText('Submit')
-                            setButtonType('submit')
-                        }}>
-                        {buttonText}
-                    </button>
-                    <button>Cancel</button>
-                    <textarea id='mySongs-lyrics-field' value={song.body} disabled={disabled}/>
-                </form>
+                    <input id='mySongs-song-title' value={song.title} disabled/>
+                    <input id='mySongs-song-artist' value={song.artist} disabled/>
+                    <input id='mySongs-song-producer' value={song.producer} disabled/>
+                    <input id='mySongs-song-media' value={song.media} disabled/>
+                    <input id='mySongs-song-coverArt' value={song.coverArt} disabled/>
+
+                    <NavLink to={`/edit/${song.id}`}>Edit</NavLink>
+                    <textarea id='mySongs-lyrics-field' value={song.body} disabled/>
              </div>
              <div
                 id={visibility}

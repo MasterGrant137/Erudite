@@ -1,23 +1,18 @@
-import React, { useState, useEffect } from 'react';
-import { Link, Redirect, useParams } from 'react-router-dom'
-import { useDispatch, useSelector } from 'react-redux';
+import React, { useState } from 'react';
+import { Link } from 'react-router-dom'
+import { useDispatch } from 'react-redux';
 import '../../song.css'
 import './AddSongPage.css'
 import * as queryActions from '../../store/queries';
 
 export const AddSong = () => {
     const dispatch = useDispatch();
-    const songObject = useSelector((state) => state.song);
-    const { id } = useParams();
     const [artist, setArtist] = useState('');
     const [title, setTitle] = useState('');
     const [producer, setProducer] = useState('');
     const [body, setBody] = useState('');
     const [media, setMedia] = useState('');
     const [coverArt, setCoverArt] = useState('');
-
-    // useEffect(() => {
-    // }, [dispatch, artist, title, producer, body, media, coverArt])
 
     const handleSubmit = (e) =>{
         e.preventDefault();

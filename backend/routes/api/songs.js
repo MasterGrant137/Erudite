@@ -55,13 +55,41 @@ router.post('/', submissionValidation, asyncHandler(async(req, res) => {
         coverArt
     });
 
-    // const {id} = createdSong;
-    // const song = await Song.findByPk(id, {
-    //     include: User
-    // });
     res.json(createdSong);
 }))
 
+router.patch('/:id/edit', submissionValidation, asyncHandler(async(req, res) => {
+    const jwtToken = req.cookies.token;
+    const base64UserID = jwtToken.split('.')[1].replace('-', '+').replace('_', '/');
+    const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));
+    const userID = parsedUserInfo.data.id;
+
+    const songObj = {
+                      songID,
+                      artist,
+                      title,
+                      producer,
+                      body,
+                      media,
+                      coverArt
+                    } = req.body;
+
+    const song = await Song.findByPk(songObj.songID);
+
+
+    song.artist = artist;
+    song.title = title;
+    song.producer = producer;
+    song.body = body;
+    song.media = media;
+    song.coverArt = coverArt;
+
+    song.save();
+
+    const editedSong = await Song.findByPk(songObj.songID);
+
+    res.json(editedSong);
+}))
 
 // router.get('/my-songs/:id', asyncHandler(async(req, res) => {
 //     const songs = await Song.findAll({

@@ -14,8 +14,6 @@ router.get('/', asyncHandler(async(req, res) => {
     const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));
     const userID = parsedUserInfo.data.id;
 
-    console.log('below is req.body');
-    console.log(req.cookies.token);
     const songs = await Song.findAll({
         where: {
             userID

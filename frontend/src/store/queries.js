@@ -20,14 +20,21 @@ export const newSong = (song) => async dispatch => {
   // const { artist, title, producer, body, media, coverArt } = song;
   const response = await csrfFetch('/erudite/songs', {
     method: 'POST',
-    // body: JSON.stringify({
-    //   artist,
-    //   title,
-    //   producer,
-    //   body,
-    //   media,
-    //   coverArt
-    // }),
+    body: JSON.stringify(song)
+  });
+
+  if (response.ok) {
+    const newSong = await response.json();
+    dispatch(setSong(newSong));
+    return newSong;
+  }
+}
+
+export const editSong = (song) => async dispatch => {
+  // const { artist, title, producer, body, media, coverArt } = song;
+  console.log(song);
+  const response = await csrfFetch(`/erudite/songs/${song.id}/edit`, {
+    method: 'PATCH',
     body: JSON.stringify(song)
   });
 
