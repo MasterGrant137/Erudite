@@ -21,35 +21,34 @@ export const MySongsPage = () => {
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
         <div key={song.media.replace(iframeRegex, '$2')}>
-            <div
+            <iframe
                 key={song.media.replace(iframeRegex, '$2')}
                 id={size}
-                className='mySongs-lyrics'
+                className='mySongs-video'
+                src={song.media.replace(iframeRegex,'$3')}
                 title={song.title}
                 allow='fullscreen'
                 onMouseOver={() => {
-                    setVisibility('visible-mySongs-info');
-                    setSize('small-mySongs-lyrics');
+                    setVisibility('visible-mySongs-lyrics');
+                    setSize('small-mySongs-video');
                 }}
                 onMouseOut={() => {
-                    setVisibility('hidden-mySongs-info');
-                    setSize('big-mySongs-lyrics');
+                    setVisibility('hidden-mySongs-lyrics');
+                    setSize('big-mySongs-video');
                 }}
-            >
-                {song.body}
-             </div>
+             />
              <textarea
                 id={visibility}
                 type='text'
                 key={song.id}
                 value={song.body}
                 onMouseOver={() => {
-                    setVisibility('visible-mySongs-info');
-                    setSize('small-mySongs-lyrics');
+                    setVisibility('visible-mySongs-lyrics');
+                    setSize('small-mySongs-video');
                 }}
                 onMouseOut={() => {
-                    setVisibility('hidden-mySongs-info');
-                    setSize('big-mySongs-lyrics')
+                    setVisibility('hidden-mySongs-lyrics');
+                    setSize('big-mySongs-video')
                 }}
                 disabled
                 />
@@ -58,10 +57,10 @@ export const MySongsPage = () => {
 
     return (
         <div id='mySongs-page-container'>
-            <div id='mySongs-bg-color-wrapper'>
+            <div id='background-color-wrapper'>
                 <div id='mySongs-headers-container'>
                     <div id='mySongs-page-header'>Erudite</div>
-                    <div id='mySongs-header'>My Songs</div>
+                    <div id='song-visits-header'>My Songs</div>
                 </div>
                 <div id='mySongs-carousel'>
                     {songAndLyricsDiv}

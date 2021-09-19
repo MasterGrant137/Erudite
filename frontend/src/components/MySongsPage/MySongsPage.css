@@ -1,0 +1,89 @@
+#mySongs-page-container {
+    color: #F1D4D4;
+    display: grid;
+    grid-template-areas:
+    'a'
+    'b';
+    justify-content: center;
+    grid-gap: 1vw;
+
+    animation: mySongs-scroll 30s ease-in-out infinite alternate;
+    background-image: url('../../images/background-art.png');
+    border: 0.25vw solid #F1D4D4;
+    height: 90vh;
+    overflow: hidden;
+}
+
+#mySongs-bg-color-wrapper {
+    background-color: rgba(0, 0, 0, 0.6);
+    overflow-x: scroll;
+}
+
+#mySongs-headers-container {
+    cursor: default;
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    grid-area: 'a';
+    color: #57CC99;
+    text-align: center;
+}
+
+#mySongs-page-header {
+    font-size: 4vw;
+}
+
+#mySongs-header {
+    font-size: 1.5vw;
+}
+
+#mySongs-carousel {
+    height: 80vh;
+    width: 100%;
+    grid-area: 'b';
+    justify-content: left;
+    display: flex;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.mySongs-lyrics {
+    background-color: red;
+    overflow-y: auto;
+    transition: height 1.5s;
+    width: 15vw;
+}
+
+#big-mySongs-lyrics {
+    height: 60vh;
+}
+
+#small-mySongs-lyrics {
+    height: 40vh;
+}
+
+#hidden-mySongs-info {
+    display: none;
+}
+
+#visible-mySongs-info {
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    height: 12%;
+    width: 100%;
+    background-color: rgba(241, 212, 212, 0.8);
+    transition: height 1.5s;
+}
+
+#visible-mySongs-info:hover {
+    height: 50%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #57CC99;
+}
+
+@keyframes mySongs-scroll {
+    100% { background-position-y: 100%; }
+}
