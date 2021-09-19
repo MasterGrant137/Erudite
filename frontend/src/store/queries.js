@@ -3,75 +3,78 @@ import { csrfFetch } from './csrf';
 const SET_SONG = 'queries/setUser';
 const REMOVE_SONG = 'queries/removeUser';
 
-const setUser = (song) => {
+const setSong = (song) => {
   return {
     type: SET_SONG,
     payload: song,
   };
 };
 
-const removeUser = () => {
-  return {
-    type: REMOVE_SONG,
-  };
-};
+// const removeSong = () => {
+//   return {
+//     type: REMOVE_SONG,
+//   };
+// };
 
 export const newSong = (song) => async dispatch => {
-  const { artist, title, producer, body, media, coverArt } = user;
+  const { artist, title, producer, body, media, coverArt } = song;
   const response = await csrfFetch('/erudite/songs', {
     method: 'POST',
     body: JSON.stringify({
-      username,
-      password,
-      email
+      artist,
+      title,
+      producer,
+      body,
+      media,
+      coverArt
     }),
   });
   const data = await response.json();
-  dispatch(setUser(data.user));
+  dispatch(setSong(data.song));
   return response;
 }
 
-export const login = (user) => async dispatch => {
-  const { credential, password } = user;
-  const response = await csrfFetch('/erudite/session', {
-    method: 'POST',
-    body: JSON.stringify({
-      credential,
-      password,
-    }),
-  });
-  const data = await response.json();
-  dispatch(setUser(data.user));
-  return response;
-};
+// export const login = (user) => async dispatch => {
+//   const { credential, password } = user;
+//   const response = await csrfFetch('/erudite/session', {
+//     method: 'POST',
+//     body: JSON.stringify({
+//       credential,
+//       password,
+//     }),
+//   });
+//   const data = await response.json();
+//   dispatch(setUser(data.user));
+//   return response;
+// };
 
-export const logout = () => async (dispatch) => {
-  const response = await csrfFetch('/erudite/session', {
-    method: 'DELETE',
-  });
-  dispatch(removeUser());
-  return response;
-};
+// export const logout = () => async (dispatch) => {
+//   const response = await csrfFetch('/erudite/session', {
+//     method: 'DELETE',
+//   });
+//   dispatch(removeUser());
+//   return response;
+// };
 
-export const restoreUser = () => async dispatch => {
-  const response = await csrfFetch('/erudite/session');
-  const data = await response.json();
-  dispatch(setUser(data.user));
-  return response;
-}
+// export const restoreUser = () => async dispatch => {
+//   const response = await csrfFetch('/erudite/session');
+//   const data = await response.json();
+//   dispatch(setUser(data.user));
+//   return response;
+// }
 
-const initialState = { user: null };
+const initialState = { song: null };
 
 const sessionReducer = (state = initialState, action) => {
   let newState;
   switch (action.type) {
-    case SET_USER:
+    case SET_SONG:
       newState = Object.assign({}, state);
-      newState.user = action.payload;
+      newState.song = action.payload;
       return newState;
-    case REMOVE_USER:
+    case REMOVE_SONG:
       newState = Object.assign({}, state);
-      newState.user = null;
+      newState.song = null;
       return newState;
     default:
       return state;
