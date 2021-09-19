@@ -16,8 +16,16 @@ export const MySongsPage = () => {
     })
 
     const [visibility, setVisibility] = useState('hidden-mySongs-info');
-    const [size, setSize] = useState('big-mySongs-lyrics')
+    const [size, setSize] = useState('big-mySongs-lyrics');
+    const [disabled, setDisabled] = useState(true);
+    const [buttonText, setButtonText] = useState('Edit');
+    const [buttonType, setButtonType] = useState('button')
 
+    const onSubmit = (e) => {
+        e.preventDefault();
+
+
+    }
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
         <div key={song.media.replace(iframeRegex, '$2')}>
@@ -34,20 +42,27 @@ export const MySongsPage = () => {
                     setSize('big-mySongs-lyrics');
                 }}
             >
-                <form id='mySongs-input-form'>
+                <form id='mySongs-input-form' onSubmit={onSubmit}>
                     <input id='mySongs-song-title' value={song.title} />
                     <input id='mySongs-song-artist' value={song.artist} />
                     <input id='mySongs-song-producer' value={song.producer} />
                     <input id='mySongs-song-media' value={song.media} />
-                    <span>Visits: {`${song.visits}`}</span>
-                    <textarea id='mySongs-lyrics-field'>{song.body}</textarea>
+                    <button
+                        type={buttonType}
+                        onClick={() => {
+                            setDisabled(false)
+                            setButtonText('Submit')
+                            setButtonType('submit')
+                        }}>
+                        {buttonText}
+                    </button>
+                    <button>Cancel</button>
+                    <textarea id='mySongs-lyrics-field' value={song.body} disabled={disabled}/>
                 </form>
              </div>
-             <textarea
+             <div
                 id={visibility}
-                key={song.id}
-                value={song.body}
-                onMouseOver={() => {
+                 onMouseOver={() => {
                     setVisibility('visible-mySongs-info');
                     setSize('small-mySongs-lyrics');
                 }}
@@ -55,8 +70,11 @@ export const MySongsPage = () => {
                     setVisibility('hidden-mySongs-info');
                     setSize('big-mySongs-lyrics')
                 }}
-                disabled
-                />
+             >
+                <span>Visits: {`${song.visits}`}</span> <br />
+                <span>Created: {`${song.createdAt}`}</span> <br />
+                <span>Updated: {`${song.updatedAt}`}</span>
+                </div>
         </div>
     ));
 

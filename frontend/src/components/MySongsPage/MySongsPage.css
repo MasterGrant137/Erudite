@@ -54,7 +54,7 @@
     cursor: context-menu;
     background-color: rgba(241, 212, 212, 0.75);
     overflow-y: auto;
-    transition: height 1.5s;
+    transition: height 1.5s 1s;
     width: 25vw;
     color: black;
     margin: 0 2vw;
