@@ -14,7 +14,7 @@ const getSongs = (songs) => {
 
 //? thunks
 export const homeSongs = () => async dispatch => {
-    const response = await fetch(`/erudite/songs/`);
+    const response = await fetch(`/erudite/songs`);
     if (response.ok) {
         const songs = await response.json();
         dispatch(getSongs(songs));

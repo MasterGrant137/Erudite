@@ -10,7 +10,7 @@ export const EditSong = () => {
                 <textarea
                     placeholder='Edit'
                     id='lyrics-container'
-                    aria-label='Add Song Here'
+                    aria-label='Edit Song'
                 />
                 <button>Edit</button>
                 <Link to='/' className='cancel-btn'><button>Cancel</button></Link>
