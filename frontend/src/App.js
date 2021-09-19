@@ -7,6 +7,7 @@ import Navigation from "./components/Navigation";
 import HomePage from './components/HomePage';
 import SongPage from './components/SongPage';
 import AddSong from './components/AddSongPage';
+import MySongsPage  from './components/MySongsPage';
 import EditSong from './components/EditSongPage';
 import * as sessionActions from './store/session';
 
@@ -23,6 +24,7 @@ function App() {
       {isLoaded && (
         <Switch>
           <Route exact path='/'><HomePage /></Route>
+          <Route path='/my-songs'><MySongsPage /></Route>
           <Route path='/songs'><SongPage /></Route>
           <Route path='/add'><AddSong /></Route>
           <Route path='/edit/:id'><EditSong /></Route>

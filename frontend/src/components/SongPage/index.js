@@ -1,11 +1,11 @@
 import React from 'react'
 import '../../song.css'
-import { SongsList } from '../SongsList'
+import { MySongsPage } from '../MySongsPage'
 
 export const SongPage = () => {
     return (
         <div className='song-page-container'>
-            < SongsList />
+            < MySongsPage />
         </div>
     )
 }

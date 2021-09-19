@@ -46,7 +46,7 @@ const ProfileButton = ({ user, query, setQuery, activePage }) => {
         <ul className="profile-dropdown">
           <li>{user.username} | {user.email}</li>
           <li><Link to='/add'><button>Add Song</button></Link></li>
-          <li><Link to='/songs'><button>My Songs</button></Link></li>
+          <li><Link to='/my-songs'><button>My Songs</button></Link></li>
           <li>
             <form method='GET' onSubmit={onSubmit}>
               <button onClick={handleXClick} type='button'>X</button>

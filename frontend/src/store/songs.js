@@ -21,6 +21,14 @@ export const homeSongs = () => async dispatch => {
     }
 }
 
+export const mySongs = () => async dispatch => {
+    const response = await fetch(`/erudite/my-songs`);
+    if (response.ok) {
+        const songs = await response.json();
+        dispatch(getSongs(songs));
+    }
+}
+
 //? reducer
 const songReducer = (state = initialState, action) => {
 

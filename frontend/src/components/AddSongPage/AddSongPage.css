@@ -1,67 +1,18 @@
-.song-page-container {
-
-}
-
-#add-song-header {
-    /* grid-area: 'a'; */
-}
-
 #add-song-form {
     display: flex;
     flex-direction: column;
+}
 
-    /* grid-template-areas:
-    'a b'
-    'a c'
-    'a d'
-    'a e'
-    'a f'
-    'a f' */
-/*
-    grid-template-areas:
-    'a b'
-    'a b'
-    'a c'
-    'a d'
-    'a e'
-    'a f'
-    'g h'; */
-
-    /* grid-template-areas:
-    'a'
-    'b'
-    'c'
-    'd'
-    'e'
-    'f'
-    'g'; */
-
+#add-song-form > input, #add-song-lyrics {
+    background-color: black;
+    color: #57CC99;
+    font-size: 1.5vw;
 }
 
 #add-song-lyrics {
     resize: none;
-
     height: 50vh;
-}
-
-#add-song-artist {
-
-}
-
-#add-song-title {
-
-}
-
-#add-song-producer {
-
-}
-
-#add-song-media {
-
-}
-
-#add-song-art {
-
+    /* color: #57CC99; */
 }
 
 #song-page-submit:hover {

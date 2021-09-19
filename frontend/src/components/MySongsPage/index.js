@@ -1,15 +1,15 @@
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { homeSongs } from '../../store/songs';
-import '../../auth.css';
-import './HomePage.css'
+import { mySongs } from '../../store/songs';
+import '../../auth.css'
+import './MySongsPage.css'
 
-const HomePage = () => {
+export const MySongsPage = () => {
     const dispatch = useDispatch();
     const iframeRegex= /(<iframe)|id="(.*?)"|src="(.*?)"|title="(.*?)"(><\/iframe>)/g
 
     useEffect(() => {
-        dispatch(homeSongs());
+        dispatch(mySongs());
     }, [dispatch])
 
     const songs = useSelector(state => {
@@ -71,4 +71,4 @@ const HomePage = () => {
     );
 }
 
-export default HomePage;
+export default MySongsPage;
