@@ -1,7 +1,7 @@
 import { csrfFetch } from './csrf';
 
-const SET_SONG = 'queries/setUser';
-const REMOVE_SONG = 'queries/removeUser';
+const SET_SONG = 'queries/setSong';
+const REMOVE_SONG = 'queries/removeSong';
 
 const setSong = (song) => {
   return {
@@ -17,21 +17,25 @@ const setSong = (song) => {
 // };
 
 export const newSong = (song) => async dispatch => {
-  const { artist, title, producer, body, media, coverArt } = song;
+  // const { artist, title, producer, body, media, coverArt } = song;
   const response = await csrfFetch('/erudite/songs', {
     method: 'POST',
-    body: JSON.stringify({
-      artist,
-      title,
-      producer,
-      body,
-      media,
-      coverArt
-    }),
+    // body: JSON.stringify({
+    //   artist,
+    //   title,
+    //   producer,
+    //   body,
+    //   media,
+    //   coverArt
+    // }),
+    body: JSON.stringify(song)
   });
-  const data = await response.json();
-  dispatch(setSong(data.song));
-  return response;
+
+  if (response.ok) {
+    const newSong = await response.json();
+    dispatch(setSong(newSong));
+    return newSong;
+  }
 }
 
 // export const login = (user) => async dispatch => {
@@ -65,7 +69,7 @@ export const newSong = (song) => async dispatch => {
 
 const initialState = { song: null };
 
-const sessionReducer = (state = initialState, action) => {
+const addSongReducer = (state = initialState, action) => {
   let newState;
   switch (action.type) {
     case SET_SONG:
@@ -81,7 +85,7 @@ const sessionReducer = (state = initialState, action) => {
   }
 };
 
-export default sessionReducer;
+export default addSongReducer;
 
 
 

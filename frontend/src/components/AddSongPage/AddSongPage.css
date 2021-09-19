@@ -1,0 +1,80 @@
+.song-page-container {
+
+}
+
+#add-song-header {
+    /* grid-area: 'a'; */
+}
+
+#add-song-form {
+    display: flex;
+    flex-direction: column;
+
+    /* grid-template-areas:
+    'a b'
+    'a c'
+    'a d'
+    'a e'
+    'a f'
+    'a f' */
+/*
+    grid-template-areas:
+    'a b'
+    'a b'
+    'a c'
+    'a d'
+    'a e'
+    'a f'
+    'g h'; */
+
+    /* grid-template-areas:
+    'a'
+    'b'
+    'c'
+    'd'
+    'e'
+    'f'
+    'g'; */
+
+}
+
+#add-song-lyrics {
+    resize: none;
+
+    height: 50vh;
+}
+
+#add-song-artist {
+
+}
+
+#add-song-title {
+
+}
+
+#add-song-producer {
+
+}
+
+#add-song-media {
+
+}
+
+#add-song-art {
+
+}
+
+#song-page-submit:hover {
+    color: black;
+    background-color: #57CC99;
+}
+
+#song-page-cancel-link {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+#song-page-cancel-btn:hover {
+    background-color: #22577A;
+}

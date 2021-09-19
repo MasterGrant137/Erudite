@@ -23,7 +23,7 @@ function App() {
       {isLoaded && (
         <Switch>
           <Route exact path='/'><HomePage /></Route>
-          <Route path='/my-songs'><SongPage /></Route>
+          <Route path='/songs'><SongPage /></Route>
           <Route path='/add'><AddSong /></Route>
           <Route path='/edit/:id'><EditSong /></Route>
           <Route path='/login'><LoginFormPage /></Route>
