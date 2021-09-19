@@ -40,7 +40,6 @@ const HomePage = () => {
              />
              <textarea
                 id={visibility}
-                type='text'
                 key={song.id}
                 value={song.body}
                 onMouseOver={() => {

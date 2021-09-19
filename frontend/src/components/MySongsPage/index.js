@@ -36,11 +36,11 @@ export const MySongsPage = () => {
                     setSize('big-mySongs-lyrics');
                 }}
             >
-                {song.body}
+                <h1>{song.title}</h1>
+                <textarea id='mySongs-lyrics-field'>{song.body}</textarea>
              </div>
              <textarea
                 id={visibility}
-                type='text'
                 key={song.id}
                 value={song.body}
                 onMouseOver={() => {

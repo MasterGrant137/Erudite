@@ -50,10 +50,18 @@
 }
 
 .mySongs-lyrics {
-    background-color: red;
+    cursor: context-menu;
+    background-color: rgba(241, 212, 212, 0.75);
     overflow-y: auto;
     transition: height 1.5s;
-    width: 15vw;
+    width: 25vw;
+    color: black;
+    margin: 0 2vw;
+}
+
+#mySongs-lyrics-field {
+    height: 100%;
+    width: 100%;
 }
 
 #big-mySongs-lyrics {
