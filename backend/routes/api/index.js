@@ -8,7 +8,7 @@ const mySongsRouter = require('./mySongs');
 router.use('/session', sessionRouter);
 router.use('/songs', songsRouter);
 router.use('/users', usersRouter);
-router.use('my-songs', mySongsRouter);
+router.use('/my-songs', mySongsRouter);
 
 //? for frontend and backend route testing
 // router.post('/test', (req, res) => {

@@ -9,9 +9,17 @@ const { setTokenCookie, requireAuth } = require('../../utils/auth');
 const { Song, Comment, Index, Annotation } = require('../../db/models');
 
 router.get('/', asyncHandler(async(req, res) => {
+    const jwtToken = req.cookies.token;
+    const base64UserID = jwtToken.split('.')[1].replace('-', '+').replace('_', '/');
+    const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));
+    const userID = parsedUserInfo.data.id;
+
+    console.log('below is req.body');
+    console.log(req.cookies.token);
     const songs = await Song.findAll({
-        order: [['visits', 'DESC']],
-        limit: 20
+        where: {
+            userID
+        }
     });
     return res.json(songs);
 }));
