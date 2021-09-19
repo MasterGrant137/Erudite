@@ -31,6 +31,11 @@ router.get('/', asyncHandler(async(req, res) => {
 
 
 router.post('/', submissionValidation, asyncHandler(async(req, res) => {
+    const jwtToken = req.cookies.token;
+    const base64UserID = jwtToken.split('.')[1].replace('-', '+').replace('_', '/');
+    const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));
+    const userID = parsedUserInfo.data.id;
+
     const {
             artist,
             title,
@@ -40,7 +45,8 @@ router.post('/', submissionValidation, asyncHandler(async(req, res) => {
             coverArt
           } = req.body;
 
-    const createdSong = await Comment.create({
+    const createdSong = await Song.create({
+        userID,
         artist,
         title,
         producer,
@@ -49,11 +55,11 @@ router.post('/', submissionValidation, asyncHandler(async(req, res) => {
         coverArt
     });
 
-    const {id} = createdSong;
-    const song = await Song.findByPk(id, {
-        include: User
-    });
-    res.json(song);
+    // const {id} = createdSong;
+    // const song = await Song.findByPk(id, {
+    //     include: User
+    // });
+    res.json(createdSong);
 }))
 
 

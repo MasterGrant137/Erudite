@@ -2,7 +2,6 @@ import { csrfFetch } from './csrf';
 
 const GET_SONGS = 'songs/getSongs';
 
-const initialState = {};
 
 //? action creators
 const getSongs = (songs) => {
@@ -28,6 +27,8 @@ export const mySongs = () => async dispatch => {
         dispatch(getSongs(songs));
     }
 }
+
+const initialState = {};
 
 //? reducer
 const songReducer = (state = initialState, action) => {
