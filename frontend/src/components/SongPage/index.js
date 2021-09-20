@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams } from 'react-router-dom';
 import { songPage } from '../../store/songs';
+import * as queryActions from '../../store/queries';
 import './SongPage.css'
 
 export const SongPage = () => {
@@ -23,7 +24,11 @@ export const SongPage = () => {
     })
 
     const handleSubmit = async(e) => {
-        
+        e.preventDefault();
+
+        const title = songParams.title;
+
+        await dispatch(queryActions.addComment({ title, body }))
     }
 
     const song = Object.values(songSelector)[0];
@@ -48,9 +53,8 @@ export const SongPage = () => {
                                 value={body}
                                 onChange={(e) => setBody(e.target.value)}
                                 required
-                            >
-
-                            </textarea>
+                            />
+                            <button type='submit'>Submit</button>
                         </form>
                     </div>
                          <textarea

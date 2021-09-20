@@ -3,12 +3,14 @@ const sessionRouter = require('./session.js');
 const usersRouter = require('./users.js');
 const songsRouter = require('./songs.js');
 const mySongsRouter = require('./mySongs');
+const commentsRouter = require('./comments')
 
 //? prefixes every file's route with its respective directory name
 router.use('/session', sessionRouter);
 router.use('/users', usersRouter);
 router.use('/songs', songsRouter);
 router.use('/my-songs', mySongsRouter);
+router.use('/comments', commentsRouter);
 
 //? for frontend and backend route testing
 // router.post('/test', (req, res) => {

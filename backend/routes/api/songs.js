@@ -37,7 +37,6 @@ router.get('/:title/lyrics', asyncHandler(async(req, res) => {
                 title
             }
         });
-        console.log(`THIS IS SONGS IN API`,songs);
         return res.json(songs);
 }))
 

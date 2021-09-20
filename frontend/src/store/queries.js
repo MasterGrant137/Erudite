@@ -17,7 +17,6 @@ const setSong = (song) => {
 // };
 
 export const newSong = (song) => async dispatch => {
-  // const { artist, title, producer, body, media, coverArt } = song;
   const response = await csrfFetch('/erudite/songs', {
     method: 'POST',
     body: JSON.stringify(song)
@@ -44,7 +43,9 @@ export const editSong = (song) => async dispatch => {
 }
 
 export const addComment = (comment) => async dispatch => {
-  const response = await csrfFetch(`erudite/songs/${comment.songID}/comments`, {
+  console.log(`THIS IS THE COMMENT IN QUERY STORE`,comment.title);
+// `erudite/songs/${comment.title}/comments`
+  const response = await csrfFetch(`/erudite/comments`, {
     method: 'POST',
     body: JSON.stringify(comment)
   });
