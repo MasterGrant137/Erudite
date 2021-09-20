@@ -37,6 +37,14 @@ export const songPage = (title) => async dispatch => {
     }
 }
 
+export const getComments = (title) => async dispatch => {
+    const response = await fetch(`/erudite/comments/${title}`);
+    if (response.ok) {
+        const comments = await response.json();
+        dispatch(getSongs(comments));
+    }
+}
+
 const initialState = {};
 
 //? reducer

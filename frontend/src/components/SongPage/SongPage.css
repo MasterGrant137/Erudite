@@ -54,6 +54,10 @@
 #sp-comments-container {
     grid-area: 'c';
     text-align: center;
+
+}
+
+#sp-comments-holder {
     
 }
 

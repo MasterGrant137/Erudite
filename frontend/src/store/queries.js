@@ -10,11 +10,11 @@ const setSong = (song) => {
   };
 };
 
-// const removeSong = () => {
-//   return {
-//     type: REMOVE_SONG,
-//   };
-// };
+const removeSong = () => {
+  return {
+    type: REMOVE_SONG,
+  };
+};
 
 export const newSong = (song) => async dispatch => {
   const response = await csrfFetch('/erudite/songs', {
@@ -42,9 +42,18 @@ export const editSong = (song) => async dispatch => {
   }
 }
 
+export const deleteSong = (id) => async dispatch => {
+  console.log(`THIS IS THE ID`,id);
+
+  const response = await csrfFetch(`/erudite/songs/${id}`, {
+    method: 'DELETE',
+  });
+    const data = await response.json();
+    dispatch(removeSong(data))
+    return data;
+  }
+
 export const addComment = (comment) => async dispatch => {
-  console.log(`THIS IS THE COMMENT IN QUERY STORE`,comment.title);
-// `erudite/songs/${comment.title}/comments`
   const response = await csrfFetch(`/erudite/comments`, {
     method: 'POST',
     body: JSON.stringify(comment)

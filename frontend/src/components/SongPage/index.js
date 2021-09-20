@@ -19,6 +19,13 @@ export const SongPage = () => {
         dispatch(songPage(songParams.title));
     }, [dispatch])
 
+
+    useEffect(() => {
+        console.log(songParams.title);
+        dispatch(queryActions.addComment(songParams.title))
+    }, [dispatch])
+
+
     const songSelector = useSelector(state => {
         return state.songs;
     })
@@ -41,10 +48,7 @@ export const SongPage = () => {
                     <span id='song-page-title'>{song?.title}</span>
                 </div>
                 <div id='sp-inner-container'>
-                    <div
-                        id='sp-comments-container'
-                    >
-
+                    <div id='sp-comments-container'>
                         <form id='add-comment-form' onSubmit={handleSubmit}>
                             <textarea
                                 placeholder='comment'
@@ -56,6 +60,9 @@ export const SongPage = () => {
                             />
                             <button type='submit'>Submit</button>
                         </form>
+                        <div id='sp-comments-holder'>
+
+                        </div>
                     </div>
                          <textarea
                              id='song-page-lyrics'

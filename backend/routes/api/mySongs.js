@@ -22,6 +22,41 @@ router.get('/', asyncHandler(async(req, res) => {
     return res.json(songs);
 }));
 
+router.delete('/:id', asyncHandler(async(req, res) => {
+    const jwtToken = req.cookies.token;
+    const base64UserID = jwtToken.split('.')[1].replace('-', '+').replace('_', '/');
+    const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));
+    const userID = parsedUserInfo.data.id;
+
+    // const { songID } = req.body
+  //  const songs =
+    //  await Song.findAll({
+    //     where: {
+    //         songID
+    //     }
+    // });
+
+    console.log(`THIS IS THE REQ`, req);
+    const song = await Song.findByPk(req.params.id)
+//const songKiller =
+    await Song.destroy({
+        where: {
+            id:song.id
+        }
+    });
+
+    // if (userID === songs[0].userID) {
+
+
+
+    // }
+
+
+    return res.json({
+        message: 'success'
+    });
+}));
+
 
 
 module.exports = router;

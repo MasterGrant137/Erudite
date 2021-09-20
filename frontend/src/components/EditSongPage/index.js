@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams, useHistory } from 'react-router-dom';
-import { editSong } from '../../store/queries';
+import { editSong, deleteSong } from '../../store/queries';
 import { mySongs } from '../../store/songs';
 import './EditSongPage.css'
 
@@ -43,6 +43,15 @@ export const EditSongPage = () => {
         history.push('/my-songs');
     }
 
+    const handleDelete = async(e) => {
+        e.preventDefault();
+        const songID = songParams.id;
+
+        const dispatched = dispatch(deleteSong(songID));
+        console.log(dispatched);
+        return dispatched;
+    }
+
     return (
         <div id='mySongs-page-container'>
             <div id='mySongs-bg-color-wrapper'>
@@ -73,6 +82,9 @@ export const EditSongPage = () => {
                             <input id='mySongs-song-coverArt' onChange={(e) => setCoverArt(e.target.value)} value={coverArt} />
                             <button type='submit'>Submit</button>
                             <textarea id='mySongs-lyrics-field' onChange={(e) => setBody(e.target.value)} value={body} />
+                        </form>
+                        <form onSubmit={handleDelete}>
+                            <button type='submit'>Delete Song</button>
                         </form>
                     </div>
                         <div

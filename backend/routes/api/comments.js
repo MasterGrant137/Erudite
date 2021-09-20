@@ -14,6 +14,24 @@ const submissionValidation = [
     .withMessage('Please include text.'),
 ]
 
+
+router.get('/', asyncHandler(async(req, res) => {
+    const jwtToken = req.cookies.token;
+    const base64UserID = jwtToken.split('.')[1].replace('-', '+').replace('_', '/');
+    const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));
+    const userID = parsedUserInfo.data.id;
+
+    console.log(`YOU'RE ON YOUR WAY TO SALVATION`);
+    console.log(`THIS IS REQ: `, req);
+    // const songs = await Comment.findAll({
+    //     where: {
+    //         userID
+    //     }
+    // });
+    // return res.json(songs);
+}));
+
+
 router.post('/', submissionValidation, asyncHandler(async(req, res) => {
     const jwtToken = req.cookies.token;
     const base64UserID = jwtToken.split('.')[1].replace('-', '+').replace('_', '/');
