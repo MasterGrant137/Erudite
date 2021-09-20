@@ -24,7 +24,7 @@ const submissionValidation = [
 router.get('/', asyncHandler(async(req, res) => {
     const songs = await Song.findAll({
         order: [['visits', 'DESC']],
-        limit: 20
+        limit: 10
     });
     return res.json(songs);
 }));
