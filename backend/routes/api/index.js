@@ -6,8 +6,8 @@ const mySongsRouter = require('./mySongs');
 
 //? prefixes every file's route with its respective directory name
 router.use('/session', sessionRouter);
-router.use('/songs', songsRouter);
 router.use('/users', usersRouter);
+router.use('/songs', songsRouter);
 router.use('/my-songs', mySongsRouter);
 
 //? for frontend and backend route testing

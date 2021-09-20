@@ -11,20 +11,16 @@ const ProfileButton = ({ user, query, setQuery, activePage }) => {
 
 
   const handleXClick = () => {
-      console.log(`THIS IS BEFORE ERASURE: ${query}`);
       setQuery('');
     }
 
     const handleInputChange = (e) => {
-      console.log(`THIS IS RIGHT AFTER CHANGE: ${e.target.value}`);
       e.preventDefault();
       setQuery(e.target.value);
     }
 
     const onSubmit = (e) => {
       e.preventDefault();
-      console.log(`then I'm hit with this as a query: ${query} and this as a value: ${e.target.value}`);
-      console.log(`furthermore, this is window.location: ${window.location} and origin: ${window.origin}`);
 
       if (`${window.location}`.includes('/search')) {
         history.push(`${query}`)

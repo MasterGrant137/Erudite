@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom'
+import { Link, useHistory } from 'react-router-dom'
 import { useDispatch } from 'react-redux';
 import '../../song.css'
 import './AddSongPage.css'
 import * as queryActions from '../../store/queries';
 
 export const AddSong = () => {
+    const history = useHistory();
     const dispatch = useDispatch();
     const [artist, setArtist] = useState('');
     const [title, setTitle] = useState('');
@@ -14,10 +15,11 @@ export const AddSong = () => {
     const [media, setMedia] = useState('');
     const [coverArt, setCoverArt] = useState('');
 
-    const handleSubmit = (e) =>{
+    const handleSubmit = async(e) =>{
         e.preventDefault();
 
-        dispatch(queryActions.newSong({artist, title, producer, body, media, coverArt}));
+        await dispatch(queryActions.newSong({artist, title, producer, body, media, coverArt}));
+        history.push('/my-songs');
     }
 
     return (
@@ -71,7 +73,7 @@ export const AddSong = () => {
                     onChange={(e) => setCoverArt(e.target.value)}
                 />
                 <button id='song-page-submit'>Submit</button>
-                <button id='song-page-cancel-btn'><Link to='/' id='song-page-cancel-link'>Cancel</Link></button>
+                <button id='song-page-cancel-btn'><Link to='/my-songs' id='song-page-cancel-link'>Cancel</Link></button>
             </form>
         </div>
     )

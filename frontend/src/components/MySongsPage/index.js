@@ -20,12 +20,6 @@ export const MySongsPage = () => {
     const [visibility, setVisibility] = useState('hidden-mySongs-info');
     const [size, setSize] = useState('big-mySongs-lyrics');
 
-    const onSubmit = (e) => {
-        e.preventDefault();
-
-        
-    }
-
     const songAndLyricsDiv = Object.values(songs).map(song => (
         <div key={song.media.replace(iframeRegex, '$2')}>
             <div

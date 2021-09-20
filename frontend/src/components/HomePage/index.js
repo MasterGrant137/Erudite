@@ -19,7 +19,6 @@ const HomePage = () => {
     const [visibility, setVisibility] = useState('hidden-home-lyrics');
     const [size, setSize] = useState('big-home-video')
 
-
     const songAndLyricsDiv = Object.values(songs).map(song => (
         <div key={song.media.replace(iframeRegex, '$2')}>
             <iframe

@@ -31,8 +31,6 @@ export const newSong = (song) => async dispatch => {
 }
 
 export const editSong = (song) => async dispatch => {
-  // const { artist, title, producer, body, media, coverArt } = song;
-  console.log(song);
   const response = await csrfFetch(`/erudite/songs/${song.id}/edit`, {
     method: 'PATCH',
     body: JSON.stringify(song)
@@ -44,35 +42,6 @@ export const editSong = (song) => async dispatch => {
     return newSong;
   }
 }
-
-// export const login = (user) => async dispatch => {
-//   const { credential, password } = user;
-//   const response = await csrfFetch('/erudite/session', {
-//     method: 'POST',
-//     body: JSON.stringify({
-//       credential,
-//       password,
-//     }),
-//   });
-//   const data = await response.json();
-//   dispatch(setUser(data.user));
-//   return response;
-// };
-
-// export const logout = () => async (dispatch) => {
-//   const response = await csrfFetch('/erudite/session', {
-//     method: 'DELETE',
-//   });
-//   dispatch(removeUser());
-//   return response;
-// };
-
-// export const restoreUser = () => async dispatch => {
-//   const response = await csrfFetch('/erudite/session');
-//   const data = await response.json();
-//   dispatch(setUser(data.user));
-//   return response;
-// }
 
 const initialState = { song: null };
 

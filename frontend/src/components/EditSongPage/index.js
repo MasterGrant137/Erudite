@@ -1,4 +1,3 @@
-import React from 'react'
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams, useHistory } from 'react-router-dom';
@@ -12,17 +11,12 @@ export const EditSongPage = () => {
     const iframeRegex= /(<iframe)|id="(.*?)"|src="(.*?)"|title="(.*?)"(><\/iframe>)/g
     const songParams = useParams();
 
-
-
-
     const songs = useSelector(state => {
         return state.songs;
     })
 
     const songArray = Object.values(songs).filter(song => song.id === +songParams.id);
     const song = songArray[0];
-
-    // console.log("This is the song:", song);
 
     const [artist, setArtist] = useState(song?.artist);
     const [title, setTitle] = useState(song?.title);
@@ -45,10 +39,8 @@ export const EditSongPage = () => {
             media,
             coverArt,
         }));
-
-        dispatch(mySongs());
-
-        history.push('/my-songs')
+        await dispatch(mySongs());
+        history.push('/my-songs');
     }
 
     return (

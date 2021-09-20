@@ -29,6 +29,28 @@ router.get('/', asyncHandler(async(req, res) => {
     return res.json(songs);
 }));
 
+router.get('/:title/lyrics', asyncHandler(async(req, res) => {
+
+    const title = req.params.title;
+
+    console.log(`THIS IS THE TITLE`, title);
+
+    const songs = await Song.findAll({
+            where: {
+                title
+            }
+        });
+    // const songs = await Song.findAll();
+        console.log(`THIS IS SONGS IN API`,songs);
+        return res.json(songs);
+        // const song = await Song.findAll({
+        //     where: {
+        //         title: {
+        //             [Op.iRegexp]:
+        //         }
+        //     }
+        // })
+}))
 
 router.post('/', submissionValidation, asyncHandler(async(req, res) => {
     const jwtToken = req.cookies.token;
@@ -76,41 +98,23 @@ router.patch('/:id/edit', submissionValidation, asyncHandler(async(req, res) => 
 
     const song = await Song.findByPk(songObj.songID);
 
+    if (userID === song.userID) {
+        song.artist = artist;
+        song.title = title;
+        song.producer = producer;
+        song.body = body;
+        song.media = media;
+        song.coverArt = coverArt;
 
-    song.artist = artist;
-    song.title = title;
-    song.producer = producer;
-    song.body = body;
-    song.media = media;
-    song.coverArt = coverArt;
+        song.save();
 
-    song.save();
+        const editedSong = await Song.findByPk(songObj.songID);
 
-    const editedSong = await Song.findByPk(songObj.songID);
-
-    res.json(editedSong);
+        res.json(editedSong);
+    } else {
+        console.error('Not permitted.')
+    }
 }))
-
-// router.get('/my-songs/:id', asyncHandler(async(req, res) => {
-//     const songs = await Song.findAll({
-//         where: {
-//             title: req.params.id,
-//             userID: req.session.auth.userID
-//         }
-//     })
-
-//     return res.json(songs);
-// }))
-
-// router.get('/songs/:id', asyncHandler(async(req, res) => {
-//     const songs = await Song.findAll({
-//         where: {
-//             title: req.params.id
-//         }
-//     })
-
-//     return res.json(songs);
-// }))
 
 
 module.exports = router;
