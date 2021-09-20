@@ -21,8 +21,6 @@ export const SongPage = () => {
 
     const song = Object.values(songSelector)[0];
 
-    const [size, setSize] = useState('big-song-page-lyrics');
-
     return (
         <div id='song-page-container'>
             <div id='sp-background-color-wrapper'>
@@ -31,7 +29,11 @@ export const SongPage = () => {
                     <span id='song-page-title'>{song?.title}</span>
                 </div>
                 <div id='sp-inner-container'>
-                    <div id='song-page-lyrics'>
+                    <div
+                        id='sp-comments-container'
+                    >
+                        Text goes here
+                    </div>
                          <textarea
                              id='song-page-lyrics'
                              key={song?.id}
@@ -39,20 +41,12 @@ export const SongPage = () => {
                              title={song?.title}
                              disabled
                          />
-                    </div>
-                    <div className='song-page-video' id={size}>
+                    <div className='song-page-video'>
                         <iframe
-                            id={size}
-                            className='home-video'
+                            className='song-page-video'
                             src={song?.media.replace(iframeRegex,'$3')}
                             title={song?.title}
                             allow='fullscreen'
-                            onMouseOver={() => {
-                                setSize('small-home-video');
-                            }}
-                            onMouseOut={() => {
-                                setSize('big-home-video');
-                            }}
                          />
                     </div>
                 </div>
