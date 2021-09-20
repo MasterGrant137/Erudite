@@ -30,26 +30,15 @@ router.get('/', asyncHandler(async(req, res) => {
 }));
 
 router.get('/:title/lyrics', asyncHandler(async(req, res) => {
-
     const title = req.params.title;
-
-    console.log(`THIS IS THE TITLE`, title);
 
     const songs = await Song.findAll({
             where: {
                 title
             }
         });
-    // const songs = await Song.findAll();
         console.log(`THIS IS SONGS IN API`,songs);
         return res.json(songs);
-        // const song = await Song.findAll({
-        //     where: {
-        //         title: {
-        //             [Op.iRegexp]:
-        //         }
-        //     }
-        // })
 }))
 
 router.post('/', submissionValidation, asyncHandler(async(req, res) => {

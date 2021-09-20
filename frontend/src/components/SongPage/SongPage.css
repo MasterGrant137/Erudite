@@ -48,23 +48,26 @@
     grid-area: 'b';
     display: grid;
     grid-template-areas: "c a b";
-    grid-template-columns: 1fr 5fr 1fr;
+    grid-template-columns: 1.5fr 5fr 1fr;
 }
 
 #sp-comments-container {
     grid-area: 'c';
+    text-align: center;
+    
 }
 
 #song-page-lyrics {
     cursor: pointer;
     color: black;
+    padding: 0;
     height: 100%;
     width: 100%;
 
     grid-area: 'a';
     text-align: center;
     background-color: rgba(87, 204, 153, 0.7);
-    
+
     animation: lyrics-unravel 3s ease-out;
     transition: color;
 }

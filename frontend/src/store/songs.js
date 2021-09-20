@@ -29,7 +29,6 @@ export const mySongs = () => async dispatch => {
 }
 
 export const songPage = (title) => async dispatch => {
-    // console.log("TITLE", title);
     const response = await fetch(`/erudite/songs/${title}/lyrics`)
     if (response.ok) {
         const song = await response.json();

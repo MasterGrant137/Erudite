@@ -43,6 +43,19 @@ export const editSong = (song) => async dispatch => {
   }
 }
 
+export const addComment = (comment) => async dispatch => {
+  const response = await csrfFetch(`erudite/songs/${comment.songID}/comments`, {
+    method: 'POST',
+    body: JSON.stringify(comment)
+  });
+
+  if (response.ok) {
+    const newComment = await response.json();
+    dispatch(setSong(newComment));
+    return newComment;
+  }
+}
+
 const initialState = { song: null };
 
 const addSongReducer = (state = initialState, action) => {

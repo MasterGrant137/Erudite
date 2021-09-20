@@ -8,6 +8,9 @@ import './SongPage.css'
 
 export const SongPage = () => {
     const dispatch = useDispatch();
+
+    const [body, setBody] = useState('');
+
     const iframeRegex= /(<iframe)|id="(.*?)"|src="(.*?)"|title="(.*?)"(><\/iframe>)/g
     const songParams = useParams(); //* for redirection to edit page verification
 
@@ -18,6 +21,10 @@ export const SongPage = () => {
     const songSelector = useSelector(state => {
         return state.songs;
     })
+
+    const handleSubmit = async(e) => {
+        
+    }
 
     const song = Object.values(songSelector)[0];
 
@@ -32,7 +39,19 @@ export const SongPage = () => {
                     <div
                         id='sp-comments-container'
                     >
-                        Text goes here
+
+                        <form id='add-comment-form' onSubmit={handleSubmit}>
+                            <textarea
+                                placeholder='comment'
+                                aria-label='comment'
+                                id='add-comment'
+                                value={body}
+                                onChange={(e) => setBody(e.target.value)}
+                                required
+                            >
+
+                            </textarea>
+                        </form>
                     </div>
                          <textarea
                              id='song-page-lyrics'
