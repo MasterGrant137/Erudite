@@ -45,7 +45,7 @@ export const editSong = (song) => async dispatch => {
 export const deleteSong = (id) => async dispatch => {
   console.log(`THIS IS THE ID`,id);
 
-  const response = await csrfFetch(`/erudite/songs/${id}`, {
+  const response = await csrfFetch(`/erudite/songs/${id}/delete`, {
     method: 'DELETE',
   });
     const data = await response.json();
@@ -85,44 +85,3 @@ const addSongReducer = (state = initialState, action) => {
 };
 
 export default addSongReducer;
-
-
-
-// const SEARCH_SONGS = 'songs/searchSongs';
-
-// const initialState = {};
-
-// //? action creators
-// const searchSongs = (queries) => {
-//     return {
-//         type: SEARCH_SONGS,
-//         queries
-//     }
-// }
-
-// //? thunks
-// export const queriedSongs = () => async dispatch => {
-//     const response = await fetch(`/erudite/my-songs/`);
-//     if (response.ok) {
-//         const results = await response.json();
-//         dispatch(searchSongs(results));
-//     }
-// }
-
-// //? reducer
-// const queriedSongsReducer = (state = initialState, action) => {
-
-//     switch (action.type) {
-//         case SEARCH_SONGS: {
-//             const queryResults = {};
-
-//             action.songs.forEach(song => {
-//                 queryResults[song.id] = song;
-//             })
-//             return {...state,...queryResults};
-//         }
-//         default: return state;
-//     }
-// }
-
-// export default queriedSongsReducer;

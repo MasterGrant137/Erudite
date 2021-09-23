@@ -47,9 +47,8 @@ export const EditSongPage = () => {
         e.preventDefault();
         const songID = songParams.id;
 
-        const dispatched = dispatch(deleteSong(songID));
-        console.log(dispatched);
-        return dispatched;
+        await dispatch(deleteSong(songID));
+        history.push('/my-songs');
     }
 
     return (

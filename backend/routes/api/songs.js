@@ -104,5 +104,31 @@ router.patch('/:id/edit', submissionValidation, asyncHandler(async(req, res) => 
     }
 }))
 
+router.delete('/:id/delete', asyncHandler(async(req, res) => {
+    const jwtToken = req.cookies.token;
+    const base64UserID = jwtToken.split('.')[1].replace('-', '+').replace('_', '/');
+    const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));
+    const userID = parsedUserInfo.data.id;
+    const id = req.params.id;
+    const song = await Song.findByPk(id);
+
+    if (userID === song.userID) {
+        await Song.destroy({
+           where: {
+               id
+           }
+       });
+       return res.json({
+           message: 'success'
+       });
+     } else {
+         return res.json({
+             message: 'forbidden'
+         })
+     }
+
+
+}));
+
 
 module.exports = router;
