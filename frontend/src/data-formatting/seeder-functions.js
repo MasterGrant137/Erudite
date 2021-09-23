@@ -1,12 +1,8 @@
 const fs = require('fs');
 
-const songSeeds = [];
+const songSeedsSet = new Set();
 
-
-
-// namesMetaStr, producerDivStr, bodyDivStr, media, visits, coverArt
-
-const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visits, coverArt) => {
+const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visitsNum, coverArt) => {
     //? regex tier 1
     const nbsp = /&nbsp;/g
     const amp = /&amp;/g
@@ -17,7 +13,9 @@ const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visits, cov
     const pipe = '\u007C'
 
     //? regex tier 2
-    const lastAnchor = /(<\/span><\/a>)/g
+    const lastAnchorRegex = /(<\/span><\/a>)/g
+    const decPlaceFinderRegex = /^(\d)(.*?)(\.?)(.*?)(K)$/g
+    const strippedDecFinder = /^\dK$/g
     const brDivRegex = /<br>|<(\/)?div>/g
     const strayTagsRegex1 = /(<(?:a|span|\/|).*?>)|(.*?)/g
     const strayTagsRegex2 = /(<(?:a|span|\/|).*?>)|(View All Credits)|(&nbsp;)|(.*?)/g
@@ -28,31 +26,25 @@ const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visits, cov
     const title = artistAndTitleArray[1];
 
     //? producer
-    let producer; if (producerDivStr) producer = producerDivStr.replace(lastAnchor, '').replace(closedAnchor, pipe).replace(strayTagsRegex2, '$4');
+    const producer = producerDivStr.replace(lastAnchorRegex, '$1000').replace(closedAnchor, pipe).replace(strayTagsRegex2, '$4');
 
     //? body
-    let body; if (bodyDivStr) body = bodyDivStr.replace(brDivRegex, '\n').replace(amp, ampersand).replace(nbsp, space).replace(strayTagsRegex1, '$2');
+     const body = bodyDivStr.replace(brDivRegex, '\n').replace(amp, ampersand).replace(nbsp, space).replace(strayTagsRegex1, '$2');
 
-    //$ media, visits, & cover art = raw
+    //? visits
+    const visits = visitsNum.replace(strippedDecFinder, '').replace(decPlaceFinderRegex, '$1$2$400')
 
-    songSeeds.push(`{userID: ${1}, artist: "${artist}", title: "${title}", producer: "${producer ? pipe + producer : ''}", body: \`${body}\`, media: \`${media}\`, visits: ${visits}, coverArt: "${coverArt}", createdAt: new Date(), updatedAt: new Date()}`)
+    //$ media, & cover art = raw
 
-    fs.writeFile('./song-seeds.js', `const songSeedsArray = [${songSeeds}]${'\n\n'}module.exports = { songSeedsArray };`, err => {
+    songSeedsSet.add(`{userID: ${1}, artist: "${artist}", title: "${title}", producer: "${producer ? pipe + producer : ''}", body: \`${body}\`, media: \`${media}\`, visits: ${visits}, coverArt: "${coverArt}", createdAt: new Date(), updatedAt: new Date()}`)
+
+    fs.writeFile('./song-seeds.js', `const songSeedsArray = [${Array.from(songSeedsSet)}]${'\n\n'}module.exports = { songSeedsArray };`, err => {
         if (err) {
             console.error(`A wild error has appeared in the bushes: ${err}`);
         } else {
-            console.log('Successful scrape!');
+            console.log(`Successful scrape! Count: ${songSeedsSet.size}` );
         }
     })
-
-    //? for testing
-    // fs.writeFile('./song-seeds.js', `${producer}`, err => {
-    //     if (err) {
-    //         console.error(`A wild error has appeared in the bushes: ${err}`);
-    //     } else {
-    //         console.log('Successful scrape!');
-    //     }
-    // })
 }
 
 module.exports = { songSeeder };

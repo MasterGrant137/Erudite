@@ -2,24 +2,20 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const pretty = require('pretty');
 const { geniusClientToken } = require('./genius-auth.json');
+const curatedArtistArray = require('./curated-artist-array.json');
 const { songSeeder } = require('../data-formatting/seeder-functions');
 
+const depth = 10;
 
-// const artist = '137-us'
-const artistArr = ['137-us', 'System-of-a-Down', 'JID'];
-// const artist = 'System-of-a-Down'
-//? finding artist by ID
-// const url = `https://api.genius.com/artists/${id}/songs?per_page=10`;
-//? allowing for search by artist
-const url = `https://api.genius.com/search?per_page=10/`;
-// const fltr = '/search?per_page=10&page=';
+//? finding artist by artistID
+// const searchUrl = `https://api.genius.com/artists/${id}/songs?per_page=10`;
 
-// const searchUrl = `${url}${artist}`
-const searchUrl = `${url}`
+//? allows for search by artist
+const searchUrl = `https://api.genius.com/search?per_page=${depth}/`;
 
 
 const geniusFetcher = () => {
-    artistArr.forEach(artist => {
+    curatedArtistArray.forEach(artist => {
         axios.get(searchUrl, {
             headers: { 'Authorization': `Bearer ${geniusClientToken}` },
             data: { 'q': artist }
@@ -49,12 +45,11 @@ const lyricsScraper = (artistSongsArr) => {
                 const coverArtMeta = $('meta[property=og:image]').attr('content');
 
                 songSeeder(`${namesMeta}`, `${producerDiv}`, `${bodyDiv}`, `${mediaIFrame}`, `${pyongsSpan}`, `${coverArtMeta}`);
-                // songSeeder(`${producerDiv}`)
             })
             .catch(err => {
                 console.log(`End of the line error: ${err}`);
             })
-    });
+    }, );
 }
 
 

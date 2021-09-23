@@ -28,7 +28,6 @@ module.exports = {
       body: {
         type: Sequelize.TEXT,
         allowNull: false,
-        unique: true
       },
       media: {
         type: Sequelize.STRING(1000)
