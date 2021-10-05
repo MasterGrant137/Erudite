@@ -15,7 +15,7 @@ export const EditSongPage = () => {
         return state.queriedSongs;
     })
 
-    const songArray = Object.values(songs).filter(song => song.id === +songParams.id);
+    const songArray = Object.values(songs).filter(song => song?.id === +songParams?.id);
     const song = songArray[0];
 
     const [artist, setArtist] = useState(song?.artist);
