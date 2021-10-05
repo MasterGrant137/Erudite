@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams, useHistory } from 'react-router-dom';
 import { editSong, deleteSong } from '../../store/queries';
-import { mySongs } from '../../store/songs';
+import { mySongs } from '../../store/queries';
 import './EditSongPage.css'
 
 export const EditSongPage = () => {
@@ -12,7 +12,7 @@ export const EditSongPage = () => {
     const songParams = useParams();
 
     const songs = useSelector(state => {
-        return state.songs;
+        return state.queriedSongs;
     })
 
     const songArray = Object.values(songs).filter(song => song.id === +songParams.id);

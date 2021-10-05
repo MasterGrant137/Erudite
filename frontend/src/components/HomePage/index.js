@@ -25,7 +25,6 @@ const HomePage = () => {
 
     const clickHandler = (e) => {
         e.preventDefault();
-        console.log(e);
 
         history.push(`songs/${e.target.title}/lyrics`)
     }

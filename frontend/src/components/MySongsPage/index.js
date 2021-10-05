@@ -1,27 +1,27 @@
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { NavLink } from 'react-router-dom';
-import { mySongs } from '../../store/songs';
+import { mySongs } from '../../store/queries';
 import './MySongsPage.css'
 
 export const MySongsPage = () => {
     const dispatch = useDispatch();
-    
+
     useEffect(() => {
         dispatch(mySongs());
     }, [dispatch])
 
     const songs = useSelector(state => {
-        return state.songs;
+        return state.queriedSongs;
     })
 
     const [visibility, setVisibility] = useState('hidden-mySongs-info');
     const [size, setSize] = useState('big-mySongs-lyrics');
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
-        <div key={song.id}>
+        <div key={song?.id}>
             <div
-                key={song.id}
+                key={song?.id}
                 id={size}
                 className='mySongs-lyrics'
                 onMouseOver={() => {
@@ -33,14 +33,14 @@ export const MySongsPage = () => {
                     setSize('big-mySongs-lyrics');
                 }}
             >
-                    <input id='mySongs-song-title' value={song.title} disabled/>
-                    <input id='mySongs-song-artist' value={song.artist} disabled/>
-                    <input id='mySongs-song-producer' value={song.producer} disabled/>
-                    <input id='mySongs-song-media' value={song.media} disabled/>
-                    <input id='mySongs-song-coverArt' value={song.coverArt} disabled/>
+                    <input id='mySongs-song-title' value={song?.title} disabled/>
+                    <input id='mySongs-song-artist' value={song?.artist} disabled/>
+                    <input id='mySongs-song-producer' value={song?.producer} disabled/>
+                    <input id='mySongs-song-media' value={song?.media} disabled/>
+                    <input id='mySongs-song-coverArt' value={song?.coverArt} disabled/>
 
-                    <NavLink to={`/edit/${song.id}`}>Edit</NavLink>
-                    <textarea id='mySongs-lyrics-field' value={song.body} disabled/>
+                    <NavLink to={`/edit/${song?.id}`}>Edit</NavLink>
+                    <textarea id='mySongs-lyrics-field' value={song?.body} disabled/>
              </div>
              <div
                 id={visibility}
@@ -53,9 +53,9 @@ export const MySongsPage = () => {
                     setSize('big-mySongs-lyrics')
                 }}
              >
-                <span>Visits: {`${song.visits}`}</span> <br />
-                <span>Created: {`${song.createdAt}`}</span> <br />
-                <span>Updated: {`${song.updatedAt}`}</span>
+                <span>Visits: {`${song?.visits}`}</span> <br />
+                <span>Created: {`${song?.createdAt}`}</span> <br />
+                <span>Updated: {`${song?.updatedAt}`}</span>
                 </div>
         </div>
     ));

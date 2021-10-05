@@ -1,7 +1,15 @@
 import { csrfFetch } from './csrf';
 
+const GET_MY_SONGS = 'songs/getMySongs';
 const SET_SONG = 'queries/setSong';
 const REMOVE_SONG = 'queries/removeSong';
+
+const getMySongs = (mySongs) => {
+  return {
+      type: GET_MY_SONGS,
+      mySongs
+  }
+}
 
 const setSong = (song) => {
   return {
@@ -15,6 +23,14 @@ const removeSong = () => {
     type: REMOVE_SONG,
   };
 };
+
+export const mySongs = () => async dispatch => {
+  const response = await csrfFetch(`/erudite/songs/my-songs`);
+  if (response.ok) {
+      const mySongs = await response.json();
+      dispatch(getMySongs(mySongs));
+  }
+}
 
 export const newSong = (song) => async dispatch => {
   const response = await csrfFetch('/erudite/songs', {
@@ -68,9 +84,13 @@ export const addComment = (comment) => async dispatch => {
 
 const initialState = { song: null };
 
-const addSongReducer = (state = initialState, action) => {
+const queriedSongsReducer = (state = initialState, action) => {
   let newState;
   switch (action.type) {
+    case GET_MY_SONGS:
+      const newMySongs = {};
+      action.mySongs.forEach(mySong => newMySongs[mySong.id] = mySong)
+      return {...state,...newMySongs}
     case SET_SONG:
       newState = Object.assign({}, state);
       newState.song = action.payload;
@@ -84,4 +104,4 @@ const addSongReducer = (state = initialState, action) => {
   }
 };
 
-export default addSongReducer;
+export default queriedSongsReducer;

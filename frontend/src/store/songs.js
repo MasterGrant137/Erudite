@@ -1,7 +1,7 @@
 import { csrfFetch } from './csrf';
 
+//? types
 const GET_SONGS = 'songs/getSongs';
-
 
 //? action creators
 const getSongs = (songs) => {
@@ -14,14 +14,6 @@ const getSongs = (songs) => {
 //? thunks
 export const homeSongs = () => async dispatch => {
     const response = await csrfFetch(`/erudite/songs`);
-    if (response.ok) {
-        const songs = await response.json();
-        dispatch(getSongs(songs));
-    }
-}
-
-export const mySongs = () => async dispatch => {
-    const response = await csrfFetch(`/erudite/my-songs`);
     if (response.ok) {
         const songs = await response.json();
         dispatch(getSongs(songs));
@@ -51,15 +43,12 @@ const initialState = {};
 const songReducer = (state = initialState, action) => {
 
     switch (action.type) {
-        case GET_SONGS: {
+        case GET_SONGS:
             const newSongs = {};
-
             action.songs.forEach(song => {
                 newSongs[song.id] = song;
             })
-
             return {...state,...newSongs};
-        }
         default: return state;
     }
 }
