@@ -19,7 +19,7 @@ export const MySongsPage = () => {
     const [size, setSize] = useState('big-mySongs-lyrics');
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
-        <div key={song?.id + 0}>
+        <div key={+song?.id}>
             <div
                 id={size}
                 className='mySongs-lyrics'
