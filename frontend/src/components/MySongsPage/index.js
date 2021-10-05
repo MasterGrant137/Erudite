@@ -1,4 +1,3 @@
-import { set } from 'js-cookie';
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { NavLink } from 'react-router-dom';
@@ -7,8 +6,7 @@ import './MySongsPage.css'
 
 export const MySongsPage = () => {
     const dispatch = useDispatch();
-    const iframeRegex= /(<iframe)|id="(.*?)"|src="(.*?)"|title="(.*?)"(><\/iframe>)/g
-
+    
     useEffect(() => {
         dispatch(mySongs());
     }, [dispatch])
@@ -21,9 +19,9 @@ export const MySongsPage = () => {
     const [size, setSize] = useState('big-mySongs-lyrics');
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
-        <div key={song.media.replace(iframeRegex, '$2')}>
+        <div key={song.id}>
             <div
-                key={song.media.replace(iframeRegex, '$2')}
+                key={song.id}
                 id={size}
                 className='mySongs-lyrics'
                 onMouseOver={() => {

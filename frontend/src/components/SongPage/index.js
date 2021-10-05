@@ -17,13 +17,12 @@ export const SongPage = () => {
 
    useEffect(() => {
         dispatch(songPage(songParams.title));
-    }, [dispatch])
+    }, [dispatch, songParams])
 
 
     useEffect(() => {
-        console.log(songParams.title);
         dispatch(queryActions.addComment(songParams.title))
-    }, [dispatch])
+    }, [dispatch, songParams])
 
 
     const songSelector = useSelector(state => {

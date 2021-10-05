@@ -13,7 +13,7 @@ const getSongs = (songs) => {
 
 //? thunks
 export const homeSongs = () => async dispatch => {
-    const response = await fetch(`/erudite/songs`);
+    const response = await csrfFetch(`/erudite/songs`);
     if (response.ok) {
         const songs = await response.json();
         dispatch(getSongs(songs));
@@ -21,7 +21,7 @@ export const homeSongs = () => async dispatch => {
 }
 
 export const mySongs = () => async dispatch => {
-    const response = await fetch(`/erudite/my-songs`);
+    const response = await csrfFetch(`/erudite/songs/my-songs`);
     if (response.ok) {
         const songs = await response.json();
         dispatch(getSongs(songs));
@@ -29,7 +29,7 @@ export const mySongs = () => async dispatch => {
 }
 
 export const songPage = (title) => async dispatch => {
-    const response = await fetch(`/erudite/songs/${title}/lyrics`)
+    const response = await csrfFetch(`/erudite/songs/${title}/lyrics`)
     if (response.ok) {
         const song = await response.json();
         console.log(`THIS IS THE SONG IN STORE`,song);
@@ -38,7 +38,7 @@ export const songPage = (title) => async dispatch => {
 }
 
 export const getComments = (title) => async dispatch => {
-    const response = await fetch(`/erudite/comments/${title}`);
+    const response = await csrfFetch(`/erudite/comments/${title}`);
     if (response.ok) {
         const comments = await response.json();
         dispatch(getSongs(comments));

@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
-import { NavLink, useHistory } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 import ProfileButton from './ProfileButton';
 import './Navigation.css';
 
 function Navigation({ isLoaded }){
   const sessionUser = useSelector(state => state.session.user);
-  const [activePage, setActivePage] = useState('main');
+  const [activePage] = useState('main');
   const [query, setQuery] = useState('');
 
   let sessionLinks;

@@ -29,6 +29,21 @@ router.get('/', asyncHandler(async(req, res) => {
     return res.json(songs);
 }));
 
+router.get('/my-songs', asyncHandler(async(req, res) => {
+    const jwtToken = req.cookies.token;
+    const base64UserID = jwtToken.split('.')[1].replace('-', '+').replace('_', '/');
+    const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));
+    const userID = parsedUserInfo.data.id;
+
+    const songs = await Song.findAll({
+        where: {
+            userID
+        },
+        limit: 15
+    });
+    return res.json(songs);
+}));
+
 router.get('/:title/lyrics', asyncHandler(async(req, res) => {
     const title = req.params.title;
 
