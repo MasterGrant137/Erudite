@@ -21,7 +21,7 @@ export const homeSongs = () => async dispatch => {
 }
 
 export const mySongs = () => async dispatch => {
-    const response = await csrfFetch(`/erudite/songs/my-songs`);
+    const response = await csrfFetch(`/erudite/my-songs`);
     if (response.ok) {
         const songs = await response.json();
         dispatch(getSongs(songs));
