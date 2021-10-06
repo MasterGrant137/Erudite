@@ -50,7 +50,7 @@
     display: none;
 }
 
-.mySongs-lyrics {
+.mySongs-card {
     cursor: context-menu;
     background-color: rgba(241, 212, 212, 0.75);
     overflow-y: auto;
@@ -60,21 +60,16 @@
     margin: 0 2vw;
 }
 
-#mySongs-input-form {
-    height: 100%;
-    width: 100%;
-}
-
 #mySongs-lyrics-field {
     height: 100%;
     width: 100%;
 }
 
-#big-mySongs-lyrics {
+#big-mySongs-card {
     height: 60vh;
 }
 
-#small-mySongs-lyrics {
+#small-mySongs-card {
     height: 40vh;
 }
 

@@ -12,7 +12,7 @@ export const MySongsPage = () => {
         dispatch(mySongs());
     }, [dispatch])
 
-    const contextMenuHandler = async(mainE, subE) => {
+    const contextMenuHandler = async(mainE) => {
         mainE.preventDefault();
         let posX = mainE.pageX;
         let posY = mainE.pageY;
@@ -24,25 +24,19 @@ export const MySongsPage = () => {
         contextMenu.style.top = `${posY}px`;
         contextMenu.style.left = `${posX}px`;
 
-
         const contextMenuItems = Array.from(contextMenu.children);
         contextMenuItems.forEach(menuItem => {
-            menuItem.addEventListener('click', (e) => {
+            menuItem.addEventListener('click', (subE) => {
                 const cardInputs = Array.from(mainE.nativeEvent.srcElement.children);
                 cardInputs.map(input => {
-                    if (input.dataset.msItem === 'title') {
+                    if (input.dataset.msInput === subE.target.dataset.msItem) {
                         input.select();
-                        document.execCommand('copy');
-                        console.log('copied to clipboard');
+                        navigator.clipboard.writeText(input.value);
+                        console.log(input.value);
                     }
-                    // input.dataset.msItem === 'title'
                 })
-                // console.log(targInput);
             })
         })
-
-        // console.log(mainE.nativeEvent.srcElement);
-        // console.log(subE);
     }
 
     body.addEventListener('click', (e) => {
@@ -57,29 +51,29 @@ export const MySongsPage = () => {
     })
 
     const [visibility, setVisibility] = useState('hidden-mySongs-info');
-    const [size, setSize] = useState('big-mySongs-lyrics');
+    const [size, setSize] = useState('big-mySongs-card');
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
         <div key={+song?.id}>
             <div
                 id={size}
-                className='mySongs-lyrics'
+                className='mySongs-card'
                 onMouseOver={() => {
                     setVisibility('visible-mySongs-info');
-                    setSize('small-mySongs-lyrics');
+                    setSize('small-mySongs-card');
                 }}
                 onMouseOut={() => {
                     setVisibility('hidden-mySongs-info');
-                    setSize('big-mySongs-lyrics');
+                    setSize('big-mySongs-card');
                 }}
 
                 onContextMenu={contextMenuHandler}
             >
-                    <input data-ms-item='title' value={song?.title} disabled/>
-                    <input data-ms-item='artist' value={song?.artist} disabled/>
-                    <input data-ms-item='producer' value={song?.producer} disabled/>
-                    <input data-ms-item='media' value={song?.media} disabled/>
-                    <input data-ms-item='cover-art' value={song?.coverArt} disabled/>
+                    <input data-ms-input='title' value={song?.title} disabled/>
+                    <input data-ms-input='artist' value={song?.artist} disabled/>
+                    <input data-ms-input='producer' value={song?.producer} disabled/>
+                    <input data-ms-input='media' value={song?.media} disabled/>
+                    <input data-ms-input='cover-art' value={song?.coverArt} disabled/>
 
                     <NavLink to={`/edit/${song?.id}`}>Edit</NavLink>
                     <textarea id='mySongs-lyrics-field' value={song?.body} disabled/>
@@ -88,11 +82,11 @@ export const MySongsPage = () => {
                 id={visibility}
                  onMouseOver={() => {
                     setVisibility('visible-mySongs-info');
-                    setSize('small-mySongs-lyrics');
+                    setSize('small-mySongs-card');
                 }}
                 onMouseOut={() => {
                     setVisibility('hidden-mySongs-info');
-                    setSize('big-mySongs-lyrics')
+                    setSize('big-mySongs-card')
                 }}
              >
                 <span>Visits: {`${song?.visits}`}</span> <br />
@@ -112,12 +106,12 @@ export const MySongsPage = () => {
                 <div id='mySongs-carousel'>
                     {songAndLyricsDiv}
                     <div id='context-menu' className='invisible'>
-                        <div className='context-menu-item' id='c-m-title' onClick={contextMenuHandler}>Copy Title</div>
-                        <div className='context-menu-item' id='c-m-artist' onClick={contextMenuHandler}>Copy Artist</div>
-                        <div className='context-menu-item' id='c-m-producer' onClick={contextMenuHandler}>Copy Producer</div>
-                        <div className='context-menu-item' id='c-m-media' onClick={contextMenuHandler}>Copy Media</div>
-                        <div className='context-menu-item' id='c-m-cover-art' onClick={contextMenuHandler}>Copy Cover Art</div>
-                        <div className='context-menu-item' id='c-m-body' onClick={contextMenuHandler}>Copy Body</div>
+                        <div className='context-menu-item' data-ms-item='title'>Copy Title</div>
+                        <div className='context-menu-item' data-ms-item='artist'>Copy Artist</div>
+                        <div className='context-menu-item' data-ms-item='producer'>Copy Producer</div>
+                        <div className='context-menu-item' data-ms-item='media'>Copy Media</div>
+                        <div className='context-menu-item' data-ms-item='cover-art'>Copy Cover Art</div>
+                        <div className='context-menu-item' data-ms-item='body'>Copy Body</div>
                     </div>
                 </div>
             </div>
