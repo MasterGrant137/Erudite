@@ -20,18 +20,17 @@ export const MySongsPage = () => {
 
         const contextMenu = document.getElementById('context-menu');
         contextMenu.classList.remove('invisible');
-        contextMenu.classList.add('visible');
         contextMenu.style.position = 'absolute';
         contextMenu.style.display = 'visible';
         contextMenu.style.top = `${posY}px`;
         contextMenu.style.left = `${posX}px`;
+
         // console.log(e.nativeEvent.srcElement);
     }
 
     body.addEventListener('click', (e) => {
         const contextMenu = document.getElementById('context-menu');
         if (e.target.offsetParent != contextMenu) {
-            contextMenu.classList.remove('visible');
             contextMenu.classList.add('invisible')
         }
     })
@@ -95,13 +94,13 @@ export const MySongsPage = () => {
                 </div>
                 <div id='mySongs-carousel'>
                     {songAndLyricsDiv}
-                    <div id='context-menu'>
-                        <div className='context-menu-item'>Title</div>
-                        <div className='context-menu-item'>Artist</div>
-                        <div className='context-menu-item'>Producer</div>
-                        <div className='context-menu-item'>Media</div>
-                        <div className='context-menu-item'>Cover Art</div>
-                        <div className='context-menu-item'>Body</div>
+                    <div id='context-menu' className='invisible'>
+                        <div className='context-menu-item'>Copy Title</div>
+                        <div className='context-menu-item'>Copy Artist</div>
+                        <div className='context-menu-item'>Copy Producer</div>
+                        <div className='context-menu-item'>Copy Media</div>
+                        <div className='context-menu-item'>Copy Cover Art</div>
+                        <div className='context-menu-item'>Copy Body</div>
                     </div>
                 </div>
             </div>

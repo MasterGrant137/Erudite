@@ -104,11 +104,8 @@
 }
 
 #context-menu {
+    cursor: pointer;
     background-color: red;
-}
-
-#context-menu.visible {
-    display: block;
 }
 
 #context-menu.invisible {
