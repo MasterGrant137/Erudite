@@ -102,3 +102,15 @@
 @keyframes mySongs-scroll {
     100% { background-position-y: 100%; }
 }
+
+#context-menu {
+    background-color: red;
+}
+
+#context-menu.visible {
+    display: block;
+}
+
+#context-menu.invisible {
+    display: none;
+}
