@@ -32,7 +32,6 @@ export const MySongsPage = () => {
                     if (input.dataset.msInput === subE.target.dataset.msItem) {
                         input.select();
                         navigator.clipboard.writeText(input.value);
-                        console.log(input.value);
                     }
                 })
             })
@@ -76,7 +75,7 @@ export const MySongsPage = () => {
                     <input data-ms-input='cover-art' value={song?.coverArt} disabled/>
 
                     <NavLink to={`/edit/${song?.id}`}>Edit</NavLink>
-                    <textarea id='mySongs-lyrics-field' value={song?.body} disabled/>
+                    <textarea data-ms-input='body' value={song?.body} disabled/>
              </div>
              <div
                 id={visibility}
