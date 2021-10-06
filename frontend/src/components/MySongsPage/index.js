@@ -11,6 +11,21 @@ export const MySongsPage = () => {
         dispatch(mySongs());
     }, [dispatch])
 
+    const contextMenuHandler = async(e) => {
+        e.preventDefault();
+
+        const contextMenu = document.getElementById('context-menu');
+
+        let posX = e.pageX;
+        let posY = e.pageY;
+
+        contextMenu.style.position = 'absolute';
+        contextMenu.style.display = 'visible';
+        contextMenu.style.top = `${posY}px`;
+        contextMenu.style.left = `${posX}px`;
+        // console.log(e.nativeEvent.srcElement);
+    }
+
     const songs = useSelector(state => {
         return state.queriedSongs;
     })
@@ -31,6 +46,8 @@ export const MySongsPage = () => {
                     setVisibility('hidden-mySongs-info');
                     setSize('big-mySongs-lyrics');
                 }}
+
+                onContextMenu={contextMenuHandler}
             >
                     <input id='mySongs-song-title' value={song?.title} disabled/>
                     <input id='mySongs-song-artist' value={song?.artist} disabled/>
@@ -68,6 +85,14 @@ export const MySongsPage = () => {
                 </div>
                 <div id='mySongs-carousel'>
                     {songAndLyricsDiv}
+                    <div id='context-menu' display='none'>
+                        <div className='context-menu-item'>Title</div>
+                        <div className='context-menu-item'>Artist</div>
+                        <div className='context-menu-item'>Producer</div>
+                        <div className='context-menu-item'>Media</div>
+                        <div className='context-menu-item'>Cover Art</div>
+                        <div className='context-menu-item'>Body</div>
+                    </div>
                 </div>
             </div>
         </div>
