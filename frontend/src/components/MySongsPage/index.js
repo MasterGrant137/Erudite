@@ -42,7 +42,6 @@ export const MySongsPage = () => {
     }
 
     root.addEventListener('click', (e) => {
-        // const body = document.querySelector('body');
         const root = document.getElementById('root');
         const contextMenuExists = document.getElementById('context-menu');
         // console.log(root.children[2]);
