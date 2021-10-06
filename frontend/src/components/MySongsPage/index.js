@@ -6,6 +6,8 @@ import './MySongsPage.css'
 
 export const MySongsPage = () => {
     const dispatch = useDispatch();
+    const root = document.getElementById('root');
+    const contextMenuExists = document.getElementById('context-menu');
 
     useEffect(() => {
         dispatch(mySongs());
@@ -14,17 +16,41 @@ export const MySongsPage = () => {
     const contextMenuHandler = async(e) => {
         e.preventDefault();
 
-        const contextMenu = document.getElementById('context-menu');
+        const posX = e.pageX;
+        const posY = e.pageY;
 
-        let posX = e.pageX;
-        let posY = e.pageY;
 
+        if (contextMenuExists) root.removeChild(contextMenuExists);
+
+        const contextMenu = document.createElement('div');
+        contextMenu.id = 'context-menu';
         contextMenu.style.position = 'absolute';
-        contextMenu.style.display = 'visible';
         contextMenu.style.top = `${posY}px`;
         contextMenu.style.left = `${posX}px`;
+        root.appendChild(contextMenu);
+
+        const options = ['Title', 'Artist', 'Producer', 'Media', 'CoverArt', 'Body']
+
+        for (let i = 0; i < 6; i++) {
+            let contextMenuItem = document.createElement('div');
+            contextMenuItem.className = 'context-menu-item';
+            contextMenuItem.innerText = `Copy ${options[i]}`
+            contextMenu.appendChild(contextMenuItem);
+        }
+
         // console.log(e.nativeEvent.srcElement);
     }
+
+    root.addEventListener('click', (e) => {
+        // const body = document.querySelector('body');
+        const root = document.getElementById('root');
+        const contextMenuExists = document.getElementById('context-menu');
+        // console.log(root.children[2]);
+        if (root.children[2]) {
+            // console.log('hit');
+            root.removeChild(contextMenuExists);
+        }
+    })
 
     const songs = useSelector(state => {
         return state.queriedSongs;
@@ -46,7 +72,6 @@ export const MySongsPage = () => {
                     setVisibility('hidden-mySongs-info');
                     setSize('big-mySongs-lyrics');
                 }}
-
                 onContextMenu={contextMenuHandler}
             >
                     <input id='mySongs-song-title' value={song?.title} disabled/>
@@ -85,14 +110,6 @@ export const MySongsPage = () => {
                 </div>
                 <div id='mySongs-carousel'>
                     {songAndLyricsDiv}
-                    <div id='context-menu' display='none'>
-                        <div className='context-menu-item'>Title</div>
-                        <div className='context-menu-item'>Artist</div>
-                        <div className='context-menu-item'>Producer</div>
-                        <div className='context-menu-item'>Media</div>
-                        <div className='context-menu-item'>Cover Art</div>
-                        <div className='context-menu-item'>Body</div>
-                    </div>
                 </div>
             </div>
         </div>
