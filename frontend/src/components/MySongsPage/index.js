@@ -12,11 +12,10 @@ export const MySongsPage = () => {
         dispatch(mySongs());
     }, [dispatch])
 
-    const contextMenuHandler = async(e) => {
-        e.preventDefault();
-
-        let posX = e.pageX;
-        let posY = e.pageY;
+    const contextMenuHandler = async(mainE, subE) => {
+        mainE.preventDefault();
+        let posX = mainE.pageX;
+        let posY = mainE.pageY;
 
         const contextMenu = document.getElementById('context-menu');
         contextMenu.classList.remove('invisible');
@@ -25,7 +24,25 @@ export const MySongsPage = () => {
         contextMenu.style.top = `${posY}px`;
         contextMenu.style.left = `${posX}px`;
 
-        // console.log(e.nativeEvent.srcElement);
+
+        const contextMenuItems = Array.from(contextMenu.children);
+        contextMenuItems.forEach(menuItem => {
+            menuItem.addEventListener('click', (e) => {
+                const cardInputs = Array.from(mainE.nativeEvent.srcElement.children);
+                cardInputs.map(input => {
+                    if (input.dataset.msItem === 'title') {
+                        input.select();
+                        document.execCommand('copy');
+                        console.log('copied to clipboard');
+                    }
+                    // input.dataset.msItem === 'title'
+                })
+                // console.log(targInput);
+            })
+        })
+
+        // console.log(mainE.nativeEvent.srcElement);
+        // console.log(subE);
     }
 
     body.addEventListener('click', (e) => {
@@ -58,11 +75,11 @@ export const MySongsPage = () => {
 
                 onContextMenu={contextMenuHandler}
             >
-                    <input id='mySongs-song-title' value={song?.title} disabled/>
-                    <input id='mySongs-song-artist' value={song?.artist} disabled/>
-                    <input id='mySongs-song-producer' value={song?.producer} disabled/>
-                    <input id='mySongs-song-media' value={song?.media} disabled/>
-                    <input id='mySongs-song-coverArt' value={song?.coverArt} disabled/>
+                    <input data-ms-item='title' value={song?.title} disabled/>
+                    <input data-ms-item='artist' value={song?.artist} disabled/>
+                    <input data-ms-item='producer' value={song?.producer} disabled/>
+                    <input data-ms-item='media' value={song?.media} disabled/>
+                    <input data-ms-item='cover-art' value={song?.coverArt} disabled/>
 
                     <NavLink to={`/edit/${song?.id}`}>Edit</NavLink>
                     <textarea id='mySongs-lyrics-field' value={song?.body} disabled/>
@@ -95,12 +112,12 @@ export const MySongsPage = () => {
                 <div id='mySongs-carousel'>
                     {songAndLyricsDiv}
                     <div id='context-menu' className='invisible'>
-                        <div className='context-menu-item'>Copy Title</div>
-                        <div className='context-menu-item'>Copy Artist</div>
-                        <div className='context-menu-item'>Copy Producer</div>
-                        <div className='context-menu-item'>Copy Media</div>
-                        <div className='context-menu-item'>Copy Cover Art</div>
-                        <div className='context-menu-item'>Copy Body</div>
+                        <div className='context-menu-item' id='c-m-title' onClick={contextMenuHandler}>Copy Title</div>
+                        <div className='context-menu-item' id='c-m-artist' onClick={contextMenuHandler}>Copy Artist</div>
+                        <div className='context-menu-item' id='c-m-producer' onClick={contextMenuHandler}>Copy Producer</div>
+                        <div className='context-menu-item' id='c-m-media' onClick={contextMenuHandler}>Copy Media</div>
+                        <div className='context-menu-item' id='c-m-cover-art' onClick={contextMenuHandler}>Copy Cover Art</div>
+                        <div className='context-menu-item' id='c-m-body' onClick={contextMenuHandler}>Copy Body</div>
                     </div>
                 </div>
             </div>
