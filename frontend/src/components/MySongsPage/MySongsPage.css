@@ -70,19 +70,19 @@ textarea[data-ms-input='body'] {
     width: 100%;
 }
 
-#big-mySongs-card {
+div[data-card-size='big-mySongs-card'] {
     height: 60vh;
 }
 
-#small-mySongs-card {
+div[data-card-size='small-mySongs-card'] {
     height: 40vh;
 }
 
-#hidden-mySongs-info {
+div[data-subCard-visibility='hidden-mySongs-info'] {
     display: none;
 }
 
-#visible-mySongs-info {
+div[data-subCard-visibility='visible-mySongs-info'] {
     margin: 0;
     padding: 0;
     cursor: pointer;
@@ -93,7 +93,7 @@ textarea[data-ms-input='body'] {
     transition: height 1.5s;
 }
 
-#visible-mySongs-info:hover {
+div[data-subCard-visibility='visible-mySongs-info']:hover {
     height: 50%;
     background-color: rgba(0, 0, 0, 0.7);
     color: #57CC99;
