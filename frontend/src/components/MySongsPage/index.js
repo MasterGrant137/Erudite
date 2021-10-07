@@ -54,11 +54,9 @@ export const MySongsPage = () => {
 
     const [visibility, setVisibility] = useState('hidden-mySongs-info');
     const [size, setSize] = useState('big-mySongs-card');
-    // key={song ? song.id : 1000}
-    // key = {!song ? `songIDX:${idx}`: song.id}
-    const songDiv = Object.values(songs).map((song, idx) => (
-        <div key = {!song ? `songIDX:${idx}`: song.id}>
-            {/* {console.log(typeof(+song?.id))} */}
+
+    const songDiv = Object.values(songs).map(song => (
+        <div key={song?.id}>
             <div
                 key={song?.coverArt}
                 data-card-size={size}

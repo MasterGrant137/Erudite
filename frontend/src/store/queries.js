@@ -1,13 +1,21 @@
 import { csrfFetch } from './csrf';
 
 const GET_MY_SONGS = 'songs/getMySongs';
+const EDIT_SONG = 'queries/editSong';
 const SET_SONG = 'queries/setSong';
 const REMOVE_SONG = 'queries/removeSong';
 
 const getMySongs = (mySongs) => {
   return {
       type: GET_MY_SONGS,
-      mySongs
+      mySongs,
+  }
+}
+
+const editSong = (mySong) => {
+  return {
+    type: EDIT_SONG,
+    payload: mySong,
   }
 }
 
@@ -32,6 +40,19 @@ export const mySongs = () => async dispatch => {
   }
 }
 
+export const editSongThunk = (song) => async dispatch => {
+  const response = await csrfFetch(`/erudite/songs/${song.id}/edit`, {
+    method: 'PATCH',
+    body: JSON.stringify(song)
+  });
+
+  if (response.ok) {
+    const editedSong = await response.json();
+    dispatch(editSong(editedSong));
+    return editedSong;
+  }
+}
+
 export const newSong = (song) => async dispatch => {
   const response = await csrfFetch('/erudite/songs', {
     method: 'POST',
@@ -43,19 +64,12 @@ export const newSong = (song) => async dispatch => {
     dispatch(setSong(newSong));
     return newSong;
   }
-}
 
-export const editSong = (song) => async dispatch => {
-  const response = await csrfFetch(`/erudite/songs/${song.id}/edit`, {
-    method: 'PATCH',
-    body: JSON.stringify(song)
-  });
-
-  if (response.ok) {
-    const newSong = await response.json();
-    dispatch(setSong(newSong));
-    return newSong;
-  }
+  // if (response.ok) {
+  //   const newSong = await response.json();
+  //   dispatch(setSong(newSong));
+  //   return newSong;
+  // }
 }
 
 export const deleteSong = (id) => async dispatch => {
@@ -82,7 +96,7 @@ export const addComment = (comment) => async dispatch => {
   }
 }
 
-const initialState = { song: null };
+const initialState = { };
 
 const queriedSongsReducer = (state = initialState, action) => {
     let newState;
@@ -94,6 +108,10 @@ const queriedSongsReducer = (state = initialState, action) => {
       case SET_SONG:
         newState = Object.assign({}, state);
         newState.song = action.payload;
+        return newState;
+      case EDIT_SONG:
+        newState = Object.assign({}, state);
+        newState[action.payload.id] = action.payload;
         return newState;
       case REMOVE_SONG:
         newState = Object.assign({}, state);
