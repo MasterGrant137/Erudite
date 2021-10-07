@@ -78,7 +78,7 @@ div[data-card-size='small-mySongs-card'] {
     height: 40vh;
 }
 
-div[data-subCard-visibility='hidden-mySongs-info'] {
+div[data-subcard-visibility='hidden-mySongs-info'] {
     display: none;
 }
 

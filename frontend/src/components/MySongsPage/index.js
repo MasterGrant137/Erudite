@@ -54,11 +54,13 @@ export const MySongsPage = () => {
 
     const [visibility, setVisibility] = useState('hidden-mySongs-info');
     const [size, setSize] = useState('big-mySongs-card');
-
+    // key={song ? song.id : 1000}
+    // key = {!song ? `songIDX:${idx}`: song.id}
     const songDiv = Object.values(songs).map((song, idx) => (
-        <div key={idx}>
+        <div key = {!song ? `songIDX:${idx}`: song.id}>
             {/* {console.log(typeof(+song?.id))} */}
             <div
+                key={song?.coverArt}
                 data-card-size={size}
                 className='mySongs-card'
                 onMouseOver={() => {
@@ -82,7 +84,8 @@ export const MySongsPage = () => {
                     <textarea data-ms-input='body' value={song?.body} disabled/>
              </div>
              <div
-                data-subCard-visibility={visibility}
+                key={song?.id}
+                data-subcard-visibility={visibility}
                  onMouseOver={() => {
                     setVisibility('visible-mySongs-info');
                     setSize('small-mySongs-card');

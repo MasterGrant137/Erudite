@@ -85,23 +85,25 @@ export const addComment = (comment) => async dispatch => {
 const initialState = { song: null };
 
 const queriedSongsReducer = (state = initialState, action) => {
-  let newState;
-  switch (action.type) {
-    case GET_MY_SONGS:
-      const newMySongs = {};
-      action.mySongs.forEach(mySong => newMySongs[mySong.id] = mySong)
-      return {...state,...newMySongs}
-    case SET_SONG:
-      newState = Object.assign({}, state);
-      newState.song = action.payload;
-      return newState;
-    case REMOVE_SONG:
-      newState = Object.assign({}, state);
-      newState.song = null;
-      return newState;
-    default:
-      return state;
-  }
-};
+    let newState;
+    switch (action.type) {
+      case GET_MY_SONGS:
+        const newMySongs = {};
+        action.mySongs.forEach(mySong => newMySongs[mySong.id] = mySong)
+        return {...state,...newMySongs}
+      case SET_SONG:
+        newState = Object.assign({}, state);
+        newState.song = action.payload;
+        return newState;
+      case REMOVE_SONG:
+        newState = Object.assign({}, state);
+        newState.song = null;
+        return newState;
+      default:
+        return state;
+    }
+  };
+
+
 
 export default queriedSongsReducer;
