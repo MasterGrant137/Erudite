@@ -24,7 +24,7 @@ export const EditSongPage = () => {
     const [media, setMedia] = useState(song?.media);
     const [coverArt, setCoverArt] = useState(song?.coverArt);
     const [visibility, setVisibility] = useState('hidden-mySongs-info');
-    const [size, setSize] = useState('big-mySongs-lyrics');
+    const [size, setSize] = useState('big-mySongs-card');
 
     const handleSubmit = async(e) => {
         e.preventDefault();
@@ -61,24 +61,24 @@ export const EditSongPage = () => {
                     <div>
                         <div
                             id={size}
-                            className='mySongs-lyrics'
+                            className='mySongs-card'
                             onMouseOver={() => {
                                 setVisibility('visible-mySongs-info');
-                                setSize('small-mySongs-lyrics');
+                                setSize('small-mySongs-card');
                             }}
                             onMouseOut={() => {
                                 setVisibility('hidden-mySongs-info');
-                                setSize('big-mySongs-lyrics');
+                                setSize('big-mySongs-card');
                             }}
                         >
                         <form onSubmit={handleSubmit}>
-                            <input id='mySongs-song-title' onChange={(e) => setTitle(e.target.value)} value={title} />
-                            <input id='mySongs-song-artist' onChange={(e) => setArtist(e.target.value)} value={artist} />
-                            <input id='mySongs-song-producer' onChange={(e) => setProducer(e.target.value)} value={producer} />
-                            <input id='mySongs-song-media' onChange={(e) => setMedia(e.target.value)} value={media} />
-                            <input id='mySongs-song-coverArt' onChange={(e) => setCoverArt(e.target.value)} value={coverArt} />
+                            <input data-ms-input='title' onChange={(e) => setTitle(e.target.value)} value={title} />
+                            <input data-ms-input='artist' onChange={(e) => setArtist(e.target.value)} value={artist} />
+                            <input data-ms-input='producer' onChange={(e) => setProducer(e.target.value)} value={producer} />
+                            <input data-ms-input='media' onChange={(e) => setMedia(e.target.value)} value={media} />
+                            <input data-ms-input='cover-art' onChange={(e) => setCoverArt(e.target.value)} value={coverArt} />
                             <button type='submit'>Submit</button>
-                            <textarea id='mySongs-lyrics-field' onChange={(e) => setBody(e.target.value)} value={body} />
+                            <textarea data-ms-input='body' onChange={(e) => setBody(e.target.value)} value={body} />
                         </form>
                         <form onSubmit={handleDelete}>
                             <button type='submit'>Delete Song</button>
@@ -88,11 +88,11 @@ export const EditSongPage = () => {
                            id={visibility}
                             onMouseOver={() => {
                                setVisibility('visible-mySongs-info');
-                               setSize('small-mySongs-lyrics');
+                               setSize('small-mySongs-card');
                            }}
                            onMouseOut={() => {
                                setVisibility('hidden-mySongs-info');
-                               setSize('big-mySongs-lyrics')
+                               setSize('big-mySongs-card')
                            }}
                         >
                            <span>Visits: {`${song?.visits}`}</span> <br />
