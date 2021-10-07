@@ -39,7 +39,7 @@ router.get('/my-songs', asyncHandler(async(req, res) => {
         where: {
             userID
         },
-        limit: 15
+        limit: 20
     });
     return res.json(songs);
 }));

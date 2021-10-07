@@ -8,7 +8,6 @@ import './EditSongPage.css'
 export const EditSongPage = () => {
     const history = useHistory();
     const dispatch = useDispatch();
-    const iframeRegex= /(<iframe)|id="(.*?)"|src="(.*?)"|title="(.*?)"(><\/iframe>)/g
     const songParams = useParams();
 
     const songs = useSelector(state => {
@@ -59,9 +58,8 @@ export const EditSongPage = () => {
                     <div id='mySongs-header'>Edit Song</div>
                 </div>
                 <div id='mySongs-carousel'>
-                    <div key={song?.media.replace(iframeRegex, '$2')}>
+                    <div>
                         <div
-                            key={song?.media.replace(iframeRegex, '$2')}
                             id={size}
                             className='mySongs-lyrics'
                             onMouseOver={() => {

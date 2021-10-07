@@ -12,8 +12,8 @@ export const SongPage = () => {
 
     const [body, setBody] = useState('');
 
-    const iframeRegex= /(<iframe)|id="(.*?)"|src="(.*?)"|title="(.*?)"(><\/iframe>)/g
-    const songParams = useParams(); //* for redirection to edit page verification
+    const iframeRegex= /(<iframe)|width="(.*?)"|height="(.*?)"|id="(.*?)"|src="(.*?)"|title="(.*?)"(.*?)(><\/iframe>)/g
+    const songParams = useParams();
 
    useEffect(() => {
         dispatch(songPage(songParams.title));
@@ -73,7 +73,7 @@ export const SongPage = () => {
                     <div className='song-page-video'>
                         <iframe
                             className='song-page-video'
-                            src={song?.media.replace(iframeRegex,'$3')}
+                            src={song?.media.replace(iframeRegex,'$5')}
                             title={song?.title}
                             allow='fullscreen'
                          />
