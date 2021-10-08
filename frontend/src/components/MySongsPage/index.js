@@ -43,32 +43,35 @@ export const MySongsPage = () => {
         })
     }
 
-    const onMouseOverHandler = (e, attribute) => {
+    const onMouseOverHandler = (e, value) => {
+        // const anyCardExists = document.querySelector(`input[data-identifier='${e.target.id}']`);
+        const attrRegex = /(.*?\w)(-)(\d)/
 
-        const card = document.getElementById(`${e.target.id}`);
-        const subcard = document.getElementById(`${e.target.id}`);
-
-        if (subcard && attribute === 'visible') {
-            const subcardRegex = e.target.id.replace(/(card)(-)([0-9])/, 'subcard$2$3');
-            const subcard = document.getElementById(`${subcardRegex}`);
+        // console.log('hit', anyCardExists, e.target.dataset);
+        if (e && value === 'visible') {
+            const attrVal = e.target.dataset.identifier.replace(attrRegex, 'subcard$2$3');
+            const subcard = document.querySelector(`div[data-identifier='${attrVal}']`);
             subcard.dataset.subcardVisibility='visible';
-        } else if (card && attribute === 'small') {
-            const card = document.getElementById(`${e.target.id}`);
-            card.dataset.cardSize='small';
+        } else if (e && value === 'big') {
+            // const card = document.querySelector(`input[data-identifier='${e.target.id}']`);
+            // card.dataset.cardSize='big';
+            e.target.dataset.cardSize='big';
         }
     }
 
-    const onMouseOutHandler = (e, attribute) => {
-        const card = document.getElementById(`${e.target.id}`);
-        const subcard = document.getElementById(`${e.target.id}`);
+    const onMouseOutHandler = (e, value) => {
+        // const anyCardExists = document.querySelector(`input[data-identifier='${e.target.id}']`);
+        const attrRegex = /(.*?\w)(-)(\d)/
 
-        if (subcard && attribute === 'hidden') {
-            const subcardRegex = e.target.id.replace(/(card)(-)([0-9])/, 'subcard$2$3');
-            const subcard = document.getElementById(`${subcardRegex}`);
+        if (e && value === 'hidden') {
+            const attrVal = e.target.dataset.identifier.replace(attrRegex, 'subcard$2$3');
+            const subcard = document.querySelector(`div[data-identifier='${attrVal}']`);
+            // subcard.dataset.subcardVisibility='hidden';
             subcard.dataset.subcardVisibility='hidden';
-        } else if (card && attribute === 'big') {
-            const card = document.getElementById(`${e.target.id}`);
-            card.dataset.cardSize='big';
+        } else if (e && value === 'small') {
+            // const card = document.querySelector(`input[data-identifier='${e.target.id}']`);
+            // card.dataset.cardSize='small';
+            e.target.dataset.cardSize='small';
         }
     }
 
@@ -89,39 +92,106 @@ export const MySongsPage = () => {
     const songDiv = Object.values(songs).map(song => (
         <div key={song?.id}>
             <div
-                id={`card-${song?.id}`}
+                data-identifier={`card-${song?.id}`}
                 data-card-size='small'
                 className='mySongs-card'
                 onMouseOver={(e) => {
                     setVisibility(onMouseOverHandler(e, 'visible'));
-                    setSize(onMouseOverHandler(e, 'small'));
+                    setSize(onMouseOverHandler(e, 'big'));
                 }}
                 onMouseOut={(e) => {
                     setVisibility(onMouseOutHandler(e, 'hidden'));
-                    setSize(onMouseOutHandler(e, 'big'));
+                    setSize(onMouseOutHandler(e, 'small'));
                 }}
 
                 onContextMenu={contextMenuHandler}
             >
-                    <input data-ms-input='title' value={song?.title} disabled/>
-                    <input data-ms-input='artist' value={song?.artist} disabled/>
-                    <input data-ms-input='producer' value={song?.producer} disabled/>
-                    <input data-ms-input='media' value={song?.media} disabled/>
-                    <input data-ms-input='cover-art' value={song?.coverArt} disabled/>
+                    <input
+                        data-identifier={`title-${song?.id}`}
+                        data-ms-input='title' value={song?.title} disabled
+                        onMouseOver={(e) => {
+                            setVisibility(onMouseOverHandler(e, 'visible'));
+                            setSize(onMouseOverHandler(e, 'big'));
+                        }}
+                        onMouseOut={(e) => {
+                            setVisibility(onMouseOutHandler(e, 'hidden'));
+                            setSize(onMouseOutHandler(e, 'small'));
+                        }}
+                    />
+                    <input
+                        data-identifier={`artist-${song?.id}`}
+                        data-ms-input='artist' value={song?.artist} disabled
+                        onMouseOver={(e) => {
+                            setVisibility(onMouseOverHandler(e, 'visible'));
+                            setSize(onMouseOverHandler(e, 'big'));
+                        }}
+                        onMouseOut={(e) => {
+                            setVisibility(onMouseOutHandler(e, 'hidden'));
+                            setSize(onMouseOutHandler(e, 'small'));
+                        }}
+                     />
+                    <input
+                        data-identifier={`producer-${song?.id}`}
+                        data-ms-input='producer' value={song?.producer} disabled
+                        onMouseOver={(e) => {
+                            setVisibility(onMouseOverHandler(e, 'visible'));
+                            setSize(onMouseOverHandler(e, 'big'));
+                        }}
+                        onMouseOut={(e) => {
+                            setVisibility(onMouseOutHandler(e, 'hidden'));
+                            setSize(onMouseOutHandler(e, 'small'));
+                        }}
+                    />
+                    <input
+                        data-identifier={`media-${song?.id}`}
+                        data-ms-input='media' value={song?.media} disabled
+                        onMouseOver={(e) => {
+                            setVisibility(onMouseOverHandler(e, 'visible'));
+                            setSize(onMouseOverHandler(e, 'big'));
+                        }}
+                        onMouseOut={(e) => {
+                            setVisibility(onMouseOutHandler(e, 'hidden'));
+                            setSize(onMouseOutHandler(e, 'small'));
+                        }}
+                    />
+                    <input
+                        data-identifier={`coverArt-${song?.id}`}
+                        data-ms-input='cover-art' value={song?.coverArt} disabled
+                        onMouseOver={(e) => {
+                            setVisibility(onMouseOverHandler(e, 'visible'));
+                            setSize(onMouseOverHandler(e, 'big'));
+                        }}
+                        onMouseOut={(e) => {
+                            setVisibility(onMouseOutHandler(e, 'hidden'));
+                            setSize(onMouseOutHandler(e, 'small'));
+                        }}
+                    />
 
                     <NavLink to={`/edit/${song?.id}`}>Edit</NavLink>
-                    <textarea data-ms-input='body' value={song?.body} disabled/>
+                    <textarea
+                        data-identifier={`textarea-${song?.id}`}
+                        data-ms-input='body' value={song?.body} disabled
+                        onMouseOver={(e) => {
+                            setVisibility(onMouseOverHandler(e, 'visible'));
+                            setSize(onMouseOverHandler(e, 'big'));
+                        }}
+                        onMouseOut={(e) => {
+                            setVisibility(onMouseOutHandler(e, 'hidden'));
+                            setSize(onMouseOutHandler(e, 'small'));
+                        }}
+                    />
              </div>
              <div
-                id={`subcard-${song?.id}`}
+                data-identifier={`subcard-${song?.id}`}
                 data-subcard-visibility='hidden'
+                className='mySongs-subcard'
                 onMouseOver={(e) => {
                     setVisibility(onMouseOverHandler(e, 'visible'));
-                    setSize(onMouseOverHandler(e, 'small'));
+                    setSize(onMouseOverHandler(e, 'big'));
                 }}
                 onMouseOut={(e) => {
                     setVisibility(onMouseOutHandler(e, 'hidden'));
-                    setSize(onMouseOutHandler(e, 'big'));
+                    setSize(onMouseOutHandler(e, 'small'));
                 }}
              >
                 <span>Visits: {`${song?.visits}`}</span> <br />
