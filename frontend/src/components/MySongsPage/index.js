@@ -27,7 +27,7 @@ export const MySongsPage = () => {
         const contextMenuItems = Array.from(contextMenu.children);
         contextMenuItems.forEach(menuItem => {
             menuItem.addEventListener('click', (subE) => {
-                const cardInputs = Array.from(mainE.nativeEvent.srcElement.children);
+                const cardInputs = Array.from(mainE.target.children);
                 cardInputs.map(async(input) => {
                     if (input.dataset.msInput === subE.target.dataset.msItem) {
                         try {
@@ -43,6 +43,14 @@ export const MySongsPage = () => {
         })
     }
 
+    const onMouseOverHandler = (e, attribute) => {
+        console.log(e, attribute);
+    }
+
+    const onMouseOutHandler = (e, attribute) => {
+        console.log(e, attribute);
+    }
+
     body.addEventListener('click', (e) => {
         const contextMenu = document.getElementById('context-menu');
         if (e.target.offsetParent !== contextMenu) {
@@ -54,26 +62,22 @@ export const MySongsPage = () => {
         return state.queriedSongs;
     })
 
-    const [visibility, setVisibility] = useState('hidden-mySongs-info');
-    const [size, setSize] = useState('big-mySongs-card');
+    const [visibility, setVisibility] = useState(`hidden`);
+    const [size, setSize] = useState('big');
 
     const songDiv = Object.values(songs).map(song => (
         <div key={song?.id}>
             <div
-                
+                id={song?.id}
                 data-card-size={size}
                 className='mySongs-card'
                 onMouseOver={(e) => {
-                    const id = e
-                    console.log(id);
-                    setVisibility('visible-mySongs-info');
-                    setSize('small-mySongs-card');
+                    setVisibility(onMouseOverHandler(e, 'visible'));
+                    setSize(onMouseOverHandler(e, 'small'));
                 }}
                 onMouseOut={(e) => {
-                    const id = e.target.id
-                    console.log(id);
-                    setVisibility('hidden-mySongs-info');
-                    setSize('big-mySongs-card');
+                    setVisibility(onMouseOutHandler(e, 'hidden'));
+                    setSize(onMouseOutHandler(e, 'big'));
                 }}
 
                 onContextMenu={contextMenuHandler}
@@ -88,15 +92,15 @@ export const MySongsPage = () => {
                     <textarea data-ms-input='body' value={song?.body} disabled/>
              </div>
              <div
-                key={song?.id}
+                id={song?.id}
                 data-subcard-visibility={visibility}
-                 onMouseOver={() => {
-                    setVisibility('visible-mySongs-info');
-                    setSize('small-mySongs-card');
+                onMouseOver={(e) => {
+                    setVisibility(onMouseOverHandler(e, 'visible'));
+                    setSize(onMouseOverHandler(e, 'small'));
                 }}
-                onMouseOut={() => {
-                    setVisibility('hidden-mySongs-info');
-                    setSize('big-mySongs-card')
+                onMouseOut={(e) => {
+                    setVisibility(onMouseOutHandler(e, 'hidden'));
+                    setSize(onMouseOutHandler(e, 'big'));
                 }}
              >
                 <span>Visits: {`${song?.visits}`}</span> <br />

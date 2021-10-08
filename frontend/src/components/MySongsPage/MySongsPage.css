@@ -70,19 +70,19 @@ textarea[data-ms-input='body'] {
     width: 100%;
 }
 
-div[data-card-size='big-mySongs-card'] {
+div[data-card-size='big'] {
     height: 60vh;
 }
 
-div[data-card-size='small-mySongs-card'] {
+div[data-card-size='small'] {
     height: 40vh;
 }
 
-div[data-subcard-visibility='hidden-mySongs-info'] {
+div[data-subcard-visibility='hidden'] {
     display: none;
 }
 
-div[data-subCard-visibility='visible-mySongs-info'] {
+div[data-subCard-visibility='visible'] {
     margin: 0;
     padding: 0;
     cursor: pointer;
