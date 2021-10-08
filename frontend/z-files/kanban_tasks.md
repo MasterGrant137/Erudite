@@ -4,6 +4,9 @@
 Don’t forget to remove the limit on your /my-songs route when you finish testing
 Change emoji for drop down since home isn’t even one of the options, some navigation emoji
 
+
+- make the title Erudite sticky at the top, especially for MySongs page
+
 - On mySongs page and any related pages, rename ids like big-mySongs-lyrics to big-mySongs-card for explicitness since the whole card is being affected
 - Animate all the pages and check the background and borders
 

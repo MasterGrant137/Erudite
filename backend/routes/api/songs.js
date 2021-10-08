@@ -38,8 +38,7 @@ router.get('/my-songs', asyncHandler(async(req, res) => {
     const songs = await Song.findAll({
         where: {
             userID
-        },
-        limit: 21
+        }
     });
     return res.json(songs);
 }));

@@ -12,7 +12,7 @@ const getMySongs = (mySongs) => {
   }
 }
 
-const editSong = (mySong) => {
+const editMySong = (mySong) => {
   return {
     type: EDIT_SONG,
     payload: mySong,
@@ -40,7 +40,7 @@ export const mySongs = () => async dispatch => {
   }
 }
 
-export const editSongThunk = (song) => async dispatch => {
+export const editSong = (song) => async dispatch => {
   const response = await csrfFetch(`/erudite/songs/${song.id}/edit`, {
     method: 'PATCH',
     body: JSON.stringify(song)
@@ -48,7 +48,7 @@ export const editSongThunk = (song) => async dispatch => {
 
   if (response.ok) {
     const editedSong = await response.json();
-    dispatch(editSong(editedSong));
+    dispatch(editMySong(editedSong));
     return editedSong;
   }
 }
@@ -64,20 +64,13 @@ export const newSong = (song) => async dispatch => {
     dispatch(setSong(newSong));
     return newSong;
   }
-
-  // if (response.ok) {
-  //   const newSong = await response.json();
-  //   dispatch(setSong(newSong));
-  //   return newSong;
-  // }
 }
 
 export const deleteSong = (id) => async dispatch => {
-  console.log(`THIS IS THE ID`,id);
-
   const response = await csrfFetch(`/erudite/songs/${id}/delete`, {
     method: 'DELETE',
   });
+  
     const data = await response.json();
     dispatch(removeSong(data))
     return data;
@@ -96,7 +89,7 @@ export const addComment = (comment) => async dispatch => {
   }
 }
 
-const initialState = { };
+const initialState = {};
 
 const queriedSongsReducer = (state = initialState, action) => {
     let newState;

@@ -1,8 +1,7 @@
 import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams, useHistory } from 'react-router-dom';
-import { editSongThunk, deleteSong } from '../../store/queries';
-import { mySongs } from '../../store/queries';
+import { editSong, deleteSong } from '../../store/queries';
 import './EditSongPage.css'
 
 export const EditSongPage = () => {
@@ -29,7 +28,7 @@ export const EditSongPage = () => {
     const handleSubmit = async(e) => {
         e.preventDefault();
 
-        await dispatch(editSongThunk({
+        await dispatch(editSong({
             songID: songParams.id,
             artist,
             title,
@@ -38,7 +37,7 @@ export const EditSongPage = () => {
             media,
             coverArt,
         }));
-        // await dispatch(mySongs()); //* We need to look into this
+        
         history.push('/my-songs');
     }
 

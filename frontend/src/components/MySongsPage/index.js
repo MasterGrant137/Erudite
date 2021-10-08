@@ -28,11 +28,15 @@ export const MySongsPage = () => {
         contextMenuItems.forEach(menuItem => {
             menuItem.addEventListener('click', (subE) => {
                 const cardInputs = Array.from(mainE.nativeEvent.srcElement.children);
-                cardInputs.map((input) => {
+                cardInputs.map(async(input) => {
                     if (input.dataset.msInput === subE.target.dataset.msItem) {
-                        input.select();
-                        navigator.clipboard.writeText(input.value);
-                        alert('Successfully copied to clipboard!');
+                        try {
+                            await input.select();
+                            await navigator.clipboard.writeText(input.value);
+                            alert('Successfully copied to clipboard :D');
+                        } catch (err) {
+                            alert('Failed to copy to clipboard ):')
+                        }
                     }
                 })
             })
@@ -56,14 +60,18 @@ export const MySongsPage = () => {
     const songDiv = Object.values(songs).map(song => (
         <div key={song?.id}>
             <div
-                key={song?.coverArt}
+                
                 data-card-size={size}
                 className='mySongs-card'
-                onMouseOver={() => {
+                onMouseOver={(e) => {
+                    const id = e
+                    console.log(id);
                     setVisibility('visible-mySongs-info');
                     setSize('small-mySongs-card');
                 }}
-                onMouseOut={() => {
+                onMouseOut={(e) => {
+                    const id = e.target.id
+                    console.log(id);
                     setVisibility('hidden-mySongs-info');
                     setSize('big-mySongs-card');
                 }}
