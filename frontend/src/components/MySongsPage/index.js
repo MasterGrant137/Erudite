@@ -44,11 +44,16 @@ export const MySongsPage = () => {
     }
 
     const onMouseOverHandler = (e, attribute) => {
-        console.log(e, attribute);
+        console.log(e.target.id, attribute);
+        const id = e.target.id;
+        if (attribute === 'visible') {
+            const subCard = document.getElementById();
+            // 'data-subcard-visibility'
+        }
     }
 
     const onMouseOutHandler = (e, attribute) => {
-        console.log(e, attribute);
+        console.log(e.target.id, attribute);
     }
 
     body.addEventListener('click', (e) => {
@@ -68,7 +73,7 @@ export const MySongsPage = () => {
     const songDiv = Object.values(songs).map(song => (
         <div key={song?.id}>
             <div
-                id={song?.id}
+                id={`card-${song?.id}`}
                 data-card-size={size}
                 className='mySongs-card'
                 onMouseOver={(e) => {
@@ -92,8 +97,8 @@ export const MySongsPage = () => {
                     <textarea data-ms-input='body' value={song?.body} disabled/>
              </div>
              <div
-                id={song?.id}
-                data-subcard-visibility={visibility}
+                id={`subCard-${song?.id}`}
+                data-subcard-visibility='false'
                 onMouseOver={(e) => {
                     setVisibility(onMouseOverHandler(e, 'visible'));
                     setSize(onMouseOverHandler(e, 'small'));
