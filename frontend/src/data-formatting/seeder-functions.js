@@ -36,7 +36,12 @@ const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visitsNum, 
 
     //$ media, & cover art = raw
 
-    songSeedsSet.add(`{userID: ${1}, artist: "${artist}", title: "${title}", producer: "${producer ? pipe + producer : ''}", body: \`${body}\`, media: \`${media}\`, visits: ${visits}, coverArt: "${coverArt}", createdAt: new Date(), updatedAt: new Date()}`)
+    //? user
+    const max = 4;
+    const min = 1;
+    const userID = Math.floor(Math.random() * (max - min) + min);
+
+    songSeedsSet.add(`{userID: ${userID}, artist: "${artist}", title: "${title}", producer: "${producer ? pipe + producer : ''}", body: \`${body}\`, media: \`${media}\`, visits: ${visits}, coverArt: "${coverArt}", createdAt: new Date(), updatedAt: new Date()}`);
 
     fs.writeFile('./song-seeds.js', `const songSeedsArray = [${Array.from(songSeedsSet)}]${'\n\n'}module.exports = { songSeedsArray };`, err => {
         if (err) {

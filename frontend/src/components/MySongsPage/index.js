@@ -32,10 +32,8 @@ export const MySongsPage = () => {
                     if (input.dataset.msInput === subE.target.dataset.msItem) {
                         input.select();
                         navigator.clipboard.writeText(input.value);
-                        alert('Successfully copied to clipboard!')
-                        return void(0);
+                        alert('Successfully copied to clipboard!');
                     }
-                    return void(0);
                 })
             })
         })
