@@ -82,7 +82,7 @@ div[data-subcard-visibility='hidden'] {
     display: none;
 }
 
-div[data-subCard-visibility='visible'] {
+div[data-subcard-visibility='visible'] {
     margin: 0;
     padding: 0;
     cursor: pointer;
@@ -93,7 +93,7 @@ div[data-subCard-visibility='visible'] {
     transition: height 1.5s;
 }
 
-div[data-subCard-visibility='visible-mySongs-info']:hover {
+div[data-subcard-visibility='visible-mySongs-info']:hover {
     height: 50%;
     background-color: rgba(0, 0, 0, 0.7);
     color: #57CC99;

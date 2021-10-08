@@ -44,16 +44,32 @@ export const MySongsPage = () => {
     }
 
     const onMouseOverHandler = (e, attribute) => {
-        console.log(e.target.id, attribute);
-        const id = e.target.id;
-        if (attribute === 'visible') {
-            const subCard = document.getElementById();
-            // 'data-subcard-visibility'
+
+        const card = document.getElementById(`${e.target.id}`);
+        const subcard = document.getElementById(`${e.target.id}`);
+
+        if (subcard && attribute === 'visible') {
+            const subcardRegex = e.target.id.replace(/(card)(-)([0-9])/, 'subcard$2$3');
+            const subcard = document.getElementById(`${subcardRegex}`);
+            subcard.dataset.subcardVisibility='visible';
+        } else if (card && attribute === 'small') {
+            const card = document.getElementById(`${e.target.id}`);
+            card.dataset.cardSize='small';
         }
     }
 
     const onMouseOutHandler = (e, attribute) => {
-        console.log(e.target.id, attribute);
+        const card = document.getElementById(`${e.target.id}`);
+        const subcard = document.getElementById(`${e.target.id}`);
+
+        if (subcard && attribute === 'hidden') {
+            const subcardRegex = e.target.id.replace(/(card)(-)([0-9])/, 'subcard$2$3');
+            const subcard = document.getElementById(`${subcardRegex}`);
+            subcard.dataset.subcardVisibility='hidden';
+        } else if (card && attribute === 'big') {
+            const card = document.getElementById(`${e.target.id}`);
+            card.dataset.cardSize='big';
+        }
     }
 
     body.addEventListener('click', (e) => {
@@ -74,7 +90,7 @@ export const MySongsPage = () => {
         <div key={song?.id}>
             <div
                 id={`card-${song?.id}`}
-                data-card-size={size}
+                data-card-size='small'
                 className='mySongs-card'
                 onMouseOver={(e) => {
                     setVisibility(onMouseOverHandler(e, 'visible'));
@@ -97,8 +113,8 @@ export const MySongsPage = () => {
                     <textarea data-ms-input='body' value={song?.body} disabled/>
              </div>
              <div
-                id={`subCard-${song?.id}`}
-                data-subcard-visibility='false'
+                id={`subcard-${song?.id}`}
+                data-subcard-visibility='hidden'
                 onMouseOver={(e) => {
                     setVisibility(onMouseOverHandler(e, 'visible'));
                     setSize(onMouseOverHandler(e, 'small'));
