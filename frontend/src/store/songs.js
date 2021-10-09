@@ -2,7 +2,6 @@ import { csrfFetch } from './csrf';
 
 //? types
 const GET_SONGS = 'songs/getSongs';
-const GET_COMMENTS = 'songs/getComments';
 
 //? action creators
 const getSongs = (songs) => {
@@ -11,13 +10,6 @@ const getSongs = (songs) => {
         payload: songs
     };
 };
-
-const getComments = (comments) => {
-    return {
-        type: GET_COMMENTS,
-        payload: comments
-    }
-}
 
 //? thunks
 export const homeSongs = () => async dispatch => {
@@ -36,14 +28,6 @@ export const songPage = (title) => async dispatch => {
     }
 }
 
-export const getCommentSection = (title) => async dispatch => {
-    const response = await csrfFetch(`/erudite/comments/${title}/list`);
-    if (response.ok) {
-        const comments = await response.json();
-        dispatch(getComments(comments));
-    }
-}
-
 const initialState = {};
 
 //? reducer
@@ -56,10 +40,6 @@ const songReducer = (state = initialState, action) => {
                 newSongs[song.id] = song;
             })
             return {...state,...newSongs};
-        case GET_COMMENTS:
-            const newState = Object.assign({}, state);
-            action.payload.forEach(comment => newState[comment.id] = comment);
-            return {...state,...newState}
         default: return state;
     }
 }

@@ -15,20 +15,17 @@ const submissionValidation = [
 ]
 
 
-router.get('/:title/list', asyncHandler(async(req, res) => {
-    const jwtToken = req.cookies.token;
-    const base64UserID = jwtToken.split('.')[1].replace('-', '+').replace('_', '/');
-    const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));
-    const userID = parsedUserInfo.data.id;
+router.get('/:songID/list', asyncHandler(async(req, res) => {
+    console.log('this is the songID!!!', req.params.songID);
+    const songID = req.params.songID;
 
-console.log('this is the req!!!', req);
-
-    const songs = await Comment.findAll({
+    const comments = await Comment.findAll({
         where: {
-            userID
+            songID
         }
     });
-    return res.json(songs);
+
+    return res.json(comments);
 }));
 
 

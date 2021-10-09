@@ -3,8 +3,9 @@
 TEST mySongs for loading since you added the payload key
 TEST songPage too for the same reason
 
+CONSIDER on SongPage, taking away useParams and putting in song.title, try using useSelector earlier that useEffects
 
-
+BEWARE shared state between mySong and Top Songs, may have been a rendering abnormality but I saw one song go to the front of the list of topSongs when I switched pages, couldn't recreate
 
 Don’t forget to remove the limit on your /my-songs route when you finish testing
 Change emoji for drop down since home isn’t even one of the options, some navigation emoji

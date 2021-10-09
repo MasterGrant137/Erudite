@@ -3,6 +3,7 @@ import { csrfFetch } from './csrf';
 const GET_MY_SONGS = 'songs/getMySongs';
 const EDIT_SONG = 'queries/editSong';
 const SET_SONG = 'queries/setSong';
+const GET_COMMENTS = 'songs/getComments';
 const REMOVE_SONG = 'queries/removeSong';
 
 const getMySongs = (mySongs) => {
@@ -25,6 +26,13 @@ const setSong = (song) => {
     payload: song,
   };
 };
+
+const getComments = (comments) => {
+  return {
+      type: GET_COMMENTS,
+      payload: comments
+  }
+}
 
 const removeSong = () => {
   return {
@@ -63,6 +71,14 @@ export const newSong = (song) => async dispatch => {
     const newSong = await response.json();
     dispatch(setSong(newSong));
     return newSong;
+  }
+}
+
+export const commentSection = (songID) => async dispatch => {
+  const response = await csrfFetch(`/erudite/comments/${songID}/list`);
+  if (response.ok) {
+      const comments = await response.json();
+      dispatch(getComments(comments));
   }
 }
 
@@ -106,6 +122,10 @@ const queriedSongsReducer = (state = initialState, action) => {
         newState = Object.assign({}, state);
         newState[action.payload.id] = action.payload;
         return newState;
+      case GET_COMMENTS:
+        newState = Object.assign({}, state);
+        action.payload.forEach(comment => newState[comment.id] = comment);
+        return {...state,...newState};
       case REMOVE_SONG:
         newState = Object.assign({}, state);
         newState.song = null;
