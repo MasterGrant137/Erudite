@@ -44,8 +44,10 @@ export const SongPage = () => {
     })
 
     const comments = Object.values(commentsSelector).map(comment => (
-        <li>{comment}</li>
+        <li>{comment.body}</li>
     ))
+
+    console.log('LOOK HERE commselector', Object.values(commentsSelector).map(comment => comment.body));
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -75,9 +77,7 @@ export const SongPage = () => {
                             />
                             <button type='submit'>Submit</button>
                         </form>
-                        <div id='sp-comments-holder'>
-
-                            </div>
+                        <ul id='sp-comments-holder'>{comments}</ul>
                     </div>
                          <textarea
                              id='song-page-lyrics'
