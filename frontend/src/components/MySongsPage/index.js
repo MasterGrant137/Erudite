@@ -44,34 +44,30 @@ export const MySongsPage = () => {
     }
 
     const onMouseOverHandler = (e, value) => {
-        // const anyCardExists = document.querySelector(`input[data-identifier='${e.target.id}']`);
         const attrRegex = /(.*?\w)(-)(\d)/
 
-        // console.log('hit', anyCardExists, e.target.dataset);
         if (e && value === 'visible') {
             const attrVal = e.target.dataset.identifier.replace(attrRegex, 'subcard$2$3');
             const subcard = document.querySelector(`div[data-identifier='${attrVal}']`);
             subcard.dataset.subcardVisibility='visible';
         } else if (e && value === 'big') {
-            // const card = document.querySelector(`input[data-identifier='${e.target.id}']`);
-            // card.dataset.cardSize='big';
-            e.target.dataset.cardSize='big';
+            const attrVal = e.target.dataset.identifier.replace(attrRegex, 'card$2$3');
+            const card = document.querySelector(`div[data-identifier='${attrVal}']`);
+            card.dataset.cardSize='big';
         }
     }
 
     const onMouseOutHandler = (e, value) => {
-        // const anyCardExists = document.querySelector(`input[data-identifier='${e.target.id}']`);
         const attrRegex = /(.*?\w)(-)(\d)/
 
         if (e && value === 'hidden') {
             const attrVal = e.target.dataset.identifier.replace(attrRegex, 'subcard$2$3');
             const subcard = document.querySelector(`div[data-identifier='${attrVal}']`);
-            // subcard.dataset.subcardVisibility='hidden';
             subcard.dataset.subcardVisibility='hidden';
         } else if (e && value === 'small') {
-            // const card = document.querySelector(`input[data-identifier='${e.target.id}']`);
-            // card.dataset.cardSize='small';
-            e.target.dataset.cardSize='small';
+            const attrVal = e.target.dataset.identifier.replace(attrRegex, 'card$2$3');
+            const card = document.querySelector(`div[data-identifier='${attrVal}']`);
+            card.dataset.cardSize='small';
         }
     }
 
