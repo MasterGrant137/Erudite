@@ -58,7 +58,11 @@
 #sp-comments-container {
     grid-area: 'c';
     text-align: center;
+    background-color: blue;
+}
 
+#sp-comments-holder{
+    background-color: red;
 }
 
 #song-page-lyrics {

@@ -1,5 +1,10 @@
 
 
+TEST mySongs for loading since you added the payload key
+TEST songPage too for the same reason
+
+
+
 
 Don’t forget to remove the limit on your /my-songs route when you finish testing
 Change emoji for drop down since home isn’t even one of the options, some navigation emoji

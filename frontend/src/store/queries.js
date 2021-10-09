@@ -8,7 +8,7 @@ const REMOVE_SONG = 'queries/removeSong';
 const getMySongs = (mySongs) => {
   return {
       type: GET_MY_SONGS,
-      mySongs,
+      payload: mySongs,
   }
 }
 
@@ -70,7 +70,7 @@ export const deleteSong = (id) => async dispatch => {
   const response = await csrfFetch(`/erudite/songs/${id}/delete`, {
     method: 'DELETE',
   });
-  
+
     const data = await response.json();
     dispatch(removeSong(data))
     return data;
@@ -96,8 +96,8 @@ const queriedSongsReducer = (state = initialState, action) => {
     switch (action.type) {
       case GET_MY_SONGS:
         const newMySongs = {};
-        action.mySongs.forEach(mySong => newMySongs[mySong.id] = mySong)
-        return {...state,...newMySongs}
+        action.payload.forEach(mySong => newMySongs[mySong.id] = mySong);
+        return {...state,...newMySongs};
       case SET_SONG:
         newState = Object.assign({}, state);
         newState.song = action.payload;

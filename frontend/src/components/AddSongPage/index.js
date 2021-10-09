@@ -8,7 +8,7 @@ import * as queryActions from '../../store/queries';
 export const AddSong = () => {
     const history = useHistory();
     const dispatch = useDispatch();
-    
+
     const [artist, setArtist] = useState('');
     const [title, setTitle] = useState('');
     const [producer, setProducer] = useState('');
@@ -16,10 +16,9 @@ export const AddSong = () => {
     const [media, setMedia] = useState('');
     const [coverArt, setCoverArt] = useState('');
 
-    const handleSubmit = async(e) =>{
+    const handleSubmit = (e) =>{
         e.preventDefault();
-
-        await dispatch(queryActions.newSong({artist, title, producer, body, media, coverArt}));
+        dispatch(queryActions.newSong({artist, title, producer, body, media, coverArt}));
         history.push('/my-songs');
     }
 
