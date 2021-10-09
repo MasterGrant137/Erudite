@@ -63,6 +63,7 @@ export const MySongsPage = () => {
         if (e && value === 'hidden') {
             const attrVal = e.target.dataset.identifier.replace(attrRegex, 'subcard$2$3');
             const subcard = document.querySelector(`div[data-identifier='${attrVal}']`);
+            console.log(subcard);
             subcard.dataset.subcardVisibility='hidden';
         } else if (e && value === 'small') {
             const attrVal = e.target.dataset.identifier.replace(attrRegex, 'card$2$3');
@@ -163,7 +164,19 @@ export const MySongsPage = () => {
                         }}
                     />
 
-                    <NavLink to={`/edit/${song?.id}`}>Edit</NavLink>
+                    <NavLink to={`/edit/${song?.id}`}
+                        data-identifier={`navLink-${song?.id}`}
+                        onMouseOver={(e) => {
+                            setVisibility(onMouseOverHandler(e, 'visible'));
+                            setSize(onMouseOverHandler(e, 'big'));
+                        }}
+                        onMouseOut={(e) => {
+                            setVisibility(onMouseOutHandler(e, 'hidden'));
+                            setSize(onMouseOutHandler(e, 'small'));
+                        }}
+                    >
+                        Edit
+                    </NavLink>
                     <textarea
                         data-identifier={`textarea-${song?.id}`}
                         data-ms-input='body' value={song?.body} disabled
@@ -190,9 +203,47 @@ export const MySongsPage = () => {
                     setSize(onMouseOutHandler(e, 'small'));
                 }}
              >
-                <span>Visits: {`${song?.visits}`}</span> <br />
-                <span>Created: {`${song?.createdAt}`}</span> <br />
-                <span>Updated: {`${song?.updatedAt}`}</span>
+                <span
+                    data-identifier={`visitsSpan-${song?.id}`}
+                    onMouseOver={(e) => {
+                        setVisibility(onMouseOverHandler(e, 'visible'));
+                        setSize(onMouseOverHandler(e, 'big'));
+                    }}
+                    onMouseOut={(e) => {
+                        setVisibility(onMouseOutHandler(e, 'hidden'));
+                        setSize(onMouseOutHandler(e, 'small'));
+                    }}
+                >
+                    Visits: {`${song?.visits}`}
+                </span>
+                <br />
+                <span
+                    data-identifier={`createdSpan-${song?.id}`}
+                    onMouseOver={(e) => {
+                        setVisibility(onMouseOverHandler(e, 'visible'));
+                        setSize(onMouseOverHandler(e, 'small'));
+                    }}
+                    onMouseOut={(e) => {
+                        setVisibility(onMouseOutHandler(e, 'hidden'));
+                        setSize(onMouseOutHandler(e, 'big'));
+                    }}
+                >
+                    Created: {`${song?.createdAt}`}
+                </span>
+                <br />
+                <span
+                    data-identifier={`updatedSpan-${song?.id}`}
+                    onMouseOver={(e) => {
+                        setVisibility(onMouseOverHandler(e, 'visible'));
+                        setSize(onMouseOverHandler(e, 'big'));
+                    }}
+                    onMouseOut={(e) => {
+                        setVisibility(onMouseOutHandler(e, 'hidden'));
+                        setSize(onMouseOutHandler(e, 'small'));
+                    }}
+                >
+                    Updated: {`${song?.updatedAt}`}
+                </span>
             </div>
         </div>
     ));

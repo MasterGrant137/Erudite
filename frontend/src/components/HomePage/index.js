@@ -30,13 +30,10 @@ const HomePage = () => {
     }
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
-        <div key={song.media.replace(iframeRegex, '$2')}
- onClick={(e) => {
-                    clickHandler(e);
-                }}
+        <div key={song?.id}
+            onClick={(e) => clickHandler(e)}
         >
             <iframe
-                key={song.media.replace(iframeRegex, '$2')}
                 id={size}
                 className='home-video'
                 src={song.media.replace(iframeRegex,'$3')}
@@ -53,7 +50,6 @@ const HomePage = () => {
              />
              <textarea
                 id={visibility}
-                key={song.id}
                 value={song.body}
                 title={song.title}
 
