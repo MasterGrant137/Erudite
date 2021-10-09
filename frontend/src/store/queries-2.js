@@ -35,8 +35,8 @@ export const topSongsReducer = (state = initialState1, action) => {
 
     switch (action.type) {
         case GET_SONGS:
+            state = {};
             const newSongs = {};
-            console.log('PAYLOAD!!',action.payload);
             Object.values(action.payload).forEach(song => {
                 newSongs[song.id] = song;
             })
