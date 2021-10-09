@@ -15,15 +15,8 @@ const submissionValidation = [
 
 
 router.get('/:songID/list', asyncHandler(async(req, res) => {
-    console.log('this is the songID!!!', req.params.songID);
     const songID = req.params.songID;
-
-    const comments = await Comment.findAll({
-        where: {
-            songID
-        }
-    });
-
+    const comments = await Comment.findOne({ where: { songID } });
     return res.json(comments);
 }));
 
@@ -35,13 +28,7 @@ router.post('/', submissionValidation, asyncHandler(async(req, res) => {
     const userID = parsedUserInfo.data.id;
 
     const { title, body } = req.body;
-
-    const song = await Song.findAll({
-        where: {
-            title
-        }
-    })
-
+    const song = await Song.findOne({ where: { title } });
     const songID = song[0].id;
 
     const createdComment = await Comment.create({

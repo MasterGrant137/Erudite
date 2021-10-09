@@ -63,7 +63,6 @@ export const MySongsPage = () => {
         if (e && value === 'hidden') {
             const attrVal = e.target.dataset.identifier.replace(attrRegex, 'subcard$2$3');
             const subcard = document.querySelector(`div[data-identifier='${attrVal}']`);
-            console.log(subcard);
             subcard.dataset.subcardVisibility='hidden';
         } else if (e && value === 'small') {
             const attrVal = e.target.dataset.identifier.replace(attrRegex, 'card$2$3');

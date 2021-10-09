@@ -16,7 +16,6 @@ export const SongPage = () => {
     const songParams = useParams();
 
     useEffect(() => {
-        console.log('THIS IS SONG PARAMS', songParams);
         dispatch(queryActions2.songPage(songParams?.title));
     }, [dispatch, songParams])
 
@@ -25,14 +24,12 @@ export const SongPage = () => {
     }, [dispatch, songParams])
 
     const songSelector = useSelector(state => {
-        console.log('THIS IS THE STATE',state.song);
         return state.song;
     })
     let song;
     const songStateVals = Object.values(songSelector);
     if (songStateVals.length === 1) song = songStateVals[0];
     else song = songStateVals.find(song => song.title === songParams.title);
-    console.log('THIS IS THE SONG',song);
 
     useEffect(() => {
         dispatch(queryActions1.commentSection(song?.id));
@@ -46,8 +43,6 @@ export const SongPage = () => {
     const comments = Object.values(commentsSelector).map(comment => (
         <li>{comment.body}</li>
     ))
-
-    console.log('LOOK HERE commselector', Object.values(commentsSelector).map(comment => comment.body));
 
     const handleSubmit = (e) => {
         e.preventDefault();
