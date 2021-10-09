@@ -29,10 +29,9 @@ export const songPage = (title) => async dispatch => {
     }
 }
 
-const initialState = {};
-
 //? reducers
-export const topSongsReducer = (state = initialState, action) => {
+const initialState1 = {};
+export const topSongsReducer = (state = initialState1, action) => {
 
     switch (action.type) {
         case GET_SONGS:
@@ -46,13 +45,13 @@ export const topSongsReducer = (state = initialState, action) => {
     }
 }
 
-export const songReducer = (state = initialState, action) => {
+const initialState2 = {};
+export const songReducer = (state = initialState2, action) => {
     switch (action.type) {
         case GET_SONGS:
+            state = {};
             const newSongs = {};
-            Object.values(action.payload).forEach(song => {
-                newSongs[song.id] = song;
-            })
+            newSongs[action.payload.id] = action.payload;
             return {...state,...newSongs};
         default: return state;
     }
