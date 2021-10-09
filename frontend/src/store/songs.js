@@ -24,7 +24,6 @@ export const songPage = (title) => async dispatch => {
     const response = await csrfFetch(`/erudite/songs/${title}/lyrics`)
     if (response.ok) {
         const song = await response.json();
-        console.log(`THIS IS THE SONG IN STORE`,song);
         dispatch(getSongs(song));
     }
 }

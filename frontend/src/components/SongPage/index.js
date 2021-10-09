@@ -31,13 +31,14 @@ export const SongPage = () => {
 
     const handleSubmit = async(e) => {
         e.preventDefault();
-
         const title = songParams.title;
-
         await dispatch(queryActions.addComment({ title, body }))
     }
 
-    const song = Object.values(songSelector)[0];
+    let song;
+    const stateVals = Object.values(songSelector);
+    if (stateVals.length === 1) song = stateVals[0];
+    else song = stateVals.find(song => song.title === songParams.title);
 
     return (
         <div id='song-page-container'>

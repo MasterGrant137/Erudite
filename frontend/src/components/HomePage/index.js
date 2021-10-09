@@ -25,14 +25,12 @@ const HomePage = () => {
 
     const clickHandler = (e) => {
         e.preventDefault();
-
+        console.log(e.target);
         history.push(`songs/${e.target.title}/lyrics`)
     }
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
-        <div key={song?.id}
-            onClick={(e) => clickHandler(e)}
-        >
+        <div key={song?.id} onClick={(e) => clickHandler(e)}>
             <iframe
                 id={size}
                 className='home-video'
