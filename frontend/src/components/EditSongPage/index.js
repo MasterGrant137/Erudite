@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams, useHistory } from 'react-router-dom';
-import { editSong, deleteSong } from '../../store/queries';
+import * as queryActions1 from '../../store/queries-1';
 import './EditSongPage.css'
 
 export const EditSongPage = () => {
@@ -28,7 +28,7 @@ export const EditSongPage = () => {
     const handleSubmit = async(e) => {
         e.preventDefault();
 
-        await dispatch(editSong({
+        await dispatch(queryActions1.editSong({
             songID: songParams.id,
             artist,
             title,
@@ -37,15 +37,14 @@ export const EditSongPage = () => {
             media,
             coverArt,
         }));
-        
+
         history.push('/my-songs');
     }
 
-    const handleDelete = async(e) => {
+    const handleDelete = (e) => {
         e.preventDefault();
         const songID = songParams.id;
-
-        await dispatch(deleteSong(songID));
+        dispatch(queryActions1.deleteSong(songID));
         history.push('/my-songs');
     }
 

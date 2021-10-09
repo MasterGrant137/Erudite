@@ -3,7 +3,7 @@ import { Link, useHistory } from 'react-router-dom'
 import { useDispatch } from 'react-redux';
 import '../../song.css'
 import './AddSongPage.css'
-import * as queryActions from '../../store/queries';
+import * as queryActions1 from '../../store/queries-1';
 
 export const AddSong = () => {
     const history = useHistory();
@@ -18,7 +18,7 @@ export const AddSong = () => {
 
     const handleSubmit = (e) =>{
         e.preventDefault();
-        dispatch(queryActions.newSong({artist, title, producer, body, media, coverArt}));
+        dispatch(queryActions1.newSong({artist, title, producer, body, media, coverArt}));
         history.push('/my-songs');
     }
 

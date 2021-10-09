@@ -21,6 +21,7 @@ export const homeSongs = () => async dispatch => {
 }
 
 export const songPage = (title) => async dispatch => {
+    console.log('THIS IS QUERIES2 TITLE', title);
     const response = await csrfFetch(`/erudite/songs/${title}/lyrics`)
     if (response.ok) {
         const song = await response.json();
@@ -36,7 +37,8 @@ export const topSongsReducer = (state = initialState, action) => {
     switch (action.type) {
         case GET_SONGS:
             const newSongs = {};
-            action.payload.forEach(song => {
+            console.log('PAYLOAD!!',action.payload);
+            Object.values(action.payload).forEach(song => {
                 newSongs[song.id] = song;
             })
             return {...state,...newSongs};
@@ -48,7 +50,7 @@ export const songReducer = (state = initialState, action) => {
     switch (action.type) {
         case GET_SONGS:
             const newSongs = {};
-            action.payload.forEach(song => {
+            Object.values(action.payload).forEach(song => {
                 newSongs[song.id] = song;
             })
             return {...state,...newSongs};

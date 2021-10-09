@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { NavLink } from 'react-router-dom';
-import { mySongs } from '../../store/queries';
+import * as queryActions1 from '../../store/queries-1';
 import './MySongsPage.css'
 
 export const MySongsPage = () => {
@@ -9,7 +9,7 @@ export const MySongsPage = () => {
     const body = document.querySelector('body');
 
     useEffect(() => {
-        dispatch(mySongs());
+        dispatch(queryActions1.mySongs());
     }, [dispatch])
 
     const contextMenuHandler = async(mainE) => {

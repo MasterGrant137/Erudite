@@ -16,21 +16,23 @@ export const SongPage = () => {
     const songParams = useParams();
 
     useEffect(() => {
-        dispatch(queryActions2.songPage(songParams.title));
+        console.log('THIS IS SONG PARAMS', songParams);
+        dispatch(queryActions2.songPage(songParams?.title));
     }, [dispatch, songParams])
 
     useEffect(() => {
-        dispatch(queryActions1.addComment(songParams.title));
+        dispatch(queryActions1.addComment(songParams?.title));
     }, [dispatch, songParams])
 
     const songSelector = useSelector(state => {
-        return state.songs;
+        console.log('THIS IS THE STATE',state.song);
+        return state.song;
     })
-
     let song;
     const songStateVals = Object.values(songSelector);
     if (songStateVals.length === 1) song = songStateVals[0];
     else song = songStateVals.find(song => song.title === songParams.title);
+    console.log('THIS IS THE SONG',song);
 
     useEffect(() => {
         dispatch(queryActions1.commentSection(song?.id));
@@ -38,12 +40,16 @@ export const SongPage = () => {
 
 
     const commentsSelector = useSelector(state => {
-        return state.songs;
+        return state.queriedSongs;
     })
+
+    const comments = Object.values(commentsSelector).map(comment => (
+        <li>{comment}</li>
+    ))
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        const title = songParams.title;
+        const title = songParams?.title;
         dispatch(queryActions1.addComment({ title, body }));
         document.getElementById('add-comment').value='';
     }
@@ -71,7 +77,7 @@ export const SongPage = () => {
                         </form>
                         <div id='sp-comments-holder'>
 
-                        </div>
+                            </div>
                     </div>
                          <textarea
                              id='song-page-lyrics'
@@ -83,7 +89,7 @@ export const SongPage = () => {
                     <div className='song-page-video'>
                         <iframe
                             className='song-page-video'
-                            src={song?.media.replace(iframeRegex,'$5')}
+                            src={song?.media?.replace(iframeRegex,'$5')}
                             title={song?.title}
                             allow='fullscreen'
                          />

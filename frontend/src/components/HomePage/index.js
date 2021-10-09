@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { homeSongs } from '../../store/songs';
+import * as queryActions2 from '../../store/queries-2';
 import { useHistory } from 'react-router-dom';
 import '../../auth.css';
 import './HomePage.css'
@@ -15,12 +15,12 @@ const HomePage = () => {
 
 
     useEffect(() => {
-        dispatch(homeSongs());
+        dispatch(queryActions2.homeSongs());
     }, [dispatch])
 
 
     const songs = useSelector(state => {
-        return state.songs;
+        return state.topSongs;
     })
 
     const clickHandler = (e) => {
@@ -34,7 +34,7 @@ const HomePage = () => {
             <iframe
                 id={size}
                 className='home-video'
-                src={song.media.replace(iframeRegex,'$3')}
+                src={song?.media?.replace(iframeRegex,'$3')}
                 title={song.title}
                 allow='fullscreen'
                 onMouseOver={() => {

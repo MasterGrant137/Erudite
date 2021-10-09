@@ -45,12 +45,8 @@ router.get('/my-songs', asyncHandler(async(req, res) => {
 router.get('/:title/lyrics', asyncHandler(async(req, res) => {
     const title = req.params.title;
 
-    const songs = await Song.findAll({
-            where: {
-                title
-            }
-        });
-        return res.json(songs);
+    const song = await Song.findOne({ where: { title } });
+    return res.json(song);
 }))
 
 router.post('/', submissionValidation, asyncHandler(async(req, res) => {
