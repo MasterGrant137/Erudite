@@ -5,10 +5,12 @@ TEST songPage too for the same reason
 
 CONSIDER on SongPage, taking away useParams and putting in song.title, try using useSelector earlier that useEffects
 
-BEWARE shared state between mySong and Top Songs, may have been a rendering abnormality but I saw one song go to the front of the list of topSongs when I switched pages, couldn't recreate
+Implement validations for add song and viable pages
 
 Don’t forget to remove the limit on your /my-songs route when you finish testing
 Change emoji for drop down since home isn’t even one of the options, some navigation emoji
+
+- BEWARE shared state between mySong and Top Songs, may have been a rendering abnormality but I saw one song go to the front of the list of topSongs when I switched pages, couldn't recreate
 
 - custom context menu should freeze the screen like the default one
 - make the title Erudite sticky at the top, especially for MySongs page

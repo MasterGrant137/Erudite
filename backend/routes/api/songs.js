@@ -5,8 +5,7 @@ const router = express.Router();
 const { check } = require('express-validator')
 const { handleValidationErrors } = require('../../utils/validation');
 const { Op } = require('sequelize');
-const { setTokenCookie, requireAuth } = require('../../utils/auth');
-const { Song, Comment, Index, Annotation } = require('../../db/models');
+const { Song } = require('../../db/models');
 
 const submissionValidation = [
     check('body')

@@ -3,8 +3,8 @@ import React from 'react'
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams } from 'react-router-dom';
-import { songPage } from '../../store/songs';
-import * as queryActions from '../../store/queries';
+import * as queryActions1 from '../../store/queries-1';
+import * as queryActions2 from '../../store/queries-2';
 import './SongPage.css'
 
 export const SongPage = () => {
@@ -16,24 +16,24 @@ export const SongPage = () => {
     const songParams = useParams();
 
     useEffect(() => {
-        dispatch(songPage(songParams.title));
+        dispatch(queryActions2.songPage(songParams.title));
     }, [dispatch, songParams])
 
     useEffect(() => {
-        dispatch(queryActions.addComment(songParams.title));
+        dispatch(queryActions1.addComment(songParams.title));
     }, [dispatch, songParams])
 
     const songSelector = useSelector(state => {
         return state.songs;
     })
-    
+
     let song;
     const songStateVals = Object.values(songSelector);
     if (songStateVals.length === 1) song = songStateVals[0];
     else song = songStateVals.find(song => song.title === songParams.title);
 
     useEffect(() => {
-        dispatch(queryActions.commentSection(song?.id));
+        dispatch(queryActions1.commentSection(song?.id));
     }, [dispatch, song])
 
 
@@ -44,7 +44,7 @@ export const SongPage = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
         const title = songParams.title;
-        dispatch(queryActions.addComment({ title, body }));
+        dispatch(queryActions1.addComment({ title, body }));
         document.getElementById('add-comment').value='';
     }
 
