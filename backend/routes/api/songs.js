@@ -25,6 +25,7 @@ router.get('/', asyncHandler(async(req, res) => {
         order: [['visits', 'DESC']],
         limit: 10
     });
+
     return res.json(songs);
 }));
 
@@ -34,11 +35,7 @@ router.get('/my-songs', asyncHandler(async(req, res) => {
     const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));
     const userID = parsedUserInfo.data.id;
 
-    const songs = await Song.findAll({
-        where: {
-            userID
-        }
-    });
+    const songs = await Song.findAll({ where: { userID } });
     return res.json(songs);
 }));
 
@@ -47,7 +44,7 @@ router.get('/:title/lyrics', asyncHandler(async(req, res) => {
 
     const song = await Song.findOne({ where: { title } });
     return res.json(song);
-}))
+}));
 
 router.post('/', submissionValidation, asyncHandler(async(req, res) => {
     const jwtToken = req.cookies.token;
@@ -55,27 +52,11 @@ router.post('/', submissionValidation, asyncHandler(async(req, res) => {
     const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));
     const userID = parsedUserInfo.data.id;
 
-    const {
-            artist,
-            title,
-            producer,
-            body,
-            media,
-            coverArt
-          } = req.body;
-
-    const createdSong = await Song.create({
-        userID,
-        artist,
-        title,
-        producer,
-        body,
-        media,
-        coverArt
-    });
-
+    const { artist, title, producer, body, media, coverArt } = req.body;
+    const createdSong = await Song.create({ userID, artist, title, producer, body, media, coverArt });
     res.json(createdSong);
-}))
+}));
+
 
 router.patch('/:id/edit', submissionValidation, asyncHandler(async(req, res) => {
     const jwtToken = req.cookies.token;
@@ -83,16 +64,7 @@ router.patch('/:id/edit', submissionValidation, asyncHandler(async(req, res) => 
     const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));
     const userID = parsedUserInfo.data.id;
 
-    const songObj = {
-                      songID,
-                      artist,
-                      title,
-                      producer,
-                      body,
-                      media,
-                      coverArt
-                    } = req.body;
-
+    const songObj = { songID, artist, title, producer, body, media, coverArt } = req.body;
     const song = await Song.findByPk(songObj.songID);
 
     if (userID === song.userID) {
@@ -104,14 +76,13 @@ router.patch('/:id/edit', submissionValidation, asyncHandler(async(req, res) => 
         song.coverArt = coverArt;
 
         song.save();
-
         const editedSong = await Song.findByPk(songObj.songID);
-
         res.json(editedSong);
+
     } else {
         console.error('Not permitted.')
     }
-}))
+}));
 
 router.delete('/:id/delete', asyncHandler(async(req, res) => {
     const jwtToken = req.cookies.token;
@@ -122,19 +93,9 @@ router.delete('/:id/delete', asyncHandler(async(req, res) => {
     const song = await Song.findByPk(id);
 
     if (userID === song.userID) {
-        await Song.destroy({
-           where: {
-               id
-           }
-       });
-       return res.json({
-           message: 'success'
-       });
-     } else {
-         return res.json({
-             message: 'forbidden'
-         })
-     }
+        await Song.destroy({ where: { id } });
+        return res.json({ message: 'success' });
+    } else return res.json({ message: 'forbidden' });
 
 
 }));

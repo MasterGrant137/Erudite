@@ -20,7 +20,7 @@ router.get('/:title/list', asyncHandler(async(req, res) => {
     return res.json(comments);
 }));
 
-router.post('/', submissionValidation, asyncHandler(async(req, res) => {
+router.post('/:title/list', submissionValidation, asyncHandler(async(req, res) => {
     const jwtToken = req.cookies.token;
     const base64UserID = jwtToken.split('.')[1].replace('-', '+').replace('_', '/');
     const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));

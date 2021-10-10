@@ -69,7 +69,7 @@ export const editSong = (song) => async dispatch => {
 
 export const addComment = (comment) => async dispatch => {
   console.log('this is what a comment looks like', comment.title);
-  const response = await csrfFetch(`/erudite/comments`, {
+  const response = await csrfFetch(`/erudite/comments/${comment.title}/list`, {
     method: 'POST',
     body: JSON.stringify(comment)
   });
