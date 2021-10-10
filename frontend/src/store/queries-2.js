@@ -80,7 +80,7 @@ const initialState3 = {};
 export const commentsReducer = (state = initialState3, action) => {
     switch (action.type) {
         case GET_COMMENTS:
-            state = {};
+            // state = {};
             const newComments = {};
             console.log(action.payload);
             action.payload.forEach(comment => newComments[comment.id] = comment);
