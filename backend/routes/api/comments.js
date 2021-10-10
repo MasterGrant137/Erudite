@@ -27,7 +27,6 @@ router.post('/', submissionValidation, asyncHandler(async(req, res) => {
     const userID = parsedUserInfo.data.id;
 
     const { title, body } = req.body;
-    console.log('COMMENT POST REQ.BODY!', req.body);
     const song = await Song.findOne({ where: { title } });
     const songID = song.id;
 

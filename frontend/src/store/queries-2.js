@@ -13,7 +13,6 @@ const getSongs = (songs) => {
 };
 
 const getComments = (comments) => {
-    console.log('COMMENTS', comments);
     return {
         type: GET_COMMENTS,
         payload: comments
@@ -40,11 +39,9 @@ export const songPage = (title) => async dispatch => {
 }
 
 export const commentSection = (title) => async dispatch => {
-    console.log('S-C Title!!!', title);
     const response = await csrfFetch(`/erudite/comments/${title}/list`);
     if (response.ok) {
         const comments = await response.json();
-        console.log('COMMENT RESPONSE', comments);
         dispatch(getComments(comments));
     }
   }
@@ -80,7 +77,7 @@ const initialState3 = {};
 export const commentsReducer = (state = initialState3, action) => {
     switch (action.type) {
         case GET_COMMENTS:
-            // state = {};
+            state = {};
             const newComments = {};
             console.log(action.payload);
             action.payload.forEach(comment => newComments[comment.id] = comment);

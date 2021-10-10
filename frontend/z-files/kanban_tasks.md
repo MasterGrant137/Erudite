@@ -3,12 +3,19 @@ CHANGE data-ms-input condition on songPage to use data identifier attribute
 
 CONSIDER on SongPage, taking away useParams and putting in song.title, try using useSelector earlier that useEffects
 
+CONSIDER moving context menu to a smaller component
+
+BEWARE songPage unique key issue
+
 Implement validations for add song and viable pages
 
 Don’t forget to remove the limit on your /my-songs route when you finish testing
 Change emoji for drop down since home isn’t even one of the options, some navigation emoji
 
 the user who posted a song should be able to see an edit option that directs to edit page but not anyone else, we should be able to see who posted something
+
+- Learned
+    - When two reducers use the same action, you may need to clean the state before either return. This also applies to a singular reducer with different content rendering on different pages.
 
 - TEST mySongs for loading since you added the payload key
 - TEST songPage too for the same reason

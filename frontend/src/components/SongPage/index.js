@@ -32,12 +32,13 @@ export const SongPage = () => {
 
     const commentsSelector = useSelector(state => state.comments);
 
-    let comments;
-    if (commentsSelector) {
-        comments = Object.values(commentsSelector).map((comment, idx) => (
+    //* this can be cleaned for sure
+    // let comments;
+    // if (commentsSelector) {
+       const comments = Object.values(commentsSelector).map((comment, idx) => (
             <li key={comment.id}>{comment.body}</li>
         ));
-    } else if (!commentsSelector) comments = <li>No Comments Yet!</li>
+    // } else if (!commentsSelector) comments = <li>No Comments Yet!</li>
 
     const handleSubmit = (e) => {
         e.preventDefault();
