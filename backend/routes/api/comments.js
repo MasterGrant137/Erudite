@@ -16,7 +16,7 @@ const submissionValidation = [
 router.get('/:title/list', asyncHandler(async(req, res) => {
     const title = req.params.title;
     const song = await Song.findOne({ where: { title } })
-    const comments = await Comment.findOne({ where: { songID: song.id } });
+    const comments = await Comment.findAll({ where: { songID: song.id } });
     return res.json(comments);
 }));
 

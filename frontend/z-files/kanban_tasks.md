@@ -1,5 +1,5 @@
 
-
+CHANGE data-ms-input condition on songPage to use data identifier attribute
 
 CONSIDER on SongPage, taking away useParams and putting in song.title, try using useSelector earlier that useEffects
 

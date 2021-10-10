@@ -28,19 +28,16 @@ export const SongPage = () => {
     }, [dispatch, songParams])
 
     const songSelector = useSelector(state => state.song);
-
-    //* we should be able to refactor this now
     let song = Object.values(songSelector)[0];
-    console.log('SONG PAGE SONG',song);
-    // const songStateVals = Object.values(songSelector);
-    // if (songStateVals.length === 1) song = songStateVals[0];
-    // else song = songStateVals.find(song => song.title === songParams.title);
 
     const commentsSelector = useSelector(state => state.comments);
 
-    const comments = Object.values(commentsSelector).map(comment => (
-        <li>{comment.body}</li>
-    ))
+    let comments;
+    if (commentsSelector) {
+        comments = Object.values(commentsSelector).map((comment, idx) => (
+            <li key={comment.id}>{comment.body}</li>
+        ));
+    } else if (!commentsSelector) comments = <li>No Comments Yet!</li>
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -48,7 +45,6 @@ export const SongPage = () => {
         dispatch(queryActions1.addComment({ title, body }));
         document.getElementById('add-comment').value='';
     }
-
 
     return (
         <div id='song-page-container'>

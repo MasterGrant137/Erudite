@@ -1,4 +1,3 @@
-import { lchown } from 'fs';
 import { csrfFetch } from './csrf';
 
 //? types
@@ -7,7 +6,6 @@ const GET_COMMENTS = 'queries/getComments';
 
 //? action creators
 const getSongs = (songs) => {
-    console.log('getSong!!!', songs);
     return {
         type: GET_SONGS,
         payload: songs
@@ -33,7 +31,6 @@ export const homeSongs = () => async dispatch => {
 }
 
 export const songPage = (title) => async dispatch => {
-    console.log('songTitle!!!', title);
     const response = await csrfFetch(`/erudite/songs/${title}/lyrics`)
     if (response.ok) {
         const song = await response.json();
@@ -85,7 +82,8 @@ export const commentsReducer = (state = initialState3, action) => {
         case GET_COMMENTS:
             state = {};
             const newComments = {};
-            Object.values(action.payload).forEach(comment => newComments[comment.id] = comment);
+            console.log(action.payload);
+            action.payload.forEach(comment => newComments[comment.id] = comment);
             return {...state,...newComments};
         default: return state;
     }
