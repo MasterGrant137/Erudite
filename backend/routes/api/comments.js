@@ -26,6 +26,8 @@ router.post('/', submissionValidation, asyncHandler(async(req, res) => {
     const parsedUserInfo = JSON.parse(Buffer.from(base64UserID, 'base64'));
     const userID = parsedUserInfo.data.id;
 
+    console.log('THIS IS THE REQ FOR COMMENTS', req);
+
     const { title, body } = req.body;
     const song = await Song.findOne({ where: { title } });
     const songID = song.id;

@@ -6,7 +6,6 @@ const SET_SONG = 'queries/setSong';
 const REMOVE_SONG = 'queries/removeSong';
 
 const getMySongs = (mySongs) => {
-  console.log('THIS IS MYSONGS', mySongs);
   return {
       type: GET_MY_SONGS,
       payload: mySongs,

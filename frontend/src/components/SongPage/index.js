@@ -9,9 +9,7 @@ import './SongPage.css'
 
 export const SongPage = () => {
     const dispatch = useDispatch();
-
     const [body, setBody] = useState('');
-
     const iframeRegex= /(<iframe)|width="(.*?)"|height="(.*?)"|id="(.*?)"|src="(.*?)"|title="(.*?)"(.*?)(><\/iframe>)/g
     const songParams = useParams();
 
@@ -27,10 +25,10 @@ export const SongPage = () => {
         dispatch(queryActions2.commentSection(songParams?.title));
     }, [dispatch, songParams])
 
-    const songSelector = useSelector(state => state.song);
+    const songSelector = useSelector(state => state?.song);
     let song = Object.values(songSelector)[0];
 
-    const commentsSelector = useSelector(state => state.comments);
+    const commentsSelector = useSelector(state => state?.comments);
 
     //* this can be cleaned for sure
     // let comments;

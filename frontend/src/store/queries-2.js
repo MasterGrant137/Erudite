@@ -79,7 +79,6 @@ export const commentsReducer = (state = initialState3, action) => {
         case GET_COMMENTS:
             state = {};
             const newComments = {};
-            console.log(action.payload);
             action.payload.forEach(comment => newComments[comment.id] = comment);
             return {...state,...newComments};
         default: return state;
