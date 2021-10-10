@@ -18,25 +18,18 @@ export const SongPage = () => {
     }, [dispatch, songParams])
 
     useEffect(() => {
-        dispatch(queryActions1.addComment(songParams?.title));
-    }, [dispatch, songParams])
-
-    useEffect(() => {
         dispatch(queryActions2.commentSection(songParams?.title));
     }, [dispatch, songParams])
 
     const songSelector = useSelector(state => state?.song);
+
     let song = Object.values(songSelector)[0];
 
     const commentsSelector = useSelector(state => state?.comments);
 
-    //* this can be cleaned for sure
-    // let comments;
-    // if (commentsSelector) {
-       const comments = Object.values(commentsSelector).map((comment, idx) => (
-            <li key={comment.id}>{comment.body}</li>
-        ));
-    // } else if (!commentsSelector) comments = <li>No Comments Yet!</li>
+    const comments = Object.values(commentsSelector).map(comment => (
+         <li key={comment.id}>{comment.body}</li>
+    ));
 
     const handleSubmit = (e) => {
         e.preventDefault();

@@ -68,6 +68,7 @@ export const editSong = (song) => async dispatch => {
 }
 
 export const addComment = (comment) => async dispatch => {
+  console.log('this is what a comment looks like', comment.title);
   const response = await csrfFetch(`/erudite/comments`, {
     method: 'POST',
     body: JSON.stringify(comment)
