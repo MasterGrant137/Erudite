@@ -1,16 +1,20 @@
-
 CHANGE data-ms-input condition on songPage to use data identifier attribute
 
-CONSIDER on SongPage, taking away useParams and putting in song.title, try using useSelector earlier that useEffects
+STYLE NAVBAR (add absolute to nav bar to start perhaps)
+STYLE SONG PAGE
+
+CONSIDER onMouseover delete X in p tag or button appears for comments
 
 CONSIDER moving context menu to a smaller component
+STRONGLY CONSIDER making your regex more performant
 
-BEWARE songPage unique key issue
+BEWARE height of comment section on songPage in CSS, #sp-comments-holder, there was no other way to allow scroll, perhaps div would like the textarea for the lyrics does, it
+BEWARE songPage unique key issue, manifests when switching pages
 
 Implement validations for add song and viable pages
 
 Don’t forget to remove the limit on your /my-songs route when you finish testing
-Change emoji for drop down since home isn’t even one of the options, some navigation emoji
+Change emoji for drop down since home isn’t even one of the options, some navigation emoji only works when the ul has a small height, it should be based on any possible overflow instead of some arvitrary height
 
 the user who posted a song should be able to see an edit option that directs to edit page but not anyone else, we should be able to see who posted something
 
@@ -19,6 +23,7 @@ the user who posted a song should be able to see an edit option that directs to 
 
 - TEST mySongs for loading since you added the payload key
 - TEST songPage too for the same reason
+- CONSIDER on SongPage, taking away useParams and putting in song.title, try using useSelector earlier that useEffects
 
 - BEWARE shared state between mySong and Top Songs, may have been a rendering abnormality but I saw one song go to the front of the list of topSongs when I switched pages, couldn't recreate
 
@@ -28,7 +33,6 @@ the user who posted a song should be able to see an edit option that directs to 
 - On mySongs page and any related pages, rename ids like big-mySongs-lyrics to big-mySongs-card for explicitness since the whole card is being affected
 - Animate all the pages and check the background and borders
 
-+ add absolute to nav bar
 + implement Speech Synthesis integration
 
 - rename thunks on queries

@@ -10,7 +10,7 @@
     background-image: url('../../images/background-art.png');
     border: 0.25vw solid #F1D4D4;
     height: 90vh;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 @keyframes song-page-scroll {
@@ -19,7 +19,6 @@
 
 #sp-background-color-wrapper {
     background-color: rgba(0, 0, 0, 0.6);
-    overflow-x: scroll;
     width: 100vw;
     height: 100vh;
 }
@@ -57,12 +56,14 @@
 
 #sp-comments-container {
     grid-area: 'c';
-    text-align: center;
+    text-align: left;
     background-color: blue;
 }
 
 #sp-comments-holder{
-    background-color: red;
+    background-color: rgb(253, 6, 6);
+    height: calc(0.6 * 90vh);
+    overflow-y: scroll;
 }
 
 #song-page-lyrics {

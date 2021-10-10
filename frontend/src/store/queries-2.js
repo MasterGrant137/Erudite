@@ -2,6 +2,7 @@ import { csrfFetch } from './csrf';
 
 //? types
 const GET_SONGS = 'songs/getSongs';
+const SET_COMMENT = 'queries/setComments';
 const GET_COMMENTS = 'queries/getComments';
 
 //? action creators
@@ -18,6 +19,13 @@ const getComments = (comments) => {
         payload: comments
     }
   }
+
+const setComment = (comment) => {
+  return {
+    type: SET_COMMENT,
+    payload: comment,
+  };
+};
 
 //? thunks
 //? pass data received from components to action creators
@@ -39,12 +47,27 @@ export const songPage = (title) => async dispatch => {
 }
 
 export const commentSection = (title) => async dispatch => {
-    const response = await csrfFetch(`/erudite/comments/${title}/list`);
-    if (response.ok) {
-        const comments = await response.json();
-        dispatch(getComments(comments));
-    }
+  const response = await csrfFetch(`/erudite/comments/${title}/list`);
+  if (response.ok) {
+      const comments = await response.json();
+      dispatch(getComments(comments));
   }
+}
+
+export const addComment = (comment) => async dispatch => {
+  console.log('this is what a comment looks like', comment.title);
+  const response = await csrfFetch(`/erudite/comments/${comment.title}/list`, {
+    method: 'POST',
+    body: JSON.stringify(comment)
+  });
+
+  if (response.ok) {
+    console.log(response);
+    const newComment = await response.json();
+    dispatch(setComment(newComment));
+    return newComment;
+  }
+}
 
 //? reducers
 //? control how action creators' data is presented in the Redux store
@@ -81,6 +104,10 @@ export const commentsReducer = (state = initialState3, action) => {
             const newComments = {};
             action.payload.forEach(comment => newComments[comment.id] = comment);
             return {...state,...newComments};
+        case SET_COMMENT:
+            const newState = Object.assign({}, state);
+            newState[action.payload.id] = action.payload;
+            return newState;
         default: return state;
     }
 }

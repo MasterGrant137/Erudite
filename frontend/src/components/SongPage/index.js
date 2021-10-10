@@ -3,15 +3,22 @@ import React from 'react'
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams } from 'react-router-dom';
-import * as queryActions1 from '../../store/queries-1';
 import * as queryActions2 from '../../store/queries-2';
 import './SongPage.css'
 
 export const SongPage = () => {
     const dispatch = useDispatch();
-    const [body, setBody] = useState('');
     const iframeRegex= /(<iframe)|width="(.*?)"|height="(.*?)"|id="(.*?)"|src="(.*?)"|title="(.*?)"(.*?)(><\/iframe>)/g
     const songParams = useParams();
+
+    const [body, setBody] = useState('');
+    // const [commentList, setCommentList] = useState('');
+
+    const songSelector = useSelector(state => state?.song);
+    let song = Object.values(songSelector)[0];
+
+    const commentsSelector = useSelector(state => state?.comments);
+    const comments = Object.values(commentsSelector).map(comment => ( <li key={comment.id}>{comment.body}</li> ));
 
     useEffect(() => {
         dispatch(queryActions2.songPage(songParams?.title));
@@ -21,21 +28,13 @@ export const SongPage = () => {
         dispatch(queryActions2.commentSection(songParams?.title));
     }, [dispatch, songParams])
 
-    const songSelector = useSelector(state => state?.song);
-
-    let song = Object.values(songSelector)[0];
-
-    const commentsSelector = useSelector(state => state?.comments);
-
-    const comments = Object.values(commentsSelector).map(comment => (
-         <li key={comment.id}>{comment.body}</li>
-    ));
-
     const handleSubmit = (e) => {
         e.preventDefault();
+
         const title = songParams?.title;
-        dispatch(queryActions1.addComment({ title, body }));
-        document.getElementById('add-comment').value='';
+        dispatch(queryActions2.addComment({ title, body }));
+        setBody('');
+        console.log('IN HANDLER', body, comments);
     }
 
     return (
