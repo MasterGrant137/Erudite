@@ -31,6 +31,7 @@ export const SongPage = () => {
 
     //* we should be able to refactor this now
     let song = Object.values(songSelector)[0];
+    console.log('SONG PAGE SONG',song);
     // const songStateVals = Object.values(songSelector);
     // if (songStateVals.length === 1) song = songStateVals[0];
     // else song = songStateVals.find(song => song.title === songParams.title);

@@ -1,7 +1,5 @@
 
 
-TEST mySongs for loading since you added the payload key
-TEST songPage too for the same reason
 
 CONSIDER on SongPage, taking away useParams and putting in song.title, try using useSelector earlier that useEffects
 
@@ -9,6 +7,11 @@ Implement validations for add song and viable pages
 
 Don’t forget to remove the limit on your /my-songs route when you finish testing
 Change emoji for drop down since home isn’t even one of the options, some navigation emoji
+
+the user who posted a song should be able to see an edit option that directs to edit page but not anyone else, we should be able to see who posted something
+
+- TEST mySongs for loading since you added the payload key
+- TEST songPage too for the same reason
 
 - BEWARE shared state between mySong and Top Songs, may have been a rendering abnormality but I saw one song go to the front of the list of topSongs when I switched pages, couldn't recreate
 
@@ -19,17 +22,17 @@ Change emoji for drop down since home isn’t even one of the options, some navi
 - Animate all the pages and check the background and borders
 
 + add absolute to nav bar
-+ rename thunks on queries
-
 + implement Speech Synthesis integration
+
+- rename thunks on queries
 - Return void in mySongs arrow function check that out!
 + When user adds a new song, make sure to add the pipe character before and after just like the seeds have for producer and artist. Consider adding spaces in between pipes, indicate commas need to be added between producers or artists, indicate an embed code need to be used for video or perhaps you should be prepared to accept links
 + Convert all irregular apostrophes to regular apostrophes and while you’re at it, port over the code for line terminators and everything
 - Fix the UI for Edit Song
 
-+ unused imports backend and front end remove
+- unused imports backend and front end remove
 + edit song page background
-Payload on queried songs change
+- Payload on queried songs change
 
 
 , also see if it’s something that can be generically added to everything and backgrounds could be added to certain components/Perhaps even on the main html tag/While you’re at it, check the IDs and see if some of them are mapped to multiple elements and should actually be classes or vice versa or element.dataset.columns attribute or CSS element[data-columns=‘3’]/the homepage onclick for the div needs to be looked into, are there unexpected behaviors? How can that be refactored if you wanted to
