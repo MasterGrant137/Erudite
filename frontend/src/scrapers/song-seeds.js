@@ -66,7 +66,7 @@ Paris in the rain
 Paris in the rain
 Walking down an empty street
 Puddles underneath our feet
-`, media: `<iframe id="player-kOCkne-Bku4" src="https://www.youtube.com/embed/kOCkne-Bku4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 38, coverArt: "https://images.genius.com/9838ffe59ebf8e564ac9c31cf8127fdf.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Genius English Translations", title: "BTS - Make It Right (Remix) ft. Lauv (English Translation)", producer: "", body: `[Verse 1: Lauv]
+`, media: `<iframe id="player-kOCkne-Bku4" src="https://www.youtube.com/embed/kOCkne-Bku4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 38, coverArt: "https://images.genius.com/9838ffe59ebf8e564ac9c31cf8127fdf.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Genius English Translations", title: "BTS - Make It Right (Remix) ft. Lauv (English Translation)", producer: "", body: `[Verse 1: Lauv]
 Yeah
 I was lost, I was trying to find the answer
 In the world around me
@@ -169,7 +169,7 @@ Oh I can make it right
 All right
 All right
 Oh I can make it right
-`, media: `<iframe id="player-eXBu09fwe3I" src="https://www.youtube.com/embed/eXBu09fwe3I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 8, coverArt: "https://images.genius.com/35a19e43ebb7475d6fe99c1cbcfce1db.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bebe Rexha (Ft. G-Eazy)", title: "F.F.F.", producer: "|G-Eazy|Captain Cuts|", body: `[Intro: G-Eazy]
+`, media: `<iframe id="player-eXBu09fwe3I" src="https://www.youtube.com/embed/eXBu09fwe3I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 8, coverArt: "https://images.genius.com/35a19e43ebb7475d6fe99c1cbcfce1db.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bebe Rexha (Ft. G-Eazy)", title: "F.F.F.", producer: "|G-Eazy|Captain Cuts|", body: `[Intro: G-Eazy]
 G
 Bebe, I got ya
 
@@ -741,7 +741,7 @@ Find me where the wild things are
 Oh my, we'll be just fine
 Don't mind us, yeah
 Find me where the wild things are
-`, media: `<iframe id="player-De30ET0dQpQ" src="https://www.youtube.com/embed/De30ET0dQpQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 58, coverArt: "https://images.genius.com/f7b8a297dad5456c3b84e5fc4f626f24.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Kanye West & DJ Khaled", title: "Cold", producer: "|Hit-Boy|", body: `[Intro: Kanye West & DJ Khaled]
+`, media: `<iframe id="player-De30ET0dQpQ" src="https://www.youtube.com/embed/De30ET0dQpQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 58, coverArt: "https://images.genius.com/f7b8a297dad5456c3b84e5fc4f626f24.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Kanye West & DJ Khaled", title: "Cold", producer: "|Hit-Boy|", body: `[Intro: Kanye West & DJ Khaled]
 Uhh, can the headphones go louder?
 Kanye West!
 Yup, Swag King Cole, yup
@@ -944,7 +944,7 @@ Spent all night just tryna get closer (Ooh, no, no, I'm lonely, lonely, I)
 That was June and now it's October (Yeah)
 I don't want, don't want to get over you
 (Mmm, Mmm)
-`, media: `<iframe id="player-_cmORZMgv6I" src="https://www.youtube.com/embed/_cmORZMgv6I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 42, coverArt: "https://images.genius.com/aebde0be5e8b15734b4106f7a3bf56f7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Calvin Harris (Ft. Kehlani & Lil Yachty)", title: "Faking It", producer: "|Kehlani|Lil Yachty|Calvin Harris|", body: `[Verse 1: Kehlani]
+`, media: `<iframe id="player-_cmORZMgv6I" src="https://www.youtube.com/embed/_cmORZMgv6I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 42, coverArt: "https://images.genius.com/aebde0be5e8b15734b4106f7a3bf56f7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Calvin Harris (Ft. Kehlani & Lil Yachty)", title: "Faking It", producer: "|Kehlani|Lil Yachty|Calvin Harris|", body: `[Verse 1: Kehlani]
 Pray to God, but I'm feeling like he's going deaf
 Now when I lean on you and I got nothing left
 Hey, I've been wanting to call ya, tell you that I'm sorry
@@ -1026,7 +1026,7 @@ Oh, she killed that shit
 She was killing it, that was hard, bruh
 I didn't know she could get that high but she killed that
 Go Lani, go Lani
-`, media: `<iframe id="player-5mPflmNE4ag" src="https://www.youtube.com/embed/5mPflmNE4ag?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 40, coverArt: "https://images.genius.com/d29fafba61c13fee5507da87e57d77d1.905x905x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "K-391, Alan Walker & Martin Tungevaag (Ft. Mangoo)", title: "Play", producer: "|Mangoo|Tungevaag|Mangoo|", body: `[Verse 1]
+`, media: `<iframe id="player-5mPflmNE4ag" src="https://www.youtube.com/embed/5mPflmNE4ag?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 40, coverArt: "https://images.genius.com/d29fafba61c13fee5507da87e57d77d1.905x905x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "K-391, Alan Walker & Martin Tungevaag (Ft. Mangoo)", title: "Play", producer: "|Mangoo|Tungevaag|Mangoo|", body: `[Verse 1]
 We used to hide under the covers
 Serenade each other
 With careless melodies
@@ -1081,7 +1081,7 @@ I swear it, even in my sleep
 I hear it like the memory
 Of everything we used to be
 You played for me
-`, media: `<iframe id="player-YQRHrco73g4" src="https://www.youtube.com/embed/YQRHrco73g4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 5, coverArt: "https://images.genius.com/df6eca38adc4c9c99d81817617f8dca5.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "KAROL G & Anuel AA", title: "Culpables", producer: "|Chris Jedi|", body: `[Letra de "Culpables"]
+`, media: `<iframe id="player-YQRHrco73g4" src="https://www.youtube.com/embed/YQRHrco73g4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 5, coverArt: "https://images.genius.com/df6eca38adc4c9c99d81817617f8dca5.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "KAROL G & Anuel AA", title: "Culpables", producer: "|Chris Jedi|", body: `[Letra de "Culpables"]
 
 [Intro: Anuel AA]
 Uah, uah, hehe
@@ -1177,7 +1177,7 @@ Gaby Music
 Gaby Mu-sic
 Desde Puerto Rico a Colombia, Los Illuminati, brrr
 Karol G, uah-uah
-`, media: `<iframe id="player-xfdG6vwIGGU" src="https://www.youtube.com/embed/xfdG6vwIGGU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 11, coverArt: "http://assets.genius.com/images/sharing_fallback.png?1632344895", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Calvin Harris & Sam Smith (Ft. Jessie Reyez)", title: "Promises", producer: "|Jessie Reyez|Calvin Harris|", body: `[Verse 1: Sam Smith]
+`, media: `<iframe id="player-xfdG6vwIGGU" src="https://www.youtube.com/embed/xfdG6vwIGGU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 11, coverArt: "http://assets.genius.com/images/sharing_fallback.png?1632344895", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Calvin Harris & Sam Smith (Ft. Jessie Reyez)", title: "Promises", producer: "|Jessie Reyez|Calvin Harris|", body: `[Verse 1: Sam Smith]
 Are you drunk enough
 Not to judge what I'm doin’?
 Are you high enough
@@ -1374,7 +1374,7 @@ I like me better when, I like me better when I'm with you
 (Look who you made me, made me, oh noo)
 Better when
 I like me better when I'm with you
-`, media: `<iframe id="player-a7fzkqLozwA" src="https://www.youtube.com/embed/a7fzkqLozwA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 95, coverArt: "https://images.genius.com/9838ffe59ebf8e564ac9c31cf8127fdf.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Pink Floyd", title: "Brain Damage", producer: "|Pink Floyd|", body: `[Verse 1: Roger Waters]
+`, media: `<iframe id="player-a7fzkqLozwA" src="https://www.youtube.com/embed/a7fzkqLozwA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 95, coverArt: "https://images.genius.com/9838ffe59ebf8e564ac9c31cf8127fdf.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Pink Floyd", title: "Brain Damage", producer: "|Pink Floyd|", body: `[Verse 1: Roger Waters]
 The lunatic is on the grass
 The lunatic is on the grass
 Remembering games and daisy chains and laughs
@@ -1411,7 +1411,7 @@ I can't think of anything to say except
 Hahahahahahaha!
 I think it's marvellous!
 Hahaha...
-`, media: `<iframe id="player-BhYKN21olBw" src="https://www.youtube.com/embed/BhYKN21olBw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 48, coverArt: "https://images.genius.com/d3ecd57d490f664e08aba94019796f1a.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Cheat Codes & Little Mix", title: "Only You", producer: "|Trevor Dahl|Digital Farm Animals|", body: `[Verse 1: Perrie Edwards]
+`, media: `<iframe id="player-BhYKN21olBw" src="https://www.youtube.com/embed/BhYKN21olBw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 48, coverArt: "https://images.genius.com/d3ecd57d490f664e08aba94019796f1a.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Cheat Codes & Little Mix", title: "Only You", producer: "|Trevor Dahl|Digital Farm Animals|", body: `[Verse 1: Perrie Edwards]
 Dancing with your silhouette in the places that we met
 Ooh, tryna find you in the moon
 Paris never feels the same, when the streets all call your name
@@ -1527,7 +1527,7 @@ Fire, Nico and the Niners
 I'm so high, so high
 Sotidnab era ew
 Fire, Nico and the Niners
-`, media: `<iframe id="player-hMAPyGoqQVw" src="https://www.youtube.com/embed/hMAPyGoqQVw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=12" title="Music Video"></iframe>`, visits: 249, coverArt: "https://images.genius.com/95a3c2bb373e4ff6a8eda3eabc6c0b1f.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "James Arthur", title: "Naked", producer: "|Johan Carlsson|", body: `[Verse 1]
+`, media: `<iframe id="player-hMAPyGoqQVw" src="https://www.youtube.com/embed/hMAPyGoqQVw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=12" title="Music Video"></iframe>`, visits: 249, coverArt: "https://images.genius.com/95a3c2bb373e4ff6a8eda3eabc6c0b1f.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "James Arthur", title: "Naked", producer: "|Johan Carlsson|", body: `[Verse 1]
 Hey, you there
 Can we take it to the next level, baby, do you dare?
 Don't be scared
@@ -1637,7 +1637,7 @@ And you're startin' to bore me, baby
 "Why'd you only ever phone me when you're high?"
 "Why'd you only ever phone me when you're high?"
 "Why'd you only ever phone me when you're (high)?"
-`, media: `<iframe id="player-6366dxFf-Os" src="https://www.youtube.com/embed/6366dxFf-Os?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=96" title="Music Video"></iframe>`, visits: 208, coverArt: "https://images.genius.com/af4ac59ba9e3e8b0fe70d7c1156ff8f2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Guns N' Roses (Ft. Shannon Hoon)", title: "Don’t Cry", producer: "|Shannon Hoon|Guns N’ Roses|Mike Clink|", body: `[Verse 1]
+`, media: `<iframe id="player-6366dxFf-Os" src="https://www.youtube.com/embed/6366dxFf-Os?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=96" title="Music Video"></iframe>`, visits: 208, coverArt: "https://images.genius.com/af4ac59ba9e3e8b0fe70d7c1156ff8f2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Guns N' Roses (Ft. Shannon Hoon)", title: "Don’t Cry", producer: "|Shannon Hoon|Guns N’ Roses|Mike Clink|", body: `[Verse 1]
 Talk to me softly, there's something in your eyes
 Don't hang your head in sorrow and please don't cry
 I know how you feel inside, I've, I've been there before
@@ -1678,7 +1678,7 @@ Don't you ever cry
 Don't you cry tonight, baby, maybe someday
 Don't you cry, don't you ever cry
 Don't you cry tonight
-`, media: `<iframe id="player-zRIbf6JqkNc" src="https://www.youtube.com/embed/zRIbf6JqkNc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 21, coverArt: "https://images.genius.com/decefc547308750f36ff45944cc60193.900x888x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sam Smith", title: "Writing's on the Wall", producer: "|Steve Fitzmaurice|Disclosure|", body: `[Verse 1]
+`, media: `<iframe id="player-zRIbf6JqkNc" src="https://www.youtube.com/embed/zRIbf6JqkNc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 21, coverArt: "https://images.genius.com/decefc547308750f36ff45944cc60193.900x888x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sam Smith", title: "Writing's on the Wall", producer: "|Steve Fitzmaurice|Disclosure|", body: `[Verse 1]
 I've been here before
 But always hit the floor
 I've spent a lifetime runnin'
@@ -1871,7 +1871,7 @@ Yeah, yeah, yeah, yeah, yeah (Fast and go)
 Yeah, yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah, yeah
-`, media: `<iframe id="player-kbMqWXnpXcA" src="https://www.youtube.com/embed/kbMqWXnpXcA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=38" title="Music Video"></iframe>`, visits: 157, coverArt: "https://images.genius.com/2c95edd69eeb26b03fe45f41f6a9dcb2.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Martin Garrix & Justin Mylo (Ft. Dewain Whitmore)", title: "Burn Out", producer: "|Dewain Whitmore|Justin Mylo|Martin Garrix|", body: `[Verse 1]
+`, media: `<iframe id="player-kbMqWXnpXcA" src="https://www.youtube.com/embed/kbMqWXnpXcA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=38" title="Music Video"></iframe>`, visits: 157, coverArt: "https://images.genius.com/2c95edd69eeb26b03fe45f41f6a9dcb2.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Martin Garrix & Justin Mylo (Ft. Dewain Whitmore)", title: "Burn Out", producer: "|Dewain Whitmore|Justin Mylo|Martin Garrix|", body: `[Verse 1]
 Flash fire, I'm coming for ya
 You're gonna feel me like the summer, like the sun in your eyes
 Hold tight, another minute
@@ -1915,7 +1915,7 @@ We won't burn out, we won't burn out
 
 [Post-Chorus]
 We won't burn out, we won't burn out
-`, media: `<iframe id="player-DylzGXE_ibU" src="https://www.youtube.com/embed/DylzGXE_ibU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 9, coverArt: "https://images.genius.com/4da94188f18c6410e340af6bec9c9ab3.900x900x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Genius English Translations", title: "DJ Snake - Taki Taki ft. Ozuna, Cardi B & Selena Gomez (English Translation)", producer: "", body: `[Intro: Ozuna]
+`, media: `<iframe id="player-DylzGXE_ibU" src="https://www.youtube.com/embed/DylzGXE_ibU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 9, coverArt: "https://images.genius.com/4da94188f18c6410e340af6bec9c9ab3.900x900x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Genius English Translations", title: "DJ Snake - Taki Taki ft. Ozuna, Cardi B & Selena Gomez (English Translation)", producer: "", body: `[Intro: Ozuna]
 Wo-oh, oh-oh
 
 [Chorus: Ozuna]
@@ -2094,7 +2094,7 @@ Means I wanna "69" with you
 No shit
 Math class
 Never was good
-`, media: `<iframe id="player-B6_iQvaIjXw" src="https://www.youtube.com/embed/B6_iQvaIjXw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 154, coverArt: "https://images.genius.com/5fcd6a3fa11375296cb3ed04f44c109c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "One Direction", title: "18", producer: "|Sam Miller|Matt Rad|", body: `[Verse 1: Harry]
+`, media: `<iframe id="player-B6_iQvaIjXw" src="https://www.youtube.com/embed/B6_iQvaIjXw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 154, coverArt: "https://images.genius.com/5fcd6a3fa11375296cb3ed04f44c109c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "One Direction", title: "18", producer: "|Sam Miller|Matt Rad|", body: `[Verse 1: Harry]
 I got a heart and I got a soul
 Believe me, I will use them both
 We made a start, be it a false one I know
@@ -2152,7 +2152,7 @@ I wanna love like you made me feel
 When we were eighteen
 I wanna love like you made me feel
 When we were eighteen
-`, media: `<iframe id="player-VRpzJabYlQQ" src="https://www.youtube.com/embed/VRpzJabYlQQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 129, coverArt: "https://images.genius.com/82a7ea94a3fe223d3d29d5e3fc2c49a1.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shawn Mendes & Justin Bieber", title: "Monster", producer: "|Frank Dukes|Kaan Güneşberk|", body: `[Verse 1: Shawn Mendes]
+`, media: `<iframe id="player-VRpzJabYlQQ" src="https://www.youtube.com/embed/VRpzJabYlQQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 129, coverArt: "https://images.genius.com/82a7ea94a3fe223d3d29d5e3fc2c49a1.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shawn Mendes & Justin Bieber", title: "Monster", producer: "|Frank Dukes|Kaan Güneşberk|", body: `[Verse 1: Shawn Mendes]
 You put me on a pedestal and tell me I'm the best
 Raise me up into the sky until I'm short of breath (Yeah)
 Fill me up with confidence, I say what's in my chest
@@ -2263,7 +2263,7 @@ Was there something I could've said
 To make it all stop hurting?
 It kills me how your mind can make you feel so worthless
 So, before you go
-`, media: `<iframe id="player-Jtauh8GcxBY" src="https://www.youtube.com/embed/Jtauh8GcxBY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 72, coverArt: "https://images.genius.com/5798143ad8362e49402db49c07ed91d1.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Post Malone", title: "I Fall Apart", producer: "|Illangelo|", body: `[Intro]
+`, media: `<iframe id="player-Jtauh8GcxBY" src="https://www.youtube.com/embed/Jtauh8GcxBY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 72, coverArt: "https://images.genius.com/5798143ad8362e49402db49c07ed91d1.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Post Malone", title: "I Fall Apart", producer: "|Illangelo|", body: `[Intro]
 Ooh, I fall apart
 Ooh, yeah, mmm, yeah
 
@@ -2325,7 +2325,7 @@ Ooh, didn't know it before
 Surprised when you caught me off guard
 All this damn jewelry I bought
 You was my shorty, I thought
-`, media: `<iframe id="player-nqfVoTMEosw" src="https://www.youtube.com/embed/nqfVoTMEosw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 198, coverArt: "https://images.genius.com/41bcc056d8529294c61cd5607a4042bc.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "James Arthur", title: "Train Wreck", producer: "|Adam Argyle|", body: `[Verse 1]
+`, media: `<iframe id="player-nqfVoTMEosw" src="https://www.youtube.com/embed/nqfVoTMEosw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 198, coverArt: "https://images.genius.com/41bcc056d8529294c61cd5607a4042bc.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "James Arthur", title: "Train Wreck", producer: "|Adam Argyle|", body: `[Verse 1]
 Laying in the silence
 Waiting for the sirens
 Signs, any signs I'm alive still
@@ -2389,7 +2389,7 @@ Pull me out the train wreck
 Pull me out, pull me out
 Pull me out, pull me out
 Pull me out, pull me out
-`, media: `<iframe id="player-W1UNDLRsF8M" src="https://www.youtube.com/embed/W1UNDLRsF8M?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 64, coverArt: "http://images.genius.com/13729bb57b591295a4f1f4bcb80ac41c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Martin Garrix (Ft. Macklemore & Patrick Stump)", title: "Summer Days", producer: "|Macklemore|Patrick Stump|Martin Garrix|", body: `[Intro: Patrick Stump]
+`, media: `<iframe id="player-W1UNDLRsF8M" src="https://www.youtube.com/embed/W1UNDLRsF8M?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 64, coverArt: "http://images.genius.com/13729bb57b591295a4f1f4bcb80ac41c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Martin Garrix (Ft. Macklemore & Patrick Stump)", title: "Summer Days", producer: "|Macklemore|Patrick Stump|Martin Garrix|", body: `[Intro: Patrick Stump]
 I got this feeling on a summer day
 Knew it when I saw her face
 I just thought that she could be the one
@@ -2452,7 +2452,7 @@ I just thought that she could be the one
 
 [Outro: Patrick Stump]
 She could be the one
-`, media: `<iframe id="player-8OwVaewDtS8" src="https://www.youtube.com/embed/8OwVaewDtS8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 17, coverArt: "https://images.genius.com/21ae4ce515997e72932c7e79f123e1fe.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Selena Gomez & Rauw Alejandro", title: "Baila Conmigo", producer: "|Bart Schoudel|NEON16|", body: `[Letra de "Baila Conmigo"]
+`, media: `<iframe id="player-8OwVaewDtS8" src="https://www.youtube.com/embed/8OwVaewDtS8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 17, coverArt: "https://images.genius.com/21ae4ce515997e72932c7e79f123e1fe.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Selena Gomez & Rauw Alejandro", title: "Baila Conmigo", producer: "|Bart Schoudel|NEON16|", body: `[Letra de "Baila Conmigo"]
 
 [Intro: Rauw Alejandro & Selena Gomez]
 Bebé, no sé si hablas mucho español
@@ -2726,7 +2726,7 @@ Oye (Mmh-mmh), te fuiste y no me pude despedir (Ah-ah-ah)
 Ya dije lo que estaba por decirte
 Ya no vuelvas más
 Entiendo que ahora estás mejor sin mí
-`, media: `<iframe id="player-azfKhDMIrZo" src="https://www.youtube.com/embed/azfKhDMIrZo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 5, coverArt: "https://images.genius.com/e8b3481b57821ae704e826570ed2db5b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bad Bunny & Daddy Yankee", title: "La Santa", producer: "|Tainy|", body: `[Letra de "La Santa"]
+`, media: `<iframe id="player-azfKhDMIrZo" src="https://www.youtube.com/embed/azfKhDMIrZo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 5, coverArt: "https://images.genius.com/e8b3481b57821ae704e826570ed2db5b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bad Bunny & Daddy Yankee", title: "La Santa", producer: "|Tainy|", body: `[Letra de "La Santa"]
 
 [Intro: Bad Bunny & Daddy Yankee]
 Tú no ere' una santa, ni yo soy un santo
@@ -2816,7 +2816,7 @@ Mucho party, mucho money
 Daddy Yankee, Bad Bunny
 Mucho party, mucho money
 Daddy Yankee, Bad Bunny
-`, media: `<iframe id="player-JUxITamPWrY" src="https://www.youtube.com/embed/JUxITamPWrY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 18, coverArt: "https://images.genius.com/aa1c8b77f382d4d32ad97002ab823680.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "OneRepublic", title: "Secrets", producer: "|Andy Prickett|Ryan Tedder|", body: `[Verse 1]
+`, media: `<iframe id="player-JUxITamPWrY" src="https://www.youtube.com/embed/JUxITamPWrY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 18, coverArt: "https://images.genius.com/aa1c8b77f382d4d32ad97002ab823680.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "OneRepublic", title: "Secrets", producer: "|Andy Prickett|Ryan Tedder|", body: `[Verse 1]
 I need another story
 Something to get off my chest
 My life gets kinda boring
@@ -2886,7 +2886,7 @@ I'm gonna give all my secrets away
 [Outro]
 All my secrets away
 All my secrets away
-`, media: `<iframe id="player-qHm9MG9xw1o" src="https://www.youtube.com/embed/qHm9MG9xw1o?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 77, coverArt: "https://images.genius.com/625751aa5525ec3654886d6f3f89eaf5.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Khaled (Ft. August Alsina, Chris Brown, Future, Jeremih, Nicki Minaj & Rick Ross)", title: "Do You Mind", producer: "|Rick Ross|Future|L.V.M.|DJ Khaled|", body: `[Intro: DJ Khaled]
+`, media: `<iframe id="player-qHm9MG9xw1o" src="https://www.youtube.com/embed/qHm9MG9xw1o?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 77, coverArt: "https://images.genius.com/625751aa5525ec3654886d6f3f89eaf5.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Khaled (Ft. August Alsina, Chris Brown, Future, Jeremih, Nicki Minaj & Rick Ross)", title: "Do You Mind", producer: "|Rick Ross|Future|L.V.M.|DJ Khaled|", body: `[Intro: DJ Khaled]
 Another one
 We The Best Music!
 
@@ -3019,7 +3019,7 @@ Girl, we been right here, thinkin' 'bout it all night (Oh)
 Baby, you should be up in my bed, ooh
 Do you mind, do you mind? Baby, you
 Do you mind? Do-do you mind? Do you mind?
-`, media: `<iframe id="player-_xGhK6qgPtM" src="https://www.youtube.com/embed/_xGhK6qgPtM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=48" title="Music Video"></iframe>`, visits: 46, coverArt: "https://images.genius.com/5aa106dfdc71920f31e3997d7ab7348d.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "James Arthur", title: "You Deserve Better", producer: "|TMS|", body: `[Verse 1]
+`, media: `<iframe id="player-_xGhK6qgPtM" src="https://www.youtube.com/embed/_xGhK6qgPtM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=48" title="Music Video"></iframe>`, visits: 46, coverArt: "https://images.genius.com/5aa106dfdc71920f31e3997d7ab7348d.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "James Arthur", title: "You Deserve Better", producer: "|TMS|", body: `[Verse 1]
 I'm just not sure my heart is working
 And yours is beating double time
 Deep down you know I ain't even worth it
@@ -3088,7 +3088,7 @@ And I hope you'll find somebody else
 That'll love you like nobody else
 And I hope he gives you something real, oh, I love you still
 But you deserve better, better, better, better
-`, media: `<iframe id="player-gR1owF4sIqI" src="https://www.youtube.com/embed/gR1owF4sIqI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 9, coverArt: "https://images.genius.com/d41f3d56c0fedc2fb6520d2f0de29dac.860x860x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bebe Rexha (Ft. Lil Wayne)", title: "The Way I Are (Dance with Somebody)", producer: "|Lil Wayne|Jonas Jeberg|Joel Little|", body: `[Intro: Bebe Rexha & Lil Wayne]
+`, media: `<iframe id="player-gR1owF4sIqI" src="https://www.youtube.com/embed/gR1owF4sIqI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 9, coverArt: "https://images.genius.com/d41f3d56c0fedc2fb6520d2f0de29dac.860x860x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bebe Rexha (Ft. Lil Wayne)", title: "The Way I Are (Dance with Somebody)", producer: "|Lil Wayne|Jonas Jeberg|Joel Little|", body: `[Intro: Bebe Rexha & Lil Wayne]
 I'm sorry, I'm not the most pretty
 I'll never ever sing like Whitney
 Ooh, but I still wanna dance with somebody (Tunechi)
@@ -3158,7 +3158,7 @@ It could be anybody, tell me, are you that somebody?
 Don't matter who you are, just love me the way I are
 I just wanna dance with somebody
 I just wanna dance with somebody
-`, media: `<iframe id="player-g6xvHG8nd5U" src="https://www.youtube.com/embed/g6xvHG8nd5U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 22, coverArt: "https://images.genius.com/1724e65617b6092cce99bf4f50048fd0.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Meghan Trainor", title: "Dear Future Husband", producer: "|Kevin Kadish|", body: `[Intro]
+`, media: `<iframe id="player-g6xvHG8nd5U" src="https://www.youtube.com/embed/g6xvHG8nd5U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 22, coverArt: "https://images.genius.com/1724e65617b6092cce99bf4f50048fd0.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Meghan Trainor", title: "Dear Future Husband", producer: "|Kevin Kadish|", body: `[Intro]
 Dear future husband
 Here's a few things you'll need to know if
 You wanna be my one and only
@@ -3385,7 +3385,7 @@ Boom, boom, boom, boom
 Boom, boom, boom, boom
 Boom, boom, boom, boom, boom, boom, boom
 Boom, boom, boom, boom, boom, boom
-`, media: `<iframe id="player-tSJSVmfaMCs" src="https://www.youtube.com/embed/tSJSVmfaMCs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 9, coverArt: "https://images.genius.com/e48bfe2b92bc6fc156a49f740267f5ac.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Meghan Trainor (Ft. Nicki Minaj)", title: "Nice to Meet Ya", producer: "|Nicki Minaj|Ojivolta|", body: `[Intro: Meghan Trainor & Nicki Minaj]
+`, media: `<iframe id="player-tSJSVmfaMCs" src="https://www.youtube.com/embed/tSJSVmfaMCs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 9, coverArt: "https://images.genius.com/e48bfe2b92bc6fc156a49f740267f5ac.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Meghan Trainor (Ft. Nicki Minaj)", title: "Nice to Meet Ya", producer: "|Nicki Minaj|Ojivolta|", body: `[Intro: Meghan Trainor & Nicki Minaj]
 Nice to meet ya (Mmm, ooh)
 Nice to meet ya (Ooh)
 Nice to meet ya (Meghan Trainor)
@@ -3506,7 +3506,7 @@ Anima vestra
 Anima
 Anima vestra
 Anima
-`, media: `<iframe id="player-trG83hsSQlY" src="https://www.youtube.com/embed/trG83hsSQlY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 243, coverArt: "https://images.genius.com/65a0d4342b4147ff47c31993295b6708.400x400x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shakira", title: "Try Everything", producer: "|StarGate|", body: `[Intro]
+`, media: `<iframe id="player-trG83hsSQlY" src="https://www.youtube.com/embed/trG83hsSQlY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 243, coverArt: "https://images.genius.com/65a0d4342b4147ff47c31993295b6708.400x400x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shakira", title: "Try Everything", producer: "|StarGate|", body: `[Intro]
 Oh oh oh oh oooh
 Oh oh oh oh oooh
 Oh oh oh oh oooh
@@ -3910,7 +3910,7 @@ I can't get no, I can't get no, I can't get no
 I can't get no satisfaction
 No satisfaction, no satisfaction, no satisfaction
 I can't get no
-`, media: `<iframe id="player-nrIPxlFzDi0" src="https://www.youtube.com/embed/nrIPxlFzDi0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 19, coverArt: "https://images.genius.com/401d02f4aebea2903e2af905585cdc42.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Calvin Harris (Ft. Ariana Grande, Pharrell Williams & Young Thug)", title: "Heatstroke", producer: "|Young Thug|Pharrell Williams|Pharrell Williams|Calvin Harris|", body: `[Intro: Young Thug]
+`, media: `<iframe id="player-nrIPxlFzDi0" src="https://www.youtube.com/embed/nrIPxlFzDi0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 19, coverArt: "https://images.genius.com/401d02f4aebea2903e2af905585cdc42.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Calvin Harris (Ft. Ariana Grande, Pharrell Williams & Young Thug)", title: "Heatstroke", producer: "|Young Thug|Pharrell Williams|Pharrell Williams|Calvin Harris|", body: `[Intro: Young Thug]
 Won't you please
 Slow it down?
 I'm tryna talk to you, darlin'
@@ -4000,7 +4000,7 @@ Hey, hey
 I could sweat like this all night
 Oh, heatstroke, oh
 I think you opened my eyes
-`, media: `<iframe id="player-ME9x1mSNv-w" src="https://www.youtube.com/embed/ME9x1mSNv-w?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 34, coverArt: "https://images.genius.com/d98556be53735e116f6fd6fce629ad0d.905x905x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sebastián Yatra (Ft. Mau y Ricky)", title: "Ya No Tiene Novio", producer: "|Mau y Ricky|Tainy|Sky Rompiendo|", body: `[Letra de "Ya No Tiene Novio" ft. Mau & Ricky]
+`, media: `<iframe id="player-ME9x1mSNv-w" src="https://www.youtube.com/embed/ME9x1mSNv-w?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 34, coverArt: "https://images.genius.com/d98556be53735e116f6fd6fce629ad0d.905x905x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sebastián Yatra (Ft. Mau y Ricky)", title: "Ya No Tiene Novio", producer: "|Mau y Ricky|Tainy|Sky Rompiendo|", body: `[Letra de "Ya No Tiene Novio" ft. Mau & Ricky]
 
 [Intro]
 Yatra, Yatra
@@ -4105,7 +4105,7 @@ Ella no quiere con ellos
 Dice que tengo lo que Yatra no tenía
 Sky, rompiendo el bajo
 T-T-Tainy
-`, media: `<iframe id="player--qGbUNQqVNc" src="https://www.youtube.com/embed/-qGbUNQqVNc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 4, coverArt: "https://images.genius.com/6677f036a4ed9d0b125adb55c15572fb.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "G-Eazy & Kehlani", title: "Good Life", producer: "|DJ Frank E|Infamous|", body: `[Pre-Hook: Kehlani]
+`, media: `<iframe id="player--qGbUNQqVNc" src="https://www.youtube.com/embed/-qGbUNQqVNc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 4, coverArt: "https://images.genius.com/6677f036a4ed9d0b125adb55c15572fb.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "G-Eazy & Kehlani", title: "Good Life", producer: "|DJ Frank E|Infamous|", body: `[Pre-Hook: Kehlani]
 Raise a cup up for all my day ones
 Two middle fingers for the haters
 Life's only getting greater
@@ -4231,7 +4231,7 @@ Ayy, yeah
 
 [Outro: G-Eazy]
 Uh, the good life
-`, media: `<iframe id="player-FG9M0aEpJGE" src="https://www.youtube.com/embed/FG9M0aEpJGE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 29, coverArt: "https://images.genius.com/ea92cbdd7a789d7b7ad09bd90d795bfb.650x650x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Genius Romanizations", title: "BTS - 작은 것들을 위한 시 (Boy With Luv) ft. Halsey (Romanized)", producer: "", body: `[Intro]
+`, media: `<iframe id="player-FG9M0aEpJGE" src="https://www.youtube.com/embed/FG9M0aEpJGE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 29, coverArt: "https://images.genius.com/ea92cbdd7a789d7b7ad09bd90d795bfb.650x650x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Genius Romanizations", title: "BTS - 작은 것들을 위한 시 (Boy With Luv) ft. Halsey (Romanized)", producer: "", body: `[Intro]
 (Oh-oh-oh-oh-oh)
 (Oh-oh-oh-oh-oh)
 (Oh-oh-oh-oh-oh)
@@ -4344,7 +4344,7 @@ Than a moment, than a moment, love (Mo-moment, luv)
 Love is nothing stronger (Ooh-ooh, oh yeah)
 (Oh-oh-oh-oh-oh)
 Than a boy with, than a boy with luv
-`, media: `<iframe id="player-XsX3ATc3FbA" src="https://www.youtube.com/embed/XsX3ATc3FbA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 50, coverArt: "https://images.genius.com/1f33fe65273ba317dad49537a4d1092e.841x841x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shakira (Ft. Maluma)", title: "Chantaje", producer: "|Maluma|The Rudeboyz|Shakira|", body: `[Letra de "Chantaje" ft. Maluma]
+`, media: `<iframe id="player-XsX3ATc3FbA" src="https://www.youtube.com/embed/XsX3ATc3FbA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 50, coverArt: "https://images.genius.com/1f33fe65273ba317dad49537a4d1092e.841x841x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shakira (Ft. Maluma)", title: "Chantaje", producer: "|Maluma|The Rudeboyz|Shakira|", body: `[Letra de "Chantaje" ft. Maluma]
 
 [Intro]
 Rudeboyz
@@ -4443,7 +4443,7 @@ Eh-eh-eh-eh-eh-eh
 Pretty boy
 (You're my baby loba, Colombia, Rudeboyz, you feel me?)
 Pretty boy
-`, media: `<iframe id="player-6Mgqbai3fKo" src="https://www.youtube.com/embed/6Mgqbai3fKo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 29, coverArt: "https://images.genius.com/f32ec022a03c15722d6116e1e58a6537.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sia", title: "Elastic Heart", producer: "|Greg Kurstin|Diplo|", body: `[Verse 1]
+`, media: `<iframe id="player-6Mgqbai3fKo" src="https://www.youtube.com/embed/6Mgqbai3fKo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 29, coverArt: "https://images.genius.com/f32ec022a03c15722d6116e1e58a6537.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sia", title: "Elastic Heart", producer: "|Greg Kurstin|Diplo|", body: `[Verse 1]
 And another one bites the dust
 Oh, why can I not conquer love?
 And I might have thought that we were one
@@ -4510,7 +4510,7 @@ Yeah, I may snap and I move fast
 But you won't see me fall apart
 'Cause I've got an elastic heart
 I've got an elastic heart
-`, media: `<iframe id="player-KWZGAExj-es" src="https://www.youtube.com/embed/KWZGAExj-es?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 25, coverArt: "https://images.genius.com/a26b244deb412c74c1a8934b0626196f.1000x416x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Camila Cabello", title: "Consequences", producer: "|Emile Haynie|Bart Schoudel|", body: `[Verse 1]
+`, media: `<iframe id="player-KWZGAExj-es" src="https://www.youtube.com/embed/KWZGAExj-es?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 25, coverArt: "https://images.genius.com/a26b244deb412c74c1a8934b0626196f.1000x416x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Camila Cabello", title: "Consequences", producer: "|Emile Haynie|Bart Schoudel|", body: `[Verse 1]
 Dirty tissues, trust issues
 Glasses on the sink, they didn't fix you
 Lonely pillows in a stranger's bed
@@ -4681,7 +4681,7 @@ For digging up the grave another time
 But it would've been fun
 If you would've been the one
 (Ooh)
-`, media: `<iframe id="player-KsZ6tROaVOQ" src="https://www.youtube.com/embed/KsZ6tROaVOQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 83, coverArt: "https://images.genius.com/4a6a06f7e361703062b0db46d0e4ec36.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "J. Cole", title: "Apparently", producer: "|J. Cole|Omen|", body: `[Intro]
+`, media: `<iframe id="player-KsZ6tROaVOQ" src="https://www.youtube.com/embed/KsZ6tROaVOQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 83, coverArt: "https://images.genius.com/4a6a06f7e361703062b0db46d0e4ec36.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "J. Cole", title: "Apparently", producer: "|J. Cole|Omen|", body: `[Intro]
 Oh, right, oh
 Oh, why, na-da-da-da
 
@@ -5059,7 +5059,7 @@ I wanna be your end game (Oh, I do)
 I wanna be your first string (First string)
 I wanna be your A-Team (A-Team)
 I wanna be your end game, end game
-`, media: `<iframe id="player-dfnCAmr569k" src="https://www.youtube.com/embed/dfnCAmr569k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 105, coverArt: "https://images.genius.com/d6eba083b40fcec8b16ab1b4489fe057.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shawn Mendes & Camila Cabello", title: "Señorita", producer: "|Cashmere Cat|​benny blanco|", body: `[Chorus: Camila Cabello]
+`, media: `<iframe id="player-dfnCAmr569k" src="https://www.youtube.com/embed/dfnCAmr569k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 105, coverArt: "https://images.genius.com/d6eba083b40fcec8b16ab1b4489fe057.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shawn Mendes & Camila Cabello", title: "Señorita", producer: "|Cashmere Cat|​benny blanco|", body: `[Chorus: Camila Cabello]
 I love it when you call me señorita
 I wish I could pretend I didn't need ya
 But every touch is ooh-la-la-la
@@ -5157,7 +5157,7 @@ I don't know why, I don't know why
 [Chorus]
 It's you, it's you
 It's you, it's you, it's you
-`, media: `<iframe id="player-1seDBXvGYcc" src="https://www.youtube.com/embed/1seDBXvGYcc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 55, coverArt: "https://images.genius.com/18a2323db9655e67c3012169494284bd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bebe Rexha", title: "I Got You", producer: "|Captain Cuts|", body: `[Verse 1]
+`, media: `<iframe id="player-1seDBXvGYcc" src="https://www.youtube.com/embed/1seDBXvGYcc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 55, coverArt: "https://images.genius.com/18a2323db9655e67c3012169494284bd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bebe Rexha", title: "I Got You", producer: "|Captain Cuts|", body: `[Verse 1]
 I can see you hurting
 I've been through the same thing
 Baby, don't you worry, I got you
@@ -5240,7 +5240,7 @@ Give it to me all, oh, nah-nah-nah
 You, I got you, I got you
 I got you, you, oh
 You, I got you, I got you, I got—
-`, media: `<iframe id="player-uEJuoEs1UxY" src="https://www.youtube.com/embed/uEJuoEs1UxY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 30, coverArt: "https://images.genius.com/e87b59f42ca3285e53b28e51fb621cb9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Kygo & Ellie Goulding", title: "First Time", producer: "|Hitimpulse|Kygo|", body: `[Verse 1]
+`, media: `<iframe id="player-uEJuoEs1UxY" src="https://www.youtube.com/embed/uEJuoEs1UxY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 30, coverArt: "https://images.genius.com/e87b59f42ca3285e53b28e51fb621cb9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Kygo & Ellie Goulding", title: "First Time", producer: "|Hitimpulse|Kygo|", body: `[Verse 1]
 We were lovers for the first time
 Running all the red lights
 The middle finger was our peace sign, yeah
@@ -5445,7 +5445,7 @@ Teeth
 Teeth
 Teeth
 Never, never, never ever let go
-`, media: `<iframe id="player-JWeJHN5P-E8" src="https://www.youtube.com/embed/JWeJHN5P-E8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 74, coverArt: "https://images.genius.com/5cb318355eefd4b39e1476aa11ab827f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "J. Cole", title: "Fire Squad", producer: "|J. Cole|Vinylz|", body: `[Produced by J. Cole & Vinylz]
+`, media: `<iframe id="player-JWeJHN5P-E8" src="https://www.youtube.com/embed/JWeJHN5P-E8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 74, coverArt: "https://images.genius.com/5cb318355eefd4b39e1476aa11ab827f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "J. Cole", title: "Fire Squad", producer: "|J. Cole|Vinylz|", body: `[Produced by J. Cole & Vinylz]
 
 [Chorus]
 Nigga why you actin' like a ho?
@@ -5625,7 +5625,7 @@ I just wanna keep calling your name until you come back home
 [Outro: Taylor Swift & ZAYN]
 I just wanna keep calling your name until you come back home
 Until you come back home
-`, media: `<iframe id="player-7F37r50VUTQ" src="https://www.youtube.com/embed/7F37r50VUTQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 73, coverArt: "https://images.genius.com/7fe871e922845b5c244930254eb7dc8f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Migos", title: "Get Right Witcha", producer: "|Zaytoven|Murda Beatz|", body: `[Intro: Quavo]
+`, media: `<iframe id="player-7F37r50VUTQ" src="https://www.youtube.com/embed/7F37r50VUTQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 73, coverArt: "https://images.genius.com/7fe871e922845b5c244930254eb7dc8f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Migos", title: "Get Right Witcha", producer: "|Zaytoven|Murda Beatz|", body: `[Intro: Quavo]
 M-M-M-Murda
 Yeah
 
@@ -5732,7 +5732,7 @@ Get right witcha (I'ma get right witcha)
 Get right witcha (I'ma get right witcha)
 Hold up, get right witcha (I'ma get right witcha)
 Get right witcha
-`, media: `<iframe id="player-bre7rg2-RJs" src="https://www.youtube.com/embed/bre7rg2-RJs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 47, coverArt: "https://images.genius.com/eba2e833e34df4e638ca3a02fce5685b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sebastián Yatra", title: "Traicionera", producer: "|Andrés Torres|Mauricio Rengifo|", body: `[Letra de "Traicionera"]
+`, media: `<iframe id="player-bre7rg2-RJs" src="https://www.youtube.com/embed/bre7rg2-RJs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 47, coverArt: "https://images.genius.com/eba2e833e34df4e638ca3a02fce5685b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sebastián Yatra", title: "Traicionera", producer: "|Andrés Torres|Mauricio Rengifo|", body: `[Letra de "Traicionera"]
 
 [Intro]
 Sebastián Yatra
@@ -5803,7 +5803,7 @@ Mentirosa, no me importa que de amor te mueras
 [Outro]
 Sebastian Yatra
 Yatra, Yatra
-`, media: `<iframe id="player-NE3IkFadCHM" src="https://www.youtube.com/embed/NE3IkFadCHM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 2, coverArt: "https://images.genius.com/b164dba8d491958c65f30bc83eaaea69.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Kygo (Ft. Justin Jesso)", title: "Stargazing", producer: "|Justin Jesso|Jamie Hartman|Stuart Crichton|", body: `[Verse 1: Justin Jesso]
+`, media: `<iframe id="player-NE3IkFadCHM" src="https://www.youtube.com/embed/NE3IkFadCHM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 2, coverArt: "https://images.genius.com/b164dba8d491958c65f30bc83eaaea69.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Kygo (Ft. Justin Jesso)", title: "Stargazing", producer: "|Justin Jesso|Jamie Hartman|Stuart Crichton|", body: `[Verse 1: Justin Jesso]
 You're saying it's hopeless, that I should hope less
 Heaven can help us, well maybe she might
 You say it's beyond us, what is beyond us?
@@ -5866,7 +5866,7 @@ Don't fall, don't give up, for love
 That's how I find the light
 Don't you, give up, for me (ooh)
 Don't fall, don't give up, for love
-`, media: `<iframe id="player-hEdvvTF5js4" src="https://www.youtube.com/embed/hEdvvTF5js4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 20, coverArt: "http://images.genius.com/45ec0de51bb40875bb88a93f7961a282.960x960x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Snake (Ft. Bipolar Sunshine)", title: "Middle", producer: "|Bipolar Sunshine|DJ Snake|", body: `[Verse 1]
+`, media: `<iframe id="player-hEdvvTF5js4" src="https://www.youtube.com/embed/hEdvvTF5js4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 20, coverArt: "http://images.genius.com/45ec0de51bb40875bb88a93f7961a282.960x960x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Snake (Ft. Bipolar Sunshine)", title: "Middle", producer: "|Bipolar Sunshine|DJ Snake|", body: `[Verse 1]
 Starin' at two different views on your window ledge
 Coffee has gone cold, it's like time froze
 
@@ -5912,7 +5912,7 @@ For us two with you in the middle
 Thank the children, just thank the children
 (You)
 Thank the children, just thank the children
-`, media: `<iframe id="player-IvPT2QuCIOA" src="https://www.youtube.com/embed/IvPT2QuCIOA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=18" title="Music Video"></iframe>`, visits: 57, coverArt: "https://images.genius.com/1b76a0a841246d63145bf733fafd46c8.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Genius English Translations", title: "BTS - 소우주 (Mikrokosmos) (English Translation)", producer: "", body: `[Verse 1: Jung Kook, V]
+`, media: `<iframe id="player-IvPT2QuCIOA" src="https://www.youtube.com/embed/IvPT2QuCIOA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=18" title="Music Video"></iframe>`, visits: 57, coverArt: "https://images.genius.com/1b76a0a841246d63145bf733fafd46c8.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Genius English Translations", title: "BTS - 소우주 (Mikrokosmos) (English Translation)", producer: "", body: `[Verse 1: Jung Kook, V]
 Twinkling starlight
 Building with blinking light
 We're shining brightly
@@ -6005,7 +6005,7 @@ Na-na-na-na-na-na
 Na-na-na-na-na-na-na-na
 Na-na-na-na-na-na
 Na-na-na-na-na-na-na-na
-`, media: `<iframe id="player-Fw7C6IsDYgI" src="https://www.youtube.com/embed/Fw7C6IsDYgI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 40, coverArt: "https://images.genius.com/553d2a962f83a72f2b9edbc4aa17d5ba.841x841x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Chris Brown (Ft. French Montana & Lil Wayne)", title: "Loyal (East Coast Version)", producer: "|French Montana|Lil Wayne|Nic Nac|", body: `[Intro: Lil Wayne & Chris Brown]
+`, media: `<iframe id="player-Fw7C6IsDYgI" src="https://www.youtube.com/embed/Fw7C6IsDYgI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 40, coverArt: "https://images.genius.com/553d2a962f83a72f2b9edbc4aa17d5ba.841x841x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Chris Brown (Ft. French Montana & Lil Wayne)", title: "Loyal (East Coast Version)", producer: "|French Montana|Lil Wayne|Nic Nac|", body: `[Intro: Lil Wayne & Chris Brown]
 Young Mula, baby!
 Haha, you thought it was over?
 
@@ -6118,7 +6118,7 @@ Yeah, yeah, let me see
 Let me see
 Oh, these hoes ain't loyal
 Let me see
-`, media: `<iframe id="player-CrqJM39ttOM" src="https://www.youtube.com/embed/CrqJM39ttOM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 288, coverArt: "https://images.genius.com/bde54f48096eea64724697dd8298c9c4.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "BTS", title: "MIC Drop (Steve Aoki Remix)", producer: "|Steve Aoki|", body: `[방탄소년단 "MIC Drop (Steve Aoki Remix)" 가사]
+`, media: `<iframe id="player-CrqJM39ttOM" src="https://www.youtube.com/embed/CrqJM39ttOM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 288, coverArt: "https://images.genius.com/bde54f48096eea64724697dd8298c9c4.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "BTS", title: "MIC Drop (Steve Aoki Remix)", producer: "|Steve Aoki|", body: `[방탄소년단 "MIC Drop (Steve Aoki Remix)" 가사]
 
 [Verse 1: j-hope]
 Yeah, 누가 내 수저 더럽대
@@ -6207,7 +6207,7 @@ Good luck
 우린 탁 쏴 마치 콜라지
 너의 각막 깜짝 놀라지
 꽤 꽤 폼나지 포 포 폼나지 yeah
-`, media: `<iframe id="player-kTlv5_Bs8aw" src="https://www.youtube.com/embed/kTlv5_Bs8aw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=23" title="Music Video"></iframe>`, visits: 54, coverArt: "https://images.genius.com/6b96cf629a11b1cbdcdc503c85a1cc6a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Camila Cabello & Daddy Yankee", title: "Havana (Remix)", producer: "|Matt Beckley|Pharrell Williams|", body: `[Letra de "Havana (Remix)"]
+`, media: `<iframe id="player-kTlv5_Bs8aw" src="https://www.youtube.com/embed/kTlv5_Bs8aw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=23" title="Music Video"></iframe>`, visits: 54, coverArt: "https://images.genius.com/6b96cf629a11b1cbdcdc503c85a1cc6a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Camila Cabello & Daddy Yankee", title: "Havana (Remix)", producer: "|Matt Beckley|Pharrell Williams|", body: `[Letra de "Havana (Remix)"]
 
 [Intro: Pharrell Williams]
 Hey
@@ -6293,7 +6293,7 @@ He took me back to East Atlanta, na-na-na (DY)
 Oh, but my heart is in Havana
 My heart is in Havana (Ayy)
 Havana, ooh na-na
-`, media: `<iframe id="player-qooQd8AA7_M" src="https://www.youtube.com/embed/qooQd8AA7_M?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 46, coverArt: "https://images.genius.com/8a5926cb764e4180f2c459fd18ada712.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Macklemore & Ryan Lewis (Ft. Eric Nally, Grandmaster Caz, Grandmaster Melle Mel & Kool Moe Dee)", title: "Downtown", producer: "|Kool Moe Dee|Eric Nally|Ryan Lewis|", body: `[Verse 1: Macklemore]
+`, media: `<iframe id="player-qooQd8AA7_M" src="https://www.youtube.com/embed/qooQd8AA7_M?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 46, coverArt: "https://images.genius.com/8a5926cb764e4180f2c459fd18ada712.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Macklemore & Ryan Lewis (Ft. Eric Nally, Grandmaster Caz, Grandmaster Melle Mel & Kool Moe Dee)", title: "Downtown", producer: "|Kool Moe Dee|Eric Nally|Ryan Lewis|", body: `[Verse 1: Macklemore]
 I went to the moped store, said "Fuck it"
 And salesman's like "What up, what's your budget?"
 And I'm like "Honestly, I don't know nothing about mopeds"
@@ -6417,7 +6417,7 @@ What you see is what you get, girl
 Don't ever forget, girl
 Ain't seen nothing yet until you're
 Downtown
-`, media: `<iframe id="player-JGhoLcsr8GA" src="https://www.youtube.com/embed/JGhoLcsr8GA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 95, coverArt: "https://images.genius.com/c0845545d87b2e53fbbac7caa201f33c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Calvin Harris (Ft. Future & Khalid)", title: "Rollin", producer: "|Future|Khalid|Calvin Harris|", body: `[Chorus: Khalid]
+`, media: `<iframe id="player-JGhoLcsr8GA" src="https://www.youtube.com/embed/JGhoLcsr8GA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 95, coverArt: "https://images.genius.com/c0845545d87b2e53fbbac7caa201f33c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Calvin Harris (Ft. Future & Khalid)", title: "Rollin", producer: "|Future|Khalid|Calvin Harris|", body: `[Chorus: Khalid]
 I've been rollin' on the freeway
 I've been riding 85
 I've been thinking way too much
@@ -6505,7 +6505,7 @@ I mean I've been stuck in all your apologies
 Gave my all but you want more from me
 Keep your love, it doesn't feel the same
 I hope it hurts you when you're hearin' my name
-`, media: `<iframe id="player-5f_JiibvQAM" src="https://www.youtube.com/embed/5f_JiibvQAM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 60, coverArt: "https://images.genius.com/a52c1743dc9e89eff57b84e327a62880.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Kygo (Ft. Conrad Sewell)", title: "Firestone", producer: "|Conrad Sewell|Kygo|", body: `[Verse 1: Conrad Sewell]
+`, media: `<iframe id="player-5f_JiibvQAM" src="https://www.youtube.com/embed/5f_JiibvQAM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 60, coverArt: "https://images.genius.com/a52c1743dc9e89eff57b84e327a62880.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Kygo (Ft. Conrad Sewell)", title: "Firestone", producer: "|Conrad Sewell|Kygo|", body: `[Verse 1: Conrad Sewell]
 I'm a flame, you're a fire
 I'm the dark in need of light
 When we touch, you inspire
@@ -6631,7 +6631,7 @@ The blood moon is on the rise
 The fire burning in my eyes
 No, nobody but me can keep me safe
 And I'm on my way
-`, media: `<iframe id="player-dhYOPzcsbGM" src="https://www.youtube.com/embed/dhYOPzcsbGM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 55, coverArt: "https://images.genius.com/ad957509e73769340113146e3d74f4f7.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Karol G & Bad Bunny", title: "Ahora Me Llama", producer: "|DJ Luian|Ovy On The Drums|", body: `[Letra de "Ahora Me Llama"]
+`, media: `<iframe id="player-dhYOPzcsbGM" src="https://www.youtube.com/embed/dhYOPzcsbGM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 55, coverArt: "https://images.genius.com/ad957509e73769340113146e3d74f4f7.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Karol G & Bad Bunny", title: "Ahora Me Llama", producer: "|DJ Luian|Ovy On The Drums|", body: `[Letra de "Ahora Me Llama"]
 
 [Intro: Karol G]
 Ahora me llama
@@ -6816,7 +6816,7 @@ And there's nowhere to go
 Oh, yeah! Tell my love now
 (Uh-uh) Hey— Hey, yeah
 Oh, yeah!
-`, media: `<iframe id="player-yuFI5KSPAt4" src="https://www.youtube.com/embed/yuFI5KSPAt4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 88, coverArt: "https://images.genius.com/0a083400a50ceeb9ef8a6f7ceef85dd2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sech, Ozuna & Anuel AA (Ft. Darell & Nicky Jam)", title: "Otro Trago (Remix)", producer: "|Darell|Nicky Jam|Dímelo Flow|Rike Music|", body: `[Letra de "Otro Trago (Remix)" ft. Darell & Nicky Jam]
+`, media: `<iframe id="player-yuFI5KSPAt4" src="https://www.youtube.com/embed/yuFI5KSPAt4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 88, coverArt: "https://images.genius.com/0a083400a50ceeb9ef8a6f7ceef85dd2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sech, Ozuna & Anuel AA (Ft. Darell & Nicky Jam)", title: "Otro Trago (Remix)", producer: "|Darell|Nicky Jam|Dímelo Flow|Rike Music|", body: `[Letra de "Otro Trago (Remix)" ft. Darell & Nicky Jam]
 
 [Intro: Sech, Nicky Jam, Ozuna, Anuel AA & *Darell*]
 Sigue aquí tomándose otro tra–
@@ -7025,7 +7025,7 @@ Look what you've done
 I'm a motherfuckin' starboy
 Look what you've done
 I'm a motherfuckin' starboy
-`, media: `<iframe id="player-34Na4j8AVgA" src="https://www.youtube.com/embed/34Na4j8AVgA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=45" title="Music Video"></iframe>`, visits: 591, coverArt: "https://images.genius.com/93682d19e0fe838094b4a663a6bbdb82.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "JACKBOYS, Pop Smoke & Travis Scott", title: "GATTI", producer: "|AXL Beats|808 Melo|", body: `[Intro: Pop Smoke]
+`, media: `<iframe id="player-34Na4j8AVgA" src="https://www.youtube.com/embed/34Na4j8AVgA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=45" title="Music Video"></iframe>`, visits: 591, coverArt: "https://images.genius.com/93682d19e0fe838094b4a663a6bbdb82.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "JACKBOYS, Pop Smoke & Travis Scott", title: "GATTI", producer: "|AXL Beats|808 Melo|", body: `[Intro: Pop Smoke]
 AXL
 Hahaha, huh? Hahaha
 Tired of niggas cappin' (Tired of niggas cappin')
@@ -7184,7 +7184,7 @@ Yeah, take me to the top
 I'm ready for whatever it takes
 'Cause I love the adrenaline in my veins
 I do what it takes
-`, media: `<iframe id="player-gOsM-DYAEhY" src="https://www.youtube.com/embed/gOsM-DYAEhY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 188, coverArt: "https://images.genius.com/86e0d33ebe09cafa4e686ad0f38dc3df.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "G-Eazy (Ft. Kehlani)", title: "Everything Will Be OK", producer: "|Kehlani|Remo the Hitmaker|", body: `[Produced by Remo]
+`, media: `<iframe id="player-gOsM-DYAEhY" src="https://www.youtube.com/embed/gOsM-DYAEhY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 188, coverArt: "https://images.genius.com/86e0d33ebe09cafa4e686ad0f38dc3df.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "G-Eazy (Ft. Kehlani)", title: "Everything Will Be OK", producer: "|Kehlani|Remo the Hitmaker|", body: `[Produced by Remo]
 
 [Chorus: Kehlani]
 Even if I don't stay
@@ -7370,7 +7370,7 @@ Never, never, never, oh
 Never, never, never, oh
 Never, never, never, oh
 Never, never, never, oh
-`, media: `<iframe id="player-d5r_uCRY-V4" src="https://www.youtube.com/embed/d5r_uCRY-V4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 13, coverArt: "https://images.genius.com/2b7a5830267a62741a121b3d01c12e96.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Major Lazer & DJ Maphorisa (Ft. Ice Prince, Jidenna, Nasty C & Patoranking)", title: "Particula", producer: "|Jidenna|Patoranking|Walshy Fire|DJ Maphorisa|", body: `[Verse 1: Nasty C]
+`, media: `<iframe id="player-d5r_uCRY-V4" src="https://www.youtube.com/embed/d5r_uCRY-V4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 13, coverArt: "https://images.genius.com/2b7a5830267a62741a121b3d01c12e96.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Major Lazer & DJ Maphorisa (Ft. Ice Prince, Jidenna, Nasty C & Patoranking)", title: "Particula", producer: "|Jidenna|Patoranking|Walshy Fire|DJ Maphorisa|", body: `[Verse 1: Nasty C]
 They told me everybody's 15 minutes in a different timezone
 And since I have it at the moment, you the one I wanna shine my light on
 Get your life, get your life, little mama, won't you get your life on?
@@ -7754,7 +7754,7 @@ See the line where the sky meets the sea? It calls me
 And no one knows, how far it goes
 If the wind in my sail on the sea stays behind me
 One day I'll know, how far I'll go
-`, media: `<iframe id="player-ZNra8eK0K6k" src="https://www.youtube.com/embed/ZNra8eK0K6k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 25, coverArt: "https://images.genius.com/ecd07e38da6da67d8a4194c1f171da43.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Chris Brown (Ft. A Boogie wit da Hoodie, Kodak Black & Yo Gotti)", title: "Pills & Automobiles", producer: "|Kodak Black|A Boogie wit da Hoodie|Taz Taylor|The Martianz|", body: `[Intro: Chris Brown]
+`, media: `<iframe id="player-ZNra8eK0K6k" src="https://www.youtube.com/embed/ZNra8eK0K6k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 25, coverArt: "https://images.genius.com/ecd07e38da6da67d8a4194c1f171da43.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Chris Brown (Ft. A Boogie wit da Hoodie, Kodak Black & Yo Gotti)", title: "Pills & Automobiles", producer: "|Kodak Black|A Boogie wit da Hoodie|Taz Taylor|The Martianz|", body: `[Intro: Chris Brown]
 Oww!
 
 [Chorus: Chris Brown]
@@ -7863,7 +7863,7 @@ Just tryna change your life
 I'm just tryna change your life
 Just tryna change your life
 Oh-oh baby
-`, media: `<iframe id="player-GTexe8c0eqw" src="https://www.youtube.com/embed/GTexe8c0eqw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 50, coverArt: "https://images.genius.com/bbe65a8c5bc20d22c1375fa0e1abba06.895x895x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Khaled (Ft. Drake, Lil Wayne & Rick Ross)", title: "I’m On One", producer: "|Drake|Rick Ross|40|T-Minus|", body: `[Produced by Noah "40" Shebib,  T-Minus, and Nikhil "Kromatik" Seetharam]
+`, media: `<iframe id="player-GTexe8c0eqw" src="https://www.youtube.com/embed/GTexe8c0eqw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 50, coverArt: "https://images.genius.com/bbe65a8c5bc20d22c1375fa0e1abba06.895x895x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Khaled (Ft. Drake, Lil Wayne & Rick Ross)", title: "I’m On One", producer: "|Drake|Rick Ross|40|T-Minus|", body: `[Produced by Noah "40" Shebib,  T-Minus, and Nikhil "Kromatik" Seetharam]
 
 [Intro: DJ Khaled & Drake]
 I get 'em up! (I'm on one)
@@ -8072,7 +8072,7 @@ It ain't my fault
 It ain't my fault
 Well, that's too bad, it ain't my fault
 It ain't my fault
-`, media: `<iframe id="player-eC-F_VZ2T1c" src="https://www.youtube.com/embed/eC-F_VZ2T1c?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 56, coverArt: "https://images.genius.com/f9adb29a13a65fb15be7a1a15d7c4619.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Nicky Jam", title: "Hasta el Amanecer", producer: "|Saga WhiteBlack|", body: `[Letra de "Hasta El Amanecer"]
+`, media: `<iframe id="player-eC-F_VZ2T1c" src="https://www.youtube.com/embed/eC-F_VZ2T1c?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 56, coverArt: "https://images.genius.com/f9adb29a13a65fb15be7a1a15d7c4619.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Nicky Jam", title: "Hasta el Amanecer", producer: "|Saga WhiteBlack|", body: `[Letra de "Hasta El Amanecer"]
 
 [Coro]
 ¿Cómo tú te llama'? Yo no sé
@@ -8132,7 +8132,7 @@ N-I-C-K
 Nicky-Nicky-Nicky Jam
 Saga WhiteBlack
 La Industria Inc
-`, media: `<iframe id="player-kkx-7fsiWgg" src="https://www.youtube.com/embed/kkx-7fsiWgg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 13, coverArt: "https://images.genius.com/84aaec2799ffe891100148471558bac2.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Kanye West, Chief Keef, Pusha T, Big Sean & Jadakiss", title: "Don't Like.1", producer: "|Noah Goldstein|The Twilite Tone|", body: `[Produced by Young Chop; co-production by Kanye West, Noah Goldstein, and The Twilite Tone]
+`, media: `<iframe id="player-kkx-7fsiWgg" src="https://www.youtube.com/embed/kkx-7fsiWgg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 13, coverArt: "https://images.genius.com/84aaec2799ffe891100148471558bac2.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Kanye West, Chief Keef, Pusha T, Big Sean & Jadakiss", title: "Don't Like.1", producer: "|Noah Goldstein|The Twilite Tone|", body: `[Produced by Young Chop; co-production by Kanye West, Noah Goldstein, and The Twilite Tone]
 
 [Verse 1: Pusha T]
 Fraud niggas, y'all niggas, that's that shit I don't like
@@ -8552,7 +8552,7 @@ Wild, wild horses, we'll ride them some day
 [Chorus]
 Wild horses couldn't drag me away
 Wild, wild horses, we'll ride them some day
-`, media: `<iframe id="player-ZNaqBBjrIZw" src="https://www.youtube.com/embed/ZNaqBBjrIZw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 26, coverArt: "https://images.genius.com/0ad40e21475ae44c1e1b91ca8b673206.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Pop Smoke", title: "Welcome to the Party", producer: "|808 Melo|", body: `[Intro]
+`, media: `<iframe id="player-ZNaqBBjrIZw" src="https://www.youtube.com/embed/ZNaqBBjrIZw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 26, coverArt: "https://images.genius.com/0ad40e21475ae44c1e1b91ca8b673206.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Pop Smoke", title: "Welcome to the Party", producer: "|808 Melo|", body: `[Intro]
 This is a Melo beat
 
 [Chorus]
@@ -8630,7 +8630,7 @@ Ten in the clip (Ten in the clip)
 Baby, baby, don't trip
 Just lower your tone (Lower your tone)
 'Cause you could get hit
-`, media: `<iframe id="player-usu0XY4QNB0" src="https://www.youtube.com/embed/usu0XY4QNB0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 41, coverArt: "https://images.genius.com/6915675aa9108431e51478d8f95e34b6.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sam Smith", title: "How Do You Sleep?", producer: "|ILYA|", body: `[Verse 1]
+`, media: `<iframe id="player-usu0XY4QNB0" src="https://www.youtube.com/embed/usu0XY4QNB0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 41, coverArt: "https://images.genius.com/6915675aa9108431e51478d8f95e34b6.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sam Smith", title: "How Do You Sleep?", producer: "|ILYA|", body: `[Verse 1]
 I'm done hatin' myself for feelin'
 I'm done cryin' myself awake
 I gotta leave and start the healin'
@@ -8691,7 +8691,7 @@ Baby, how do you sleep when you lie to me? (Oh)
 All that fear and all that pressure (Oh)
 I'm hopin' that my love will keep you up tonight
 (Tell me, how do you—)
-`, media: `<iframe id="player-PmYypVozQb4" src="https://www.youtube.com/embed/PmYypVozQb4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 41, coverArt: "https://images.genius.com/eb270b76c7969f196ceaab008f9114fc.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "One Direction", title: "Little Things", producer: "|Jake Gosling|", body: `[Verse 1: Zayn & Liam & Both]
+`, media: `<iframe id="player-PmYypVozQb4" src="https://www.youtube.com/embed/PmYypVozQb4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 41, coverArt: "https://images.genius.com/eb270b76c7969f196ceaab008f9114fc.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "One Direction", title: "Little Things", producer: "|Jake Gosling|", body: `[Verse 1: Zayn & Liam & Both]
 Your hand fits in mine like it's made just for me
 But bear this in mind: It was meant to be
 And I'm joining up the dots with the freckles on your cheeks
@@ -8734,7 +8734,7 @@ And I'm in love with you and all these little things
 I won't let these little things slip out of my mouth
 But if it's true, it's you, it's you they add up to
 I'm in love with you, and all your little things
-`, media: `<iframe id="player-xGPeNN9S0Fg" src="https://www.youtube.com/embed/xGPeNN9S0Fg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 86, coverArt: "https://images.genius.com/635611363a34e11f6dd2367d869d25c3.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Migos", title: "Narcos", producer: "|Quavo|DJ Durel|", body: `[Intro: Offset]
+`, media: `<iframe id="player-xGPeNN9S0Fg" src="https://www.youtube.com/embed/xGPeNN9S0Fg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 86, coverArt: "https://images.genius.com/635611363a34e11f6dd2367d869d25c3.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Migos", title: "Narcos", producer: "|Quavo|DJ Durel|", body: `[Intro: Offset]
 Magnífico, arriba
 Magnífico, arriba, arriba
 
@@ -8937,7 +8937,7 @@ I'm bad at love (Ooh-ooh)
 Oh, you know, you know, you know, you know
 I'm bad at love (Ooh-ooh)
 Oh, oh
-`, media: `<iframe id="player-xdYFuCp3m9k" src="https://www.youtube.com/embed/xdYFuCp3m9k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 74, coverArt: "https://images.genius.com/cb5a033a06c1c80c94d728ccfba8549c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bebe Rexha", title: "I'm a Mess", producer: "|Jussifer|", body: `[Verse 1]
+`, media: `<iframe id="player-xdYFuCp3m9k" src="https://www.youtube.com/embed/xdYFuCp3m9k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 74, coverArt: "https://images.genius.com/cb5a033a06c1c80c94d728ccfba8549c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bebe Rexha", title: "I'm a Mess", producer: "|Jussifer|", body: `[Verse 1]
 Everything's been so messed up here lately
 Pretty sure he don't wanna be my baby
 Oh, he don't love me, he don't love me
@@ -8999,7 +8999,7 @@ I'm a mess for your love, it ain't new
 I'm obsessed (I'm obsessed), I'm embarrassed
 I don't trust no one around us
 I'm a mess for your love, it ain't new (yeah)
-`, media: `<iframe id="player-LdH7aFjDzjI" src="https://www.youtube.com/embed/LdH7aFjDzjI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 54, coverArt: "https://images.genius.com/2fbec27ed130e90a155aef1ffa804bed.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Khaled (Ft. Drake)", title: "POPSTAR", producer: "|Drake|DJ Khaled|OZ|", body: `[Intro: DJ Khaled & Drake]
+`, media: `<iframe id="player-LdH7aFjDzjI" src="https://www.youtube.com/embed/LdH7aFjDzjI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 54, coverArt: "https://images.genius.com/2fbec27ed130e90a155aef1ffa804bed.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Khaled (Ft. Drake)", title: "POPSTAR", producer: "|Drake|DJ Khaled|OZ|", body: `[Intro: DJ Khaled & Drake]
 Bitches
 We The Best Music
 Another one (Yeah)
@@ -9074,7 +9074,7 @@ Bitches callin' my phone like I'm locked up, nonstop
 From the plane to the fuckin' helicopter, yeah
 Cops pullin' up like I'm givin' drugs out, nah, nah
 I'm a popstar, not a doctor
-`, media: `<iframe id="player-3CxtK7-XtE0" src="https://www.youtube.com/embed/3CxtK7-XtE0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=150" title="Music Video"></iframe>`, visits: 39, coverArt: "https://images.genius.com/766b86bfbe5410f292eda83ed09a7875.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Katy Perry", title: "Rise", producer: "|Ali Payami|Max Martin|", body: `[Verse 1]
+`, media: `<iframe id="player-3CxtK7-XtE0" src="https://www.youtube.com/embed/3CxtK7-XtE0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=150" title="Music Video"></iframe>`, visits: 39, coverArt: "https://images.genius.com/766b86bfbe5410f292eda83ed09a7875.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Katy Perry", title: "Rise", producer: "|Ali Payami|Max Martin|", body: `[Verse 1]
 I won't just survive
 Oh, you will see me thrive
 Can write my story
@@ -9524,7 +9524,7 @@ You don't need to run
 You don't need to run
 Stay with me, no, you don't need to run
 Stay with me, my blood
-`, media: `<iframe id="player-8mn-FFjIbo8" src="https://www.youtube.com/embed/8mn-FFjIbo8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 203, coverArt: "https://images.genius.com/c4a5ea773dd6a3c0b5e71d12358ee3c9.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Khaled (Ft. Future & JAY-Z)", title: "I Got the Keys", producer: "|Future|JAY-Z|DJ Khaled|Jake One|", body: `[Intro: JAY-Z, Future & DJ Khaled]
+`, media: `<iframe id="player-8mn-FFjIbo8" src="https://www.youtube.com/embed/8mn-FFjIbo8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 203, coverArt: "https://images.genius.com/c4a5ea773dd6a3c0b5e71d12358ee3c9.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Khaled (Ft. Future & JAY-Z)", title: "I Got the Keys", producer: "|Future|JAY-Z|DJ Khaled|Jake One|", body: `[Intro: JAY-Z, Future & DJ Khaled]
 808 Mafia
 Uh, uh-uh-uh, DJ Khaled
 We The Best music (Future, Future)
@@ -9720,7 +9720,7 @@ Like, "She ain't wearing no clothes"
 "When she goin' solo?"
 "I bet they gonna break up"
 But what the hell do you know? (Ah!)
-`, media: `<iframe id="player-ee5aEU4XEnc" src="https://www.youtube.com/embed/ee5aEU4XEnc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 29, coverArt: "https://images.genius.com/38fd868b1dcd0789ed1c4e8bd06658bc.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Calvin Harris (Ft. Rihanna)", title: "This Is What You Came For", producer: "|Rihanna|Kuk Harrell|Calvin Harris|", body: `[Chorus: Rihanna]
+`, media: `<iframe id="player-ee5aEU4XEnc" src="https://www.youtube.com/embed/ee5aEU4XEnc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 29, coverArt: "https://images.genius.com/38fd868b1dcd0789ed1c4e8bd06658bc.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Calvin Harris (Ft. Rihanna)", title: "This Is What You Came For", producer: "|Rihanna|Kuk Harrell|Calvin Harris|", body: `[Chorus: Rihanna]
 Baby, this is what you came for
 Lightning strikes every time she moves
 And everybody's watchin' her
@@ -9892,7 +9892,7 @@ Take me out, and take me home (Forever and ever)
 You're my, my, my, my
 Oh, you're my, my, my, my
 Darling, you're my, my, my, my lover
-`, media: `<iframe id="player--BjZmE2gtdo" src="https://www.youtube.com/embed/-BjZmE2gtdo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 112, coverArt: "https://images.genius.com/960edcb36156c3aed9cb70ede250780a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Diplo & Lil Xan", title: "Color Blind", producer: "|Boaz van de Beatz|Picard Brothers|", body: `[Chorus]
+`, media: `<iframe id="player--BjZmE2gtdo" src="https://www.youtube.com/embed/-BjZmE2gtdo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 112, coverArt: "https://images.genius.com/960edcb36156c3aed9cb70ede250780a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Diplo & Lil Xan", title: "Color Blind", producer: "|Boaz van de Beatz|Picard Brothers|", body: `[Chorus]
 I've been so color blind
 And I've been so color blind (haha, yeah)
 
@@ -9936,7 +9936,7 @@ I've been so color blind
 [Chorus]
 I've been so color blind (i said)
 I've been so color blind
-`, media: `<iframe id="player-wylMwU1wEOM" src="https://www.youtube.com/embed/wylMwU1wEOM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 24, coverArt: "https://images.genius.com/e11fc5bc760704933df8a37f1aa52c26.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Migos & Marshmello", title: "Danger", producer: "|JUDGE|Marshmello|", body: `[Verse 1: Offset]
+`, media: `<iframe id="player-wylMwU1wEOM" src="https://www.youtube.com/embed/wylMwU1wEOM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 24, coverArt: "https://images.genius.com/e11fc5bc760704933df8a37f1aa52c26.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Migos & Marshmello", title: "Danger", producer: "|JUDGE|Marshmello|", body: `[Verse 1: Offset]
 Tryna get demons up outta me (Demons)
 Turn to a beast, eat your arteries (Beast)
 Deceasing opponents so properly (Opponent)
@@ -10102,7 +10102,7 @@ When you need me the most, I will turn you down
 [Outro]
 I know you need me the most
 The most, the most (One more time)
-`, media: `<iframe id="player-voG07pt-KYI" src="https://www.youtube.com/embed/voG07pt-KYI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=7" title="Music Video"></iframe>`, visits: 39, coverArt: "https://images.genius.com/edd27766bc64c7605dd7f45e08ae71b4.1000x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "John Mayer", title: "Free Fallin’ (Live)", producer: "|Steve Jordan|John Mayer|", body: `[Verse 1]
+`, media: `<iframe id="player-voG07pt-KYI" src="https://www.youtube.com/embed/voG07pt-KYI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=7" title="Music Video"></iframe>`, visits: 39, coverArt: "https://images.genius.com/edd27766bc64c7605dd7f45e08ae71b4.1000x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "John Mayer", title: "Free Fallin’ (Live)", producer: "|Steve Jordan|John Mayer|", body: `[Verse 1]
 She's a good girl, loves her mama
 Loves Jesus and America too
 She's a good girl, crazy about Elvis
@@ -10162,7 +10162,7 @@ Free fallin', fallin'
 Free fallin', fallin'
 Free fallin', fallin'
 Yeah, yeah
-`, media: `<iframe id="player-20Ov0cDPZy8" src="https://www.youtube.com/embed/20Ov0cDPZy8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 25, coverArt: "http://images.genius.com/c372bb8d3e7e1f7a689fe4cb562bf7b2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Dan + Shay & Justin Bieber", title: "10,000 Hours", producer: "|Dan Smyers|", body: `[Verse 1: Dan + Shay]
+`, media: `<iframe id="player-20Ov0cDPZy8" src="https://www.youtube.com/embed/20Ov0cDPZy8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 25, coverArt: "http://images.genius.com/c372bb8d3e7e1f7a689fe4cb562bf7b2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Dan + Shay & Justin Bieber", title: "10,000 Hours", producer: "|Dan Smyers|", body: `[Verse 1: Dan + Shay]
 Do you love the rain, does it make you dance
 When you're drunk with your friends at a party?
 What's your favorite song, does it make you smile?
@@ -10213,7 +10213,7 @@ And I...
 Do you love the rain, does it make you dance?
 I'm gonna love you (I'm gonna love you)
 I'm gonna love you
-`, media: `<iframe id="player-Y2E71oe0aSM" src="https://www.youtube.com/embed/Y2E71oe0aSM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 31, coverArt: "https://images.genius.com/553f7b1f1c47651207b89d4c6d1a84ce.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sia", title: "Snowman", producer: "|Greg Kurstin|", body: `[Verse 1]
+`, media: `<iframe id="player-Y2E71oe0aSM" src="https://www.youtube.com/embed/Y2E71oe0aSM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 31, coverArt: "https://images.genius.com/553f7b1f1c47651207b89d4c6d1a84ce.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sia", title: "Snowman", producer: "|Greg Kurstin|", body: `[Verse 1]
 Don't cry, snowman, not in front of me
 Who'll catch your tears if you can't catch me, darling?
 If you can't catch me, darling
@@ -10260,7 +10260,7 @@ It's Christmas, baby
 My snowman and me
 My snowman and me
 Baby
-`, media: `<iframe id="player-gset79KMmt0" src="https://www.youtube.com/embed/gset79KMmt0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 40, coverArt: "https://images.genius.com/3a06feb5809656513371cd99a91e92b1.999x999x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Beyoncé", title: "Partition", producer: "|MIKE DEAN|J-Roc|", body: `[Part 1: "Yoncé"]
+`, media: `<iframe id="player-gset79KMmt0" src="https://www.youtube.com/embed/gset79KMmt0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 40, coverArt: "https://images.genius.com/3a06feb5809656513371cd99a91e92b1.999x999x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Beyoncé", title: "Partition", producer: "|MIKE DEAN|J-Roc|", body: `[Part 1: "Yoncé"]
 
 [Intro]
 Let me hear you say, "Hey, Ms. Carter!" (Hey, Ms. Carter!)
@@ -10378,7 +10378,7 @@ The kinda girl you like is right here with me (Hello!)
 
 [Outro]
 Bzz-bzz-bzz-bzz-bzz-bzzwop
-`, media: `<iframe id="player-6oTK63uRdgo" src="https://www.youtube.com/embed/6oTK63uRdgo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 700, coverArt: "https://images.genius.com/9dc66306cd3f6d048434600ad9fea747.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Drake & Michael Jackson", title: "Don't Matter to Me", producer: "|Nineteen85|40|", body: `[Verse 1: Drake]
+`, media: `<iframe id="player-6oTK63uRdgo" src="https://www.youtube.com/embed/6oTK63uRdgo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 700, coverArt: "https://images.genius.com/9dc66306cd3f6d048434600ad9fea747.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Drake & Michael Jackson", title: "Don't Matter to Me", producer: "|Nineteen85|40|", body: `[Verse 1: Drake]
 Ayy, wild things you're doin' at night
 Trips to wherever feels right
 Doin' it all just to feel things
@@ -10656,7 +10656,7 @@ Yene fikir, fikir, fikir, fikir
 Yene fikir, fikir, fikir, fikir
 Ewedihalehu
 Yene konjo, ewedihalehu...
-`, media: `<iframe id="player-yzTuBuRdAyA" src="https://www.youtube.com/embed/yzTuBuRdAyA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 1000, coverArt: "https://images.genius.com/fb35f79575da142d0455f631e2c1298a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Katy Perry", title: "Roar", producer: "|Cirkut|Max Martin|", body: `[Verse 1]
+`, media: `<iframe id="player-yzTuBuRdAyA" src="https://www.youtube.com/embed/yzTuBuRdAyA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 1000, coverArt: "https://images.genius.com/fb35f79575da142d0455f631e2c1298a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Katy Perry", title: "Roar", producer: "|Cirkut|Max Martin|", body: `[Verse 1]
 I used to bite my tongue and hold my breath
 Scared to rock the boat and make a mess
 So I sat quietly, agreed politely
@@ -10923,7 +10923,7 @@ Are you gonna stay the night?
 Are you gonna stay the night?
 Woah, oh, oh, oh, oh, oh, oh
 Are you gonna stay the night?
-`, media: `<iframe id="player-i-gyZ35074k" src="https://www.youtube.com/embed/i-gyZ35074k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 65, coverArt: "https://images.genius.com/347f6bc8253c36704240558be13be74a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sam Smith", title: "I'm Not the Only One", producer: "|Steve Fitzmaurice|Jimmy Napes|", body: `[Verse 1]
+`, media: `<iframe id="player-i-gyZ35074k" src="https://www.youtube.com/embed/i-gyZ35074k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 65, coverArt: "https://images.genius.com/347f6bc8253c36704240558be13be74a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sam Smith", title: "I'm Not the Only One", producer: "|Steve Fitzmaurice|Jimmy Napes|", body: `[Verse 1]
 You and me, we made a vow
 For better or for worse
 I can't believe you let me down
@@ -11076,7 +11076,7 @@ How come you, how come you taste so good?
 Yeah, yeah, yeah, woo
 Just like a, just like a black girl should
 Yeah, yeah, yeah, woo
-`, media: `<iframe id="player-M9hcAA93N8c" src="https://www.youtube.com/embed/M9hcAA93N8c?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 12, coverArt: "https://images.genius.com/15ae0c0626fd3469d21bf2d546f5971c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sia", title: "Helium", producer: "|Chris Braide|Oliver Kraus|", body: `[Verse 1]
+`, media: `<iframe id="player-M9hcAA93N8c" src="https://www.youtube.com/embed/M9hcAA93N8c?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 12, coverArt: "https://images.genius.com/15ae0c0626fd3469d21bf2d546f5971c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sia", title: "Helium", producer: "|Chris Braide|Oliver Kraus|", body: `[Verse 1]
 I'm trying but I keep falling down
 I cry out but nothing comes now
 I'm giving my all and I know peace will come
@@ -11135,7 +11135,7 @@ You're all I need
 Your love lifts me up like helium
 Your love lifts me up like helium
 Your love lifts me up like helium
-`, media: `<iframe id="player-lF0pZQIUiF0" src="https://www.youtube.com/embed/lF0pZQIUiF0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 14, coverArt: "https://images.genius.com/e7cb3f9defeba54dcf99125f1749f069.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bad Bunny", title: "Chambea", producer: "|Mambo Kingz|DJ Luian|", body: `[Letra de "Chambea"]
+`, media: `<iframe id="player-lF0pZQIUiF0" src="https://www.youtube.com/embed/lF0pZQIUiF0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 14, coverArt: "https://images.genius.com/e7cb3f9defeba54dcf99125f1749f069.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bad Bunny", title: "Chambea", producer: "|Mambo Kingz|DJ Luian|", body: `[Letra de "Chambea"]
 
 [Coro: Bad Bunny]
 Chambea, ¡hala!
@@ -11209,7 +11209,7 @@ Yo siempre picheo, enrolo otra ve'
 Yo siempre picheo, enrolo otra ve' (Wuh)
 Yo siempre picheo, enrolo otra ve'
 Yo siempre picheo, enrolo otra ve' (Ah, ah)
-`, media: `<iframe id="player-gpIBmED4oss" src="https://www.youtube.com/embed/gpIBmED4oss?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=44" title="Music Video"></iframe>`, visits: 12, coverArt: "https://images.genius.com/76d77ddfebc6a397a7fd625e050c14ad.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Khalid", title: "Better", producer: "|Digi|StarGate|", body: `[Intro]
+`, media: `<iframe id="player-gpIBmED4oss" src="https://www.youtube.com/embed/gpIBmED4oss?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=44" title="Music Video"></iframe>`, visits: 12, coverArt: "https://images.genius.com/76d77ddfebc6a397a7fd625e050c14ad.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Khalid", title: "Better", producer: "|Digi|StarGate|", body: `[Intro]
 Better
 Nothing, baby
 Nothing feels better
@@ -11276,7 +11276,7 @@ Nothing feels better than this (Better than this)
 
 [Outro]
 Nothing feels better than this
-`, media: `<iframe id="player-x3bfa3DZ8JM" src="https://www.youtube.com/embed/x3bfa3DZ8JM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 80, coverArt: "https://images.genius.com/b20d4409859bb68d817ca8b5370276eb.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Miley Cyrus", title: "Malibu", producer: "|Oren Yoel|", body: `[Verse 1]
+`, media: `<iframe id="player-x3bfa3DZ8JM" src="https://www.youtube.com/embed/x3bfa3DZ8JM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 80, coverArt: "https://images.genius.com/b20d4409859bb68d817ca8b5370276eb.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Miley Cyrus", title: "Malibu", producer: "|Oren Yoel|", body: `[Verse 1]
 I never came to the beach or stood by the ocean
 I never sat by the shore under the sun with my feet in the sand
 But you brought me here, and I'm happy that you did
@@ -11454,7 +11454,7 @@ You make me blue
 Blue, blue
 Blue, blue, blue
 Blue, blue, blue
-`, media: `<iframe id="player-soRjcajliHE" src="https://www.youtube.com/embed/soRjcajliHE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 105, coverArt: "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Nicky Jam", title: "El Perdón", producer: "|Saga WhiteBlack|", body: `[Letra de "El Perdón"]
+`, media: `<iframe id="player-soRjcajliHE" src="https://www.youtube.com/embed/soRjcajliHE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 105, coverArt: "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Nicky Jam", title: "El Perdón", producer: "|Saga WhiteBlack|", body: `[Letra de "El Perdón"]
 
 [Verso 1]
 Dime si es verdad
@@ -11637,7 +11637,7 @@ Yo tengo mis soldados como Osama y Hussein
 
 [Outro: Anuel AA]
 ¡Brr!
-`, media: `<iframe id="player-kMPW3AvBf_o" src="https://www.youtube.com/embed/kMPW3AvBf_o?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 10, coverArt: "https://images.genius.com/794c2f77fec9455fb6758b5b1d7f683a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "John Mayer", title: "You’re Gonna Live Forever in Me", producer: "|Davide Rossi|Martin Pradler|", body: `[Intro: Whistling]
+`, media: `<iframe id="player-kMPW3AvBf_o" src="https://www.youtube.com/embed/kMPW3AvBf_o?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 10, coverArt: "https://images.genius.com/794c2f77fec9455fb6758b5b1d7f683a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "John Mayer", title: "You’re Gonna Live Forever in Me", producer: "|Davide Rossi|Martin Pradler|", body: `[Intro: Whistling]
 
 [Verse 1]
 A great big bang and dinosaurs
@@ -11678,7 +11678,7 @@ But you're gonna live forever in me
 I guarantee, just wait and see
 
 [Outro: Whistling]
-`, media: `<iframe id="player-08Ndzf5-HxI" src="https://www.youtube.com/embed/08Ndzf5-HxI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 6, coverArt: "https://images.genius.com/54aea343a17595ffe78abe34c08838c6.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Pink Floyd", title: "Hey You", producer: "|David Gilmour|James Guthrie|", body: `[Acoustic Guitar Intro]
+`, media: `<iframe id="player-08Ndzf5-HxI" src="https://www.youtube.com/embed/08Ndzf5-HxI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 6, coverArt: "https://images.genius.com/54aea343a17595ffe78abe34c08838c6.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Pink Floyd", title: "Hey You", producer: "|David Gilmour|James Guthrie|", body: `[Acoustic Guitar Intro]
 
 [Verse 1: David Gilmour]
 Hey you
@@ -11776,7 +11776,7 @@ I've become so numb, I can't feel you there
 I'm tired of being what you want me to be
 I've become so numb, I can't feel you there
 I'm tired of being what you want me to be
-`, media: `<iframe id="player-kXYiU_JCYtU" src="https://www.youtube.com/embed/kXYiU_JCYtU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 186, coverArt: "https://images.genius.com/fe104a811126443667345c1fe51d5dad.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Chris Brown (Ft. Nicki Minaj)", title: "Love More", producer: "|Nicki Minaj|Freshm3n III|", body: `[Intro: Chris Brown]
+`, media: `<iframe id="player-kXYiU_JCYtU" src="https://www.youtube.com/embed/kXYiU_JCYtU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 186, coverArt: "https://images.genius.com/fe104a811126443667345c1fe51d5dad.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Chris Brown (Ft. Nicki Minaj)", title: "Love More", producer: "|Nicki Minaj|Freshm3n III|", body: `[Intro: Chris Brown]
 'Til we get it
 I'ma get it
 'Til we get it
@@ -12020,7 +12020,7 @@ Now I know I have met an angel in person
 And she looks perfect, and he looks perfect
 No, I don't deserve this
 You look perfect tonight
-`, media: `<iframe id="player-817P8W8-mGE" src="https://www.youtube.com/embed/817P8W8-mGE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 49, coverArt: "https://images.genius.com/071a819f088609ee9d24b2dba4546b23.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Martin Garrix (Ft. Khalid)", title: "Ocean", producer: "|Khalid|Giorgio Tuinfort|Martin Garrix|", body: `[Verse 1: Khalid]
+`, media: `<iframe id="player-817P8W8-mGE" src="https://www.youtube.com/embed/817P8W8-mGE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 49, coverArt: "https://images.genius.com/071a819f088609ee9d24b2dba4546b23.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Martin Garrix (Ft. Khalid)", title: "Ocean", producer: "|Khalid|Giorgio Tuinfort|Martin Garrix|", body: `[Verse 1: Khalid]
 Tell me what you're crying for
 I'll wipe your tears, oh love
 If your soul is aching love
@@ -12089,7 +12089,7 @@ If we're caught in a wave
 Baby, we'll make a way
 You could put an ocean between our love, love, love
 It won't keep us apart
-`, media: `<iframe id="player-BDocp-VpCwY" src="https://www.youtube.com/embed/BDocp-VpCwY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 31, coverArt: "https://images.genius.com/4232927d67d691342d57103bc932e3c2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Jason Derulo (Ft. French Montana)", title: "Tip Toe", producer: "|French Montana|Pip|Bantu|", body: `[Intro: Jason Derulo & Soaky Siren]
+`, media: `<iframe id="player-BDocp-VpCwY" src="https://www.youtube.com/embed/BDocp-VpCwY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 31, coverArt: "https://images.genius.com/4232927d67d691342d57103bc932e3c2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Jason Derulo (Ft. French Montana)", title: "Tip Toe", producer: "|French Montana|Pip|Bantu|", body: `[Intro: Jason Derulo & Soaky Siren]
 Derulo
 Whine fa me darlin'
 Way you move ya spine is alarmin'
@@ -12250,7 +12250,7 @@ Baby ain't a trapper, he a rapper
 Baby makin' classics, Baby in the hood gettin' active
 Baby keep it real with his people
 Baby like a preacher, Baby prolly still sell reefer
-`, media: `<iframe id="player-0GbwYFqN1iE" src="https://www.youtube.com/embed/0GbwYFqN1iE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=17" title="Music Video"></iframe>`, visits: 26, coverArt: "https://images.genius.com/e81d0fd70ba6949e29cd9f5fa3553a43.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Martin Garrix (Ft. BONN)", title: "High on Life", producer: "|BONN|Martin Garrix|Giorgio Tuinfort|", body: `[Verse 1]
+`, media: `<iframe id="player-0GbwYFqN1iE" src="https://www.youtube.com/embed/0GbwYFqN1iE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=17" title="Music Video"></iframe>`, visits: 26, coverArt: "https://images.genius.com/e81d0fd70ba6949e29cd9f5fa3553a43.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Martin Garrix (Ft. BONN)", title: "High on Life", producer: "|BONN|Martin Garrix|Giorgio Tuinfort|", body: `[Verse 1]
 Killed the demons of my mind
 Ever since you came around
 We're a river, running wild
@@ -12317,7 +12317,7 @@ And I'd walk a million miles, just to see you smile
 'Til the day I die
 Oh, I need you by my side, we get high on life
 'Til the day we die
-`, media: `<iframe id="player-Lpjcm1F8tY8" src="https://www.youtube.com/embed/Lpjcm1F8tY8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 27, coverArt: "https://images.genius.com/efb07122f035415d1e6a969082a51117.800x800x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Genius English Translations", title: "Cardi B, Bad Bunny & J Balvin - I Like It (English Translation)", producer: "", body: `[Intro]
+`, media: `<iframe id="player-Lpjcm1F8tY8" src="https://www.youtube.com/embed/Lpjcm1F8tY8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 27, coverArt: "https://images.genius.com/efb07122f035415d1e6a969082a51117.800x800x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Genius English Translations", title: "Cardi B, Bad Bunny & J Balvin - I Like It (English Translation)", producer: "", body: `[Intro]
 Yeah baby, I like it like that
 You gotta believe me when I tell you
 I said I like it like that
@@ -12412,7 +12412,7 @@ Diamond district in the chain (I said I like it like that)
 Certified, know I'm gang, gang (I said I like it like—)
 Drop the top and blow the brains, wouh (I said I like it like that)
 Oh he's so handsome, what's his name? (I said I like it)
-`, media: `<iframe id="player-xTlNMmZKwpA" src="https://www.youtube.com/embed/xTlNMmZKwpA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 2, coverArt: "https://images.genius.com/19d1a7186f97d396299ab374fa05b66a.901x470x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Post Malone (Ft. Ty Dolla $ign)", title: "Psycho", producer: "|Ty Dolla $ign|Post Malone|Louis Bell|", body: `[Chorus: Post Malone]
+`, media: `<iframe id="player-xTlNMmZKwpA" src="https://www.youtube.com/embed/xTlNMmZKwpA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 2, coverArt: "https://images.genius.com/19d1a7186f97d396299ab374fa05b66a.901x470x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Post Malone (Ft. Ty Dolla $ign)", title: "Psycho", producer: "|Ty Dolla $ign|Post Malone|Louis Bell|", body: `[Chorus: Post Malone]
 Damn, my AP goin' psycho, lil' mama bad like Michael
 Can't really trust nobody with all this jewelry on you
 My roof look like a no-show, got diamonds by the boatload
@@ -12897,7 +12897,7 @@ Wish you could find that love is a fragile thing
 Magic call from a pretty thing
 Maybe it might be time
 For a better day
-`, media: `<iframe id="player-futuLu9FQzw" src="https://www.youtube.com/embed/futuLu9FQzw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 14, coverArt: "http://assets.genius.com/images/sharing_fallback.png?1632344895", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Guns N' Roses", title: "November Rain", producer: "|Guns N’ Roses|Mike Clink|", body: `[Instrumental Intro]
+`, media: `<iframe id="player-futuLu9FQzw" src="https://www.youtube.com/embed/futuLu9FQzw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 14, coverArt: "http://assets.genius.com/images/sharing_fallback.png?1632344895", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Guns N' Roses", title: "November Rain", producer: "|Guns N’ Roses|Mike Clink|", body: `[Instrumental Intro]
 
 [Verse 1]
 When I look into your eyes
@@ -12977,7 +12977,7 @@ You're not the only one, you're not the only one
 Don't ya think that you need somebody?
 Don't ya think that you need someone?
 Everybody needs somebody
-`, media: `<iframe id="player-8SbUC-UaAxE" src="https://www.youtube.com/embed/8SbUC-UaAxE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 57, coverArt: "https://images.genius.com/e4bb08d7458384debb72d482bd06a8ff.1000x673x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bad Bunny & Jhay Cortez", title: "DÁKITI", producer: "|La Paciencia|Tainy|", body: `[Letra de "DÁKITI"]
+`, media: `<iframe id="player-8SbUC-UaAxE" src="https://www.youtube.com/embed/8SbUC-UaAxE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 57, coverArt: "https://images.genius.com/e4bb08d7458384debb72d482bd06a8ff.1000x673x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bad Bunny & Jhay Cortez", title: "DÁKITI", producer: "|La Paciencia|Tainy|", body: `[Letra de "DÁKITI"]
 
 [Coro: Jhay Cortez]
 Baby, ya yo me enteré, se nota cuando me ve'
@@ -13047,7 +13047,7 @@ Tú mueve' el culo fenomenal
 Pa' yo devorarte como animal
 Si no te ha' venío', yo te vo'a esperar
 En mi cama y lo vo'a celebrar
-`, media: `<iframe id="player-TmKh7lAwnBI" src="https://www.youtube.com/embed/TmKh7lAwnBI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 69, coverArt: "https://images.genius.com/05cbeb3b5492dd0684c043359f82136a.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Calvin Harris (Ft. Big Sean, Katy Perry & Pharrell Williams)", title: "Feels", producer: "|Pharrell Williams|Katy Perry|Calvin Harris|", body: `[Verse 1: Pharrell Williams]
+`, media: `<iframe id="player-TmKh7lAwnBI" src="https://www.youtube.com/embed/TmKh7lAwnBI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 69, coverArt: "https://images.genius.com/05cbeb3b5492dd0684c043359f82136a.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Calvin Harris (Ft. Big Sean, Katy Perry & Pharrell Williams)", title: "Feels", producer: "|Pharrell Williams|Katy Perry|Calvin Harris|", body: `[Verse 1: Pharrell Williams]
 Hey!
 Now nothing ever last forever, no
 One minute you're here and the next you're gone
@@ -13503,7 +13503,7 @@ We can make arrangements though (Arrangements though)
 And if you down, down, who knows, uh
 I might just do you like we lovin', yeah
 Or make you my numero uno
-`, media: `<iframe id="player-9VH0fUABBjY" src="https://www.youtube.com/embed/9VH0fUABBjY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 25, coverArt: "https://images.genius.com/e32ad5b8bfd399d29a11131d84ca21ec.750x750x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Machine Gun Kelly (Ft. Waka Flocka Flame)", title: "Wild Boy", producer: "|Waka Flocka Flame|Ski (Producer)|GB Hitz|", body: `[Intro: Machine Gun Kelly]
+`, media: `<iframe id="player-9VH0fUABBjY" src="https://www.youtube.com/embed/9VH0fUABBjY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 25, coverArt: "https://images.genius.com/e32ad5b8bfd399d29a11131d84ca21ec.750x750x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Machine Gun Kelly (Ft. Waka Flocka Flame)", title: "Wild Boy", producer: "|Waka Flocka Flame|Ski (Producer)|GB Hitz|", body: `[Intro: Machine Gun Kelly]
 Yeah, bitch, yeah, bitch, call me Steve-O
 I'm a wild boy, fuck an eighth, I need O's
 
@@ -13592,7 +13592,7 @@ I'm a wild boy, I'm a, I'm a wild boy
 I'm a wild boy, I'm a, I'm a wild boy
 I'm a wild boy, I'm a, I'm a wild boy
 I'm a wild boy, I'm a, I'm a wild boy (Wild boy)
-`, media: `<iframe id="player-A_J7kEhY9sM" src="https://www.youtube.com/embed/A_J7kEhY9sM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=2" title="Music Video"></iframe>`, visits: 77, coverArt: "https://images.genius.com/577ba66579d01a9eb87eeb1234cfcf02.630x630x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Snake & J Balvin (Ft. Tyga)", title: "Loco Contigo", producer: "|Tyga|DJ Snake|", body: `[Letra de "Loco Contigo" ft. Tyga]
+`, media: `<iframe id="player-A_J7kEhY9sM" src="https://www.youtube.com/embed/A_J7kEhY9sM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=2" title="Music Video"></iframe>`, visits: 77, coverArt: "https://images.genius.com/577ba66579d01a9eb87eeb1234cfcf02.630x630x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Snake & J Balvin (Ft. Tyga)", title: "Loco Contigo", producer: "|Tyga|DJ Snake|", body: `[Letra de "Loco Contigo" ft. Tyga]
 
 [Coro: J Balvin]
 Tú me tienes loco, loco contigo
@@ -13717,7 +13717,7 @@ Why'd you come? You knew you should have stayed (It's blasphemy)
 I tried to warn you just to stay away (Wouldn't listen to me)
 And now they're outside ready to bust (And guess what?)
 It looks like you might be one of us
-`, media: `<iframe id="player-UprcpdwuwCg" src="https://www.youtube.com/embed/UprcpdwuwCg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 358, coverArt: "https://images.genius.com/d9a9a00dee6dd6562feb39fc44cb620b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Chris Brown (Ft. Busta Rhymes & Lil Wayne)", title: "Look at Me Now", producer: "|Busta Rhymes|Lil Wayne|Free School|Diplo|", body: `[Intro: Chris Brown]
+`, media: `<iframe id="player-UprcpdwuwCg" src="https://www.youtube.com/embed/UprcpdwuwCg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 358, coverArt: "https://images.genius.com/d9a9a00dee6dd6562feb39fc44cb620b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Chris Brown (Ft. Busta Rhymes & Lil Wayne)", title: "Look at Me Now", producer: "|Busta Rhymes|Lil Wayne|Free School|Diplo|", body: `[Intro: Chris Brown]
 I don't see how you can hate from outside of the club
 You can't even get in!
 Hahaha
@@ -14000,7 +14000,7 @@ Jeremy Scott up on my toes, act like Shockey (Woah)
 Made her get down on the bottom and she top me (Let's go)
 Pull up extra icy, I'm not playin' hockey (Hockey, bling, blaow)
 Niggas think I'm weird and they don't really like me
-`, media: `<iframe id="player-Bt-brUAx3Uo" src="https://www.youtube.com/embed/Bt-brUAx3Uo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 78, coverArt: "https://images.genius.com/73e5eb9c6c73146ec57f8634bb905e01.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shawn Mendes (Ft. Khalid)", title: "Youth", producer: "|Khalid|Joel Little|Shawn Mendes|", body: `[Verse 1: Shawn Mendes & Khalid]
+`, media: `<iframe id="player-Bt-brUAx3Uo" src="https://www.youtube.com/embed/Bt-brUAx3Uo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 78, coverArt: "https://images.genius.com/73e5eb9c6c73146ec57f8634bb905e01.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shawn Mendes (Ft. Khalid)", title: "Youth", producer: "|Khalid|Joel Little|Shawn Mendes|", body: `[Verse 1: Shawn Mendes & Khalid]
 Here I am, stuck on this couch scrolling through my notes
 Heart was broken, still not growing, nah
 Waking up to headlines, filled with devastation again
@@ -14076,7 +14076,7 @@ You can't take my youth away
 
 [Outro]
 You can't take my youth away
-`, media: `<iframe id="player-sJUGAIf1Px0" src="https://www.youtube.com/embed/sJUGAIf1Px0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 79, coverArt: "https://images.genius.com/8f533c061a2423c8652c2d73788dff77.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sia", title: "Chandelier", producer: "|Greg Kurstin|Jesse Shatkin|", body: `[Verse 1]
+`, media: `<iframe id="player-sJUGAIf1Px0" src="https://www.youtube.com/embed/sJUGAIf1Px0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 79, coverArt: "https://images.genius.com/8f533c061a2423c8652c2d73788dff77.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sia", title: "Chandelier", producer: "|Greg Kurstin|Jesse Shatkin|", body: `[Verse 1]
 Party girls don't get hurt
 Can't feel anything, when will I learn?
 I push it down, push it down
@@ -14152,7 +14152,7 @@ On for tonight, on for tonight
 'Cause I'm just holding on for tonight
 Oh, I'm just holding on for tonight
 On for tonight, on for tonight
-`, media: `<iframe id="player-2vjPBrBU-TM" src="https://www.youtube.com/embed/2vjPBrBU-TM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=10" title="Music Video"></iframe>`, visits: 444, coverArt: "https://images.genius.com/9ac569a5e53c34934f2b8f7195d1afad.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "John Mayer", title: "In the Blood", producer: "|Chad Franscoviak|John Mayer|", body: `[Verse 1]
+`, media: `<iframe id="player-2vjPBrBU-TM" src="https://www.youtube.com/embed/2vjPBrBU-TM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=10" title="Music Video"></iframe>`, visits: 444, coverArt: "https://images.genius.com/9ac569a5e53c34934f2b8f7195d1afad.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "John Mayer", title: "In the Blood", producer: "|Chad Franscoviak|John Mayer|", body: `[Verse 1]
 How much of my mother has my mother left in me?
 How much of my love will be insane to some degree?
 And what about this feeling that I'm never good enough?
@@ -14196,7 +14196,7 @@ Could I change it if I wanted?
 Can I rise above the flood?
 Will it wash out in the water
 Or is it always in the blood?
-`, media: `<iframe id="player-ob-jS7bqYgI" src="https://www.youtube.com/embed/ob-jS7bqYgI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 4, coverArt: "https://images.genius.com/54aea343a17595ffe78abe34c08838c6.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "James Arthur", title: "Safe Inside", producer: "|Bradley Spence|Jonathan Quarmby|", body: `[Verse 1]
+`, media: `<iframe id="player-ob-jS7bqYgI" src="https://www.youtube.com/embed/ob-jS7bqYgI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 4, coverArt: "https://images.genius.com/54aea343a17595ffe78abe34c08838c6.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "James Arthur", title: "Safe Inside", producer: "|Bradley Spence|Jonathan Quarmby|", body: `[Verse 1]
 I remember when you were all mine
 Watched you changing in front of my eyes
 What can I say
@@ -14254,7 +14254,7 @@ I won't sleep 'til you're safe inside
 [Outro]
 Will you call me to tell me you're alright
 Cause I worry about you
-`, media: `<iframe id="player-2TtgkKZNTa8" src="https://www.youtube.com/embed/2TtgkKZNTa8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 7, coverArt: "http://images.genius.com/13729bb57b591295a4f1f4bcb80ac41c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sean Paul & David Guetta (Ft. Becky G)", title: "Mad Love", producer: "|Becky G|1st Klase|Banx &amp; Ranx|", body: `[Intro: Becky G]
+`, media: `<iframe id="player-2TtgkKZNTa8" src="https://www.youtube.com/embed/2TtgkKZNTa8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 7, coverArt: "http://images.genius.com/13729bb57b591295a4f1f4bcb80ac41c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sean Paul & David Guetta (Ft. Becky G)", title: "Mad Love", producer: "|Becky G|1st Klase|Banx &amp; Ranx|", body: `[Intro: Becky G]
 Jiggle up yuh body
 Jiggle up yuh sinting
 
@@ -14412,7 +14412,7 @@ Slaughter Gang shit, Murder Gang shit
 Slaughter Gang shit, Murder Gang shit
 Slaughter Gang shit, Murder Gang shit
 Slaughter Gang shit, Murder Gang shit
-`, media: `<iframe id="player-mWISiHcGoNg" src="https://www.youtube.com/embed/mWISiHcGoNg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 24, coverArt: "https://images.rapgenius.com/932927de3e8ced5be40320d15e7db0f3.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Ski Mask the Slump God (Ft. Juice WRLD)", title: "Nuketown", producer: "|Juice WRLD|FreshThPharmacy|", body: `[Intro: Ski Mask The Slump God]
+`, media: `<iframe id="player-mWISiHcGoNg" src="https://www.youtube.com/embed/mWISiHcGoNg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 24, coverArt: "https://images.rapgenius.com/932927de3e8ced5be40320d15e7db0f3.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Ski Mask the Slump God (Ft. Juice WRLD)", title: "Nuketown", producer: "|Juice WRLD|FreshThPharmacy|", body: `[Intro: Ski Mask The Slump God]
 Round one, fight
 Yeah, yeah
 The Pharmacy
@@ -14500,7 +14500,7 @@ Yeah, water
 Uh, pipe me up, voot me up, fuck nigga
 Uh, uh, evil twin, ayy ayy, uh
 Ayy ayy, cutthroat
-`, media: `<iframe id="player-LjkDor2LenI" src="https://www.youtube.com/embed/LjkDor2LenI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=19" title="Music Video"></iframe>`, visits: 166, coverArt: "https://images.genius.com/e82b8ad098be04fb086164457532f232.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Khalid", title: "Young Dumb & Broke", producer: "|Joel Little|", body: `[Verse 1]
+`, media: `<iframe id="player-LjkDor2LenI" src="https://www.youtube.com/embed/LjkDor2LenI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=19" title="Music Video"></iframe>`, visits: 166, coverArt: "https://images.genius.com/e82b8ad098be04fb086164457532f232.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Khalid", title: "Young Dumb & Broke", producer: "|Joel Little|", body: `[Verse 1]
 So you're still thinking of me
 Just like I know you should
 I can not give you everything, you know I wish I could
@@ -14570,7 +14570,7 @@ Yadadadadadadada
 Yadadadadadada
 Yadadadadadadada
 Young dumb broke high school kids
-`, media: `<iframe id="player-IPfJnp1guPc" src="https://www.youtube.com/embed/IPfJnp1guPc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=19" title="Music Video"></iframe>`, visits: 101, coverArt: "https://images.genius.com/b72ffa400a4c1fe6ce65cae15548217f.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Martin Garrix & David Guetta (Ft. Jamie Scott & Romy Dya)", title: "So Far Away", producer: "|Jamie Scott|Romy Dya|Martin Garrix|David Guetta|", body: `[Verse 1: Jamie Scott]
+`, media: `<iframe id="player-IPfJnp1guPc" src="https://www.youtube.com/embed/IPfJnp1guPc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=19" title="Music Video"></iframe>`, visits: 101, coverArt: "https://images.genius.com/b72ffa400a4c1fe6ce65cae15548217f.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Martin Garrix & David Guetta (Ft. Jamie Scott & Romy Dya)", title: "So Far Away", producer: "|Jamie Scott|Romy Dya|Martin Garrix|David Guetta|", body: `[Verse 1: Jamie Scott]
 Light 'em up, light 'em up
 Tell me where you are, tell me where you are
 The summer nights, the bright lights
@@ -14632,7 +14632,7 @@ Tell me there's a river I can swim that will bring you back to me
 I don't know how to forget your face
 Oh, love
 God, I miss you every single day when you're so far away
-`, media: `<iframe id="player-o7iL2KzDh38" src="https://www.youtube.com/embed/o7iL2KzDh38?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 54, coverArt: "https://images.genius.com/1939e046fb947fee9f5fc411138a219b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sebastián Yatra (Ft. Lary Over & Luis Figueroa)", title: "Por Perro", producer: "|Luis Figueroa|Lary Over|XAXO|Sky Rompiendo|", body: `[Letra de "Por Perro" ft. Luis Figueroa & Lary Over]
+`, media: `<iframe id="player-o7iL2KzDh38" src="https://www.youtube.com/embed/o7iL2KzDh38?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 54, coverArt: "https://images.genius.com/1939e046fb947fee9f5fc411138a219b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sebastián Yatra (Ft. Lary Over & Luis Figueroa)", title: "Por Perro", producer: "|Luis Figueroa|Lary Over|XAXO|Sky Rompiendo|", body: `[Letra de "Por Perro" ft. Luis Figueroa & Lary Over]
 
 [Intro: Sebastián Yatra & Lary Over]
 Eh-eh
@@ -14737,7 +14737,7 @@ Sky Rompiendo El Bajo
 ¡Wuh!
 I've been missing your lovin' babe
 Being inside you babe, I can't lie
-`, media: `<iframe id="player-WtE011iVx1Q" src="https://www.youtube.com/embed/WtE011iVx1Q?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=46" title="Music Video"></iframe>`, visits: 2, coverArt: "https://images.genius.com/22a6c5db48f6b291239c39b77c8d5bc4.370x370x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DaBaby", title: "BOP", producer: "|Star Boy (Producer)|​jetsonmade|", body: `[Intro]
+`, media: `<iframe id="player-WtE011iVx1Q" src="https://www.youtube.com/embed/WtE011iVx1Q?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=46" title="Music Video"></iframe>`, visits: 2, coverArt: "https://images.genius.com/22a6c5db48f6b291239c39b77c8d5bc4.370x370x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DaBaby", title: "BOP", producer: "|Star Boy (Producer)|​jetsonmade|", body: `[Intro]
 You know everybody been waiting on that Baby, man
 I mean, it's like ever since Baby on Baby dropped, man, like, you know (Ever since Baby on Baby dropped)
 Ain't nobody drop shit (Oh Lord, Jetson made another one)
@@ -14917,7 +14917,7 @@ Can you build my house with pieces?
 I'm just a chemical
 Can you build my house with pieces?
 I'm just a chemical
-`, media: `<iframe id="player-eJnQBXmZ7Ek" src="https://www.youtube.com/embed/eJnQBXmZ7Ek?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 257, coverArt: "https://images.genius.com/1a9a89e905ca716bf56e31e3a3786f8b.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "JAY-Z & Linkin Park", title: "Numb / Encore", producer: "|Don Gilmore|Kanye West|", body: `[Intro: Mike Shinoda & Jay-Z]
+`, media: `<iframe id="player-eJnQBXmZ7Ek" src="https://www.youtube.com/embed/eJnQBXmZ7Ek?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 257, coverArt: "https://images.genius.com/1a9a89e905ca716bf56e31e3a3786f8b.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "JAY-Z & Linkin Park", title: "Numb / Encore", producer: "|Don Gilmore|Kanye West|", body: `[Intro: Mike Shinoda & Jay-Z]
 Yeah
 Thank you, thank you, thank you, you're far too kind! (Whoo!)
 Ah, uh, whoo, yeah! Ready?
@@ -15045,7 +15045,7 @@ I'll rot, I'll rot, I'll rot
 Is my pain your freedom?
 Is all of my pain your freedom?
 Enjoy
-`, media: `<iframe id="player-CD_tD26E7k0" src="https://www.youtube.com/embed/CD_tD26E7k0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 325, coverArt: "https://images.genius.com/b89490f01aae8734f0dae5800f2e528c.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Booba", title: "Pitbull", producer: "|Animalsons|", body: `[Couplet 1]
+`, media: `<iframe id="player-CD_tD26E7k0" src="https://www.youtube.com/embed/CD_tD26E7k0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 325, coverArt: "https://images.genius.com/b89490f01aae8734f0dae5800f2e528c.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Booba", title: "Pitbull", producer: "|Animalsons|", body: `[Couplet 1]
 Venu extraire Excalibur de son enclume
 En 6.45 j'suis l'bitume avec une plume
 Tout commence dans la cour de récréation
@@ -15113,7 +15113,7 @@ Car on m'a dit en classe que l'Homme venait du singe
 B2OBA
 Ma vie, Pitbull
 Ah-ha, ah-ha
-`, media: `<iframe id="player-SDCSl9CFaNM" src="https://www.youtube.com/embed/SDCSl9CFaNM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 21, coverArt: "https://images.genius.com/d1eda78518ff52811e1f9617067aeae8.480x360x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Genius English Translations", title: "Luis Fonsi & Daddy Yankee - Despacito (Remix) ft. Justin Bieber (English Translation)", producer: "", body: `[Intro: Justin Bieber]
+`, media: `<iframe id="player-SDCSl9CFaNM" src="https://www.youtube.com/embed/SDCSl9CFaNM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 21, coverArt: "https://images.genius.com/d1eda78518ff52811e1f9617067aeae8.480x360x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Genius English Translations", title: "Luis Fonsi & Daddy Yankee - Despacito (Remix) ft. Justin Bieber (English Translation)", producer: "", body: `[Intro: Justin Bieber]
 Come on over in my direction
 So thankful for that, it's such a blessin', yeah
 Turn every situation into heaven, yeah
@@ -15219,7 +15219,7 @@ We're sticking together, little by little
 Until we provoke screams (Fonsi)
 And you forget your last name (D.Y.)
 Slowly
-`, media: `<iframe id="player-72UO0v5ESUo" src="https://www.youtube.com/embed/72UO0v5ESUo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 3, coverArt: "https://images.genius.com/93e9e3fa0ab18bc4613d385f287090c6.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "James Arthur (Ft. Travis Barker)", title: "You", producer: "|Travis Barker|Red Triangle|", body: `[Intro]
+`, media: `<iframe id="player-72UO0v5ESUo" src="https://www.youtube.com/embed/72UO0v5ESUo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 3, coverArt: "https://images.genius.com/93e9e3fa0ab18bc4613d385f287090c6.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "James Arthur (Ft. Travis Barker)", title: "You", producer: "|Travis Barker|Red Triangle|", body: `[Intro]
 Fighting, living, dying
 For what? For freedom?
 That for which men have fought since time began, to be free
@@ -15307,7 +15307,7 @@ I knew you always were
 I knew you always would
 I know there always was nothing wrong with being
 You, you, you, you, you, you, you, you
-`, media: `<iframe id="player-hfDGlB96hE0" src="https://www.youtube.com/embed/hfDGlB96hE0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 8, coverArt: "https://images.genius.com/3c37f8ddaf101d690faf11409424bec6.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Guaynaa, Nicky Jam & Farruko (Ft. Becky G & Sech)", title: "Rebota (Remix)", producer: "|Becky G|Sech|DJ Luian|Charlie Way|", body: `[Letra de "Rebota" (Remix) ft. Becky G & Sech]
+`, media: `<iframe id="player-hfDGlB96hE0" src="https://www.youtube.com/embed/hfDGlB96hE0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 8, coverArt: "https://images.genius.com/3c37f8ddaf101d690faf11409424bec6.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Guaynaa, Nicky Jam & Farruko (Ft. Becky G & Sech)", title: "Rebota (Remix)", producer: "|Becky G|Sech|DJ Luian|Charlie Way|", body: `[Letra de "Rebota" (Remix) ft. Becky G & Sech]
 
 [Intro: Sech, Guaynaa & DJ Luian]
 (This is the remix)
@@ -15465,7 +15465,7 @@ Black as night, black as coal
 I wanna see the sun blotted out from the sky
 I wanna see it painted, painted, painted, painted black
 Yeah
-`, media: `<iframe id="player-O4irXQhgMqg" src="https://www.youtube.com/embed/O4irXQhgMqg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 80, coverArt: "https://images.genius.com/3a2e6b3fabe174ab2ecb46d773bcd110.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Coldplay", title: "Adventure of a Lifetime", producer: "|Rik Simpson|StarGate|", body: `[Intro]
+`, media: `<iframe id="player-O4irXQhgMqg" src="https://www.youtube.com/embed/O4irXQhgMqg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 80, coverArt: "https://images.genius.com/3a2e6b3fabe174ab2ecb46d773bcd110.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Coldplay", title: "Adventure of a Lifetime", producer: "|Rik Simpson|StarGate|", body: `[Intro]
 [Indecipherable]
 
 [Verse 1]
@@ -15617,7 +15617,7 @@ I'll morph to someone else
 Not done, not done
 Not done, Josh Dun
 I'll morph to someone else
-`, media: `<iframe id="player-OmL9TqTFIAc" src="https://www.youtube.com/embed/OmL9TqTFIAc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 153, coverArt: "https://images.genius.com/1ff3e75d044c28c6440e6ab05b42c81e.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Migos (Ft. Gucci Mane)", title: "Slippery", producer: "|Gucci Mane|OG Parker|Deko|", body: `[Intro]
+`, media: `<iframe id="player-OmL9TqTFIAc" src="https://www.youtube.com/embed/OmL9TqTFIAc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 153, coverArt: "https://images.genius.com/1ff3e75d044c28c6440e6ab05b42c81e.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Migos (Ft. Gucci Mane)", title: "Slippery", producer: "|Gucci Mane|OG Parker|Deko|", body: `[Intro]
 De-de-de-de-de-de-de-de-Deko
 OG Parker
 
@@ -15809,7 +15809,7 @@ High voltage (Done dirt cheap)
 Dirty deeds (Done dirt cheap)
 
 Yaaaaaaaaaaarrrrrrrrrggghhhhhh!
-`, media: `<iframe id="player-26wrvblgGP0" src="https://www.youtube.com/embed/26wrvblgGP0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 13, coverArt: "https://images.genius.com/eb2e9abcd17c8f6d4a54d491e37e8099.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "JAY-Z", title: "Tom Ford", producer: "|J-Roc|Timbaland|", body: `[Intro]
+`, media: `<iframe id="player-26wrvblgGP0" src="https://www.youtube.com/embed/26wrvblgGP0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 13, coverArt: "https://images.genius.com/eb2e9abcd17c8f6d4a54d491e37e8099.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "JAY-Z", title: "Tom Ford", producer: "|J-Roc|Timbaland|", body: `[Intro]
 Clap for a nigga with his rapping ass
 Blow a stack for your niggas with your trapping ass
 Clap for a nigga with his rapping ass
@@ -15874,7 +15874,7 @@ Keep it trill, y'all know y'all can't fuck around
 [Outro]
 Hold up
 I don't pop molly, I rock Tom Ford
-`, media: `<iframe id="player-Xj4vZZDShJQ" src="https://www.youtube.com/embed/Xj4vZZDShJQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 76, coverArt: "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Major Lazer (Ft. Amber Coffman)", title: "Get Free", producer: "|Amber Coffman|Switch|Diplo|", body: `[Intro]
+`, media: `<iframe id="player-Xj4vZZDShJQ" src="https://www.youtube.com/embed/Xj4vZZDShJQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 76, coverArt: "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Major Lazer (Ft. Amber Coffman)", title: "Get Free", producer: "|Amber Coffman|Switch|Diplo|", body: `[Intro]
 Yeah
 
 [Verse 1]
@@ -15940,7 +15940,7 @@ I just wanna dream
 I just wanna dream
 I just wanna dream
 Baby, you know me
-`, media: `<iframe id="player-ytIfSuy_mOA" src="https://www.youtube.com/embed/ytIfSuy_mOA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=7" title="Music Video"></iframe>`, visits: 56, coverArt: "https://images.genius.com/8b3111aca88365b8e4e90c00602cddd7.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Calvin Harris", title: "Summer", producer: "|Calvin Harris|", body: `[Verse 1]
+`, media: `<iframe id="player-ytIfSuy_mOA" src="https://www.youtube.com/embed/ytIfSuy_mOA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=7" title="Music Video"></iframe>`, visits: 56, coverArt: "https://images.genius.com/8b3111aca88365b8e4e90c00602cddd7.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Calvin Harris", title: "Summer", producer: "|Calvin Harris|", body: `[Verse 1]
 When I met you in the summer
 To my heartbeat's sound
 We fell in love
@@ -15978,7 +15978,7 @@ Summer (Summer)
 (Yeah, yeah)
 
 [Instrumental Chorus]
-`, media: `<iframe id="player-ebXbLfLACGM" src="https://www.youtube.com/embed/ebXbLfLACGM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=12" title="Music Video"></iframe>`, visits: 122, coverArt: "https://images.genius.com/74dee4d460ddc2e8ac215872f3b5b167.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Beyoncé (Ft. JAY-Z)", title: "Drunk in Love", producer: "|JAY-Z|The Order|Detail|", body: `[Verse 1: Beyoncé]
+`, media: `<iframe id="player-ebXbLfLACGM" src="https://www.youtube.com/embed/ebXbLfLACGM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=12" title="Music Video"></iframe>`, visits: 122, coverArt: "https://images.genius.com/74dee4d460ddc2e8ac215872f3b5b167.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Beyoncé (Ft. JAY-Z)", title: "Drunk in Love", producer: "|JAY-Z|The Order|Detail|", body: `[Verse 1: Beyoncé]
 I've been drinkin', I've been drinkin'
 I get filthy when that liquor get into me
 I've been thinkin', I've been thinkin'
@@ -16271,7 +16271,7 @@ These thunderclouds, oh no, no
 These thunderclouds (Oh, whoa, oh)
 These thunderclouds (Ah-ah-ah)
 These thunderclouds (Oh)
-`, media: `<iframe id="player-kg1BljLu9YY" src="https://www.youtube.com/embed/kg1BljLu9YY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 50, coverArt: "https://images.genius.com/549e74fbfc6a67c6f343edd8dbfa0bf3.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "KAROL G & Anuel AA", title: "Secreto", producer: "|Prida|EZ Made Da Beat|", body: `[Letra de "Secreto"]
+`, media: `<iframe id="player-kg1BljLu9YY" src="https://www.youtube.com/embed/kg1BljLu9YY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 50, coverArt: "https://images.genius.com/549e74fbfc6a67c6f343edd8dbfa0bf3.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "KAROL G & Anuel AA", title: "Secreto", producer: "|Prida|EZ Made Da Beat|", body: `[Letra de "Secreto"]
 
 [Intro: Anuel AA]
 Bebecita
@@ -16443,7 +16443,7 @@ That gimme, gimme, gimme the honky tonk blues
 
 It's the honky tonk women
 That gimme, gimme, gimme the honky tonk blues
-`, media: `<iframe id="player-hqqkGxZ1_8I" src="https://www.youtube.com/embed/hqqkGxZ1_8I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 7, coverArt: "https://images.genius.com/5c67134975468d2b87327914da2cc6fe.300x300x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Coldplay", title: "Everglow", producer: "|StarGate|Rik Simpson|", body: `[Verse 1]
+`, media: `<iframe id="player-hqqkGxZ1_8I" src="https://www.youtube.com/embed/hqqkGxZ1_8I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 7, coverArt: "https://images.genius.com/5c67134975468d2b87327914da2cc6fe.300x300x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Coldplay", title: "Everglow", producer: "|StarGate|Rik Simpson|", body: `[Verse 1]
 Oh, they say people come, say people go
 This particular diamond was extra special
 And though you might be gone, and the world may not know
@@ -16483,7 +16483,7 @@ Because I live for this feelin', this everglow
 [Outro]
 So if you love someone, you should let them know
 Oh, the light that you left me will everglow
-`, media: `<iframe id="player-xn_1hFdE-5g" src="https://www.youtube.com/embed/xn_1hFdE-5g?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 37, coverArt: "https://images.genius.com/6e05aabeafe3be30b15fe8acfd1cd01d.1000x980x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Meghan Trainor", title: "No", producer: "|Ricky Reed|", body: `[Intro]
+`, media: `<iframe id="player-xn_1hFdE-5g" src="https://www.youtube.com/embed/xn_1hFdE-5g?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 37, coverArt: "https://images.genius.com/6e05aabeafe3be30b15fe8acfd1cd01d.1000x980x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Meghan Trainor", title: "No", producer: "|Ricky Reed|", body: `[Intro]
 I think it's so cute and I think it's so sweet
 How you let your friends encourage you to try and talk to me
 But let me stop you there, oh, before you speak
@@ -16603,7 +16603,7 @@ I'm feeling
 Nah to the ah to the no, no, no
 
 [Produced by Ricky Reed]
-`, media: `<iframe id="player-cMTAUr3Nm6I" src="https://www.youtube.com/embed/cMTAUr3Nm6I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 48, coverArt: "https://images.genius.com/10a61c2be9ec52e7bd0845c71eccacb0.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "G-Eazy (Ft. Devon Baldwin)", title: "Let's Get Lost", producer: "|Devon Baldwin|G-Eazy|Christoph Andersson|", body: `[Hook: Devon Baldwin]
+`, media: `<iframe id="player-cMTAUr3Nm6I" src="https://www.youtube.com/embed/cMTAUr3Nm6I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 48, coverArt: "https://images.genius.com/10a61c2be9ec52e7bd0845c71eccacb0.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "G-Eazy (Ft. Devon Baldwin)", title: "Let's Get Lost", producer: "|Devon Baldwin|G-Eazy|Christoph Andersson|", body: `[Hook: Devon Baldwin]
 Take me down
 Take me all the way down tonight, soon I'll be leaving
 Break me down
@@ -16782,7 +16782,7 @@ I wanna know, I wanna know who
 Who do you, who do you love, love
 Now, now, who do you, who do you love now?
 Now, now, who do you, who do you, you
-`, media: `<iframe id="player-U0V1y2p1sgs" src="https://www.youtube.com/embed/U0V1y2p1sgs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 42, coverArt: "https://images.genius.com/628582c2ebc82d4933ff8b682fe532e8.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Dalex, Nicky Jam & Justin Quiles (Ft. Feid, Lenny Tavárez, Rafa Pabön & Sech)", title: "Cuaderno", producer: "|Sech|Lenny Tavárez|Dímelo Flow|Rike Music|", body: `[Letra de "Cuaderno" ft. Sech, Lenny Tavárez, Feid & Rafa Pabön]
+`, media: `<iframe id="player-U0V1y2p1sgs" src="https://www.youtube.com/embed/U0V1y2p1sgs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 42, coverArt: "https://images.genius.com/628582c2ebc82d4933ff8b682fe532e8.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Dalex, Nicky Jam & Justin Quiles (Ft. Feid, Lenny Tavárez, Rafa Pabön & Sech)", title: "Cuaderno", producer: "|Sech|Lenny Tavárez|Dímelo Flow|Rike Music|", body: `[Letra de "Cuaderno" ft. Sech, Lenny Tavárez, Feid & Rafa Pabön]
 
 [Intro: Lenny Tavárez, Dalex, Sech & Nicky Jam]
 The Avengers
@@ -17118,7 +17118,7 @@ I just wanna be yours (Wanna be yours)
 I just wanna be yours (Wanna be yours)
 I just wanna be yours (Wanna be yours)
 I just wanna be yours (Wanna be yours)
-`, media: `<iframe id="player-fJLQCf4mFP0" src="https://www.youtube.com/embed/fJLQCf4mFP0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 214, coverArt: "http://images.genius.com/af4ac59ba9e3e8b0fe70d7c1156ff8f2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Khalid", title: "Coaster", producer: "|Skrittzy|", body: `[Verse 1]
+`, media: `<iframe id="player-fJLQCf4mFP0" src="https://www.youtube.com/embed/fJLQCf4mFP0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 214, coverArt: "http://images.genius.com/af4ac59ba9e3e8b0fe70d7c1156ff8f2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Khalid", title: "Coaster", producer: "|Skrittzy|", body: `[Verse 1]
 As time passes, I feel so low
 Searchin' for pieces, covering up the hole
 I'll fight for your love, I'll fight for your soul
@@ -17168,7 +17168,7 @@ You weren't the one for me
 You weren't the one for me
 You weren't the one for me
 You weren't the one for me
-`, media: `<iframe id="player-vAs7H_OoCeM" src="https://www.youtube.com/embed/vAs7H_OoCeM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 42, coverArt: "https://images.genius.com/ddabf5b017ada4624aaa70952ddba1cf.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shakira (Ft. Rihanna)", title: "Can't Remember to Forget You", producer: "|Rihanna|Kuk Harrell|Kid Harpoon|", body: `[Verse 1: Shakira]
+`, media: `<iframe id="player-vAs7H_OoCeM" src="https://www.youtube.com/embed/vAs7H_OoCeM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 42, coverArt: "https://images.genius.com/ddabf5b017ada4624aaa70952ddba1cf.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shakira (Ft. Rihanna)", title: "Can't Remember to Forget You", producer: "|Rihanna|Kuk Harrell|Kid Harpoon|", body: `[Verse 1: Shakira]
 I left a note on my bedpost
 Saying not to repeat yesterday’s mistakes
 What I tend to do when it comes to you
@@ -17364,7 +17364,7 @@ Let's get medicated
 Let's get medicated
 Man I'm hella faded
 I'm hella faded
-`, media: `<iframe id="player-jLPvmwfklp8" src="https://www.youtube.com/embed/jLPvmwfklp8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 107, coverArt: "https://images.genius.com/33ab790859f8f1a0a8e408ee23962e6c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Martin Garrix & Dean Lewis", title: "Used to Love", producer: "|Martin Garrix|", body: `[Verse 1]
+`, media: `<iframe id="player-jLPvmwfklp8" src="https://www.youtube.com/embed/jLPvmwfklp8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 107, coverArt: "https://images.genius.com/33ab790859f8f1a0a8e408ee23962e6c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Martin Garrix & Dean Lewis", title: "Used to Love", producer: "|Martin Garrix|", body: `[Verse 1]
 Walking through the door of this old and lonely
 Place that used to feel like us
 Remembering the only thing that made me
@@ -17488,7 +17488,7 @@ Don't stop the party (Damn, you were in my sex dreams)
 Let's keep it naughty, yeah (Doing really nasty things)
 Watch me act a fool (Damn, you were in my sex dreams)
 Tomorrow when I run into you (Making love in my sex dreams)
-`, media: `<iframe id="player-_701WL_azrY" src="https://www.youtube.com/embed/_701WL_azrY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 43, coverArt: "https://images.genius.com/9731d41777690ac64c42725e5bb3a805.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bad Bunny & Anuel AA", title: "Está Cabrón Ser Yo", producer: "|Frank King|Payday|", body: `[Letra de "Está Cabrón Ser Yo"]
+`, media: `<iframe id="player-_701WL_azrY" src="https://www.youtube.com/embed/_701WL_azrY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 43, coverArt: "https://images.genius.com/9731d41777690ac64c42725e5bb3a805.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bad Bunny & Anuel AA", title: "Está Cabrón Ser Yo", producer: "|Frank King|Payday|", body: `[Letra de "Está Cabrón Ser Yo"]
 
 [Intro: Anuel AA]
 Brr
@@ -17587,7 +17587,7 @@ Lo' reye' con los diose'
 ¿Oíste, bebecita? Jaja
 Brr, la nueva religión
 Real hasta la muerte
-`, media: `<iframe id="player-jZfPdY7NL-0" src="https://www.youtube.com/embed/jZfPdY7NL-0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 6, coverArt: "https://images.genius.com/aa1c8b77f382d4d32ad97002ab823680.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "OneRepublic (Ft. Logic)", title: "Start Again", producer: "|Logic|Danny Majic|DJ Frank E|", body: `[Chorus: Ryan Tedder]
+`, media: `<iframe id="player-jZfPdY7NL-0" src="https://www.youtube.com/embed/jZfPdY7NL-0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 6, coverArt: "https://images.genius.com/aa1c8b77f382d4d32ad97002ab823680.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "OneRepublic (Ft. Logic)", title: "Start Again", producer: "|Logic|Danny Majic|DJ Frank E|", body: `[Chorus: Ryan Tedder]
 Can't I just turn back the clock?
 Forgive my sins
 I just wanna roll my sleeves up
@@ -17658,7 +17658,7 @@ Can't I just turn back the clock?
 Forgive my sins
 I just wanna roll my sleeves up
 And start again
-`, media: `<iframe id="player-y-2VKeDBPkw" src="https://www.youtube.com/embed/y-2VKeDBPkw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 49, coverArt: "https://images.genius.com/96466896cee53be176ddfa6a7a27b391.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Martin Garrix & Troye Sivan", title: "There for You", producer: "|Martin Garrix|Bart Schoudel|", body: `[Verse 1: Troye Sivan]
+`, media: `<iframe id="player-y-2VKeDBPkw" src="https://www.youtube.com/embed/y-2VKeDBPkw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 49, coverArt: "https://images.genius.com/96466896cee53be176ddfa6a7a27b391.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Martin Garrix & Troye Sivan", title: "There for You", producer: "|Martin Garrix|Bart Schoudel|", body: `[Verse 1: Troye Sivan]
 I woke up pissed off today
 And lately, everyone feels fake
 Somewhere, I lost a piece of me
@@ -17829,7 +17829,7 @@ Despacito
 我要陪你作夢, 我要讓你受寵
 我為你訂做專屬的宇宙
 Despacito
-`, media: `<iframe id="player-Dlbg7onYu08" src="https://www.youtube.com/embed/Dlbg7onYu08?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 5, coverArt: "https://images.genius.com/14403e458f5020fba63c0b108c24dc65.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Camila Cabello", title: "Crying in the Club", producer: "|Happy Perez|​benny blanco|", body: `[Verse 1]
+`, media: `<iframe id="player-Dlbg7onYu08" src="https://www.youtube.com/embed/Dlbg7onYu08?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 5, coverArt: "https://images.genius.com/14403e458f5020fba63c0b108c24dc65.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Camila Cabello", title: "Crying in the Club", producer: "|Happy Perez|​benny blanco|", body: `[Verse 1]
 You think that you'll die without him
 You know, that's a lie that you tell yourself
 You fear that you lay alone forever now
@@ -17914,7 +17914,7 @@ I won't, I won't, I...
 Ain't no crying in the club (I won't cry, I won't cry, I won't cry no more)
 I won't, I won't, I...
 Ain't no crying in the club
-`, media: `<iframe id="player-NlrYn_dZdqk" src="https://www.youtube.com/embed/NlrYn_dZdqk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=103" title="Music Video"></iframe>`, visits: 119, coverArt: "https://images.genius.com/ab3d08ced43d3cd64a27558ac2ef200c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Meghan Trainor", title: "All About That Bass", producer: "|Kevin Kadish|", body: `[Chorus]
+`, media: `<iframe id="player-NlrYn_dZdqk" src="https://www.youtube.com/embed/NlrYn_dZdqk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=103" title="Music Video"></iframe>`, visits: 119, coverArt: "https://images.genius.com/ab3d08ced43d3cd64a27558ac2ef200c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Meghan Trainor", title: "All About That Bass", producer: "|Kevin Kadish|", body: `[Chorus]
 Because you know I'm all about that bass
 'Bout that bass, no treble
 I'm all 'bout that bass, 'bout that bass, no treble
@@ -17977,7 +17977,7 @@ I'm all 'bout that bass, 'bout that bass, no treble
 I'm all 'bout that bass, 'bout that bass
 
 [Click here to read about when Meghan Trainor met her co-writer on this song, Kevin Kadish]
-`, media: `<iframe id="player-7PCkvCPvDXk" src="https://www.youtube.com/embed/7PCkvCPvDXk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 359, coverArt: "https://images.genius.com/6083244c55d9c1c1b7128fd955034cce.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Macklemore & Ryan Lewis (Ft. Ed Sheeran)", title: "Growing Up", producer: "|Ed Sheeran|Ryan Lewis|", body: `[Verse 1: Macklemore]
+`, media: `<iframe id="player-7PCkvCPvDXk" src="https://www.youtube.com/embed/7PCkvCPvDXk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 359, coverArt: "https://images.genius.com/6083244c55d9c1c1b7128fd955034cce.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Macklemore & Ryan Lewis (Ft. Ed Sheeran)", title: "Growing Up", producer: "|Ed Sheeran|Ryan Lewis|", body: `[Verse 1: Macklemore]
 They say boys don't cry
 But your dad has shed a lot of tears
 They say I should be a strong man
@@ -18070,7 +18070,7 @@ I'm still growing up
 I'm still growing up, ooh
 I'm still growing up
 I'm still growing up
-`, media: `<iframe id="player-6mhtJduoCZ0" src="https://www.youtube.com/embed/6mhtJduoCZ0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 63, coverArt: "https://images.genius.com/f2aa6fcea21140b6f229404d2b3ab335.619x617x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Post Malone", title: "Stay", producer: "|​watt|Post Malone|", body: `[Verse 1]
+`, media: `<iframe id="player-6mhtJduoCZ0" src="https://www.youtube.com/embed/6mhtJduoCZ0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 63, coverArt: "https://images.genius.com/f2aa6fcea21140b6f229404d2b3ab335.619x617x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Post Malone", title: "Stay", producer: "|​watt|Post Malone|", body: `[Verse 1]
 It's true that all that you know is all that you are
 You said that it's all that you want and more
 Fuck off and pour another drink
@@ -18122,7 +18122,7 @@ Tell me that it's all okay (Tell me that it's all okay)
 I've been waitin' on this all damn day (Waitin' on this all damn day)
 Call me in the mornin', tell me how last night went
 I'm here, but don't count on me to stay
-`, media: `<iframe id="player-4Ukh9aQBzWc" src="https://www.youtube.com/embed/4Ukh9aQBzWc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 154, coverArt: "https://images.genius.com/ef176757a5735c7a104dd735543c1d20.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Kanye West", title: "Bound 2", producer: "|Eric Danchild|Che Pope|", body: `[Intro: Ponderosa Twins Plus One & Brenda Lee]
+`, media: `<iframe id="player-4Ukh9aQBzWc" src="https://www.youtube.com/embed/4Ukh9aQBzWc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 154, coverArt: "https://images.genius.com/ef176757a5735c7a104dd735543c1d20.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Kanye West", title: "Bound 2", producer: "|Eric Danchild|Che Pope|", body: `[Intro: Ponderosa Twins Plus One & Brenda Lee]
 B-B-B-B-Bound to fall in love
 Bound to fall in love
 Uh-huh, honey
@@ -18204,7 +18204,7 @@ Uh-huh, honey
 [Produced by Kanye West and Che Pope with additional production from Eric Danchild, Noah Goldstein, No ID and Mike Dean]
 
 [Video directed by Nick Knight]
-`, media: `<iframe id="player-BBAtAM7vtgc" src="https://www.youtube.com/embed/BBAtAM7vtgc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 407, coverArt: "https://images.genius.com/4782bbf74539c7ad04d3566db9f3f771.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Kanye West, JAY-Z & Big Sean", title: "Clique", producer: "|Hit-Boy|", body: `[Intro: James Fauntleroy & Big Sean]
+`, media: `<iframe id="player-BBAtAM7vtgc" src="https://www.youtube.com/embed/BBAtAM7vtgc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 407, coverArt: "https://images.genius.com/4782bbf74539c7ad04d3566db9f3f771.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Kanye West, JAY-Z & Big Sean", title: "Clique", producer: "|Hit-Boy|", body: `[Intro: James Fauntleroy & Big Sean]
 What of the dollar you murdered for?
 Is that the one fighting for your soul?
 Or your brother's the one that you're running from?
@@ -18322,7 +18322,7 @@ They want the- they want the-
 Go
 
 [Produced by Kanye West, Hit-Boy, Anthony Kilhoffer, and Noah Goldstein]
-`, media: `<iframe id="player-Hn4Mc_BUMzQ" src="https://www.youtube.com/embed/Hn4Mc_BUMzQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 188, coverArt: "https://images.genius.com/6700d69266dd9477158bc4733e2f3098.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Dimitri Vegas & Like Mike vs David Guetta (Ft. Kiiara)", title: "Complicated", producer: "|Kiiara|David Guetta|Dimitri Vegas &amp; Like Mike|", body: `[Verse 1: Kiiara]
+`, media: `<iframe id="player-Hn4Mc_BUMzQ" src="https://www.youtube.com/embed/Hn4Mc_BUMzQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 188, coverArt: "https://images.genius.com/6700d69266dd9477158bc4733e2f3098.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Dimitri Vegas & Like Mike vs David Guetta (Ft. Kiiara)", title: "Complicated", producer: "|Kiiara|David Guetta|Dimitri Vegas &amp; Like Mike|", body: `[Verse 1: Kiiara]
 Pour another drink, I don't wanna think
 Oh, it's been a long day (it's been a long day)
 Get out of your head, smoking on my bed
@@ -18387,7 +18387,7 @@ Let's not make it complicated
 
 [Outro: Kiiara]
 Let's not make it complicated
-`, media: `<iframe id="player-w0EF3AxJwLU" src="https://www.youtube.com/embed/w0EF3AxJwLU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 7, coverArt: "https://images.genius.com/fe3732102d86478ce5c4e293978c1e9d.1000x282x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Macklemore & Ryan Lewis (Ft. Mary Lambert)", title: "Same Love", producer: "|Mary Lambert|Ryan Lewis|", body: `[Piano Intro]
+`, media: `<iframe id="player-w0EF3AxJwLU" src="https://www.youtube.com/embed/w0EF3AxJwLU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 7, coverArt: "https://images.genius.com/fe3732102d86478ce5c4e293978c1e9d.1000x282x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Macklemore & Ryan Lewis (Ft. Mary Lambert)", title: "Same Love", producer: "|Mary Lambert|Ryan Lewis|", body: `[Piano Intro]
 
 [Verse 1: Macklemore]
 When I was in the third grade, I thought that I was gay
@@ -18576,7 +18576,7 @@ I don't really want no friends, no
 I don't really want no friends
 I don't really want no friends, no
 Scum Gang!
-`, media: `<iframe id="player-V_MXGdSBbAI" src="https://www.youtube.com/embed/V_MXGdSBbAI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 260, coverArt: "https://images.genius.com/085ad19592e1844ac721a68d28400ed9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "J. Cole (Ft. TLC)", title: "Crooked Smile", producer: "|TLC|J. Cole|Elite|", body: `[Chorus: T-Boz, Chilli & Jennifer Hudson]
+`, media: `<iframe id="player-V_MXGdSBbAI" src="https://www.youtube.com/embed/V_MXGdSBbAI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 260, coverArt: "https://images.genius.com/085ad19592e1844ac721a68d28400ed9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "J. Cole (Ft. TLC)", title: "Crooked Smile", producer: "|TLC|J. Cole|Elite|", body: `[Chorus: T-Boz, Chilli & Jennifer Hudson]
 Even though I—
 On my way, on my way, on my way down
 On my way, on my way, on my way down
@@ -18693,7 +18693,7 @@ But like the sun, know you know I find my way back round
 Round
 
 [Music Video]
-`, media: `<iframe id="player-fzzMOMkjm8A" src="https://www.youtube.com/embed/fzzMOMkjm8A?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 225, coverArt: "https://images.rapgenius.com/59sgtrdevz7dkqdeov8bqw0za.750x750x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sia (Ft. Sean Paul)", title: "Cheap Thrills (Sean Paul Remix)", producer: "|Sean Paul|Greg Kurstin|", body: `[Intro: Sean Paul]
+`, media: `<iframe id="player-fzzMOMkjm8A" src="https://www.youtube.com/embed/fzzMOMkjm8A?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 225, coverArt: "https://images.rapgenius.com/59sgtrdevz7dkqdeov8bqw0za.750x750x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sia (Ft. Sean Paul)", title: "Cheap Thrills (Sean Paul Remix)", producer: "|Sean Paul|Greg Kurstin|", body: `[Intro: Sean Paul]
 Up with it, girl
 Rock with it, girl
 Show dem it, girl (Bada bang bang)
@@ -18802,7 +18802,7 @@ La, la, la, la, la, la
 (I love cheap thrills!)
 La, la, la, la, la, la
 (I love cheap thrills!)
-`, media: `<iframe id="player-nYh-n7EOtMA" src="https://www.youtube.com/embed/nYh-n7EOtMA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 15, coverArt: "https://images.genius.com/767bb399fa84f8e2fbf538a92b89f882.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "J. Cole", title: "Wet Dreamz", producer: "|J. Cole|", body: `[Intro]
+`, media: `<iframe id="player-nYh-n7EOtMA" src="https://www.youtube.com/embed/nYh-n7EOtMA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 15, coverArt: "https://images.genius.com/767bb399fa84f8e2fbf538a92b89f882.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "J. Cole", title: "Wet Dreamz", producer: "|J. Cole|", body: `[Intro]
 Cole
 Cole world
 Yeah
@@ -18970,7 +18970,7 @@ You know everybody makes mistakes, mmm
 Don't let me be yours
 You know everybody makes mistakes
 Don't let me be yours, no, don't let me be
-`, media: `<iframe id="player-lbZ7BG1adGI" src="https://www.youtube.com/embed/lbZ7BG1adGI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 10, coverArt: "https://images.genius.com/4de7ae2ef40e0db5b762d7335ac15287.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Machine Gun Kelly", title: "​bloody valentine", producer: "|Travis Barker|", body: `[Verse 1]
+`, media: `<iframe id="player-lbZ7BG1adGI" src="https://www.youtube.com/embed/lbZ7BG1adGI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 10, coverArt: "https://images.genius.com/4de7ae2ef40e0db5b762d7335ac15287.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Machine Gun Kelly", title: "​bloody valentine", producer: "|Travis Barker|", body: `[Verse 1]
 Okay
 The simulation just went bad
 But you're the best I ever had
@@ -19130,7 +19130,7 @@ You're just the last of the real ones
 You're just the last of the real ones
 (You're just the last of the real ones)
 You're just the last of the real ones
-`, media: `<iframe id="player-7YAAyUFL1GQ" src="https://www.youtube.com/embed/7YAAyUFL1GQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 51, coverArt: "https://images.genius.com/f50f1771899d096af48121397b32ebbd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "KAROL G & Jessie Reyez", title: "Ocean (Remix)", producer: "|Ovy On The Drums|", body: `[Letra de "Ocean (Remix)"]
+`, media: `<iframe id="player-7YAAyUFL1GQ" src="https://www.youtube.com/embed/7YAAyUFL1GQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 51, coverArt: "https://images.genius.com/f50f1771899d096af48121397b32ebbd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "KAROL G & Jessie Reyez", title: "Ocean (Remix)", producer: "|Ovy On The Drums|", body: `[Letra de "Ocean (Remix)"]
 
 [Verso 1: Jessie Reyez]
 If tomorrow we had to part ways
@@ -19189,7 +19189,7 @@ Me siento grande por ti (Por ti)
 Y aunque lo intentara, no podría sin ti (Sin ti)
 Toda mi felicidad es gracias a ti (A ti)
 Y si yo me muero volvería por ti (Por ti, por ti)
-`, media: `<iframe id="player-3BpfQXycKWk" src="https://www.youtube.com/embed/3BpfQXycKWk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 7, coverArt: "https://images.genius.com/f43cb3b4b58e4b177f566934cde9b62a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Khalid", title: "Location", producer: "|Bajram Kurti|Christopher McClenney|", body: `[Chorus]
+`, media: `<iframe id="player-3BpfQXycKWk" src="https://www.youtube.com/embed/3BpfQXycKWk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 7, coverArt: "https://images.genius.com/f43cb3b4b58e4b177f566934cde9b62a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Khalid", title: "Location", producer: "|Bajram Kurti|Christopher McClenney|", body: `[Chorus]
 Send me your location, let's
 Focus on communicating
 'Cause I just need the time and place to come through (place to come through)
@@ -19247,7 +19247,7 @@ Oh, oh, oh, mmm, mmm, mmm
 Do, do, do, do, do, do, do, do
 Do, do, do, do, do, do, do
 I don't need nothing else but you
-`, media: `<iframe id="player-by3yRdlQvzs" src="https://www.youtube.com/embed/by3yRdlQvzs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=1" title="Music Video"></iframe>`, visits: 165, coverArt: "https://images.genius.com/095336062f750baf77181a9585965770.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Dua Lipa", title: "Levitating", producer: "|Stuart Price|KOZ|", body: `[Verse 1]
+`, media: `<iframe id="player-by3yRdlQvzs" src="https://www.youtube.com/embed/by3yRdlQvzs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=1" title="Music Video"></iframe>`, visits: 165, coverArt: "https://images.genius.com/095336062f750baf77181a9585965770.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Dua Lipa", title: "Levitating", producer: "|Stuart Price|KOZ|", body: `[Verse 1]
 If you wanna run away with me, I know a galaxy
 And I can take you for a ride
 I had a premonition that we fell into a rhythm
@@ -19344,7 +19344,7 @@ I'm levitating
 You, moonlight, you're my starlight (You're the moonlight)
 I need you all night, come on, dance with me
 I'm levitating
-`, media: `<iframe id="player-N000qglmmY0" src="https://www.youtube.com/embed/N000qglmmY0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 79, coverArt: "https://images.genius.com/d2304429bd6b0f492325f1151bd21825.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "G-Eazy & Halsey", title: "Him & I", producer: "|The Futuristics|Dakari|", body: `[Chorus: Halsey]
+`, media: `<iframe id="player-N000qglmmY0" src="https://www.youtube.com/embed/N000qglmmY0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 79, coverArt: "https://images.genius.com/d2304429bd6b0f492325f1151bd21825.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "G-Eazy & Halsey", title: "Him & I", producer: "|The Futuristics|Dakari|", body: `[Chorus: Halsey]
 Cross my heart, hope to die
 To my lover, I'd never lie
 He said "be true," I swear I'll try
@@ -19465,7 +19465,7 @@ Him and I
 Oh-oh-oh-oh-woah
 Oh-oh-oh-oh-woah
 In the end, it's him and I
-`, media: `<iframe id="player-SA7AIQw-7Ms" src="https://www.youtube.com/embed/SA7AIQw-7Ms?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=15" title="Music Video"></iframe>`, visits: 186, coverArt: "https://images.genius.com/7e683357d4ec053f4802b7884a2197ef.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "J Balvin, Dua Lipa, Bad Bunny & Tainy", title: "UN DÍA (ONE DAY)", producer: "|J Balvin|Tainy|", body: `[Letra de "UN DÍA (ONE DAY)"]
+`, media: `<iframe id="player-SA7AIQw-7Ms" src="https://www.youtube.com/embed/SA7AIQw-7Ms?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=15" title="Music Video"></iframe>`, visits: 186, coverArt: "https://images.genius.com/7e683357d4ec053f4802b7884a2197ef.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "J Balvin, Dua Lipa, Bad Bunny & Tainy", title: "UN DÍA (ONE DAY)", producer: "|J Balvin|Tainy|", body: `[Letra de "UN DÍA (ONE DAY)"]
 
 [Intro: Dua Lipa, J Balvin & Bad Bunny]
 You know that sometimes I think about us now and then
@@ -19637,7 +19637,7 @@ We'll be raising our hands, shining up to the sky (burn, burn, burn, burn, we go
 'Cause we got the fire, fire, fire
 Yeah, we got the fire, fire, fire
 And we're gonna let it burn
-`, media: `<iframe id="player-CGyEd0aKWZE" src="https://www.youtube.com/embed/CGyEd0aKWZE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 87, coverArt: "https://images.genius.com/e5dc393359be782bb136b91499d15027.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Juice WRLD & Marshmello", title: "Come & Go", producer: "|Marshmello|", body: `[Intro: Juice WRLD & Roddy Ricch]
+`, media: `<iframe id="player-CGyEd0aKWZE" src="https://www.youtube.com/embed/CGyEd0aKWZE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 87, coverArt: "https://images.genius.com/e5dc393359be782bb136b91499d15027.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Juice WRLD & Marshmello", title: "Come & Go", producer: "|Marshmello|", body: `[Intro: Juice WRLD & Roddy Ricch]
 Woah, uh
 Oh, oh-oh, oh (Mello made it right, uh)
 
@@ -19760,7 +19760,7 @@ Slime
 Straight like that, Ion't give a fuck who don't like it
 Keep it just like that
 Put it on my YouTube channel
-`, media: `<iframe id="player-Nkmr2-45UOM" src="https://www.youtube.com/embed/Nkmr2-45UOM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 23, coverArt: "https://images.genius.com/e5de088c13d5356016b83f8936c26e68.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Macklemore & Ryan Lewis (Ft. Ray Dalton)", title: "Can't Hold Us", producer: "|Ray Dalton|Ryan Lewis|", body: `[Intro: Macklemore]
+`, media: `<iframe id="player-Nkmr2-45UOM" src="https://www.youtube.com/embed/Nkmr2-45UOM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 23, coverArt: "https://images.genius.com/e5de088c13d5356016b83f8936c26e68.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Macklemore & Ryan Lewis (Ft. Ray Dalton)", title: "Can't Hold Us", producer: "|Ray Dalton|Ryan Lewis|", body: `[Intro: Macklemore]
 Hey, hey, hey
 Good to see you
 Come on, dude, let's go
@@ -19952,7 +19952,7 @@ That's 0 to 60 in 2 point nueve, I'm gone
 
 [Outro: Tyler, The Creator]
 Oh, fuck
-`, media: `<iframe id="player-FUXX55WqYZs" src="https://www.youtube.com/embed/FUXX55WqYZs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 195, coverArt: "https://images.genius.com/91415e4f0cf9bee1a777c544a75fd570.800x800x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Pink Floyd", title: "Breathe (In the Air)", producer: "|Pink Floyd|", body: `[Intro]
+`, media: `<iframe id="player-FUXX55WqYZs" src="https://www.youtube.com/embed/FUXX55WqYZs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 195, coverArt: "https://images.genius.com/91415e4f0cf9bee1a777c544a75fd570.800x800x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Pink Floyd", title: "Breathe (In the Air)", producer: "|Pink Floyd|", body: `[Intro]
 
 [Verse 1]
 Breathe, breathe in the air
@@ -19977,7 +19977,7 @@ For long you live and high you fly
 But only if you ride the tide
 And balanced on the biggest wave
 You race towards an early grave
-`, media: `<iframe id="player-Vddl9TK5RqU" src="https://www.youtube.com/embed/Vddl9TK5RqU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 54, coverArt: "https://images.genius.com/d3ecd57d490f664e08aba94019796f1a.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Snake (Ft. GASHI, Migos & Travis Scott)", title: "Oh Me Oh My", producer: "|Migos|GASHI|Smokie Morrison|DJ Snake|", body: `[Intro: GASHI]
+`, media: `<iframe id="player-Vddl9TK5RqU" src="https://www.youtube.com/embed/Vddl9TK5RqU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 54, coverArt: "https://images.genius.com/d3ecd57d490f664e08aba94019796f1a.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Snake (Ft. GASHI, Migos & Travis Scott)", title: "Oh Me Oh My", producer: "|Migos|GASHI|Smokie Morrison|DJ Snake|", body: `[Intro: GASHI]
 Yeah, shutdown
 Whoo, shutdown
 Ayy
@@ -20213,7 +20213,7 @@ Used to play pretend, give each other different names
 We would build a rocket ship and then we'd fly it far away
 Used to dream of outer space, but now they're laughin' at our face
 Sayin', "Wake up, you need to make money!," yeah
-`, media: `<iframe id="player-pXRviuL6vMY" src="https://www.youtube.com/embed/pXRviuL6vMY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 504, coverArt: "https://images.genius.com/03fc9bbf6543b734c15a4d315c84f073.1000x494x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Beyoncé", title: "Hold Up", producer: "|Ezra Koenig|Beyoncé|", body: `[Chorus]
+`, media: `<iframe id="player-pXRviuL6vMY" src="https://www.youtube.com/embed/pXRviuL6vMY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 504, coverArt: "https://images.genius.com/03fc9bbf6543b734c15a4d315c84f073.1000x494x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Beyoncé", title: "Hold Up", producer: "|Ezra Koenig|Beyoncé|", body: `[Chorus]
 Hold up, they don't love you like I love you
 Slow down, they don't love you like I love you
 Back up, they don't love you like I love you
@@ -20360,7 +20360,7 @@ But I have it
 Yeah, I have it
 Yeah, I have it
 I have
-`, media: `<iframe id="player-ehVVzS94Pbc" src="https://www.youtube.com/embed/ehVVzS94Pbc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 133, coverArt: "https://images.genius.com/613a7f43c15fa82f0dc529759a76d755.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Kygo (Ft. Parson James)", title: "Stole the Show", producer: "|Parson James|Kygo|", body: `[Verse 1: Parson James]
+`, media: `<iframe id="player-ehVVzS94Pbc" src="https://www.youtube.com/embed/ehVVzS94Pbc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 133, coverArt: "https://images.genius.com/613a7f43c15fa82f0dc529759a76d755.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Kygo (Ft. Parson James)", title: "Stole the Show", producer: "|Parson James|Kygo|", body: `[Verse 1: Parson James]
 Darling, darling, oh, turn the lights back on now
 We're watching, watching as the credits all roll down
 And crying, crying, you know we're playing to a full house, house
@@ -20415,7 +20415,7 @@ At least we stole the show
 Stole the show
 We stole the show
 At least we stole the show
-`, media: `<iframe id="player-BgfcToAjfdc" src="https://www.youtube.com/embed/BgfcToAjfdc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=70" title="Music Video"></iframe>`, visits: 107, coverArt: "https://images.rapgenius.com/16512ceddb45dc0e09614eb06cfdd499.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Ski Mask the Slump God", title: "BabyWipe", producer: "|SOE95|CashMoneyAP|", body: `[Intro]
+`, media: `<iframe id="player-BgfcToAjfdc" src="https://www.youtube.com/embed/BgfcToAjfdc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=70" title="Music Video"></iframe>`, visits: 107, coverArt: "https://images.rapgenius.com/16512ceddb45dc0e09614eb06cfdd499.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Ski Mask the Slump God", title: "BabyWipe", producer: "|SOE95|CashMoneyAP|", body: `[Intro]
 Ayy
 CashMoneyAP
 Yuh, yuh, yuh, who?
@@ -20627,7 +20627,7 @@ La-la-la, woman like me, like a woman like me (I said)
 
 [Outro: Nicki Minaj]
 Young Money! Rrrrrrr!
-`, media: `<iframe id="player-fSOpiZo1BAA" src="https://www.youtube.com/embed/fSOpiZo1BAA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 87, coverArt: "https://images.genius.com/25f234769f1b64027187145399fc3237.1000x509x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Katy Perry (Ft. Migos)", title: "Bon Appétit", producer: "|Migos|Max Martin|Shellback|", body: `[Intro: Quavo]
+`, media: `<iframe id="player-fSOpiZo1BAA" src="https://www.youtube.com/embed/fSOpiZo1BAA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 87, coverArt: "https://images.genius.com/25f234769f1b64027187145399fc3237.1000x509x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Katy Perry (Ft. Migos)", title: "Bon Appétit", producer: "|Migos|Max Martin|Shellback|", body: `[Intro: Quavo]
 Ayy, yeah
 Katy Perry, Migos
 Ayy!
@@ -20817,7 +20817,7 @@ Close to me
 [Outro: Ellie Goulding]
 (To me)
 Close to me
-`, media: `<iframe id="player-ajN57m_OSpY" src="https://www.youtube.com/embed/ajN57m_OSpY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 28, coverArt: "https://images.genius.com/f75d1d066702188646565994bf9cbb53.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Post Malone", title: "Circles", producer: "|Post Malone|Louis Bell|", body: `[Intro]
+`, media: `<iframe id="player-ajN57m_OSpY" src="https://www.youtube.com/embed/ajN57m_OSpY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 28, coverArt: "https://images.genius.com/f75d1d066702188646565994bf9cbb53.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Post Malone", title: "Circles", producer: "|Post Malone|Louis Bell|", body: `[Intro]
 Oh, oh, oh
 Oh,  oh, oh
 Oh,  oh, oh, oh, oh
@@ -20871,7 +20871,7 @@ I dare you to do something
 I'm waiting on you again, so I don't take the blame
 Run away, but we're running in circles
 Run away, run away, run away
-`, media: `<iframe id="player-wXhTHyIgQ_U" src="https://www.youtube.com/embed/wXhTHyIgQ_U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=5" title="Music Video"></iframe>`, visits: 199, coverArt: "https://images.genius.com/d89bfa02744ef691096746045ebd62a3.939x939x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Billie Eilish", title: "​i love you", producer: "|FINNEAS|", body: `[Verse 1]
+`, media: `<iframe id="player-wXhTHyIgQ_U" src="https://www.youtube.com/embed/wXhTHyIgQ_U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=5" title="Music Video"></iframe>`, visits: 199, coverArt: "https://images.genius.com/d89bfa02744ef691096746045ebd62a3.939x939x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Billie Eilish", title: "​i love you", producer: "|FINNEAS|", body: `[Verse 1]
 It's not true
 Tell me I’ve been lied to
 Crying isn't like you, ooh
@@ -20912,7 +20912,7 @@ I can’t escape the way I love you
 I don’t want to, but I love you, ooh
 Ooh, ooh
 Ooh, ooh
-`, media: `<iframe id="player-WiinVuzh4DA" src="https://www.youtube.com/embed/WiinVuzh4DA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 234, coverArt: "https://images.genius.com/340ad5b2b1163aa2333a8efc0815b84f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Dua Lipa & BLACKPINK", title: "Kiss and Make Up", producer: "|Banx &amp; Ranx|", body: `[Verse 1: Dua Lipa]
+`, media: `<iframe id="player-WiinVuzh4DA" src="https://www.youtube.com/embed/WiinVuzh4DA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 234, coverArt: "https://images.genius.com/340ad5b2b1163aa2333a8efc0815b84f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Dua Lipa & BLACKPINK", title: "Kiss and Make Up", producer: "|Banx &amp; Ranx|", body: `[Verse 1: Dua Lipa]
 We haven't talked all morning
 Bang my head, bang my head against the wall
 I'm scared, I'm falling
@@ -21000,7 +21000,7 @@ Kiss, kiss and make up
 Kiss and make, kiss, kiss and make up
 Kiss, kiss and make up
 Kiss and make, kiss, kiss and make up
-`, media: `<iframe id="player-AX3Bsiq-13k" src="https://www.youtube.com/embed/AX3Bsiq-13k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 106, coverArt: "https://images.genius.com/8811dc527a2aaed63f355fc20be6449e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "JAY-Z", title: "The Story of O.J.", producer: "|No I.D.|", body: `[Intro: Nina Simone]
+`, media: `<iframe id="player-AX3Bsiq-13k" src="https://www.youtube.com/embed/AX3Bsiq-13k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 106, coverArt: "https://images.genius.com/8811dc527a2aaed63f355fc20be6449e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "JAY-Z", title: "The Story of O.J.", producer: "|No I.D.|", body: `[Intro: Nina Simone]
 Skin is, skin, is
 Skin black, my skin is black
 My, black, my skin is yellow
@@ -21239,7 +21239,7 @@ I want it, I got it, I want it, I got it (Oh yeah)
 I want it, I got it, I want it, I got it (Oh yeah, yeah)
 You like my hair? Gee, thanks, just bought it
 I see it, I like it, I want it, I got it (I see, yep)
-`, media: `<iframe id="player-QYh6mYIJG2Y" src="https://www.youtube.com/embed/QYh6mYIJG2Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 450, coverArt: "https://images.genius.com/39e41252985b10aa8cdcedffe97d1ff7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Nick Jonas & Robin Schulz", title: "Right Now", producer: "|JUNKX|Steve Mac|", body: `[Intro: Nick Jonas]
+`, media: `<iframe id="player-QYh6mYIJG2Y" src="https://www.youtube.com/embed/QYh6mYIJG2Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 450, coverArt: "https://images.genius.com/39e41252985b10aa8cdcedffe97d1ff7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Nick Jonas & Robin Schulz", title: "Right Now", producer: "|JUNKX|Steve Mac|", body: `[Intro: Nick Jonas]
 Yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah
 
@@ -21305,7 +21305,7 @@ You'll never be alone (oh), I'll never let you go
 [Outro: Nick Jonas]
 Oh, you'll never be alone, ooh, yeah
 I'll be there, I'll never let you go
-`, media: `<iframe id="player-Sc97AUImI04" src="https://www.youtube.com/embed/Sc97AUImI04?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 4, coverArt: "https://images.genius.com/199d3a7e042f555e21d1c911bcced407.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sam Smith", title: "Too Good at Goodbyes", producer: "|StarGate|Steve Fitzmaurice|", body: `[Verse 1]
+`, media: `<iframe id="player-Sc97AUImI04" src="https://www.youtube.com/embed/Sc97AUImI04?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 4, coverArt: "https://images.genius.com/199d3a7e042f555e21d1c911bcced407.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sam Smith", title: "Too Good at Goodbyes", producer: "|StarGate|Steve Fitzmaurice|", body: `[Verse 1]
 You must think that I'm stupid
 You must think that I'm a fool
 You must think that I'm new to this
@@ -21514,7 +21514,7 @@ Yeah, slatt, slatt, slatt, slatt
 I told that boy I'm slatt, slatt, slatt, slatt, slatt
 I told that boy he not gon' take my sack, yeah
 And if he play, I swear I'm goin' hard back
-`, media: `<iframe id="player-53_HPbH64_M" src="https://www.youtube.com/embed/53_HPbH64_M?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 26, coverArt: "https://images.genius.com/7edad7cfe93b329f07a651ec9aa64191.939x939x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Khaled (Ft. Drake, Lil Wayne & Rick Ross)", title: "No New Friends", producer: "|Rick Ross|Drake|Allen Ritter|Vinylz|", body: `[Intro: Drake & DJ Khaled]
+`, media: `<iframe id="player-53_HPbH64_M" src="https://www.youtube.com/embed/53_HPbH64_M?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 26, coverArt: "https://images.genius.com/7edad7cfe93b329f07a651ec9aa64191.939x939x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Khaled (Ft. Drake, Lil Wayne & Rick Ross)", title: "No New Friends", producer: "|Rick Ross|Drake|Allen Ritter|Vinylz|", body: `[Intro: Drake & DJ Khaled]
 Another one
 Yeah, I stay down with my day-one niggas
 And we in the club, screamin'
@@ -21684,7 +21684,7 @@ It's not too late, it's not too late
 I see the hope in your heart
 Sometimes losing, sometimes shooting
 Broken arrows in the dark
-`, media: `<iframe id="player-V6iKSUoUN48" src="https://www.youtube.com/embed/V6iKSUoUN48?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 12, coverArt: "https://images.genius.com/bcaf9d2f185d87b49f838e99636226ff.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sam Smith", title: "Pray", producer: "|Timbaland|Steve Fitzmaurice|", body: `[Verse 1]
+`, media: `<iframe id="player-V6iKSUoUN48" src="https://www.youtube.com/embed/V6iKSUoUN48?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 12, coverArt: "https://images.genius.com/bcaf9d2f185d87b49f838e99636226ff.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sam Smith", title: "Pray", producer: "|Timbaland|Steve Fitzmaurice|", body: `[Verse 1]
 I'm young and I'm foolish, I've made bad decisions
 I block out the news, turn my back on religion
 Don't have no degree, I'm somewhat naïve
@@ -21734,7 +21734,7 @@ Oh, I'm gonna pray, I'm gonna pray, I'm gonna pray
 Pray for a glimmer of hope
 Maybe I'll pray, pray, maybe I'll pray
 I've never believed in you, no, but I'm gonna pray
-`, media: `<iframe id="player-hhREiAarjVY" src="https://www.youtube.com/embed/hhREiAarjVY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 53, coverArt: "https://images.genius.com/ad676d0cb6bbcbfead783c2bf8061c3a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Marshmello", title: "Alone", producer: "|Marshmello|", body: `[Verse]
+`, media: `<iframe id="player-hhREiAarjVY" src="https://www.youtube.com/embed/hhREiAarjVY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 53, coverArt: "https://images.genius.com/ad676d0cb6bbcbfead783c2bf8061c3a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Marshmello", title: "Alone", producer: "|Marshmello|", body: `[Verse]
 I'm so alone, nothing feels like home
 I'm so alone, trying to find my way back home to you
 I'm so alone, nothing feels like home
@@ -21804,7 +21804,7 @@ Take those long summer days
 When love was untamed
 Two burning hearts are dared to break, remember
 Nobody said that it would last forever
-`, media: `<iframe id="player-fKhdec3uyrQ" src="https://www.youtube.com/embed/fKhdec3uyrQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 21, coverArt: "https://images.genius.com/e1086e6e7db5b693a0a15f7743377ef0.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shawn Mendes", title: "Lost in Japan", producer: "|Shawn Mendes|Nate Mercereau|", body: `[Verse 1]
+`, media: `<iframe id="player-fKhdec3uyrQ" src="https://www.youtube.com/embed/fKhdec3uyrQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 21, coverArt: "https://images.genius.com/e1086e6e7db5b693a0a15f7743377ef0.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shawn Mendes", title: "Lost in Japan", producer: "|Shawn Mendes|Nate Mercereau|", body: `[Verse 1]
 All it'd take is one flight
 We'd be in the same time zone
 Looking through your timeline
@@ -21879,7 +21879,7 @@ Let's get lost tonight (Oh)
 Let's get lost tonight (Oh)
 Baby, you and
 I can't seem to get you off my mind
-`, media: `<iframe id="player-ycy30LIbq4w" src="https://www.youtube.com/embed/ycy30LIbq4w?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 117, coverArt: "https://images.genius.com/8f533c061a2423c8652c2d73788dff77.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Maluma & The Weeknd", title: "Hawái (Remix)", producer: "|Ily Wonder|Jowan|", body: `[Letra de "Hawái (Remix)"]
+`, media: `<iframe id="player-ycy30LIbq4w" src="https://www.youtube.com/embed/ycy30LIbq4w?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 117, coverArt: "https://images.genius.com/8f533c061a2423c8652c2d73788dff77.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Maluma & The Weeknd", title: "Hawái (Remix)", producer: "|Ily Wonder|Jowan|", body: `[Letra de "Hawái (Remix)"]
 
 [Intro: The Weeknd]
 Yeah
@@ -22082,7 +22082,7 @@ Time and time again I've tried
 So when I turn into a savage, boy, don't ask me why
 Ask me why, don't ask me why, yeah
 Give you a taste of your own medicine
-`, media: `<iframe id="player-dc89yyOS0Z8" src="https://www.youtube.com/embed/dc89yyOS0Z8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 71, coverArt: "https://images.genius.com/d6a6032f00c122c0fc7843cdfb4bf8f2.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Major Lazer (Ft. Camila Cabello, Quavo & Travis Scott)", title: "Know No Better", producer: "|Travis Scott|Camila Cabello|Diplo|​benny blanco|", body: `[Intro: Camila Cabello & Travis Scott]
+`, media: `<iframe id="player-dc89yyOS0Z8" src="https://www.youtube.com/embed/dc89yyOS0Z8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 71, coverArt: "https://images.genius.com/d6a6032f00c122c0fc7843cdfb4bf8f2.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Major Lazer (Ft. Camila Cabello, Quavo & Travis Scott)", title: "Know No Better", producer: "|Travis Scott|Camila Cabello|Diplo|​benny blanco|", body: `[Intro: Camila Cabello & Travis Scott]
 Yeah (Straight up)
 Ooh
 
@@ -22188,7 +22188,7 @@ Maybe I know you better
 Maybe I know you better (Straight up, maybe I know you better)
 Maybe I know you better
 Baby, I know, I know no better
-`, media: `<iframe id="player-Sgp0WDMH88g" src="https://www.youtube.com/embed/Sgp0WDMH88g?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 76, coverArt: "https://images.genius.com/658decb842a2abda08d6ee2de83e571d.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Camila Cabello (Ft. DaBaby)", title: "My Oh My", producer: "|DaBaby|Frank Dukes|", body: `[Chorus: Camila Cabello]
+`, media: `<iframe id="player-Sgp0WDMH88g" src="https://www.youtube.com/embed/Sgp0WDMH88g?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 76, coverArt: "https://images.genius.com/658decb842a2abda08d6ee2de83e571d.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Camila Cabello (Ft. DaBaby)", title: "My Oh My", producer: "|DaBaby|Frank Dukes|", body: `[Chorus: Camila Cabello]
 They say he likes a good time (My oh my)
 He comes alive at midnight (Every night)
 My mama doesn't trust him (My oh my)
@@ -22250,7 +22250,7 @@ They say he likes a good time (My oh my)
 He comes alive at midnight (Every night)
 My mama doesn't trust him (My oh my)
 He's only here for one thing, but (So am I)
-`, media: `<iframe id="player-6fd2kkLmSDQ" src="https://www.youtube.com/embed/6fd2kkLmSDQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 45, coverArt: "https://images.genius.com/9f24a665993f28de1249db2d8f368413.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "One Direction", title: "History", producer: "|John Ryan|Julian Bunetta|", body: `[Verse 1: Harry & Niall]
+`, media: `<iframe id="player-6fd2kkLmSDQ" src="https://www.youtube.com/embed/6fd2kkLmSDQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 45, coverArt: "https://images.genius.com/9f24a665993f28de1249db2d8f368413.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "One Direction", title: "History", producer: "|John Ryan|Julian Bunetta|", body: `[Verse 1: Harry & Niall]
 You gotta help me, I'm losing my mind
 Keep getting the feeling you wanna leave this all behind
 Thought we were going strong
@@ -22625,7 +22625,7 @@ I know a lot of mothafuckas don't like me, prolly wanna fight me
 But I just keep the peace, no need to keep a piece
 I keep my enemies on a leash, capiche?
 And keep it real for the people I reach
-`, media: `<iframe id="player-Eee41N011N0" src="https://www.youtube.com/embed/Eee41N011N0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 430, coverArt: "https://images.genius.com/8ace550b1ab4ac5c609b97067bcba868.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sia (Ft. Kendrick Lamar)", title: "The Greatest", producer: "|Kendrick Lamar|Greg Kurstin|", body: `[Verse 1: Sia]
+`, media: `<iframe id="player-Eee41N011N0" src="https://www.youtube.com/embed/Eee41N011N0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 430, coverArt: "https://images.genius.com/8ace550b1ab4ac5c609b97067bcba868.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sia (Ft. Kendrick Lamar)", title: "The Greatest", producer: "|Kendrick Lamar|Greg Kurstin|", body: `[Verse 1: Sia]
 Uh-oh, runnin' out of breath, but I
 Oh, I, I got stamina
 Uh-oh, running now, I close my eyes
@@ -22717,7 +22717,7 @@ The greatest, the greatest alive
 (Don't give up, don't give up, don't give up; I got stamina)
 The greatest, the greatest alive
 (Don't give up, don't give up, don't give up; I got stamina)
-`, media: `<iframe id="player-sG6aWhZnbfw" src="https://www.youtube.com/embed/sG6aWhZnbfw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 85, coverArt: "https://images.genius.com/767bb399fa84f8e2fbf538a92b89f882.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Nicki Minaj, Drake & Lil Wayne", title: "No Frauds", producer: "|Murda Beatz|CuBeatz|", body: `[Intro]
+`, media: `<iframe id="player-sG6aWhZnbfw" src="https://www.youtube.com/embed/sG6aWhZnbfw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 85, coverArt: "https://images.genius.com/767bb399fa84f8e2fbf538a92b89f882.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Nicki Minaj, Drake & Lil Wayne", title: "No Frauds", producer: "|Murda Beatz|CuBeatz|", body: `[Intro]
 M-M-Murda
 
 [Pre-Chorus: Nicki Minaj]
@@ -22815,7 +22815,7 @@ I don't need no drama, I just need some nana
 Just told my lil' mama, "Babe, I think I love you, kinda"
 Feelin' like Tune-y Montana, Weezy, he get honored
 Drake a headliner, and Nicki, she get finer, word
-`, media: `<iframe id="player-VkXjvHfP3MM" src="https://www.youtube.com/embed/VkXjvHfP3MM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 109, coverArt: "https://images.genius.com/cbc20368750ed6d60e85316dee25ed7d.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Jhay Cortez, J Balvin & Bad Bunny", title: "No Me Conoce (Remix)", producer: "|Mvsis|", body: `[Letra de "No Me Conoce (Remix)"]
+`, media: `<iframe id="player-VkXjvHfP3MM" src="https://www.youtube.com/embed/VkXjvHfP3MM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 109, coverArt: "https://images.genius.com/cbc20368750ed6d60e85316dee25ed7d.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Jhay Cortez, J Balvin & Bad Bunny", title: "No Me Conoce (Remix)", producer: "|Mvsis|", body: `[Letra de "No Me Conoce (Remix)"]
 
 [Intro: Bad Bunny & Jhay Cortez]
 (Se hace la que no me conoce
@@ -22933,7 +22933,7 @@ Yo creo que sí
 Si Mvsis vuelve a poner un ritmo así, lo vuelvo a partir, ¿qué fue? Jaja
 Oasis, Oasis
 La trinidad
-`, media: `<iframe id="player-w2C6RhQBYlg" src="https://www.youtube.com/embed/w2C6RhQBYlg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 3, coverArt: "https://images.genius.com/1e736fb4aad1b2f93b9d6edbf0ff4d81.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Cashmere Cat, Major Lazer & Tory Lanez", title: "Miss You", producer: "|Diplo|​benny blanco|", body: `[Verse 1: Tory Lanez]
+`, media: `<iframe id="player-w2C6RhQBYlg" src="https://www.youtube.com/embed/w2C6RhQBYlg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 3, coverArt: "https://images.genius.com/1e736fb4aad1b2f93b9d6edbf0ff4d81.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Cashmere Cat, Major Lazer & Tory Lanez", title: "Miss You", producer: "|Diplo|​benny blanco|", body: `[Verse 1: Tory Lanez]
 Took time to get you
 Took time to let you know
 Tried to forget you
@@ -23109,7 +23109,7 @@ Good goodbye
 Good goodbye
 Good goodbye
 (Don't you come back no more)
-`, media: `<iframe id="player-phVQZrb2AdA" src="https://www.youtube.com/embed/phVQZrb2AdA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 35, coverArt: "https://images.genius.com/1647627f874557b642b7cee1f0673757.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "James Arthur", title: "Say You Won't Let Go", producer: "|Alex Beitzke|Bradley Spence|", body: `[Verse 1]
+`, media: `<iframe id="player-phVQZrb2AdA" src="https://www.youtube.com/embed/phVQZrb2AdA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 35, coverArt: "https://images.genius.com/1647627f874557b642b7cee1f0673757.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "James Arthur", title: "Say You Won't Let Go", producer: "|Alex Beitzke|Bradley Spence|", body: `[Verse 1]
 I met you in the dark
 You lit me up
 You made me feel as though
@@ -23188,7 +23188,7 @@ Just say you won't let go
 [Outro]
 Just say you won't let go
 Oh, just say you won't let go
-`, media: `<iframe id="player-0yW7w8F2TVA" src="https://www.youtube.com/embed/0yW7w8F2TVA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 147, coverArt: "https://images.genius.com/de52ce427c0b96e671748c87bd3930b9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "David Guetta, Bebe Rexha & J Balvin", title: "Say My Name", producer: "|David Guetta|Giorgio Tuinfort|", body: `[Verse 1: Bebe Rexha]
+`, media: `<iframe id="player-0yW7w8F2TVA" src="https://www.youtube.com/embed/0yW7w8F2TVA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 147, coverArt: "https://images.genius.com/de52ce427c0b96e671748c87bd3930b9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "David Guetta, Bebe Rexha & J Balvin", title: "Say My Name", producer: "|David Guetta|Giorgio Tuinfort|", body: `[Verse 1: Bebe Rexha]
 You've been dressing up the truth
 I've been dressing up for you
 Then you leave me in this room, this room
@@ -23325,7 +23325,7 @@ So let's get down, let's get down to business, yeah
 
 [Outro]
 Ooh, yeah, yeah
-`, media: `<iframe id="player-nCg3ufihKyU" src="https://www.youtube.com/embed/nCg3ufihKyU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 4, coverArt: "https://images.genius.com/0d989b9727223b8b8a10b1a83b229dc7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "JAY-Z & Kanye West (Ft. Frank Ocean & The-Dream)", title: "No Church in the Wild", producer: "|The-Dream|Frank Ocean|Om’Mas Keith|MIKE DEAN|", body: `[Produced By 88 Keys, Kanye West & Mike Dean]
+`, media: `<iframe id="player-nCg3ufihKyU" src="https://www.youtube.com/embed/nCg3ufihKyU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 4, coverArt: "https://images.genius.com/0d989b9727223b8b8a10b1a83b229dc7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "JAY-Z & Kanye West (Ft. Frank Ocean & The-Dream)", title: "No Church in the Wild", producer: "|The-Dream|Frank Ocean|Om’Mas Keith|MIKE DEAN|", body: `[Produced By 88 Keys, Kanye West & Mike Dean]
 
 [Chorus: Frank Ocean]
 Human beings in a mob
@@ -23410,7 +23410,7 @@ No church in the wild
 No church in the wild
 No church in the wild
 No church in the wild
-`, media: `<iframe id="player-FJt7gNi3Nr4" src="https://www.youtube.com/embed/FJt7gNi3Nr4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 233, coverArt: "https://images.genius.com/f4264b720b7352a2ffac3c36fa1fd5cf.880x880x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bastille", title: "Oblivion", producer: "|Dan Smith|Mark Crew|", body: `[Verse 1]
+`, media: `<iframe id="player-FJt7gNi3Nr4" src="https://www.youtube.com/embed/FJt7gNi3Nr4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 233, coverArt: "https://images.genius.com/f4264b720b7352a2ffac3c36fa1fd5cf.880x880x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bastille", title: "Oblivion", producer: "|Dan Smith|Mark Crew|", body: `[Verse 1]
 When you fall asleep
 With your head upon my shoulder
 When you're in my arms
@@ -23720,7 +23720,7 @@ Like a powerful drug I can't get enough of
 Lost in your eyes, drowning in blue
 Out of control, what can I do?
 I'm﻿ addicted to you
-`, media: `<iframe id="player-Qc9c12q3mrc" src="https://www.youtube.com/embed/Qc9c12q3mrc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 87, coverArt: "https://images.genius.com/8f2aac314c584f94b6dd19a39ae49b15.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Miley Cyrus", title: "Mother's Daughter", producer: "|Andrew Wyatt|", body: `[Verse 1]
+`, media: `<iframe id="player-Qc9c12q3mrc" src="https://www.youtube.com/embed/Qc9c12q3mrc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 87, coverArt: "https://images.genius.com/8f2aac314c584f94b6dd19a39ae49b15.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Miley Cyrus", title: "Mother's Daughter", producer: "|Andrew Wyatt|", body: `[Verse 1]
 Hallelujah, I'm a freak, I'm a freak, hallelujah
 Every day of the week, I'ma do ya like I want to
 I'm a Nile crocodile, a piranha
@@ -23795,7 +23795,7 @@ Oh my God, oh my God
 Don't fuck with my freedom
 Oh my God, oh my God
 Swish swish, motherfucka (Ow)
-`, media: `<iframe id="player-7T2RonyJ_Ts" src="https://www.youtube.com/embed/7T2RonyJ_Ts?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 42, coverArt: "https://images.genius.com/2a976ea236349eec299f4b9547704ed4.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "J Balvin & Willy William (Ft. Beyoncé & Blue Ivy Carter)", title: "Mi Gente (Beyoncé Remix)", producer: "|Blue Ivy Carter|Beyoncé|Beyoncé|Willy William|", body: `[Letra de "Mi Gente" (Remix) ft. Beyoncé]
+`, media: `<iframe id="player-7T2RonyJ_Ts" src="https://www.youtube.com/embed/7T2RonyJ_Ts?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 42, coverArt: "https://images.genius.com/2a976ea236349eec299f4b9547704ed4.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "J Balvin & Willy William (Ft. Beyoncé & Blue Ivy Carter)", title: "Mi Gente (Beyoncé Remix)", producer: "|Blue Ivy Carter|Beyoncé|Beyoncé|Willy William|", body: `[Letra de "Mi Gente" (Remix) ft. Beyoncé]
 
 [Verso 1: J Balvin & Beyoncé]
 Si el ritmo te lleva a mover la cabeza ya empezamos cómo es
@@ -23879,7 +23879,7 @@ Willy William
 J Balvin, man
 Uh huh, Uh huh
 Uh huh, Uh huh
-`, media: `<iframe id="player-APHgDFRpCi0" src="https://www.youtube.com/embed/APHgDFRpCi0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 18, coverArt: "https://images.genius.com/374389c965c32b134635eec1a98cec23.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bruno Mars", title: "Locked Out of Heaven", producer: "|Mark Ronson|Emile Haynie|", body: `[Intro]
+`, media: `<iframe id="player-APHgDFRpCi0" src="https://www.youtube.com/embed/APHgDFRpCi0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 18, coverArt: "https://images.genius.com/374389c965c32b134635eec1a98cec23.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bruno Mars", title: "Locked Out of Heaven", producer: "|Mark Ronson|Emile Haynie|", body: `[Intro]
 (One, two, one, two, three)
 Aw, yeah yeah
 Aw, yeah yeah yeah yeah (Ooh)
@@ -24162,7 +24162,7 @@ Youngblood
 Say you want me
 Say you want me out of your life
 And I'm just a dead man walking tonight
-`, media: `<iframe id="player--RJSbO8UZVY" src="https://www.youtube.com/embed/-RJSbO8UZVY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 123, coverArt: "https://images.genius.com/495a29bfaf1daac2fc3ced087983b3d1.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "One Direction", title: "If I Could Fly", producer: "|Johan Carlsson|", body: `[Verse 1: Harry]
+`, media: `<iframe id="player--RJSbO8UZVY" src="https://www.youtube.com/embed/-RJSbO8UZVY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 123, coverArt: "https://images.genius.com/495a29bfaf1daac2fc3ced087983b3d1.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "One Direction", title: "If I Could Fly", producer: "|Johan Carlsson|", body: `[Verse 1: Harry]
 If I could fly
 I'd be coming right back home to you
 I think I might give up everything
@@ -24224,7 +24224,7 @@ Now you know me, for your eyes only
 [Outro: All & Harry]
 For your eyes only
 For your eyes only
-`, media: `<iframe id="player-L47mRyhxsBw" src="https://www.youtube.com/embed/L47mRyhxsBw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 48, coverArt: "http://images.genius.com/2fe6ae663498fcb7e14306f93795eca8.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Myke Towers & Farruko", title: "Si Se Da", producer: "|Los Illusions|", body: `[Letra de "Si Se Da"]
+`, media: `<iframe id="player-L47mRyhxsBw" src="https://www.youtube.com/embed/L47mRyhxsBw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 48, coverArt: "http://images.genius.com/2fe6ae663498fcb7e14306f93795eca8.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Myke Towers & Farruko", title: "Si Se Da", producer: "|Los Illusions|", body: `[Letra de "Si Se Da"]
 
 [Intro: Myke Towers]
 (Tú sabe' a lo que vamo' cuando tú y yo nos juntamo', baby)
@@ -24362,7 +24362,7 @@ Yeah, yeah, yeah, yeah
 Ooh-ooh, please don't throw your love away, huh
 Please don't throw your love away, huh
 Please don't throw your love away, huh, yeah, yeah, ye—
-`, media: `<iframe id="player-JcWOSgImiRw" src="https://www.youtube.com/embed/JcWOSgImiRw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 395, coverArt: "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Khalid", title: "Talk", producer: "|Disclosure|", body: `[Chorus]
+`, media: `<iframe id="player-JcWOSgImiRw" src="https://www.youtube.com/embed/JcWOSgImiRw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 395, coverArt: "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Khalid", title: "Talk", producer: "|Disclosure|", body: `[Chorus]
 Can we just talk? Can we just talk?
 Talk about where we're goin'
 Before we get lost, lend me your thoughts
@@ -24468,7 +24468,7 @@ Don't fade away
 (Well, I know that we've been hardly holding on)
 To tell the truth, I can't believe we got this far
 So don't fade away
-`, media: `<iframe id="player-hM_kejkWeHU" src="https://www.youtube.com/embed/hM_kejkWeHU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 10, coverArt: "https://images.genius.com/31e6547ec7f9943825d1bbc0c728ea08.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Panic! at the Disco", title: "LA Devotee", producer: "|Jake Sinclair|", body: `[Verse 1]
+`, media: `<iframe id="player-hM_kejkWeHU" src="https://www.youtube.com/embed/hM_kejkWeHU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 10, coverArt: "https://images.genius.com/31e6547ec7f9943825d1bbc0c728ea08.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Panic! at the Disco", title: "LA Devotee", producer: "|Jake Sinclair|", body: `[Verse 1]
 You got two black eyes from loving too hard
 And a black car that matches your blackest soul
 I wouldn't change ya, oh
@@ -24549,7 +24549,7 @@ Just another, just another, uh oh
 Just another, just another, uh oh
 Just another, just another, uh oh
 Just another LA devotee
-`, media: `<iframe id="player-r5dNcKTcnPA" src="https://www.youtube.com/embed/r5dNcKTcnPA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=40" title="Music Video"></iframe>`, visits: 48, coverArt: "https://images.genius.com/7fd83b2a3ab312bd5e4d52ddcd497336.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Martin Garrix & Dua Lipa", title: "Scared to Be Lonely", producer: "|Martin Garrix|Valley Girl|", body: `[Verse 1]
+`, media: `<iframe id="player-r5dNcKTcnPA" src="https://www.youtube.com/embed/r5dNcKTcnPA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=40" title="Music Video"></iframe>`, visits: 48, coverArt: "https://images.genius.com/7fd83b2a3ab312bd5e4d52ddcd497336.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Martin Garrix & Dua Lipa", title: "Scared to Be Lonely", producer: "|Martin Garrix|Valley Girl|", body: `[Verse 1]
 It was great at the very start
 Hands on each other
 Couldn't stand to be far apart
@@ -24615,7 +24615,7 @@ Is the only reason you're holding me tonight
 Scared to be lonely
 Scared to be lonely, ooh, ooh
 Eh, eh, scared to be lonely
-`, media: `<iframe id="player-e2vBLd5Egnk" src="https://www.youtube.com/embed/e2vBLd5Egnk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 66, coverArt: "https://images.genius.com/8811dc527a2aaed63f355fc20be6449e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Ski Mask the Slump God (Ft. XXXTENTACION)", title: "Take a Step Back", producer: "|XXXTENTACION|Ronny J|", body: `[Intro: XXXTENTACION]
+`, media: `<iframe id="player-e2vBLd5Egnk" src="https://www.youtube.com/embed/e2vBLd5Egnk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 66, coverArt: "https://images.genius.com/8811dc527a2aaed63f355fc20be6449e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Ski Mask the Slump God (Ft. XXXTENTACION)", title: "Take a Step Back", producer: "|XXXTENTACION|Ronny J|", body: `[Intro: XXXTENTACION]
 Yeah, baby, Very Rare, Members Only, yeah, baby, yeah, baby
 I'm with Ryan Santan in the motherfuckin' booth, yeah, baby
 I got blood on my boots, baby, yeah, baby (Gang, gang, gang)
@@ -24680,7 +24680,7 @@ Wreck a pussy nigga, come see me, uh (See me)
 Make him say goodbye like Luigi, ayy (Bye, bye)
 
 [Outro Instrumental]
-`, media: `<iframe id="player-2FsnVCLYcrM" src="https://www.youtube.com/embed/2FsnVCLYcrM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 121, coverArt: "https://images.genius.com/05f76948297729a6a9bd0c016461776c.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Katy Perry (Ft. Juicy J)", title: "Dark Horse", producer: "|Juicy J|Cirkut|Max Martin|", body: `[Intro: Juicy J]
+`, media: `<iframe id="player-2FsnVCLYcrM" src="https://www.youtube.com/embed/2FsnVCLYcrM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 121, coverArt: "https://images.genius.com/05f76948297729a6a9bd0c016461776c.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Katy Perry (Ft. Juicy J)", title: "Dark Horse", producer: "|Juicy J|Cirkut|Max Martin|", body: `[Intro: Juicy J]
 Yeah, y'all know what it is
 Katy Perry, Juicy J
 Uh-huh, let's rage!
@@ -24758,7 +24758,7 @@ There's no going back
 
 [Produced by Max Martin and Dr. Luke]
 [Video directed by Matthew Cullen]
-`, media: `<iframe id="player-0KSOMA3QBU0" src="https://www.youtube.com/embed/0KSOMA3QBU0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 641, coverArt: "https://images.genius.com/58143694392abb8b2d6d8daa6abfdd7e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Maluma (Ft. Nego do Borel)", title: "Corazón", producer: "|Nego do Borel|Chan El Genio|Kevin ADG|", body: `[Letra de "Corazón" ft. Nego do Borel]
+`, media: `<iframe id="player-0KSOMA3QBU0" src="https://www.youtube.com/embed/0KSOMA3QBU0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 641, coverArt: "https://images.genius.com/58143694392abb8b2d6d8daa6abfdd7e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Maluma (Ft. Nego do Borel)", title: "Corazón", producer: "|Nego do Borel|Chan El Genio|Kevin ADG|", body: `[Letra de "Corazón" ft. Nego do Borel]
 
 [Intro: Maluma]
 Alright, alright, baby
@@ -24832,7 +24832,7 @@ Tú me partiste el corazón (Maluma, baby)
 Pero mi amor no hay problema (Rudeboyz)
 Sólo un pedacito
 (Maluma, baby)
-`, media: `<iframe id="player-GmHrjFIWl6U" src="https://www.youtube.com/embed/GmHrjFIWl6U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 12, coverArt: "https://images.genius.com/8f4722c0eba252465eacb11126259e17.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "JAY-Z & Kanye West", title: "Niggas in Paris", producer: "|Anthony Kilhoffer|Hit-Boy|", body: `[Intro]
+`, media: `<iframe id="player-GmHrjFIWl6U" src="https://www.youtube.com/embed/GmHrjFIWl6U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 12, coverArt: "https://images.genius.com/8f4722c0eba252465eacb11126259e17.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "JAY-Z & Kanye West", title: "Niggas in Paris", producer: "|Anthony Kilhoffer|Hit-Boy|", body: `[Intro]
 We're gonna skate to one song, one song only
 Ball so hard, motherfuckers wanna fine me
 
@@ -24925,7 +24925,7 @@ Don't let me into my zone
 (I'm definitely in my zone)
 
 [Produced by Anthony Kilhoffer, Hit-Boy, Kanye West & Mike Dean]
-`, media: `<iframe id="player-gG_dA32oH44" src="https://www.youtube.com/embed/gG_dA32oH44?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=20" title="Music Video"></iframe>`, visits: 438, coverArt: "https://images.genius.com/23d4917f844406d16909875904331fe5.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Pink Floyd", title: "Shine On You Crazy Diamond, Pts. 1-5", producer: "|Pink Floyd|", body: `[Part 1 (0:00-3:53): Instrumental]
+`, media: `<iframe id="player-gG_dA32oH44" src="https://www.youtube.com/embed/gG_dA32oH44?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=20" title="Music Video"></iframe>`, visits: 438, coverArt: "https://images.genius.com/23d4917f844406d16909875904331fe5.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Pink Floyd", title: "Shine On You Crazy Diamond, Pts. 1-5", producer: "|Pink Floyd|", body: `[Part 1 (0:00-3:53): Instrumental]
 
 [Part 2 (3:53-6:26): Instrumental]
 
@@ -24974,7 +24974,7 @@ Come on, you raver, you seer of visions
 Come on, you painter, you piper, you prisoner, and shine
 
 [Part 5 (11:08-13:31): Instrumental]
-`, media: `<iframe id="player-54W8kktFE_o" src="https://www.youtube.com/embed/54W8kktFE_o?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 69, coverArt: "https://images.genius.com/57e05ca38ee171cf70fd9486aa6dd40a.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Post Malone & Swae Lee", title: "Sunflower", producer: "|Carter Lang|Louis Bell|", body: `[Intro: Swae Lee]
+`, media: `<iframe id="player-54W8kktFE_o" src="https://www.youtube.com/embed/54W8kktFE_o?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 69, coverArt: "https://images.genius.com/57e05ca38ee171cf70fd9486aa6dd40a.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Post Malone & Swae Lee", title: "Sunflower", producer: "|Carter Lang|Louis Bell|", body: `[Intro: Swae Lee]
 Ayy, ayy, ayy, ayy (Ooh)
 Ooh, ooh, ooh, ooh (Ooh)
 Ayy, ayy
@@ -25021,7 +25021,7 @@ And you'll be left in the dust, unless I stuck by ya
 You're the sunflower, I think your love would be too much
 Or you'll be left in the dust, unless I stuck by ya
 You're the sunflower, you're the sunflower (Yeah)
-`, media: `<iframe id="player-ApXoWvfEYVU" src="https://www.youtube.com/embed/ApXoWvfEYVU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 329, coverArt: "https://images.genius.com/f8df6f94846dc4a8f2e1b94d7abd1cb5.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Calvin Harris & Disciples", title: "How Deep Is Your Love", producer: "|Calvin Harris|Disciples|", body: `[Verse 1: Ina Wroldsen]
+`, media: `<iframe id="player-ApXoWvfEYVU" src="https://www.youtube.com/embed/ApXoWvfEYVU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 329, coverArt: "https://images.genius.com/f8df6f94846dc4a8f2e1b94d7abd1cb5.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Calvin Harris & Disciples", title: "How Deep Is Your Love", producer: "|Calvin Harris|Disciples|", body: `[Verse 1: Ina Wroldsen]
 I want you to breathe me in
 Let me be your air
 Let me roam your body freely
@@ -25157,7 +25157,7 @@ Just tell me you love me
 (I'll give you what I need, I'll give you all of me)
 Even though you don't love me (Ohh, ohh)
 Ohh
-`, media: `<iframe id="player-O1OTWCd40bc" src="https://www.youtube.com/embed/O1OTWCd40bc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=5" title="Music Video"></iframe>`, visits: 454, coverArt: "https://images.genius.com/b607ce85c5da52cfeb0328fe2906da11.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "CNCO & Little Mix", title: "Reggaetón Lento (Remix)", producer: "|O’Neill|Clara Taroncher|", body: `[Letra de "Reggaetón Lento (Remix)"]
+`, media: `<iframe id="player-O1OTWCd40bc" src="https://www.youtube.com/embed/O1OTWCd40bc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=5" title="Music Video"></iframe>`, visits: 454, coverArt: "https://images.genius.com/b607ce85c5da52cfeb0328fe2906da11.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "CNCO & Little Mix", title: "Reggaetón Lento (Remix)", producer: "|O’Neill|Clara Taroncher|", body: `[Letra de "Reggaetón Lento (Remix)"]
 
 [Verse 1: Leigh-Anne Pinnock with Erick Brian Colón, Jade Thirlwall & (Perrie Edwards)]
 Boy, I can see the way you dancing, move that body
@@ -25283,7 +25283,7 @@ I can't fall in love without you
 (Ooh, ooh)
 I can't fall in love without you
 So please, don't fall in love without me
-`, media: `<iframe id="player-5bjocpJs7Jk" src="https://www.youtube.com/embed/5bjocpJs7Jk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 15, coverArt: "https://images.genius.com/9d15e19c67cb94091e65414cf38f54d2.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "OneRepublic", title: "Let's Hurt Tonight", producer: "|Ryan Tedder|Noel Zancanella|", body: `[Verse 1]
+`, media: `<iframe id="player-5bjocpJs7Jk" src="https://www.youtube.com/embed/5bjocpJs7Jk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 15, coverArt: "https://images.genius.com/9d15e19c67cb94091e65414cf38f54d2.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "OneRepublic", title: "Let's Hurt Tonight", producer: "|Ryan Tedder|Noel Zancanella|", body: `[Verse 1]
 When, when we came home
 Worn to the bones
 I told myself, "this could get rough"
@@ -25324,7 +25324,7 @@ Let's say all of the things that we couldn't before
 I won't walk away, won't roll my eyes
 They say love is pain, well darling, let's hurt tonight
 If this love is pain, then honey let's love tonight
-`, media: `<iframe id="player-dDGggHI97f0" src="https://www.youtube.com/embed/dDGggHI97f0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 51, coverArt: "http://images.genius.com/066c5940afd8780621ce01b9301d00bd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Chris Brown (Ft. Kendrick Lamar)", title: "Autumn Leaves", producer: "|Kendrick Lamar|RoccStar|B.A.M.|", body: `[Intro: Chris Brown]
+`, media: `<iframe id="player-dDGggHI97f0" src="https://www.youtube.com/embed/dDGggHI97f0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 51, coverArt: "http://images.genius.com/066c5940afd8780621ce01b9301d00bd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Chris Brown (Ft. Kendrick Lamar)", title: "Autumn Leaves", producer: "|Kendrick Lamar|RoccStar|B.A.M.|", body: `[Intro: Chris Brown]
 Oh, no, babe
 Yeah-yeah
 Baby, you
@@ -25417,7 +25417,7 @@ Ooh
 Ooh-ooh
 *Woman moaning*
 Ooh
-`, media: `<iframe id="player-undkbBJLa-Y" src="https://www.youtube.com/embed/undkbBJLa-Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 661, coverArt: "https://images.genius.com/c1ddf1f42fa31b34551df942e0395efb.630x630x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Nicky Jam & Enrique Iglesias", title: "El Perdón", producer: "|Saga WhiteBlack|", body: `[Letra de "El Perdón"]
+`, media: `<iframe id="player-undkbBJLa-Y" src="https://www.youtube.com/embed/undkbBJLa-Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 661, coverArt: "https://images.genius.com/c1ddf1f42fa31b34551df942e0395efb.630x630x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Nicky Jam & Enrique Iglesias", title: "El Perdón", producer: "|Saga WhiteBlack|", body: `[Letra de "El Perdón"]
 
 [Intro: Nicky Jam]
 Ah, ah
@@ -25502,7 +25502,7 @@ Enrique Iglesias
 (No quiero que me deje, por favor)
 Haciendo historia
 Saga WhiteBlack (Y te pido perdón)
-`, media: `<iframe id="player-hXI8RQYC36Q" src="https://www.youtube.com/embed/hXI8RQYC36Q?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=19" title="Music Video"></iframe>`, visits: 29, coverArt: "https://images.genius.com/84aaec2799ffe891100148471558bac2.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Cardi B", title: "Money", producer: "|J. White Did It|", body: `[Verse 1]
+`, media: `<iframe id="player-hXI8RQYC36Q" src="https://www.youtube.com/embed/hXI8RQYC36Q?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=19" title="Music Video"></iframe>`, visits: 29, coverArt: "https://images.genius.com/84aaec2799ffe891100148471558bac2.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Cardi B", title: "Money", producer: "|J. White Did It|", body: `[Verse 1]
 Look, my bitches all bad, my niggas all real
 I ride on his dick in some big tall heels
 Big fat checks, big large bills
@@ -25712,7 +25712,7 @@ The power, yeah, yeah-eh
 Motorbike, motorbike, motorbike, motorbike
 Bike—, bike—, bike—, bike—
 Bike—, bike—, bike—, bike—, bike—, bike—, whoop
-`, media: `<iframe id="player-4TGCTzdJKhc" src="https://www.youtube.com/embed/4TGCTzdJKhc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 27, coverArt: "http://images.genius.com/b5305ff16fa0442871bf88124dffa205.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "BRS Kash, DaBaby & City Girls", title: "Throat Baby (Go Baby) [Remix]", producer: "|AdamSlides|Chi Chi|", body: `[Intro: DaBaby & BRS Kash]
+`, media: `<iframe id="player-4TGCTzdJKhc" src="https://www.youtube.com/embed/4TGCTzdJKhc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 27, coverArt: "http://images.genius.com/b5305ff16fa0442871bf88124dffa205.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "BRS Kash, DaBaby & City Girls", title: "Throat Baby (Go Baby) [Remix]", producer: "|AdamSlides|Chi Chi|", body: `[Intro: DaBaby & BRS Kash]
 Damn near got the best head in the world on her, I be ready to hit
 Put her lips on my dick and she swirl on it, she be ready to spit
 She eatin' my dick with passion, it feel like she talkin' to me, she be tellin' me shit
@@ -25933,7 +25933,7 @@ And I'm done sitting home without you
 Fuck, I'm going out without you
 I'm gonna tear this city down without you
 I'm goin' Bonnie and Clyde without you
-`, media: `<iframe id="player-WRz2MxhAdJo" src="https://www.youtube.com/embed/WRz2MxhAdJo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 35, coverArt: "http://images.genius.com/f0c95324311b40ccee61a4a68a33a28f.999x999x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Machine Gun Kelly, X Ambassadors & Bebe Rexha", title: "Home", producer: "|D. Phelps|David Pramik|", body: `[Chorus: Sam Harris & Bebe Rexha]
+`, media: `<iframe id="player-WRz2MxhAdJo" src="https://www.youtube.com/embed/WRz2MxhAdJo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 35, coverArt: "http://images.genius.com/f0c95324311b40ccee61a4a68a33a28f.999x999x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Machine Gun Kelly, X Ambassadors & Bebe Rexha", title: "Home", producer: "|D. Phelps|David Pramik|", body: `[Chorus: Sam Harris & Bebe Rexha]
 Home
 A place where I can go
 To take this off my shoulders
@@ -26027,7 +26027,7 @@ Home, ho-o-o-o-me (someone, someone)
 Nothing here feels like home
 Home, home
 Someone take me
-`, media: `<iframe id="player-IumYMCllMsM" src="https://www.youtube.com/embed/IumYMCllMsM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 57, coverArt: "https://images.genius.com/ae443c0bdf901cb1ec1b674c6025a789.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Dua Lipa", title: "Be the One", producer: "|Digital Farm Animals|Jack Tarrant|", body: `[Verse 1]
+`, media: `<iframe id="player-IumYMCllMsM" src="https://www.youtube.com/embed/IumYMCllMsM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 57, coverArt: "https://images.genius.com/ae443c0bdf901cb1ec1b674c6025a789.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Dua Lipa", title: "Be the One", producer: "|Digital Farm Animals|Jack Tarrant|", body: `[Verse 1]
 I see the moon, I see the moon, I see the moon
 Oh, when you're looking at the sun
 I'm not a fool, I'm not a fool, not a fool
@@ -26097,7 +26097,7 @@ No, I won't let you down and run
 'Cause I could be the one
 I could be the one
 I could be the one
-`, media: `<iframe id="player--rey3m8SWQI" src="https://www.youtube.com/embed/-rey3m8SWQI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 46, coverArt: "https://images.genius.com/685d5f086260ce1bccca9e7e8209d9f2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DaBaby", title: "Goin Baby", producer: "|Eddie Priest|​jetsonmade|", body: `[Intro]
+`, media: `<iframe id="player--rey3m8SWQI" src="https://www.youtube.com/embed/-rey3m8SWQI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 46, coverArt: "https://images.genius.com/685d5f086260ce1bccca9e7e8209d9f2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DaBaby", title: "Goin Baby", producer: "|Eddie Priest|​jetsonmade|", body: `[Intro]
 Oh Lord, Jetson made another one
 Hah
 
@@ -26346,7 +26346,7 @@ Black and yellow, black and yellow
 I put it down from the whip to my diamonds, I'm in
 Black and yellow, black and yellow
 Black and yellow, black and yellow
-`, media: `<iframe id="player-UePtoxDhJSw" src="https://www.youtube.com/embed/UePtoxDhJSw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 79, coverArt: "https://images.genius.com/4642f5a298ce83ffa89b5b7ef4a57ae7.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sebastián Yatra", title: "No Hay Nadie Más", producer: "|Fernando “Toby” Tobon|Andrés Munera|", body: `[Letra de "No Hay Nadie Más"]
+`, media: `<iframe id="player-UePtoxDhJSw" src="https://www.youtube.com/embed/UePtoxDhJSw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 79, coverArt: "https://images.genius.com/4642f5a298ce83ffa89b5b7ef4a57ae7.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sebastián Yatra", title: "No Hay Nadie Más", producer: "|Fernando “Toby” Tobon|Andrés Munera|", body: `[Letra de "No Hay Nadie Más"]
 
 [Verso 1]
 Recuerdo aquel día como si fuera hoy
@@ -26393,7 +26393,7 @@ No hay nadie más
 No quiero a nadie más
 No hay nadie más
 No hay nadie
-`, media: `<iframe id="player-sD9_l3oDOag" src="https://www.youtube.com/embed/sD9_l3oDOag?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 1, coverArt: "https://images.genius.com/acbf0da8e212b3100132bfe0cba7b2d1.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "James Arthur", title: "Empty Space", producer: "|Digital Farm Animals|Mark Crew|", body: `[Verse 1]
+`, media: `<iframe id="player-sD9_l3oDOag" src="https://www.youtube.com/embed/sD9_l3oDOag?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 1, coverArt: "https://images.genius.com/acbf0da8e212b3100132bfe0cba7b2d1.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "James Arthur", title: "Empty Space", producer: "|Digital Farm Animals|Mark Crew|", body: `[Verse 1]
 I don't see you
 You're not in every window I look through
 And I don't miss you
@@ -26467,7 +26467,7 @@ How could I make you love me?
 How could I make you love me? (Space, yeah, yeah, yeah)
 How could I make you love me? (Space, yeah, yeah, yeah)
 How could I make you love me?
-`, media: `<iframe id="player-Tx8AelkacZ8" src="https://www.youtube.com/embed/Tx8AelkacZ8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 14, coverArt: "https://images.genius.com/b177d117cff3766b5e3dd07f25c8e302.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Miley Cyrus", title: "Slide Away", producer: "|Mike WiLL Made-It|Andrew Wyatt|", body: `[Intro]
+`, media: `<iframe id="player-Tx8AelkacZ8" src="https://www.youtube.com/embed/Tx8AelkacZ8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 14, coverArt: "https://images.genius.com/b177d117cff3766b5e3dd07f25c8e302.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Miley Cyrus", title: "Slide Away", producer: "|Mike WiLL Made-It|Andrew Wyatt|", body: `[Intro]
 Woo-ooh, woo-ooh, woo-ooh
 Woo-ooh, woo-ooh, woo-ooh
 
@@ -26528,7 +26528,7 @@ Move on, we're not seventeen
 I'm not who I used to be
 You say that everything changed
 You're right, we're grown now
-`, media: `<iframe id="player-rrvFv6j3-sM" src="https://www.youtube.com/embed/rrvFv6j3-sM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 47, coverArt: "https://images.genius.com/48b4419b91d8d21b972bcdd7b0a706cd.600x600x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sebastián Yatra (Ft. Dalmata)", title: "SUTRA", producer: "|Dalmata|Andrés Torres|Mauricio Rengifo|", body: `[Letra de “SUTRA” ft. Dalmata]
+`, media: `<iframe id="player-rrvFv6j3-sM" src="https://www.youtube.com/embed/rrvFv6j3-sM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 47, coverArt: "https://images.genius.com/48b4419b91d8d21b972bcdd7b0a706cd.600x600x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sebastián Yatra (Ft. Dalmata)", title: "SUTRA", producer: "|Dalmata|Andrés Torres|Mauricio Rengifo|", body: `[Letra de “SUTRA” ft. Dalmata]
 
 [Intro: Sebastián Yatra]
 Oh no, no, no
@@ -27149,7 +27149,7 @@ I'm not gonna make it a-la, la-la-la-la-la, la, la-la-la-la-la, 'lone (No, woah)
 I'm not gonna make it a-la, la-la-la-la-la, la, la-la-la-la-la, 'lone (It alone, 'lone, 'lone)
 I'm not gonna make it a-la, la-la-la-la-la, la, la-la-la-la-la, 'lone (No, no, no, no)
 I'm not gonna make it alone
-`, media: `<iframe id="player-HhjHYkPQ8F0" src="https://www.youtube.com/embed/HhjHYkPQ8F0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 28, coverArt: "https://images.genius.com/9fa97a64e5bebfbf9d692b7b82bbed90.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "J. Cole", title: "Deja Vu", producer: "|Ron Gilmore|J. Cole|", body: `[Intro]
+`, media: `<iframe id="player-HhjHYkPQ8F0" src="https://www.youtube.com/embed/HhjHYkPQ8F0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 28, coverArt: "https://images.genius.com/9fa97a64e5bebfbf9d692b7b82bbed90.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "J. Cole", title: "Deja Vu", producer: "|Ron Gilmore|J. Cole|", body: `[Intro]
 Huh, ayy, put a finger in the sky if you want it, nigga
 Ayy, put two fingers in the sky if you want her
 Ayy, put a finger in the sky if you want it, nigga
@@ -27247,7 +27247,7 @@ Ayy, put a finger in the sky if you want it, nigga
 Ayy, put two fingers in the sky if you want her
 Ayy, put a finger in the sky if you want it, nigga
 Ayy, put two fingers in the sky if you want her
-`, media: `<iframe id="player-9d_jOIwEKPY" src="https://www.youtube.com/embed/9d_jOIwEKPY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 188, coverArt: "https://images.genius.com/6d0fbbc7ce189a8c81671ef92546446e.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Genius English Translations", title: "6ix9ine - BEBE ft. Anuel AA (English Translation)", producer: "", body: `[Intro: 6ix9ine]
+`, media: `<iframe id="player-9d_jOIwEKPY" src="https://www.youtube.com/embed/9d_jOIwEKPY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 188, coverArt: "https://images.genius.com/6d0fbbc7ce189a8c81671ef92546446e.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Genius English Translations", title: "6ix9ine - BEBE ft. Anuel AA (English Translation)", producer: "", body: `[Intro: 6ix9ine]
 Making love at the same time that you touch yourself (you get)
 Baby, nothing will happen, go crazy (cra-crazy, crazy)
 Your boyfriend treats you bad, he doesn’t control you (no, no, no, no)
@@ -27392,7 +27392,7 @@ Oh-oh-oh here, oh-oh-oh here
 Oh I ask myself, what am I doin' here?
 Oh-oh-oh here, oh-oh-oh here
 And I can't wait till we can break up out of here
-`, media: `<iframe id="player-UKp2CrfmVfw" src="https://www.youtube.com/embed/UKp2CrfmVfw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 400, coverArt: "https://images.genius.com/f7b8a297dad5456c3b84e5fc4f626f24.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Macklemore (Ft. Ryan Lewis)", title: "Otherside", producer: "|Ryan Lewis|Ryan Lewis|", body: `[Intro]
+`, media: `<iframe id="player-UKp2CrfmVfw" src="https://www.youtube.com/embed/UKp2CrfmVfw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 400, coverArt: "https://images.genius.com/f7b8a297dad5456c3b84e5fc4f626f24.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Macklemore (Ft. Ryan Lewis)", title: "Otherside", producer: "|Ryan Lewis|Ryan Lewis|", body: `[Intro]
 "Chad Butler, known as Pimp C, died in a Los Angeles hotel room..."
 "The L.A. County Coroner's office ruled the rapper's death accidental and attributed it to a combination of..."
 "Apnea?"
@@ -27498,7 +27498,7 @@ Um, we had been taking down, toning down the content of certain things in the mu
 My new album, of course, probably won't have any references to cough syrup in it
 But, uh, it's a little bit more than the music
 I think it's gonna start affecting the personal lives of a lot of artists and people..."
-`, media: `<iframe id="player-ru-LgSvOCrE" src="https://www.youtube.com/embed/ru-LgSvOCrE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 74, coverArt: "http://images.genius.com/26663e079c0dddedce713053701bc5da.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Nicki Minaj", title: "Chun-Li", producer: "|Nicki Minaj|J.Reid (Chevi Music)|", body: `[Verse 1]
+`, media: `<iframe id="player-ru-LgSvOCrE" src="https://www.youtube.com/embed/ru-LgSvOCrE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 74, coverArt: "http://images.genius.com/26663e079c0dddedce713053701bc5da.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Nicki Minaj", title: "Chun-Li", producer: "|Nicki Minaj|J.Reid (Chevi Music)|", body: `[Verse 1]
 Ayo, look like I'm goin' for a swim
 Dunked on 'em, now I'm swingin' off the rim
 Bitch ain't comin' off the bench
@@ -27565,7 +27565,7 @@ I come alive, I, I'm always sky high
 Designer thigh highs, it's my lifestyle
 I need a Mai Tai, so fuckin' sci-fi
 Give me the password to the fuckin' wifi
-`, media: `<iframe id="player-Wpm07-BGJnE" src="https://www.youtube.com/embed/Wpm07-BGJnE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=71" title="Music Video"></iframe>`, visits: 209, coverArt: "https://images.genius.com/9c03fdf582339629f3e8fe5624a936ed.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Kanye West (Ft. Chance the Rapper, Kelly Price, Kirk Franklin & The-Dream)", title: "Ultralight Beam", producer: "|The-Dream|Kelly Price|Rick Rubin|Swizz Beatz|", body: `[Intro: Samoria Green & Natalie Green]
+`, media: `<iframe id="player-Wpm07-BGJnE" src="https://www.youtube.com/embed/Wpm07-BGJnE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=71" title="Music Video"></iframe>`, visits: 209, coverArt: "https://images.genius.com/9c03fdf582339629f3e8fe5624a936ed.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Kanye West (Ft. Chance the Rapper, Kelly Price, Kirk Franklin & The-Dream)", title: "Ultralight Beam", producer: "|The-Dream|Kelly Price|Rick Rubin|Swizz Beatz|", body: `[Intro: Samoria Green & Natalie Green]
 (Yes, God)
 We don't want no devils in the house, God (Yes, Lord)
 We want the lord (Yes, Jesus)
@@ -27793,7 +27793,7 @@ Why I got you on my mind
 
 [Outro]
 Uh, uh, uh, uh
-`, media: `<iframe id="player-H202k7KfZL0" src="https://www.youtube.com/embed/H202k7KfZL0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=27" title="Music Video"></iframe>`, visits: 44, coverArt: "https://images.genius.com/7a211fc210130fdb06a64526c8ec9a01.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Calvin Harris & Dua Lipa", title: "One Kiss", producer: "|Calvin Harris|", body: `[Intro]
+`, media: `<iframe id="player-H202k7KfZL0" src="https://www.youtube.com/embed/H202k7KfZL0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=27" title="Music Video"></iframe>`, visits: 44, coverArt: "https://images.genius.com/7a211fc210130fdb06a64526c8ec9a01.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Calvin Harris & Dua Lipa", title: "One Kiss", producer: "|Calvin Harris|", body: `[Intro]
 One kiss is all it takes
 Fallin' in love with me
 Possibilities
@@ -28028,7 +28028,7 @@ My heart is my armor
 She's the tear in my heart, she's a carver
 She's a butcher with a smile, cut me farther
 Than I've ever been
-`, media: `<iframe id="player-nky4me4NP70" src="https://www.youtube.com/embed/nky4me4NP70?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 284, coverArt: "https://images.genius.com/7f9536e9f1e23e3c1658af06b5fa30a8.1000x496x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Coldplay", title: "Paradise", producer: "|Markus Dravs|Daniel Green|", body: `[Instrumental Intro]
+`, media: `<iframe id="player-nky4me4NP70" src="https://www.youtube.com/embed/nky4me4NP70?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 284, coverArt: "https://images.genius.com/7f9536e9f1e23e3c1658af06b5fa30a8.1000x496x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Coldplay", title: "Paradise", producer: "|Markus Dravs|Daniel Green|", body: `[Instrumental Intro]
 
 [Verse 1]
 Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
@@ -28380,7 +28380,7 @@ Never could be any other way
 Never could be any other way
 Never could be any other way
 Never could be any other way
-`, media: `<iframe id="player-usNsCeOV4GM" src="https://www.youtube.com/embed/usNsCeOV4GM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 68, coverArt: "http://images.genius.com/0e36e5abf5d93b95a6d8c30652b66e15.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Jason Derulo (Ft. Snoop Dogg)", title: "Wiggle", producer: "|Snoop Dogg|Wallpaper.|", body: `[Intro: Jason Derulo & Snoop Dogg]
+`, media: `<iframe id="player-usNsCeOV4GM" src="https://www.youtube.com/embed/usNsCeOV4GM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 68, coverArt: "http://images.genius.com/0e36e5abf5d93b95a6d8c30652b66e15.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Jason Derulo (Ft. Snoop Dogg)", title: "Wiggle", producer: "|Snoop Dogg|Wallpaper.|", body: `[Intro: Jason Derulo & Snoop Dogg]
 Ayo, Jason
 (Oh, yeah?)
 Say somethin' to her, holla at her
@@ -28461,7 +28461,7 @@ Love it when you do it like that
 With no hands, baby, make it clap
 Baby, make it clap, clap, clap (Like, swing!)
 Damn, baby, you got a bright future behind you
-`, media: `<iframe id="player-hiP14ED28CA" src="https://www.youtube.com/embed/hiP14ED28CA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=22" title="Music Video"></iframe>`, visits: 167, coverArt: "https://images.genius.com/9d66089a685d630e40cd1671a941dbfc.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "NAV & Metro Boomin", title: "Call Me", producer: "|Metro Boomin|", body: `[Intro: Young Thug]
+`, media: `<iframe id="player-hiP14ED28CA" src="https://www.youtube.com/embed/hiP14ED28CA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=22" title="Music Video"></iframe>`, visits: 167, coverArt: "https://images.genius.com/9d66089a685d630e40cd1671a941dbfc.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "NAV & Metro Boomin", title: "Call Me", producer: "|Metro Boomin|", body: `[Intro: Young Thug]
 (Metro Boomin want some more, nigga)
 
 [Verse 1]
@@ -28759,7 +28759,7 @@ For more pain
 Got me beggin', beggin', beggin', beggin', beggin', beggin'
 For more pain
 Got me beggin'...
-`, media: `<iframe id="player--59jGD4WrmE" src="https://www.youtube.com/embed/-59jGD4WrmE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 134, coverArt: "https://images.genius.com/d9a9a00dee6dd6562feb39fc44cb620b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bruno Mars", title: "Grenade", producer: "|The Smeezingtons|", body: `[Verse 1]
+`, media: `<iframe id="player--59jGD4WrmE" src="https://www.youtube.com/embed/-59jGD4WrmE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 134, coverArt: "https://images.genius.com/d9a9a00dee6dd6562feb39fc44cb620b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bruno Mars", title: "Grenade", producer: "|The Smeezingtons|", body: `[Verse 1]
 Easy come, easy go, that's just how you live, oh
 Take, take, take it all, but you never give
 Shoulda known you was trouble from the first kiss
@@ -28898,7 +28898,7 @@ Nigga livin' TTG and everything is still on fleek
 Bad bitch rollin' wit' me, she gon' smile 'cause she on fleek
 Hundred thousand dollars inside my pants, my shit on fleek
 Hey-yeah!
-`, media: `<iframe id="player-Tz6OUIjtM6E" src="https://www.youtube.com/embed/Tz6OUIjtM6E?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 117, coverArt: "https://images.genius.com/73b90d38ebec550375f5e12f42eba071.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Panic! at the Disco", title: "Girls / Girls / Boys", producer: "|Butch Walker|", body: `[Verse 1]
+`, media: `<iframe id="player-Tz6OUIjtM6E" src="https://www.youtube.com/embed/Tz6OUIjtM6E?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 117, coverArt: "https://images.genius.com/73b90d38ebec550375f5e12f42eba071.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Panic! at the Disco", title: "Girls / Girls / Boys", producer: "|Butch Walker|", body: `[Verse 1]
 I don't wanna hear you've got a boyfriend
 Sometimes, you're better off alone
 But if you change your mind, you know where I am
@@ -29389,7 +29389,7 @@ Ooh, you needed me
 To feel a little more, and give a little less
 Know you hate to confess
 But baby ooh, you needed me
-`, media: `<iframe id="player-wfN4PVaOU5Q" src="https://www.youtube.com/embed/wfN4PVaOU5Q?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 279, coverArt: "https://images.genius.com/9648a4182069f94525563b595b6626db.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sebastián Yatra & Reik", title: "Un Año", producer: "|Mauricio Rengifo|Andrés Torres|", body: `[Letra de "Un Año"]
+`, media: `<iframe id="player-wfN4PVaOU5Q" src="https://www.youtube.com/embed/wfN4PVaOU5Q?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 279, coverArt: "https://images.genius.com/9648a4182069f94525563b595b6626db.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sebastián Yatra & Reik", title: "Un Año", producer: "|Mauricio Rengifo|Andrés Torres|", body: `[Letra de "Un Año"]
 
 [Verso 1: Sebastián Yatra & Reik]
 Yo te conocí en primavera, me miraste tú de primera
@@ -29441,7 +29441,7 @@ Te esperaré porque el amor es más fuerte
 
 [Outro: Reik]
 Yo te conocí en primavera, me miraste tú de primera
-`, media: `<iframe id="player-ghAvJMxE1qo" src="https://www.youtube.com/embed/ghAvJMxE1qo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=6" title="Music Video"></iframe>`, visits: 6, coverArt: "https://images.genius.com/52db2b3b4291cd31f8c1fe6b3fc77da1.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Gucci Mane, Bruno Mars & Kodak Black", title: "Wake Up in the Sky", producer: "|Tarentino|DY Krazy|", body: `[Intro: Bruno Mars & Gucci Mane]
+`, media: `<iframe id="player-ghAvJMxE1qo" src="https://www.youtube.com/embed/ghAvJMxE1qo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=6" title="Music Video"></iframe>`, visits: 6, coverArt: "https://images.genius.com/52db2b3b4291cd31f8c1fe6b3fc77da1.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Gucci Mane, Bruno Mars & Kodak Black", title: "Wake Up in the Sky", producer: "|Tarentino|DY Krazy|", body: `[Intro: Bruno Mars & Gucci Mane]
 Fly-y-y, fly-y-y, fly
 It's Gucci (It's Gucci), huh?
 Fly (Woo)
@@ -29707,7 +29707,7 @@ P-p-p-poker face, f-f-fuck her face
 (Mum mum mum mah)
 P-p-p-poker face, f-f-fuck her face
 (Mum mum mum mah)
-`, media: `<iframe id="player-bESGLojNYSo" src="https://www.youtube.com/embed/bESGLojNYSo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 85, coverArt: "https://images.genius.com/c18b7224de0d97d107ae0b2c2aff35dc.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Martin Garrix & Bebe Rexha", title: "In the Name of Love", producer: "|CMC$|Simon Says|", body: `[Verse 1: Bebe Rexha]
+`, media: `<iframe id="player-bESGLojNYSo" src="https://www.youtube.com/embed/bESGLojNYSo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 85, coverArt: "https://images.genius.com/c18b7224de0d97d107ae0b2c2aff35dc.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Martin Garrix & Bebe Rexha", title: "In the Name of Love", producer: "|CMC$|Simon Says|", body: `[Verse 1: Bebe Rexha]
 If I told you this was only gonna hurt
 If I warned you that the fire's gonna burn
 Would you walk in? Would you let me do it first?
@@ -29849,7 +29849,7 @@ I put my own rock on my hand
 I put my own rock on my hand
 I don't need a man (Uh-huh)
 If I'm loving you it's 'cause I can
-`, media: `<iframe id="player-Y_IpTWEy9vo" src="https://www.youtube.com/embed/Y_IpTWEy9vo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 33, coverArt: "https://images.genius.com/38fd868b1dcd0789ed1c4e8bd06658bc.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Guns N' Roses (Ft. ​The Waters)", title: "Knockin’ on Heaven’s Door", producer: "|​The Waters|Guns N’ Roses|Mike Clink|", body: `[Intro: Axl Rose]
+`, media: `<iframe id="player-Y_IpTWEy9vo" src="https://www.youtube.com/embed/Y_IpTWEy9vo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 33, coverArt: "https://images.genius.com/38fd868b1dcd0789ed1c4e8bd06658bc.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Guns N' Roses (Ft. ​The Waters)", title: "Knockin’ on Heaven’s Door", producer: "|​The Waters|Guns N’ Roses|Mike Clink|", body: `[Intro: Axl Rose]
 Ooh, ooh
 Hey
 
@@ -29901,7 +29901,7 @@ Knock-knock-knockin' on heaven's door, ooh yeah
 Knock-knock-knockin' on heaven's door
 Knock-knock-knockin' on heaven's door, woah, woah, woah
 Woah, woah, yeah, oh
-`, media: `<iframe id="player-f8OHybVhQwc" src="https://www.youtube.com/embed/f8OHybVhQwc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 27, coverArt: "https://images.genius.com/cb2614550098bf753ab31c1f4a758686.770x770x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Joji & Diplo", title: "Daylight", producer: "|Diplo|Maximilian Jaeger|", body: `[Verse 1]
+`, media: `<iframe id="player-f8OHybVhQwc" src="https://www.youtube.com/embed/f8OHybVhQwc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 27, coverArt: "https://images.genius.com/cb2614550098bf753ab31c1f4a758686.770x770x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Joji & Diplo", title: "Daylight", producer: "|Diplo|Maximilian Jaeger|", body: `[Verse 1]
 Wide awake, gettin' half-past zero
 It's gettin' heated, so I leave the windows open
 (Leave the windows open)
@@ -30037,7 +30037,7 @@ So much dope that it broke the scale
 They say crack kills, nigga, my crack sells
 My brother in the kitchen and he wrappin' a bale
 Louis V my bag and Louis V on my belt
-`, media: `<iframe id="player-6wtwpUwxQik" src="https://www.youtube.com/embed/6wtwpUwxQik?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 146, coverArt: "https://images.genius.com/e04ee32959fa00f6f59153f5e9a0f39d.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Dua Lipa", title: "Don't Start Now", producer: "|Ian Kirkpatrick|", body: `[Intro]
+`, media: `<iframe id="player-6wtwpUwxQik" src="https://www.youtube.com/embed/6wtwpUwxQik?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 146, coverArt: "https://images.genius.com/e04ee32959fa00f6f59153f5e9a0f39d.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Dua Lipa", title: "Don't Start Now", producer: "|Ian Kirkpatrick|", body: `[Intro]
 If you don't wanna see me
 
 [Verse 1]
@@ -30180,7 +30180,7 @@ Okay, okay, okay, okay, okay, okay, okay, o—
 (La la, la la la la, la la
 La la, la la la la)
 One more time?
-`, media: `<iframe id="player-TGgcC5xg9YI" src="https://www.youtube.com/embed/TGgcC5xg9YI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 165, coverArt: "https://images.genius.com/187684713458bfde3573fe7308a8023a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Drake", title: "Diplomatic Immunity", producer: "|Nick Brongers|Boi-1da|", body: `[Verse]
+`, media: `<iframe id="player-TGgcC5xg9YI" src="https://www.youtube.com/embed/TGgcC5xg9YI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 165, coverArt: "https://images.genius.com/187684713458bfde3573fe7308a8023a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Drake", title: "Diplomatic Immunity", producer: "|Nick Brongers|Boi-1da|", body: `[Verse]
 Diplomatic immunity, fuck 'em
 All that peace and that unity
 All that weak shit'll ruin me, fuck 'em, yeah
@@ -30396,7 +30396,7 @@ Oh-oh, oh, oh
 And you don't have to change a thing
 The world could change its heart
 No scars to your beautiful, we're stars and we're beautiful
-`, media: `<iframe id="player-MWASeaYuHZo" src="https://www.youtube.com/embed/MWASeaYuHZo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 94, coverArt: "https://images.genius.com/f7b8a297dad5456c3b84e5fc4f626f24.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Miley Cyrus", title: "Party in the U.S.A.", producer: "|Dr. Luke|", body: `[Verse 1]
+`, media: `<iframe id="player-MWASeaYuHZo" src="https://www.youtube.com/embed/MWASeaYuHZo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 94, coverArt: "https://images.genius.com/f7b8a297dad5456c3b84e5fc4f626f24.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Miley Cyrus", title: "Party in the U.S.A.", producer: "|Dr. Luke|", body: `[Verse 1]
 I hopped off the plane at LAX
 With a dream and my cardigan
 Welcome to the land of fame excess (Whoa)
@@ -30475,7 +30475,7 @@ Got my hands up, they're playing my song
 They know I'm gonna be okay (I'm gonna be okay)
 Yeah (Yeah), it's a party in the U.S.A.
 Yeah (Ha-ha-ha-ha), it's a party in the U.S.A.
-`, media: `<iframe id="player-M11SvDtPBhA" src="https://www.youtube.com/embed/M11SvDtPBhA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 217, coverArt: "https://images.genius.com/4cee903f6ba3023efcfa9b69e6d6db72.900x900x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bruno Mars", title: "24K Magic", producer: "|The Stereotypes|Shampoo Press &amp; Curl|", body: `[Intro]
+`, media: `<iframe id="player-M11SvDtPBhA" src="https://www.youtube.com/embed/M11SvDtPBhA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 217, coverArt: "https://images.genius.com/4cee903f6ba3023efcfa9b69e6d6db72.900x900x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bruno Mars", title: "24K Magic", producer: "|The Stereotypes|Shampoo Press &amp; Curl|", body: `[Intro]
 Tonight
 I just want to take you higher
 Throw your hands up in the sky
@@ -30770,7 +30770,7 @@ Twenty more minutes until I'm on, twenty more minutes until I'm on (Yeah)
 I am not slow, these girls just want me, 'cause I got the dough
 Pass that girl right on my friend, give and go (What?)
 He pass me her friend, so they switchin' roles (Yeah), yah
-`, media: `<iframe id="player-bnFa4Mq5PAM" src="https://www.youtube.com/embed/bnFa4Mq5PAM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 109, coverArt: "https://images.genius.com/50af11dfe454a4aa20544f19b2dd0791.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Post Malone, Swae Lee, Nicky Jam & Prince Royce", title: "Sunflower (Remix)", producer: "|​g.o.k.b|DJ Mike D|", body: `[Letra de "Sunflower (Remix)"]
+`, media: `<iframe id="player-bnFa4Mq5PAM" src="https://www.youtube.com/embed/bnFa4Mq5PAM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 109, coverArt: "https://images.genius.com/50af11dfe454a4aa20544f19b2dd0791.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Post Malone, Swae Lee, Nicky Jam & Prince Royce", title: "Sunflower (Remix)", producer: "|​g.o.k.b|DJ Mike D|", body: `[Letra de "Sunflower (Remix)"]
 
 [Intro: Swae Lee]
 Ayy, ayy, ayy, ayy (Ooh)
@@ -30994,7 +30994,7 @@ I ride or die for mine
 I'm ride or die material
 One life to live, so here we go
 This moment, we own it
-`, media: `<iframe id="player-tYQ1Okyi3g4" src="https://www.youtube.com/embed/tYQ1Okyi3g4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 152, coverArt: "http://images.genius.com/c8bc8cdd6176cc5626af0b40e9e45ba7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Nio García, Anuel AA & Myke Towers (Ft. Brray & Juanka)", title: "La Jeepeta (Remix)", producer: "|Brray|Juanka|Xound|", body: `[Letra de "La Jeepeta (Remix)" ft. Brray & Juanka]
+`, media: `<iframe id="player-tYQ1Okyi3g4" src="https://www.youtube.com/embed/tYQ1Okyi3g4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 152, coverArt: "http://images.genius.com/c8bc8cdd6176cc5626af0b40e9e45ba7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Nio García, Anuel AA & Myke Towers (Ft. Brray & Juanka)", title: "La Jeepeta (Remix)", producer: "|Brray|Juanka|Xound|", body: `[Letra de "La Jeepeta (Remix)" ft. Brray & Juanka]
 
 [Intro: Anuel AA & Juanka]
 Brr
@@ -31136,7 +31136,7 @@ Mera, dime, Brray
 Myke Towers, baby, jaja
 Uah, uah
 Lo' illuminati
-`, media: `<iframe id="player-Nguo5HVshY8" src="https://www.youtube.com/embed/Nguo5HVshY8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 5, coverArt: "https://images.genius.com/bdf97564251b64a24b5fbb386fe90146.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Big Sean", title: "Bounce Back", producer: "|Smash David|Amaire Johnson|", body: `[Intro: Future]
+`, media: `<iframe id="player-Nguo5HVshY8" src="https://www.youtube.com/embed/Nguo5HVshY8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 5, coverArt: "https://images.genius.com/bdf97564251b64a24b5fbb386fe90146.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Big Sean", title: "Bounce Back", producer: "|Smash David|Amaire Johnson|", body: `[Intro: Future]
 Hitmaka
 If Young Metro don't trust you, I'm gon' shoot you
 
@@ -31238,7 +31238,7 @@ Is you a real one?
 Real one
 Real one
 Don
-`, media: `<iframe id="player-phr1pOFK1V8" src="https://www.youtube.com/embed/phr1pOFK1V8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 112, coverArt: "https://images.genius.com/6dbe3c351a64ae50d44858c7502c4365.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Maluma", title: "Felices los 4", producer: "|Josh “The Secret Code”|Ily Wonder|", body: `[Letra de "Felices los 4"]
+`, media: `<iframe id="player-phr1pOFK1V8" src="https://www.youtube.com/embed/phr1pOFK1V8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 112, coverArt: "https://images.genius.com/6dbe3c351a64ae50d44858c7502c4365.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Maluma", title: "Felices los 4", producer: "|Josh “The Secret Code”|Ily Wonder|", body: `[Letra de "Felices los 4"]
 
 [Intro]
 Maluma, baby
@@ -31396,7 +31396,7 @@ Dream of Californication
 Dream of Californication
 Dream of Californication
 Dream of Californication
-`, media: `<iframe id="player-YlUKcNNmywk" src="https://www.youtube.com/embed/YlUKcNNmywk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 186, coverArt: "https://images.genius.com/829b9657aa704020a959c959aee99315.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Jawsh 685, Jason Derulo & BTS", title: "Savage Love (Laxed - Siren Beat) [BTS Remix]", producer: "|Jawsh 685|", body: `[Intro]
+`, media: `<iframe id="player-YlUKcNNmywk" src="https://www.youtube.com/embed/YlUKcNNmywk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 186, coverArt: "https://images.genius.com/829b9657aa704020a959c959aee99315.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Jawsh 685, Jason Derulo & BTS", title: "Savage Love (Laxed - Siren Beat) [BTS Remix]", producer: "|Jawsh 685|", body: `[Intro]
 BTS
 
 [Chorus: Jung Kook]
@@ -31484,7 +31484,7 @@ Your savage lo-lo-love (Your savage lo-lo-love)
 Your savage lo-lo-love
 You could use me
 'Cause I still want that, your savage love
-`, media: `<iframe id="player-qvu4nPMyl3U" src="https://www.youtube.com/embed/qvu4nPMyl3U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 19, coverArt: "https://images.genius.com/86b971f610475f3fdb2461489b61a0eb.1000x534x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Panic! at the Disco", title: "Victorious", producer: "|CJ Baran|Jake Sinclair|", body: `[Intro]
+`, media: `<iframe id="player-qvu4nPMyl3U" src="https://www.youtube.com/embed/qvu4nPMyl3U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 19, coverArt: "https://images.genius.com/86b971f610475f3fdb2461489b61a0eb.1000x534x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Panic! at the Disco", title: "Victorious", producer: "|CJ Baran|Jake Sinclair|", body: `[Intro]
 Tonight we are victorious
 Champagne pouring over us
 All my friends were glorious
@@ -31550,7 +31550,7 @@ Tonight we are victorious
 Champagne pouring over us
 All my friends we're glorious
 Tonight we are victorious
-`, media: `<iframe id="player-AUChk0lxF44" src="https://www.youtube.com/embed/AUChk0lxF44?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 58, coverArt: "https://images.genius.com/464bf1bbb994dbcc188a8f3d0c564d35.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Daddy Yankee (Ft. Snow)", title: "Con Calma", producer: "|Snow|Scott Summers|Play-N-Skillz|", body: `[Letra de "Con Calma" ft. Snow]
+`, media: `<iframe id="player-AUChk0lxF44" src="https://www.youtube.com/embed/AUChk0lxF44?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 58, coverArt: "https://images.genius.com/464bf1bbb994dbcc188a8f3d0c564d35.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Daddy Yankee (Ft. Snow)", title: "Con Calma", producer: "|Snow|Scott Summers|Play-N-Skillz|", body: `[Letra de "Con Calma" ft. Snow]
 
 [Intro: Daddy Yankee]
 D-D-D-D-D-DY
@@ -31643,7 +31643,7 @@ Con calma, ya' no say daddy me Snow me I go blame
 I like your poom-poom, girl
 'Tective man a say, say daddy me Snow me stop a girl down the lane
 I love your poom-poom, girl
-`, media: `<iframe id="player-DiItGE3eAyQ" src="https://www.youtube.com/embed/DiItGE3eAyQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 7, coverArt: "https://images.genius.com/12226a6ad3654f8985b69aa929cb4010.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Machine Gun Kelly", title: "RAP DEVIL", producer: "|Nils|Ronny J|", body: `[Intro]
+`, media: `<iframe id="player-DiItGE3eAyQ" src="https://www.youtube.com/embed/DiItGE3eAyQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 7, coverArt: "https://images.genius.com/12226a6ad3654f8985b69aa929cb4010.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Machine Gun Kelly", title: "RAP DEVIL", producer: "|Nils|Ronny J|", body: `[Intro]
 Oh my God, Ronny
 
 [Verse 1]
@@ -31900,7 +31900,7 @@ Just stop lookin' for love
 You still got time
 Girl, you're young, you still got time
 Girl, you're young, you still got
-`, media: `<iframe id="player-cHOrHGpL4u0" src="https://www.youtube.com/embed/cHOrHGpL4u0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 45, coverArt: "https://images.genius.com/0f46ddd618d89cb04ce7cb212eb9de7b.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "David Guetta (Ft. Afrojack, Bebe Rexha & Nicki Minaj)", title: "Hey Mama", producer: "|Nicki Minaj|Bebe Rexha|Giorgio Tuinfort|Afrojack|", body: `[Intro: Alan Lomax & Bebe Rexha]
+`, media: `<iframe id="player-cHOrHGpL4u0" src="https://www.youtube.com/embed/cHOrHGpL4u0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 45, coverArt: "https://images.genius.com/0f46ddd618d89cb04ce7cb212eb9de7b.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "David Guetta (Ft. Afrojack, Bebe Rexha & Nicki Minaj)", title: "Hey Mama", producer: "|Nicki Minaj|Bebe Rexha|Giorgio Tuinfort|Afrojack|", body: `[Intro: Alan Lomax & Bebe Rexha]
 Be my woman, girl, I'll be your man
 Be my woman, girl, I'll be your man
 
@@ -31985,7 +31985,7 @@ Like "hey mama, mama, hey mama, ma"
 [Post-Chorus: Alan Lomax & Bebe Rexha]
 Be my woman, girl, I'll be your man
 Be my woman, girl, I'll be your man
-`, media: `<iframe id="player-uO59tfQ2TbA" src="https://www.youtube.com/embed/uO59tfQ2TbA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 168, coverArt: "https://images.genius.com/ba323986c7c36f64fea2f5fb06c73a44.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Billie Eilish", title: "Happier Than Ever", producer: "|FINNEAS|", body: `[Chorus]
+`, media: `<iframe id="player-uO59tfQ2TbA" src="https://www.youtube.com/embed/uO59tfQ2TbA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 168, coverArt: "https://images.genius.com/ba323986c7c36f64fea2f5fb06c73a44.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Billie Eilish", title: "Happier Than Ever", producer: "|FINNEAS|", body: `[Chorus]
 When I'm away from you
 I'm happier than ever
 Wish I could explain it better
@@ -32114,7 +32114,7 @@ Whoa-oh, whoa
 I'm radioactive, radioactive
 Whoa-oh, whoa
 I'm radioactive, radioactive
-`, media: `<iframe id="player-ktvTqknDobU" src="https://www.youtube.com/embed/ktvTqknDobU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 314, coverArt: "https://images.genius.com/2d92bdfa0c1a91dd04309ebbb024195c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Selena Gomez", title: "Look At Her Now", producer: "|Ian Kirkpatrick|", body: `[Intro]
+`, media: `<iframe id="player-ktvTqknDobU" src="https://www.youtube.com/embed/ktvTqknDobU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 314, coverArt: "https://images.genius.com/2d92bdfa0c1a91dd04309ebbb024195c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Selena Gomez", title: "Look At Her Now", producer: "|Ian Kirkpatrick|", body: `[Intro]
 Yeah
 
 [Verse 1]
@@ -32483,7 +32483,7 @@ I testify if I die in my sleep
 Then know that my life was just a killer dream, yeah
 Then know that my life was just a killer dream, yeah
 Are you smelling that shit? Eau de résistance
-`, media: `<iframe id="player-dxnKj8NAzUA" src="https://www.youtube.com/embed/dxnKj8NAzUA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 36, coverArt: "https://images.genius.com/f50f1771899d096af48121397b32ebbd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Nicki Minaj", title: "Barbie Dreams", producer: "|Tumblin’ Dice|Mel &amp; Mus|", body: `[Intro]
+`, media: `<iframe id="player-dxnKj8NAzUA" src="https://www.youtube.com/embed/dxnKj8NAzUA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 36, coverArt: "https://images.genius.com/f50f1771899d096af48121397b32ebbd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Nicki Minaj", title: "Barbie Dreams", producer: "|Tumblin’ Dice|Mel &amp; Mus|", body: `[Intro]
 Uh, mmm, kyuh
 R.I.P. to B.I.G.
 Classic shit
@@ -32837,7 +32837,7 @@ Feel my blood runnin', swear the sky's fallin', oh, whoa
 I keep on breathin', oh yeah
 Time goes by and I can't control my mind
 I keep on breathin', mmm, yeah
-`, media: `<iframe id="player-kN0iD0pI3o0" src="https://www.youtube.com/embed/kN0iD0pI3o0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 166, coverArt: "https://images.genius.com/178c35d6992d8b5b389295d551d09889.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Maroon 5 (Ft. Cardi B)", title: "Girls Like You (Remix)", producer: "|Cardi B|Jason Evigan|Cirkut|", body: `[Verse 1: Adam Levine]
+`, media: `<iframe id="player-kN0iD0pI3o0" src="https://www.youtube.com/embed/kN0iD0pI3o0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 166, coverArt: "https://images.genius.com/178c35d6992d8b5b389295d551d09889.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Maroon 5 (Ft. Cardi B)", title: "Girls Like You (Remix)", producer: "|Cardi B|Jason Evigan|Cirkut|", body: `[Verse 1: Adam Levine]
 Spent 24 hours
 I need more hours with you
 You spent the weekend
@@ -33000,7 +33000,7 @@ In the bed all day, bed all day, bed all day
 Fucking and fighting on
 It's our paradise and it's our war zone
 It's our paradise and it's our war zone
-`, media: `<iframe id="player-C_3d6GntKbk" src="https://www.youtube.com/embed/C_3d6GntKbk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 118, coverArt: "https://images.genius.com/66996e5575634debc0b38b705e825dd5.600x600x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bastille", title: "Send Them Off!", producer: "|Mark Crew|Dan Smith|", body: `[Intro: spoken]
+`, media: `<iframe id="player-C_3d6GntKbk" src="https://www.youtube.com/embed/C_3d6GntKbk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 118, coverArt: "https://images.genius.com/66996e5575634debc0b38b705e825dd5.600x600x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bastille", title: "Send Them Off!", producer: "|Mark Crew|Dan Smith|", body: `[Intro: spoken]
 "'It was a slight on my honor, so he deserved it
 'But we're talking about the most brilliant mind this world's ever seen'"
 
@@ -33058,7 +33058,7 @@ Exorcise my mind
 Help me exorcise my mind
 Help me exorcise my mind
 Won't you exorcise my mind?
-`, media: `<iframe id="player-vn-6fiVkAcA" src="https://www.youtube.com/embed/vn-6fiVkAcA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 178, coverArt: "https://images.genius.com/08b2a0f96430043883cec886d894658a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "OneRepublic", title: "Kids", producer: "|Brent Kutzle|Ryan Tedder|", body: `[Verse 1]
+`, media: `<iframe id="player-vn-6fiVkAcA" src="https://www.youtube.com/embed/vn-6fiVkAcA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 178, coverArt: "https://images.genius.com/08b2a0f96430043883cec886d894658a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "OneRepublic", title: "Kids", producer: "|Brent Kutzle|Ryan Tedder|", body: `[Verse 1]
 Days when
 We'd fight, we'd fight 'til I would give in
 Yeah, perfect disasters
@@ -33125,7 +33125,7 @@ I don't know what's 'round the corner
 Way I feel right now I swear we’ll never change
 
 You and me were kids
-`, media: `<iframe id="player-Y56lpXvXbs0" src="https://www.youtube.com/embed/Y56lpXvXbs0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 67, coverArt: "https://images.genius.com/066c5940afd8780621ce01b9301d00bd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "G-Eazy & Bebe Rexha", title: "Me, Myself & I", producer: "|Michael Keenan (Producer)|", body: `[Chorus: Bebe Rexha & (G-Eazy)]
+`, media: `<iframe id="player-Y56lpXvXbs0" src="https://www.youtube.com/embed/Y56lpXvXbs0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 67, coverArt: "https://images.genius.com/066c5940afd8780621ce01b9301d00bd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "G-Eazy & Bebe Rexha", title: "Me, Myself & I", producer: "|Michael Keenan (Producer)|", body: `[Chorus: Bebe Rexha & (G-Eazy)]
 Oh, it's just me, myself and I
 Solo ride until I die
 ‘Cause I got me for life (Yeah)
@@ -33251,7 +33251,7 @@ Ba-ba-ba-da-ba
 And it gets me every time
 
 [Music Video]
-`, media: `<iframe id="player-bSfpSOBD30U" src="https://www.youtube.com/embed/bSfpSOBD30U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 225, coverArt: "https://images.genius.com/abd58c351f84b001bf987a224f8523cb.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shakira (Ft. Carlinhos Brown)", title: "La La La (Brazil 2014)", producer: "|Carlinhos Brown|Shakira|Billboard (Producer)|", body: `[Letra de "La La La" ft. Carlinhos Brown]
+`, media: `<iframe id="player-bSfpSOBD30U" src="https://www.youtube.com/embed/bSfpSOBD30U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 225, coverArt: "https://images.genius.com/abd58c351f84b001bf987a224f8523cb.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shakira (Ft. Carlinhos Brown)", title: "La La La (Brazil 2014)", producer: "|Carlinhos Brown|Shakira|Billboard (Producer)|", body: `[Letra de "La La La" ft. Carlinhos Brown]
 
 [Intro: Carlinhos Brown]
 Essa bola vai rolar
@@ -33357,7 +33357,7 @@ Leggo
 Leggo
 Leggo
 Leggo
-`, media: `<iframe id="player-7-7knsP2n5w" src="https://www.youtube.com/embed/7-7knsP2n5w?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 53, coverArt: "https://images.genius.com/927f25110f05f7c9dd8bbe8ac586e418.300x300x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Pop Smoke", title: "Got It on Me", producer: "|Young Devante|", body: `[Intro]
+`, media: `<iframe id="player-7-7knsP2n5w" src="https://www.youtube.com/embed/7-7knsP2n5w?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 53, coverArt: "https://images.genius.com/927f25110f05f7c9dd8bbe8ac586e418.300x300x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Pop Smoke", title: "Got It on Me", producer: "|Young Devante|", body: `[Intro]
 Look
 
 [Chorus]
@@ -33440,7 +33440,7 @@ You can run up if you want
 
 [Outro]
 Mercy on me
-`, media: `<iframe id="player-LPnnX7hOcQM" src="https://www.youtube.com/embed/LPnnX7hOcQM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 64, coverArt: "https://images.genius.com/8a1f7823c54eceb8924a137571ab0b1c.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "OneRepublic", title: "Apologize", producer: "|Greg Wells|", body: `[Verse 1]
+`, media: `<iframe id="player-LPnnX7hOcQM" src="https://www.youtube.com/embed/LPnnX7hOcQM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 64, coverArt: "https://images.genius.com/8a1f7823c54eceb8924a137571ab0b1c.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "OneRepublic", title: "Apologize", producer: "|Greg Wells|", body: `[Verse 1]
 I'm holding on your rope, got me ten feet off the ground
 And I'm hearing what you say, but I just can't make a sound
 You tell me that you need me, then you go and cut me down
@@ -33473,7 +33473,7 @@ I said it's too late to apologize, yeah
 
 [Outro]
 I'm holding on your rope, got me ten feet off the ground
-`, media: `<iframe id="player-ZSM3w1v-A_Y" src="https://www.youtube.com/embed/ZSM3w1v-A_Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 40, coverArt: "https://images.genius.com/6dd4fc1fc32cee100ce0e0fc617c619c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DaBaby (Ft. Roddy Ricch)", title: "ROCKSTAR", producer: "|Roddy Ricch|SethInTheKitchen|", body: `[Intro: DaBaby]
+`, media: `<iframe id="player-ZSM3w1v-A_Y" src="https://www.youtube.com/embed/ZSM3w1v-A_Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 40, coverArt: "https://images.genius.com/6dd4fc1fc32cee100ce0e0fc617c619c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DaBaby (Ft. Roddy Ricch)", title: "ROCKSTAR", producer: "|Roddy Ricch|SethInTheKitchen|", body: `[Intro: DaBaby]
 Woo, woo
 I pull up like
 How you pull up, Baby? How you pull up? (Oh, oh, oh)
@@ -33548,7 +33548,7 @@ My Glock told me to promise you gon' squeeze me (Woo)
 You better let me go the day you need me (Woo)
 Soon as you up me on that nigga, get to bustin' (Woo)
 And if I ain't enough, go get the chop
-`, media: `<iframe id="player-mxFstYSbBmc" src="https://www.youtube.com/embed/mxFstYSbBmc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=83" title="Music Video"></iframe>`, visits: 164, coverArt: "https://images.genius.com/fd3a2acc2a6cfc5a37dd3e57ffc07c7e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Migos", title: "T-Shirt", producer: "|XL Eagle|Nard &amp; B|", body: `[Intro]
+`, media: `<iframe id="player-mxFstYSbBmc" src="https://www.youtube.com/embed/mxFstYSbBmc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=83" title="Music Video"></iframe>`, visits: 164, coverArt: "https://images.genius.com/fd3a2acc2a6cfc5a37dd3e57ffc07c7e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Migos", title: "T-Shirt", producer: "|XL Eagle|Nard &amp; B|", body: `[Intro]
 Nard & B
 TrenchWerk
 
@@ -33657,7 +33657,7 @@ Seventeen five, same color T-shirt (Yeah)
 [Outro: Quavo]
 Mama told you
 Mama told you
-`, media: `<iframe id="player-1VUa99-tJqs" src="https://www.youtube.com/embed/1VUa99-tJqs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=48" title="Music Video"></iframe>`, visits: 178, coverArt: "https://images.genius.com/eba2e833e34df4e638ca3a02fce5685b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "David Guetta (Ft. Sia)", title: "Titanium", producer: "|Sia|Afrojack|Giorgio Tuinfort|", body: `[Verse 1: Sia]
+`, media: `<iframe id="player-1VUa99-tJqs" src="https://www.youtube.com/embed/1VUa99-tJqs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=48" title="Music Video"></iframe>`, visits: 178, coverArt: "https://images.genius.com/eba2e833e34df4e638ca3a02fce5685b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "David Guetta (Ft. Sia)", title: "Titanium", producer: "|Sia|Afrojack|Giorgio Tuinfort|", body: `[Verse 1: Sia]
 You shout it out, but I can't hear a word you say
 I'm talking loud, not saying much
 I'm criticized, but all your bullets ricochet
@@ -33710,7 +33710,7 @@ I am titanium
 You shoot me down, but I won't fall
 I am titanium
 I am titanium
-`, media: `<iframe id="player-JRfuAukYTKg" src="https://www.youtube.com/embed/JRfuAukYTKg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 133, coverArt: "https://images.genius.com/d07bfe8481b43dc9e0f7634499e703a1.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Michael Jackson", title: "Beat It", producer: "|Quincy Jones|Michael Jackson|", body: `[Verse 1]
+`, media: `<iframe id="player-JRfuAukYTKg" src="https://www.youtube.com/embed/JRfuAukYTKg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 133, coverArt: "https://images.genius.com/d07bfe8481b43dc9e0f7634499e703a1.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Michael Jackson", title: "Beat It", producer: "|Quincy Jones|Michael Jackson|", body: `[Verse 1]
 They told him, "Don't you ever come around here
 Don't wanna see your face, you better disappear"
 The fire's in their eyes and their words are really clear
@@ -33776,7 +33776,7 @@ Showin' how funky and strong is your fight
 It doesn't matter who's wrong or right (Who's right)
 Just beat it, beat it, beat it, beat it (Hoo-hoo!)
 No one wants to be defeated
-`, media: `<iframe id="player-oRdxUFDoQe0" src="https://www.youtube.com/embed/oRdxUFDoQe0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 81, coverArt: "https://images.genius.com/cbcea666bf3d3cbb0022d185ce4b95df.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Migos (Ft. Lil Uzi Vert)", title: "Bad and Boujee", producer: "|Lil Uzi Vert|G Koop|Metro Boomin|", body: `[Intro: Offset & Future]
+`, media: `<iframe id="player-oRdxUFDoQe0" src="https://www.youtube.com/embed/oRdxUFDoQe0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 81, coverArt: "https://images.genius.com/cbcea666bf3d3cbb0022d185ce4b95df.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Migos (Ft. Lil Uzi Vert)", title: "Bad and Boujee", producer: "|Lil Uzi Vert|G Koop|Metro Boomin|", body: `[Intro: Offset & Future]
 You know, young rich niggas
 You know somethin', we ain't really never had no old money
 We got a whole lotta new money though, hah
@@ -33949,7 +33949,7 @@ My bitch is bad and bougie (Bad)
 Cookin' up dope with a Uzi (Dope, what?)
 My niggas is savage, ruthless (Hey, yeah)
 We got 30s and hundred-rounds too (Lil Uzi)
-`, media: `<iframe id="player-S-sJp1FfG7Q" src="https://www.youtube.com/embed/S-sJp1FfG7Q?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 579, coverArt: "https://images.genius.com/eba2e833e34df4e638ca3a02fce5685b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Pop Smoke (Ft. DaBaby & Lil Baby)", title: "For the Night", producer: "|Lil Baby|DaBaby|Jess Jackson|Daniel Moras|", body: `[Intro: Pop Smoke]
+`, media: `<iframe id="player-S-sJp1FfG7Q" src="https://www.youtube.com/embed/S-sJp1FfG7Q?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 579, coverArt: "https://images.genius.com/eba2e833e34df4e638ca3a02fce5685b.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Pop Smoke (Ft. DaBaby & Lil Baby)", title: "For the Night", producer: "|Lil Baby|DaBaby|Jess Jackson|Daniel Moras|", body: `[Intro: Pop Smoke]
 CashMoneyAP
 Kill 'em, get 'em, get 'em, oh
 Oh (I'm tryna fuckin' get 'em), oh (I'm tryna fuck on a thot)
@@ -34022,7 +34022,7 @@ I did some wrong (Oh, oh), but I'm always right (Oh, oh)
 Said I know how to shoot (Oh, oh) and I know how to fight
 Boy, I'll tell you once, won't tell you twice
 I'm real discreet, like a thief in the night
-`, media: `<iframe id="player-Q9pjm4cNsfc" src="https://www.youtube.com/embed/Q9pjm4cNsfc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 96, coverArt: "https://images.genius.com/0324a12198af1188460bac355b472c68.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Billie Eilish & Khalid", title: "​lovely", producer: "|FINNEAS|", body: `[Verse 1: Billie Eilish & Khalid]
+`, media: `<iframe id="player-Q9pjm4cNsfc" src="https://www.youtube.com/embed/Q9pjm4cNsfc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 96, coverArt: "https://images.genius.com/0324a12198af1188460bac355b472c68.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Billie Eilish & Khalid", title: "​lovely", producer: "|FINNEAS|", body: `[Verse 1: Billie Eilish & Khalid]
 Thought I found a way
 Thought I found a way out (Found)
 But you never go away (Never go away)
@@ -34132,7 +34132,7 @@ Thinkin' you could live without me
 Thinkin' you could live without me
 Baby, I'm the one who put you up there
 I don't know why (Yeah, I don't know why)
-`, media: `<iframe id="player-ZAfAud_M_mg" src="https://www.youtube.com/embed/ZAfAud_M_mg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 189, coverArt: "https://images.genius.com/2f9fc61cef5bd85878704ab10a502007.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Billie Eilish", title: "​wish you were gay", producer: "|FINNEAS|", body: `[Verse 1]
+`, media: `<iframe id="player-ZAfAud_M_mg" src="https://www.youtube.com/embed/ZAfAud_M_mg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 189, coverArt: "https://images.genius.com/2f9fc61cef5bd85878704ab10a502007.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Billie Eilish", title: "​wish you were gay", producer: "|FINNEAS|", body: `[Verse 1]
 "Baby, I don't feel so good," six words you never understood
 "I'll never let you go," five words you'll never say (Aww)
 I laugh along like nothing's wrong, four days has never felt so long
@@ -34177,7 +34177,7 @@ I can't tell you how much I wish I didn't wanna stay
 I just kinda wish you were gay
 I just kinda wish you were gay
 I just kinda wish you were gay
-`, media: `<iframe id="player-yaJx0Gj_LCY" src="https://www.youtube.com/embed/yaJx0Gj_LCY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 266, coverArt: "https://images.genius.com/340ad5b2b1163aa2333a8efc0815b84f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Big Sean (Ft. Nicki Minaj)", title: "Dance (A$$) (Remix)", producer: "|Nicki Minaj|Da Internz|", body: `[Chorus: Big Sean]
+`, media: `<iframe id="player-yaJx0Gj_LCY" src="https://www.youtube.com/embed/yaJx0Gj_LCY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 266, coverArt: "https://images.genius.com/340ad5b2b1163aa2333a8efc0815b84f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Big Sean (Ft. Nicki Minaj)", title: "Dance (A$$) (Remix)", producer: "|Nicki Minaj|Da Internz|", body: `[Chorus: Big Sean]
 Ass ass ass ass ass
 Ass ass ass ass ass ass ass ass
 Ass ass ass ass ass ass ass ass
@@ -34252,7 +34252,7 @@ Ass ass ass ass ass ass ass ass
 Stop! Now make that motherfucker hammer time like
 Go stupid, go stupid, go stupid
 Go stupid!
-`, media: `<iframe id="player-pn1VGytzXus" src="https://www.youtube.com/embed/pn1VGytzXus?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 61, coverArt: "https://images.rapgenius.com/685a5d52d29e3fb6f1c457eea6bfb5bf.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "John Mayer", title: "Emoji of a Wave", producer: "|John Mayer|", body: `[Verse 1]
+`, media: `<iframe id="player-pn1VGytzXus" src="https://www.youtube.com/embed/pn1VGytzXus?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 61, coverArt: "https://images.rapgenius.com/685a5d52d29e3fb6f1c457eea6bfb5bf.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "John Mayer", title: "Emoji of a Wave", producer: "|John Mayer|", body: `[Verse 1]
 Oh honey
 You don't have to try so hard
 To hurt me
@@ -34419,7 +34419,7 @@ You better…
 
 [Outro]
 You can do anything you set your mind to, man
-`, media: `<iframe id="player-7YuAzR2XVAM" src="https://www.youtube.com/embed/7YuAzR2XVAM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 1000, coverArt: "https://images.genius.com/3d2eced2857919f7a8e66dd264d67c53.1000x516x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Justin Bieber (Ft. Daniel Caesar & GIVĒON)", title: "Peaches", producer: "|Daniel Caesar|GIVĒON|HARV|Shndō|", body: `[Chorus: Justin Bieber]
+`, media: `<iframe id="player-7YuAzR2XVAM" src="https://www.youtube.com/embed/7YuAzR2XVAM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 1000, coverArt: "https://images.genius.com/3d2eced2857919f7a8e66dd264d67c53.1000x516x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Justin Bieber (Ft. Daniel Caesar & GIVĒON)", title: "Peaches", producer: "|Daniel Caesar|GIVĒON|HARV|Shndō|", body: `[Chorus: Justin Bieber]
 I got my peaches out in Georgia (Oh, yeah, shit)
 I get my weed from California (That's that shit)
 I took my chick up to the North, yeah (Badass bitch)
@@ -34488,7 +34488,7 @@ I got my peaches out in Georgia (Oh, yeah, shit)
 I get my weed from California (That's that shit)
 I took my chick up to the North, yeah (Badass bitch)
 I get my light right from the source, yeah (Yeah, that's it)
-`, media: `<iframe id="player-tQ0yjYUFKAE" src="https://www.youtube.com/embed/tQ0yjYUFKAE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 54, coverArt: "https://images.genius.com/33e8b15ca6d866871df8afa49adc7138.831x831x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "One Direction", title: "Story of My Life", producer: "|Jamie Scott|John Ryan|", body: `[Verse 1: Harry Styles & Liam Payne]
+`, media: `<iframe id="player-tQ0yjYUFKAE" src="https://www.youtube.com/embed/tQ0yjYUFKAE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 54, coverArt: "https://images.genius.com/33e8b15ca6d866871df8afa49adc7138.831x831x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "One Direction", title: "Story of My Life", producer: "|Jamie Scott|John Ryan|", body: `[Verse 1: Harry Styles & Liam Payne]
 Written in these walls are the stories that I can't explain
 I leave my heart open
 But it stays right here empty for days
@@ -34565,7 +34565,7 @@ The story of my life
 The story of my life
 The story of my life
 The story of my life
-`, media: `<iframe id="player-PJYpZ4hkXJE" src="https://www.youtube.com/embed/PJYpZ4hkXJE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 181, coverArt: "https://images.genius.com/aee7c080c94f4d46135c2b80c7102f93.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Panic! at the Disco", title: "Emperor's New Clothes", producer: "|Jake Sinclair|", body: `[Produced by Brendon Urie & Jake Sinclair]
+`, media: `<iframe id="player-PJYpZ4hkXJE" src="https://www.youtube.com/embed/PJYpZ4hkXJE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 181, coverArt: "https://images.genius.com/aee7c080c94f4d46135c2b80c7102f93.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Panic! at the Disco", title: "Emperor's New Clothes", producer: "|Jake Sinclair|", body: `[Produced by Brendon Urie & Jake Sinclair]
 
 [Intro]
 (Double-double-double down, pushing it all in)
@@ -34682,7 +34682,7 @@ I didn't know I was lost
 I didn't know I was lost
 I didn't know I was lost
 I didn't know, I didn't know, I didn't know
-`, media: `<iframe id="player-IcrbM1l_BoI" src="https://www.youtube.com/embed/IcrbM1l_BoI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 167, coverArt: "https://images.genius.com/9aba4740bce2f5f1f9bf3f4027e2e4e3.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Guns N' Roses", title: "Paradise City", producer: "|Mike Clink|", body: `[Chorus]
+`, media: `<iframe id="player-IcrbM1l_BoI" src="https://www.youtube.com/embed/IcrbM1l_BoI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 167, coverArt: "https://images.genius.com/9aba4740bce2f5f1f9bf3f4027e2e4e3.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Guns N' Roses", title: "Paradise City", producer: "|Mike Clink|", body: `[Chorus]
 Take me down to the Paradise City
 Where the grass is green and the girls are pretty
 (Take me home) Oh, won't you please take me home?
@@ -34774,7 +34774,7 @@ Oh, won't you please take me home?
 I wanna go, I wanna know
 Oh, won't you please take me home?
 Baby
-`, media: `<iframe id="player-Rbm6GXllBiw" src="https://www.youtube.com/embed/Rbm6GXllBiw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 31, coverArt: "https://images.genius.com/fb14a06ef4143eec26766489b285d66a.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Post Malone", title: "Wow.", producer: "|Louis Bell|Frank Dukes|", body: `[Verse 1]
+`, media: `<iframe id="player-Rbm6GXllBiw" src="https://www.youtube.com/embed/Rbm6GXllBiw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 31, coverArt: "https://images.genius.com/fb14a06ef4143eec26766489b285d66a.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Post Malone", title: "Wow.", producer: "|Louis Bell|Frank Dukes|", body: `[Verse 1]
 Said she tired of little money, need a big boy
 Pull up 20 inch blades like I'm Lil’ Troy
 Now it's everybody flockin', need a decoy
@@ -34883,7 +34883,7 @@ For the rest of yours (For the rest of yours)
 For the rest of my life (For the rest of my life)
 For the rest of yours (For the rest of yours)
 For the rest of ours (For the rest of ours)
-`, media: `<iframe id="player-J-dv_DcDD_A" src="https://www.youtube.com/embed/J-dv_DcDD_A?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=20" title="Music Video"></iframe>`, visits: 29, coverArt: "https://images.genius.com/20988d301d087494a270bb0e607c7597.1000x222x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "John Mayer", title: "Gravity", producer: "|Steve Jordan|John Mayer|", body: `[Chorus]
+`, media: `<iframe id="player-J-dv_DcDD_A" src="https://www.youtube.com/embed/J-dv_DcDD_A?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=20" title="Music Video"></iframe>`, visits: 29, coverArt: "https://images.genius.com/20988d301d087494a270bb0e607c7597.1000x222x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "John Mayer", title: "Gravity", producer: "|Steve Jordan|John Mayer|", body: `[Chorus]
 Gravity is working against me
 And gravity wants to bring me down
 
@@ -34923,7 +34923,7 @@ Just keep me where the light is
 Come on, keep me where the light is
 Come on, keep me where the light is
 Come on, keep me where, now, keep me where the light is
-`, media: `<iframe id="player-_iGOWk-r614" src="https://www.youtube.com/embed/_iGOWk-r614?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 58, coverArt: "https://images.genius.com/bb44cccee3be6da2ae76e7c09a7fbd5c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Khaled (Ft. Chance the Rapper, Justin Bieber, Lil Wayne & Quavo)", title: "I'm the One", producer: "|Lil Wayne|Chance the Rapper|Bobby Brackins|DaviDior|", body: `[Intro: DJ Khaled]
+`, media: `<iframe id="player-_iGOWk-r614" src="https://www.youtube.com/embed/_iGOWk-r614?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 58, coverArt: "https://images.genius.com/bb44cccee3be6da2ae76e7c09a7fbd5c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Khaled (Ft. Chance the Rapper, Justin Bieber, Lil Wayne & Quavo)", title: "I'm the One", producer: "|Lil Wayne|Chance the Rapper|Bobby Brackins|DaviDior|", body: `[Intro: DJ Khaled]
 We the Best Music
 Another one!
 DJ Khaled
@@ -35081,7 +35081,7 @@ Yeah, I'm the one
 Don't you know, girl? Don't you know, girl?
 I am the one for you (I'm the one)
 Yeah, I'm the one
-`, media: `<iframe id="player-weeI1G46q0o" src="https://www.youtube.com/embed/weeI1G46q0o?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=28" title="Music Video"></iframe>`, visits: 187, coverArt: "https://images.genius.com/9e1b48313ac3c4b8a96fa666962384d3.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Dua Lipa", title: "Break My Heart", producer: "|The Monsters &amp; Strangerz|​watt|", body: `[Verse 1]
+`, media: `<iframe id="player-weeI1G46q0o" src="https://www.youtube.com/embed/weeI1G46q0o?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=28" title="Music Video"></iframe>`, visits: 187, coverArt: "https://images.genius.com/9e1b48313ac3c4b8a96fa666962384d3.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Dua Lipa", title: "Break My Heart", producer: "|The Monsters &amp; Strangerz|​watt|", body: `[Verse 1]
 I've always been the one to say the first goodbye
 Had to love and lose a hundred million times
 Had to get it wrong to know just what I like
@@ -35163,7 +35163,7 @@ I knew that was the end of it all
 I should've stayed at home
 'Cause now there ain't no letting you go
 Am I falling in love with the one that could break my heart?
-`, media: `<iframe id="player-Nj2U6rhnucI" src="https://www.youtube.com/embed/Nj2U6rhnucI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 77, coverArt: "https://images.genius.com/6778546e8bb6c5c6943972eb48d817fd.669x669x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "James Arthur", title: "Impossible", producer: "|Matt Furmidge|Graham Stack|", body: `[Intro]
+`, media: `<iframe id="player-Nj2U6rhnucI" src="https://www.youtube.com/embed/Nj2U6rhnucI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 77, coverArt: "https://images.genius.com/6778546e8bb6c5c6943972eb48d817fd.669x669x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "James Arthur", title: "Impossible", producer: "|Matt Furmidge|Graham Stack|", body: `[Intro]
 Mmm-hmm, mm
 
 [Verse 1]
@@ -35302,7 +35302,7 @@ Look at me, fuck on me
 Look at me, fuck on me
 Look at me, fuck on me
 Look at me, yah!
-`, media: `<iframe id="player-qku2WZ7aRYw" src="https://www.youtube.com/embed/qku2WZ7aRYw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=9" title="Music Video"></iframe>`, visits: 637, coverArt: "https://images.genius.com/bbd3f056dd044b716af82ad6e997ec2a.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Cardi B (Ft. 21 Savage)", title: "Bartier Cardi", producer: "|21 Savage|30 Roc|Cheeze Beatz|", body: `[Intro: Cardi B & 21 Savage]
+`, media: `<iframe id="player-qku2WZ7aRYw" src="https://www.youtube.com/embed/qku2WZ7aRYw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=9" title="Music Video"></iframe>`, visits: 637, coverArt: "https://images.genius.com/bbd3f056dd044b716af82ad6e997ec2a.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Cardi B (Ft. 21 Savage)", title: "Bartier Cardi", producer: "|21 Savage|30 Roc|Cheeze Beatz|", body: `[Intro: Cardi B & 21 Savage]
 Bardi in a 'Rari, diamonds all over my body
 (30, you a fool for this one)
 Shinin' all over my body
@@ -35438,7 +35438,7 @@ Cardi took your man, you upset, uh
 Cardi got rich, they upset, yeah (21)
 Cardi put the pussy on Offset (Cardi)
 Cartier, Cardi B brain on Offset (Who's Cardi?)
-`, media: `<iframe id="player-hXnMSaK6C2w" src="https://www.youtube.com/embed/hXnMSaK6C2w?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=3" title="Music Video"></iframe>`, visits: 152, coverArt: "https://images.genius.com/9f92b837efe7107322fffb59f4699068.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bastille", title: "Good Grief", producer: "|Mark Crew|Dan Smith|", body: `[Intro]
+`, media: `<iframe id="player-hXnMSaK6C2w" src="https://www.youtube.com/embed/hXnMSaK6C2w?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=3" title="Music Video"></iframe>`, visits: 152, coverArt: "https://images.genius.com/9f92b837efe7107322fffb59f4699068.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bastille", title: "Good Grief", producer: "|Mark Crew|Dan Smith|", body: `[Intro]
 “So, what would you little maniacs like to do first?”
 
 [Refrain]
@@ -35524,7 +35524,7 @@ Watching through my fingers
 [Outro]
 Cause every minute and every hour
 I miss you, I miss you, I miss you more
-`, media: `<iframe id="player-ZWCB3hpJDXM" src="https://www.youtube.com/embed/ZWCB3hpJDXM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 316, coverArt: "https://images.genius.com/08b2a0f96430043883cec886d894658a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Maroon 5 (Ft. Wiz Khalifa)", title: "Payphone", producer: "|Wiz Khalifa|Robopop|Shellback|", body: `[Chorus: Adam Levine]
+`, media: `<iframe id="player-ZWCB3hpJDXM" src="https://www.youtube.com/embed/ZWCB3hpJDXM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 316, coverArt: "https://images.genius.com/08b2a0f96430043883cec886d894658a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Maroon 5 (Ft. Wiz Khalifa)", title: "Payphone", producer: "|Wiz Khalifa|Robopop|Shellback|", body: `[Chorus: Adam Levine]
 I'm at a payphone, trying to call home
 All of my change, I spent on you
 Where have the times gone? Baby, it's all wrong
@@ -35850,7 +35850,7 @@ Baby, baby, baby, baby, baby, I need racks, hey!
 
 [Outro]
 We got London on da Track!
-`, media: `<iframe id="player-RAzzv6Ks9nc" src="https://www.youtube.com/embed/RAzzv6Ks9nc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 314, coverArt: "https://images.genius.com/8dac472f8f5680f65fa734460aab832d.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Guns N' Roses", title: "Patience", producer: "|Guns N’ Roses|Mike Clink|", body: `[Intro]
+`, media: `<iframe id="player-RAzzv6Ks9nc" src="https://www.youtube.com/embed/RAzzv6Ks9nc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 314, coverArt: "https://images.genius.com/8dac472f8f5680f65fa734460aab832d.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Guns N' Roses", title: "Patience", producer: "|Guns N’ Roses|Mike Clink|", body: `[Intro]
 One, two, one, two, three, four
 *Whistling*
 
@@ -35942,7 +35942,7 @@ Lie, lie, lie, lie, lie
 Li-li-lie, lie, lie, lie, lie
 And I know that you don’t, but if I ask you if you love me
 I hope you lie, lie, lie, lie, lie to me
-`, media: `<iframe id="player-PKcGR3hexig" src="https://www.youtube.com/embed/PKcGR3hexig?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 54, coverArt: "https://images.genius.com/495a29bfaf1daac2fc3ced087983b3d1.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Major Lazer (Ft. Nicki Minaj & PARTYNEXTDOOR)", title: "Run Up", producer: "|Nicki Minaj|PARTYNEXTDOOR|Frank Dukes|Diplo|", body: `[Intro: Nicki Minaj]
+`, media: `<iframe id="player-PKcGR3hexig" src="https://www.youtube.com/embed/PKcGR3hexig?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 54, coverArt: "https://images.genius.com/495a29bfaf1daac2fc3ced087983b3d1.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Major Lazer (Ft. Nicki Minaj & PARTYNEXTDOOR)", title: "Run Up", producer: "|Nicki Minaj|PARTYNEXTDOOR|Frank Dukes|Diplo|", body: `[Intro: Nicki Minaj]
 Barbie
 
 [Verse 1: PARTYNEXTDOOR]
@@ -36128,7 +36128,7 @@ You can't always get what you want
 You just might find that you get what you need
 Ah yeah!
 Ah yeah! Do that
-`, media: `<iframe id="player-krxU5Y9lCS8" src="https://www.youtube.com/embed/krxU5Y9lCS8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 23, coverArt: "https://images.genius.com/b1324f4dcdb0d93aa0fcbda609decad3.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Chris Brown (Ft. Lil Wayne & Tyga)", title: "Loyal", producer: "|Lil Wayne|Tyga|Nic Nac|", body: `[Intro: Lil Wayne & Chris Brown]
+`, media: `<iframe id="player-krxU5Y9lCS8" src="https://www.youtube.com/embed/krxU5Y9lCS8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 23, coverArt: "https://images.genius.com/b1324f4dcdb0d93aa0fcbda609decad3.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Chris Brown (Ft. Lil Wayne & Tyga)", title: "Loyal", producer: "|Lil Wayne|Tyga|Nic Nac|", body: `[Intro: Lil Wayne & Chris Brown]
 Young Mula, baby!
 Haha
 (Let me see)
@@ -36249,7 +36249,7 @@ Yeah-ah, let me see
 Let me see
 Oh, these hoes ain't loyal
 Let me see
-`, media: `<iframe id="player-JXRN_LkCa_o" src="https://www.youtube.com/embed/JXRN_LkCa_o?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 369, coverArt: "https://images.genius.com/4c6a12df386ed1ab77c0efec44c1e49b.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bruno Mars (Ft. Cardi B)", title: "Finesse (Remix)", producer: "|Cardi B|The Stereotypes|Shampoo Press &amp; Curl|", body: `[Verse 1: Cardi B]
+`, media: `<iframe id="player-JXRN_LkCa_o" src="https://www.youtube.com/embed/JXRN_LkCa_o?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 369, coverArt: "https://images.genius.com/4c6a12df386ed1ab77c0efec44c1e49b.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bruno Mars (Ft. Cardi B)", title: "Finesse (Remix)", producer: "|Cardi B|The Stereotypes|Shampoo Press &amp; Curl|", body: `[Verse 1: Cardi B]
 Drop top Porsche (Porsche), Rollie on my wrist (Wrist)
 Diamonds up and down my chain (Aha)
 Cardi B, straight stuntin', can't tell me nothin'
@@ -36398,7 +36398,7 @@ Shout out *******, but I fucked that nigga bitch
 
 [Outro]
 Scum Gang!
-`, media: `<iframe id="player-gAs9HZC9c7Y" src="https://www.youtube.com/embed/gAs9HZC9c7Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 197, coverArt: "https://images.genius.com/5e50f7d9dbb082977f8282b4be2a7353.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Big Sean (Ft. Jhené Aiko)", title: "I Know", producer: "|Jhené Aiko|KeY Wane|Mustard|", body: `[Produced by DJ Mustard & Key Wane]
+`, media: `<iframe id="player-gAs9HZC9c7Y" src="https://www.youtube.com/embed/gAs9HZC9c7Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 197, coverArt: "https://images.genius.com/5e50f7d9dbb082977f8282b4be2a7353.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Big Sean (Ft. Jhené Aiko)", title: "I Know", producer: "|Jhené Aiko|KeY Wane|Mustard|", body: `[Produced by DJ Mustard & Key Wane]
 
 [Intro]
 Mustard on the beat, ho
@@ -36494,7 +36494,7 @@ I know it look like like you need a vacation
 How 'bout Hawaii, maybe Jamaica, maybe Asia
 Take you places other niggas can't take ya
 Don't forget the makeup, yeah
-`, media: `<iframe id="player-YWpTQM-CCTM" src="https://www.youtube.com/embed/YWpTQM-CCTM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 427, coverArt: "https://images.genius.com/139a6cb07b6e594bf4079a74a98fb350.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Diplo (Ft. Faustix, Imanos & ​kai)", title: "Revolution", producer: "|Imanos|Faustix|Diplo|", body: `[Verse]
+`, media: `<iframe id="player-YWpTQM-CCTM" src="https://www.youtube.com/embed/YWpTQM-CCTM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 427, coverArt: "https://images.genius.com/139a6cb07b6e594bf4079a74a98fb350.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Diplo (Ft. Faustix, Imanos & ​kai)", title: "Revolution", producer: "|Imanos|Faustix|Diplo|", body: `[Verse]
 Can you see it?
 The worst is over
 The monsters in my head are scared of love
@@ -36539,7 +36539,7 @@ It's a reva
 Rev
 Rev
 Rev
-`, media: `<iframe id="player-nv76KvFV748" src="https://www.youtube.com/embed/nv76KvFV748?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 49, coverArt: "https://images.genius.com/6b122108aa79ce923e188dd45fc4798f.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Selena Gomez (Ft. A$AP Rocky)", title: "Good for You", producer: "|A$AP Rocky|Hector Delgado (Producer)|A$AP Rocky|", body: `[Produced by Hit-Boy, Nick Monson, & Rock Mafia]
+`, media: `<iframe id="player-nv76KvFV748" src="https://www.youtube.com/embed/nv76KvFV748?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 49, coverArt: "https://images.genius.com/6b122108aa79ce923e188dd45fc4798f.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Selena Gomez (Ft. A$AP Rocky)", title: "Good for You", producer: "|A$AP Rocky|Hector Delgado (Producer)|A$AP Rocky|", body: `[Produced by Hit-Boy, Nick Monson, & Rock Mafia]
 [Written by Julia Michaels, Justin Tranter, Selena Gomez, and A$AP Rocky]
 
 [Verse 1: Selena Gomez]
@@ -36618,7 +36618,7 @@ And still look good for you, good for you
 
 [Outro: Selena Gomez]
 Trust me, I, trust me, I, trust me, I
-`, media: `<iframe id="player-DXKHCgNFk1I" src="https://www.youtube.com/embed/DXKHCgNFk1I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 247, coverArt: "https://images.genius.com/40f96db9aed57c3cc719b7d22638a7a2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Cardi B, Bad Bunny & J Balvin", title: "I Like It", producer: "|J. White Did It|Tainy|", body: `[Intro]
+`, media: `<iframe id="player-DXKHCgNFk1I" src="https://www.youtube.com/embed/DXKHCgNFk1I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 247, coverArt: "https://images.genius.com/40f96db9aed57c3cc719b7d22638a7a2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Cardi B, Bad Bunny & J Balvin", title: "I Like It", producer: "|J. White Did It|Tainy|", body: `[Intro]
 Yeah, baby, I like it like that
 You gotta believe me when I tell you
 I said I like it like that
@@ -36723,7 +36723,7 @@ Diamond district in the chain (I said I like it like that)
 Certified, you know I'm gang, gang (I said I like it like—)
 Drop the top and blow the brains, woo (I said I like it like that)
 Oh, he's so handsome, what's his name? Yeah (I said I like it)
-`, media: `<iframe id="player-xTlNMmZKwpA" src="https://www.youtube.com/embed/xTlNMmZKwpA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 163, coverArt: "https://images.genius.com/9c395bbc7c46090313c26509120b1a88.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Mr. Probz (Ft. Chris Brown & T.I.)", title: "Waves (Robin Schulz Remix)", producer: "|Chris Brown|T.I.|Robin Schulz|", body: `[Intro: T.I. & Mr. Probz]
+`, media: `<iframe id="player-xTlNMmZKwpA" src="https://www.youtube.com/embed/xTlNMmZKwpA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 163, coverArt: "https://images.genius.com/9c395bbc7c46090313c26509120b1a88.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Mr. Probz (Ft. Chris Brown & T.I.)", title: "Waves (Robin Schulz Remix)", producer: "|Chris Brown|T.I.|Robin Schulz|", body: `[Intro: T.I. & Mr. Probz]
 Hustle Gang over everythin', yeah, uh huh
 Drifting away
 Wait, hol' up
@@ -36785,7 +36785,7 @@ Wave after wave, wave after wave
 I'm slowly drifting, drifting away (Slowly drifting)
 And it feels like I'm drowning
 Pulling against the stream, pulling against the (Pulling against the, pulling against the)
-`, media: `<iframe id="player-rwkoXft0dXU" src="https://www.youtube.com/embed/rwkoXft0dXU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 18, coverArt: "https://images.rapgenius.com/1a72bccf352b5e83e2b019e9bde776a4.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "J Balvin & Willy William", title: "Mi Gente", producer: "|Willy William|", body: `[Letra de "Mi Gente"]
+`, media: `<iframe id="player-rwkoXft0dXU" src="https://www.youtube.com/embed/rwkoXft0dXU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 18, coverArt: "https://images.rapgenius.com/1a72bccf352b5e83e2b019e9bde776a4.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "J Balvin & Willy William", title: "Mi Gente", producer: "|Willy William|", body: `[Letra de "Mi Gente"]
 
 [Verso 1: J Balvin]
 Si el ritmo te lleva a mover la cabeza
@@ -36915,7 +36915,7 @@ I can come and love (I can come and love)
 I can come and love (I can come and love ya)
 I can come and love ya (I can come and love)
 I can come and love ya (I can come and love ya)
-`, media: `<iframe id="player-wj0IyJ0uCwU" src="https://www.youtube.com/embed/wj0IyJ0uCwU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 31, coverArt: "https://images.genius.com/157ccf5850a80deef1779528af977935.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Maroon 5", title: "Sugar", producer: "|Cirkut|Ammo|", body: `[Verse 1]
+`, media: `<iframe id="player-wj0IyJ0uCwU" src="https://www.youtube.com/embed/wj0IyJ0uCwU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 31, coverArt: "https://images.genius.com/157ccf5850a80deef1779528af977935.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Maroon 5", title: "Sugar", producer: "|Cirkut|Ammo|", body: `[Verse 1]
 I'm hurting baby, I'm broken down
 I need your loving, loving I need it now
 When I'm without you, I'm something weak
@@ -36996,7 +36996,7 @@ Need a little sweetness in my life
 Your sugar, yes please (Your sugar, yes please)
 Won't you come and put it down on me?
 (Down on me, down on me, ooh)
-`, media: `<iframe id="player-09R8_2nJtjg" src="https://www.youtube.com/embed/09R8_2nJtjg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 268, coverArt: "https://images.genius.com/fe0c39a154636ba3d302610ec3fa904e.920x920x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "KAROL G & Mariah Angeliq", title: "EL MAKINON", producer: "|Subelo NEO|", body: `[Letra de "EL MAKINON"]
+`, media: `<iframe id="player-09R8_2nJtjg" src="https://www.youtube.com/embed/09R8_2nJtjg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 268, coverArt: "https://images.genius.com/fe0c39a154636ba3d302610ec3fa904e.920x920x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "KAROL G & Mariah Angeliq", title: "EL MAKINON", producer: "|Subelo NEO|", body: `[Letra de "EL MAKINON"]
 
 [Coro: KAROL G & Mariah Angeliq]
 Ando por ahí con los de siempre, un flow cabrón
@@ -37076,7 +37076,7 @@ Con un flow bien cabrón
 Mariah Angeliq
 No
 Papi)
-`, media: `<iframe id="player-2jYEz66J_J4" src="https://www.youtube.com/embed/2jYEz66J_J4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=3" title="Music Video"></iframe>`, visits: 1, coverArt: "https://images.genius.com/20e6a173d0aaa8655e1841f414e955dd.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Guns N' Roses", title: "One in a Million", producer: "|Mike Clink|", body: `[Verse 1]
+`, media: `<iframe id="player-2jYEz66J_J4" src="https://www.youtube.com/embed/2jYEz66J_J4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=3" title="Music Video"></iframe>`, visits: 1, coverArt: "https://images.genius.com/20e6a173d0aaa8655e1841f414e955dd.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Guns N' Roses", title: "One in a Million", producer: "|Mike Clink|", body: `[Verse 1]
 Guess I needed some time to get away
 I needed some peace of mind, some peace of mind that'll stay
 So I thumbed it down to 6th in L.A
@@ -37129,7 +37129,7 @@ Much too high, much too high, oh, much too high
 [Outro]
 Much too high, much too high, much too high
 Much too high, much too high, much too high
-`, media: `<iframe id="player-ulvmdYMyT80" src="https://www.youtube.com/embed/ulvmdYMyT80?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 8, coverArt: "https://images.genius.com/ef6297514b4bf967e79d3d48a59d5643.498x499x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Karol G, Bad Bunny & Quavo", title: "Ahora Me Llama (Remix)", producer: "|Ovy On The Drums|", body: `[Letra de "Ahora Me Llama (Remix)" ft. Bad Bunny &
+`, media: `<iframe id="player-ulvmdYMyT80" src="https://www.youtube.com/embed/ulvmdYMyT80?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 8, coverArt: "https://images.genius.com/ef6297514b4bf967e79d3d48a59d5643.498x499x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Karol G, Bad Bunny & Quavo", title: "Ahora Me Llama (Remix)", producer: "|Ovy On The Drums|", body: `[Letra de "Ahora Me Llama (Remix)" ft. Bad Bunny &
 Quavo]
 
 [Intro: Quavo, Bad Bunny, Karol G]
@@ -37227,7 +37227,7 @@ Díselo Luían
 Karol G, Karol G
 Quavo
 Prr
-`, media: `<iframe id="player-sHTYHoPFUz0" src="https://www.youtube.com/embed/sHTYHoPFUz0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 2, coverArt: "https://images.genius.com/8acd5151f321f81589b83c1e975d00cb.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Selena Gomez (Ft. Gucci Mane)", title: "Fetish", producer: "|Gucci Mane|Jonas Jeberg|The Futuristics|", body: `[Verse 1: Selena Gomez]
+`, media: `<iframe id="player-sHTYHoPFUz0" src="https://www.youtube.com/embed/sHTYHoPFUz0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 2, coverArt: "https://images.genius.com/8acd5151f321f81589b83c1e975d00cb.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Selena Gomez (Ft. Gucci Mane)", title: "Fetish", producer: "|Gucci Mane|Jonas Jeberg|The Futuristics|", body: `[Verse 1: Selena Gomez]
 Take it or leave it
 Baby take it or leave it
 But I know you won't leave it
@@ -37305,7 +37305,7 @@ I push you out and you come right back
 Don't see a point in blaming you
 If I were you, I'd do me too
 You got a fetish for my love
-`, media: `<iframe id="player-STO4-8vkG0U" src="https://www.youtube.com/embed/STO4-8vkG0U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 122, coverArt: "https://images.genius.com/ac0335360625c90b13e72f322304664c.1000x1000x1.webp", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "N.E.R.D & Rihanna", title: "Lemon", producer: "|Kuk Harrell|Pharrell Williams|", body: `[Intro: Pharrell Williams]
+`, media: `<iframe id="player-STO4-8vkG0U" src="https://www.youtube.com/embed/STO4-8vkG0U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 122, coverArt: "https://images.genius.com/ac0335360625c90b13e72f322304664c.1000x1000x1.webp", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "N.E.R.D & Rihanna", title: "Lemon", producer: "|Kuk Harrell|Pharrell Williams|", body: `[Intro: Pharrell Williams]
 The truth will set you free
 But first, it'll piss you off
 
@@ -37546,7 +37546,7 @@ Bitch, I make it rain-shower, ya dig that?
 They won't know a thing about you if you zip that
 Hit 'em with that blocka-blocka, nigga get back
 Feed that, beat that, never crack, dig that (Sheesh, sheesh)
-`, media: `<iframe id="player-_-QxSh19nDI" src="https://www.youtube.com/embed/_-QxSh19nDI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=9" title="Music Video"></iframe>`, visits: 79, coverArt: "https://images.genius.com/e7c67a01f872ff7f8c60b34a636ec3f4.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "OneRepublic", title: "I Lived", producer: "|Noel Zancanella|Ryan Tedder|", body: `[Verse 1]
+`, media: `<iframe id="player-_-QxSh19nDI" src="https://www.youtube.com/embed/_-QxSh19nDI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=9" title="Music Video"></iframe>`, visits: 79, coverArt: "https://images.genius.com/e7c67a01f872ff7f8c60b34a636ec3f4.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "OneRepublic", title: "I Lived", producer: "|Noel Zancanella|Ryan Tedder|", body: `[Verse 1]
 Hope when you take that jump, you don't fear the fall
 Hope when the water rises, you built a wall
 Hope when the crowd screams out, it's screaming your name
@@ -37587,7 +37587,7 @@ I owned every second that this world could give
 I saw so many places, the things that I did
 With every broken bone I swear I lived
 I swear I lived
-`, media: `<iframe id="player-z0rxydSolwU" src="https://www.youtube.com/embed/z0rxydSolwU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 61, coverArt: "https://images.genius.com/fa2f7eb38d2c88efe33dcc5879de54cd.300x300x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "BTS", title: "FAKE LOVE", producer: "|Pdogg|“hitman” Bang|", body: `[방탄소년단 "FAKE LOVE" 가사]
+`, media: `<iframe id="player-z0rxydSolwU" src="https://www.youtube.com/embed/z0rxydSolwU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 61, coverArt: "https://images.genius.com/fa2f7eb38d2c88efe33dcc5879de54cd.300x300x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "BTS", title: "FAKE LOVE", producer: "|Pdogg|“hitman” Bang|", body: `[방탄소년단 "FAKE LOVE" 가사]
 
 [Intro: V, Jung Kook]
 널 위해서라면 난
@@ -37678,7 +37678,7 @@ I'm so sorry but it's fake love, fake love, fake love
 내 모든 약점들은 다 숨겨지길
 이뤄지지 않는 꿈속에서
 피울 수 없는 꽃을 키웠어
-`, media: `<iframe id="player-7C2z4GqqS5E" src="https://www.youtube.com/embed/7C2z4GqqS5E?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 193, coverArt: "https://images.genius.com/baa38abf7c2d7475218e3facfaa9a689.999x999x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Nio García, Casper Mágico & Bad Bunny (Ft. Darell, Nicky Jam & Ozuna)", title: "Te Boté (Remix)", producer: "|Darell|Nicky Jam|Shorty Complete|Kronix Magical|", body: `[Letra de "Te Boté (Remix)" ft. Darell, Nicky Jam & Ozuna]
+`, media: `<iframe id="player-7C2z4GqqS5E" src="https://www.youtube.com/embed/7C2z4GqqS5E?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 193, coverArt: "https://images.genius.com/baa38abf7c2d7475218e3facfaa9a689.999x999x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Nio García, Casper Mágico & Bad Bunny (Ft. Darell, Nicky Jam & Ozuna)", title: "Te Boté (Remix)", producer: "|Darell|Nicky Jam|Shorty Complete|Kronix Magical|", body: `[Letra de "Te Boté (Remix)" ft. Darell, Nicky Jam & Ozuna]
 
 [Intro: Darell & Ozuna]
 Wo-oh
@@ -37908,7 +37908,7 @@ We had nothing, stayed down 'til I came up with my niggas
 Right or wrong forever right, you know wassup with me nigga
 Never change on my gang yeah, I'm stuck with my niggas
 We untouchable come run that money up with me nigga
-`, media: `<iframe id="player-ipM9SkIkwCY" src="https://www.youtube.com/embed/ipM9SkIkwCY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 22, coverArt: "https://images.genius.com/8456e20176d350a9af634f2e244b287c.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Maroon 5 (Ft. Kendrick Lamar)", title: "Don't Wanna Know", producer: "|Kendrick Lamar|Louie Lastic|Kurtis McKenzie|", body: `[Intro]
+`, media: `<iframe id="player-ipM9SkIkwCY" src="https://www.youtube.com/embed/ipM9SkIkwCY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 22, coverArt: "https://images.genius.com/8456e20176d350a9af634f2e244b287c.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Maroon 5 (Ft. Kendrick Lamar)", title: "Don't Wanna Know", producer: "|Kendrick Lamar|Louie Lastic|Kurtis McKenzie|", body: `[Intro]
 Oh, hey
 Oh, oh hey
 Oh, oh, oh hey
@@ -38010,7 +38010,7 @@ Oh hey
 Oh, oh hey
 Oh, oh, oh hey
 Uh oh, uh oh
-`, media: `<iframe id="player-OxPv8mSTv9U" src="https://www.youtube.com/embed/OxPv8mSTv9U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 72, coverArt: "https://images.genius.com/a581c79e3201364cb5f11f3bd1b5f161.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Miley Cyrus", title: "Adore You", producer: "|Oren Yoel|", body: `[Intro]
+`, media: `<iframe id="player-OxPv8mSTv9U" src="https://www.youtube.com/embed/OxPv8mSTv9U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 72, coverArt: "https://images.genius.com/a581c79e3201364cb5f11f3bd1b5f161.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Miley Cyrus", title: "Adore You", producer: "|Oren Yoel|", body: `[Intro]
 Oh-oh, hey, oh-oh
 
 [Verse 1]
@@ -38149,7 +38149,7 @@ Then I'll raise you like a phoenix
 
 [Outro]
 Put on your war paint
-`, media: `<iframe id="player-5hDZbroaQDc" src="https://www.youtube.com/embed/5hDZbroaQDc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 77, coverArt: "https://images.genius.com/ba34ca0ff602cd83ea8d89da5d5ae615.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shawn Mendes", title: "Treat You Better", producer: "|DJ Kyriakides|Dan Romer|", body: `[Verse 1]
+`, media: `<iframe id="player-5hDZbroaQDc" src="https://www.youtube.com/embed/5hDZbroaQDc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 77, coverArt: "https://images.genius.com/ba34ca0ff602cd83ea8d89da5d5ae615.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shawn Mendes", title: "Treat You Better", producer: "|DJ Kyriakides|Dan Romer|", body: `[Verse 1]
 I won't lie to you
 I know he's just not right for you
 And you can tell me if I'm off
@@ -38204,7 +38204,7 @@ I know I can treat you better
 Better than he can
 Better than he can
 Better than he can
-`, media: `<iframe id="player-lY2yjAdbvdQ" src="https://www.youtube.com/embed/lY2yjAdbvdQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 116, coverArt: "https://images.genius.com/0f39c67b6367682b237d2e6fe7e4f5fa.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Machine Gun Kelly (Ft. CORPSE)", title: "DAYWALKER!", producer: "|CORPSE|BazeXX|Machine Gun Kelly|", body: `[Verse 1: Machine Gun Kelly & CORPSE]
+`, media: `<iframe id="player-lY2yjAdbvdQ" src="https://www.youtube.com/embed/lY2yjAdbvdQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 116, coverArt: "https://images.genius.com/0f39c67b6367682b237d2e6fe7e4f5fa.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Machine Gun Kelly (Ft. CORPSE)", title: "DAYWALKER!", producer: "|CORPSE|BazeXX|Machine Gun Kelly|", body: `[Verse 1: Machine Gun Kelly & CORPSE]
 Punch that motherfucker in the face
 You hated what he said, right?
 Beat his ass, leave him at the stoplight
@@ -38266,7 +38266,7 @@ Fight, fight (Yeah, yeah), fight
 
 [Outro: CORPSE]
 The end
-`, media: `<iframe id="player-nSBYIzaxijM" src="https://www.youtube.com/embed/nSBYIzaxijM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 171, coverArt: "https://images.genius.com/5b7a29e29b8806ca99c1aaafb1e4f826.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Guns N' Roses", title: "Sweet Child O’ Mine", producer: "|Mike Clink|", body: `[Instrumental Intro/Guitar Riff]
+`, media: `<iframe id="player-nSBYIzaxijM" src="https://www.youtube.com/embed/nSBYIzaxijM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 171, coverArt: "https://images.genius.com/5b7a29e29b8806ca99c1aaafb1e4f826.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Guns N' Roses", title: "Sweet Child O’ Mine", producer: "|Mike Clink|", body: `[Instrumental Intro/Guitar Riff]
 
 [Verse 1]
 She's got a smile that it seems to me
@@ -38445,7 +38445,7 @@ Y mámame el bicho en el Panamera (Skrt)
 Los 47 solda'os y los R de posicióne' y 30 kilo' en el Jet (Brr)
 Baby, ponte las Yeezy, las Yeezy
 Las Yeezy, las Yeezy, las Yeezy (Uah)
-`, media: `<iframe id="player-cbpLw41gT80" src="https://www.youtube.com/embed/cbpLw41gT80?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 4, coverArt: "https://images.genius.com/794c2f77fec9455fb6758b5b1d7f683a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shakira (Ft. Wyclef Jean)", title: "Hips Don't Lie", producer: "|Wyclef Jean|Jerry Duplessis|Shakira|", body: `[Intro: Wyclef Jean]
+`, media: `<iframe id="player-cbpLw41gT80" src="https://www.youtube.com/embed/cbpLw41gT80?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 4, coverArt: "https://images.genius.com/794c2f77fec9455fb6758b5b1d7f683a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shakira (Ft. Wyclef Jean)", title: "Hips Don't Lie", producer: "|Wyclef Jean|Jerry Duplessis|Shakira|", body: `[Intro: Wyclef Jean]
 Ladies up in here tonight
 No fighting (We got the refugees up in here)
 No fighting
@@ -38811,7 +38811,7 @@ Don't go, stay up and don't go to sleep
 Ooh, ahh, ahh, ahh
 Don't go, don't go to sleep
 Don't go, stay up and don't
-`, media: `<iframe id="player-7JGDWKJfgxQ" src="https://www.youtube.com/embed/7JGDWKJfgxQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 272, coverArt: "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Beyoncé", title: "Formation", producer: "|Beyoncé|Mike WiLL Made-It|", body: `[Intro: Messy Mya]
+`, media: `<iframe id="player-7JGDWKJfgxQ" src="https://www.youtube.com/embed/7JGDWKJfgxQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 272, coverArt: "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Beyoncé", title: "Formation", producer: "|Beyoncé|Mike WiLL Made-It|", body: `[Intro: Messy Mya]
 What happened at the New Wil'ins?
 Bitch, I'm back by popular demand
 
@@ -39002,7 +39002,7 @@ I been fuckin' superstars, yeah
 Her pussy good, buy her a car yeah
 You niggas ain't makin' no noise, yeah
 You niggas ain't makin' no noise (On God)
-`, media: `<iframe id="player-l5M64JuiZAE" src="https://www.youtube.com/embed/l5M64JuiZAE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 48, coverArt: "https://images.genius.com/fdf55cd3f0aaf3b48e1437d99bdfbcd1.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Pitbull (Ft. Kesha)", title: "Timber", producer: "|Kesha|Nick Seeley|Sermstyle|", body: `[Chorus: Kesha]
+`, media: `<iframe id="player-l5M64JuiZAE" src="https://www.youtube.com/embed/l5M64JuiZAE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 48, coverArt: "https://images.genius.com/fdf55cd3f0aaf3b48e1437d99bdfbcd1.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Pitbull (Ft. Kesha)", title: "Timber", producer: "|Kesha|Nick Seeley|Sermstyle|", body: `[Chorus: Kesha]
 It's goin' down, I'm yellin' timber
 You better move, you better dance
 Let's make a night you won't remember
@@ -39306,7 +39306,7 @@ Everything is blue
 Everything is blue
 Everything is blue
 Everything is blue
-`, media: `<iframe id="player-JGulAZnnTKA" src="https://www.youtube.com/embed/JGulAZnnTKA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 153, coverArt: "https://images.genius.com/092840365d93c9685b8309a50e46793f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Jason Derulo", title: "Whatcha Say", producer: "|Alexander Palmer|J.R. Rotem|", body: `[Intro]
+`, media: `<iframe id="player-JGulAZnnTKA" src="https://www.youtube.com/embed/JGulAZnnTKA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 153, coverArt: "https://images.genius.com/092840365d93c9685b8309a50e46793f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Jason Derulo", title: "Whatcha Say", producer: "|Alexander Palmer|J.R. Rotem|", body: `[Intro]
 Wha-wha-wha-wha-what did you say?
 (J-J-J-J-J.R.)
 Mmm, whatcha say
@@ -39407,7 +39407,7 @@ Wha-wha-wha-wha-what did you say?
 
 [Outro]
 (Beluga Heights)
-`, media: `<iframe id="player-pBI3lc18k8Q" src="https://www.youtube.com/embed/pBI3lc18k8Q?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 31, coverArt: "https://images.genius.com/27bd35b63c4f142f45a8b5ef7ce0cfdb.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Michael Jackson", title: "Human Nature", producer: "|Quincy Jones|", body: `[Verse 1]
+`, media: `<iframe id="player-pBI3lc18k8Q" src="https://www.youtube.com/embed/pBI3lc18k8Q?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 31, coverArt: "https://images.genius.com/27bd35b63c4f142f45a8b5ef7ce0cfdb.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Michael Jackson", title: "Human Nature", producer: "|Quincy Jones|", body: `[Verse 1]
 Looking out, across the nighttime
 The city winks a sleepless eye
 Hear her voice, shake my window
@@ -39478,7 +39478,7 @@ I like living this way
 Why? Oh, why? (that way)
 Why? Oh, why? (that way)
 Why? Oh, why? (that way)
-`, media: `<iframe id="player-oqLpko9Gprs" src="https://www.youtube.com/embed/oqLpko9Gprs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 60, coverArt: "https://images.genius.com/b5a58a1a3467bc35d210f04f780f30ae.1000x561x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Selena Gomez & Marshmello", title: "Wolves", producer: "|Marshmello|​watt|", body: `[Verse 1]
+`, media: `<iframe id="player-oqLpko9Gprs" src="https://www.youtube.com/embed/oqLpko9Gprs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 60, coverArt: "https://images.genius.com/b5a58a1a3467bc35d210f04f780f30ae.1000x561x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Selena Gomez & Marshmello", title: "Wolves", producer: "|Marshmello|​watt|", body: `[Verse 1]
 In your eyes, there's a heavy blue
 One to love, and one to lose
 Sweet divine, a heavy truth
@@ -39611,7 +39611,7 @@ And then canceled my plans just in case you'd call?
 Back when I was livin' for the hope of it all (For the hope of it all)
 For the hope of it all, for the hope of it all
 (For the hope of it all, for the hope of it all)
-`, media: `<iframe id="player-nn_0zPAfyo8" src="https://www.youtube.com/embed/nn_0zPAfyo8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 94, coverArt: "https://images.genius.com/4a6a06f7e361703062b0db46d0e4ec36.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Justin Bieber", title: "Yummy", producer: "|Sasha Sirota|Kid Culture|", body: `[Chorus]
+`, media: `<iframe id="player-nn_0zPAfyo8" src="https://www.youtube.com/embed/nn_0zPAfyo8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 94, coverArt: "https://images.genius.com/4a6a06f7e361703062b0db46d0e4ec36.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Justin Bieber", title: "Yummy", producer: "|Sasha Sirota|Kid Culture|", body: `[Chorus]
 Yeah, you got that yummy-yum
 That yummy-yum, that yummy-yummy
 Yeah, you got that yummy-yum
@@ -39696,7 +39696,7 @@ Say the word, on my way
 Yeah, babe, yeah, babe, yeah, babe (Yeah, babe)
 In the mornin' or the late
 Say the word, on my way
-`, media: `<iframe id="player-8EJ3zbKTWQ8" src="https://www.youtube.com/embed/8EJ3zbKTWQ8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=22" title="Music Video"></iframe>`, visits: 58, coverArt: "https://images.genius.com/00e0c3ee397b98acb01d5e41171a3568.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Coldplay", title: "A Sky Full of Stars", producer: "|Avicii|Rik Simpson|", body: `[Verse 1]
+`, media: `<iframe id="player-8EJ3zbKTWQ8" src="https://www.youtube.com/embed/8EJ3zbKTWQ8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=22" title="Music Video"></iframe>`, visits: 58, coverArt: "https://images.genius.com/00e0c3ee397b98acb01d5e41171a3568.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Coldplay", title: "A Sky Full of Stars", producer: "|Avicii|Rik Simpson|", body: `[Verse 1]
 'Cause you're a sky, 'cause you're a sky full of stars
 I'm gonna give you my heart
 'Cause you're a sky, 'cause you're a sky full of stars
@@ -39789,7 +39789,7 @@ They couldn't say the shit they wanted to say
 They had to fake orgasms and shit
 We can tell niggas today:
 "Hey, I wanna cum, mothafucka!"
-`, media: `<iframe id="player-cwQgjq0mCdE" src="https://www.youtube.com/embed/cwQgjq0mCdE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 201, coverArt: "https://images.genius.com/8b95f4c24d85c1e478b5d4ee74a06fcf.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Maroon 5", title: "One More Night", producer: "|Shellback|Max Martin|", body: `[Intro]
+`, media: `<iframe id="player-cwQgjq0mCdE" src="https://www.youtube.com/embed/cwQgjq0mCdE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 201, coverArt: "https://images.genius.com/8b95f4c24d85c1e478b5d4ee74a06fcf.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Maroon 5", title: "One More Night", producer: "|Shellback|Max Martin|", body: `[Intro]
 Ooh, ooh ooh ooh, ooh ooh, ooh ooh
 Ooh, ooh ooh ooh, ooh ooh, ooh ooh
 
@@ -39931,7 +39931,7 @@ I said don't leave, it's my fault (One)
 I said don't leave, it's my fault (Two, two)
 Don't leave, it's, it's my fault, girl (Three, three, three)
 Don't, do-do-do-do-do, I'll need—
-`, media: `<iframe id="player-HmAsUQEFYGI" src="https://www.youtube.com/embed/HmAsUQEFYGI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=79" title="Music Video"></iframe>`, visits: 274, coverArt: "https://images.genius.com/60712a7b6cbcc792502d877fb9a170c5.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "JAY-Z (Ft. Alicia Keys)", title: "Empire State of Mind", producer: "|Alicia Keys|Janet Sewell|Angela Hunte|", body: `[Intro: JAY-Z]
+`, media: `<iframe id="player-HmAsUQEFYGI" src="https://www.youtube.com/embed/HmAsUQEFYGI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=79" title="Music Video"></iframe>`, visits: 274, coverArt: "https://images.genius.com/60712a7b6cbcc792502d877fb9a170c5.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "JAY-Z (Ft. Alicia Keys)", title: "Empire State of Mind", producer: "|Alicia Keys|Janet Sewell|Angela Hunte|", body: `[Intro: JAY-Z]
 Yeah
 
 [Verse 1: Jay-Z]
@@ -40097,7 +40097,7 @@ California, show your teeth (Do svidaniya)
 She's my priestess, I'm your priest, yeah, yeah
 
 [Guitar Solo]
-`, media: `<iframe id="player-Sb5aq5HcS1A" src="https://www.youtube.com/embed/Sb5aq5HcS1A?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 92, coverArt: "https://images.genius.com/0a083400a50ceeb9ef8a6f7ceef85dd2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Cardi B & Bruno Mars", title: "Please Me", producer: "|The Stereotypes|Bruno Mars|", body: `[Intro: Cardi B]
+`, media: `<iframe id="player-Sb5aq5HcS1A" src="https://www.youtube.com/embed/Sb5aq5HcS1A?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 92, coverArt: "https://images.genius.com/0a083400a50ceeb9ef8a6f7ceef85dd2.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Cardi B & Bruno Mars", title: "Please Me", producer: "|The Stereotypes|Bruno Mars|", body: `[Intro: Cardi B]
 Uh, uh, yeah, come on
 
 [Chorus: Bruno Mars & Cardi B]
@@ -40354,7 +40354,7 @@ Rauw Alejandro
 (Algo fuera de aquí)
 Uh-uh, uh-uh
 (Me pones mal a mí)
-`, media: `<iframe id="player-CFPLIaMpGrY" src="https://www.youtube.com/embed/CFPLIaMpGrY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 11, coverArt: "https://images.genius.com/7c5115b0917af116238fcf64d2e4ed1a.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shawn Mendes", title: "Stitches", producer: "|Teddy Geiger|Daniel Parker|", body: `[Music Video]
+`, media: `<iframe id="player-CFPLIaMpGrY" src="https://www.youtube.com/embed/CFPLIaMpGrY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 11, coverArt: "https://images.genius.com/7c5115b0917af116238fcf64d2e4ed1a.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shawn Mendes", title: "Stitches", producer: "|Teddy Geiger|Daniel Parker|", body: `[Music Video]
 
 [Verse 1]
 I thought that I've been hurt before
@@ -40507,7 +40507,7 @@ Pain! Oh, let the bullets fly, oh, let them rain
 My life, my love, my drive, it came from…
 Pain! You made me a, you made me a
 Believer, believer
-`, media: `<iframe id="player-7wtfhZwyrcc" src="https://www.youtube.com/embed/7wtfhZwyrcc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 401, coverArt: "https://images.genius.com/86e0d33ebe09cafa4e686ad0f38dc3df.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Jason Derulo & David Guetta (Ft. Nicki Minaj & Willy William)", title: "Goodbye", producer: "|Nicki Minaj|Willy William|David Guetta|David Saint Fleur|", body: `[Intro: Nicki Minaj & Jason Derulo]
+`, media: `<iframe id="player-7wtfhZwyrcc" src="https://www.youtube.com/embed/7wtfhZwyrcc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 401, coverArt: "https://images.genius.com/86e0d33ebe09cafa4e686ad0f38dc3df.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Jason Derulo & David Guetta (Ft. Nicki Minaj & Willy William)", title: "Goodbye", producer: "|Nicki Minaj|Willy William|David Guetta|David Saint Fleur|", body: `[Intro: Nicki Minaj & Jason Derulo]
 Time to say goodbye
 But don't leave me alone, just stay for the night
 I need you, I need you tonight
@@ -40600,7 +40600,7 @@ Culo, culo
 Say goodbye, stay the night
 One more time, one more time
 Rrrrrrrr
-`, media: `<iframe id="player-kUjKxtJd21E" src="https://www.youtube.com/embed/kUjKxtJd21E?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 15, coverArt: "https://images.genius.com/df06d3d95281e301d363bedf686d1b0f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Dua Lipa", title: "New Rules", producer: "|Ian Kirkpatrick|", body: `[Intro]
+`, media: `<iframe id="player-kUjKxtJd21E" src="https://www.youtube.com/embed/kUjKxtJd21E?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 15, coverArt: "https://images.genius.com/df06d3d95281e301d363bedf686d1b0f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Dua Lipa", title: "New Rules", producer: "|Ian Kirkpatrick|", body: `[Intro]
 One, one, one, one, one
 
 [Verse 1]
@@ -40690,7 +40690,7 @@ Don't, don't, don't, don't
 Don't be his friend, don't be his friend
 Don't, don't, don't, don't
 You're gettin' over him
-`, media: `<iframe id="player-k2qgadSvNyU" src="https://www.youtube.com/embed/k2qgadSvNyU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=9" title="Music Video"></iframe>`, visits: 195, coverArt: "https://images.genius.com/d07f5179bda8dfc900e7153bd1012241.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Miley Cyrus", title: "Wrecking Ball", producer: "|Cirkut|Dr. Luke|", body: `[Verse 1]
+`, media: `<iframe id="player-k2qgadSvNyU" src="https://www.youtube.com/embed/k2qgadSvNyU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=9" title="Music Video"></iframe>`, visits: 195, coverArt: "https://images.genius.com/d07f5179bda8dfc900e7153bd1012241.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Miley Cyrus", title: "Wrecking Ball", producer: "|Cirkut|Dr. Luke|", body: `[Verse 1]
 We clawed, we chained, our hearts in vain
 We jumped, never asking why
 We kissed, I fell under your spell
@@ -40756,7 +40756,7 @@ Left me crashing in a blazing fall
 All you ever did was wreck me
 Yeah, you, you wreck me
 Yeah, you, you wreck me
-`, media: `<iframe id="player-My2FRPA3Gf8" src="https://www.youtube.com/embed/My2FRPA3Gf8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 165, coverArt: "https://images.genius.com/baecc6f9cba44e3e9030d2403584e6c6.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Pop Smoke", title: "Dior", producer: "|808 Melo|", body: `[Intro]
+`, media: `<iframe id="player-My2FRPA3Gf8" src="https://www.youtube.com/embed/My2FRPA3Gf8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 165, coverArt: "https://images.genius.com/baecc6f9cba44e3e9030d2403584e6c6.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Pop Smoke", title: "Dior", producer: "|808 Melo|", body: `[Intro]
 Traphouse Mob
 Huh,  roll another one
 Said  I'm never lackin', always pistol packing
@@ -40957,7 +40957,7 @@ K-i-s-s-i-n-g-e-e-e-e-e-e-e-e
 (You'll get over it)
 Uh
 (You'll get over it)
-`, media: `<iframe id="player-SxAp27sFaIM" src="https://www.youtube.com/embed/SxAp27sFaIM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 53, coverArt: "https://images.genius.com/6e43d2e85ea40d4418d0563ae90a7046.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bad Bunny (Ft. Drake)", title: "MÍA", producer: "|Drake|DJ Luian|Mambo Kingz|", body: `[Letra de "MÍA" ft. Drake]
+`, media: `<iframe id="player-SxAp27sFaIM" src="https://www.youtube.com/embed/SxAp27sFaIM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 53, coverArt: "https://images.genius.com/6e43d2e85ea40d4418d0563ae90a7046.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bad Bunny (Ft. Drake)", title: "MÍA", producer: "|Drake|DJ Luian|Mambo Kingz|", body: `[Letra de "MÍA" ft. Drake]
 
 [Intro: Bad Bunny & Drake]
 Bad Bunny, baby, bebé
@@ -41085,7 +41085,7 @@ Who am I? Someone that's afraid to let go, uh
 You decide if you're ever gonna let me know (Yeah)
 Suicide if you ever try to let go, uh
 I'm sad, I know, yeah, I'm sad, I know, yeah
-`, media: `<iframe id="player-iAeYPfrXwk4" src="https://www.youtube.com/embed/iAeYPfrXwk4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=165" title="Music Video"></iframe>`, visits: 1000, coverArt: "https://images.genius.com/8b673f80818e4cc1b975e8d8cd81344c.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Silk Sonic", title: "Leave The Door Open", producer: "|D’Mile|Bruno Mars|", body: `[Intro: Bruno Mars]
+`, media: `<iframe id="player-iAeYPfrXwk4" src="https://www.youtube.com/embed/iAeYPfrXwk4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=165" title="Music Video"></iframe>`, visits: 1000, coverArt: "https://images.genius.com/8b673f80818e4cc1b975e8d8cd81344c.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Silk Sonic", title: "Leave The Door Open", producer: "|D’Mile|Bruno Mars|", body: `[Intro: Bruno Mars]
 Say baby, say baby, say baby
 
 [Verse 1: Anderson .Paak & Bruno Mars]
@@ -41170,7 +41170,7 @@ Tell me that you're comin' through (For you)
 Girl, I'm here just waiting for you
 Come on over, I'll adore you
 La-la-la-la-la-la-la
-`, media: `<iframe id="player-adLGHcj_fmA" src="https://www.youtube.com/embed/adLGHcj_fmA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=5" title="Music Video"></iframe>`, visits: 119, coverArt: "https://images.genius.com/9c645b3c8d1829fd001ded17baa79894.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bastille", title: "Pompeii", producer: "|Dan Smith|Mark Crew|", body: `[Directed by Jesse John Jenkins]
+`, media: `<iframe id="player-adLGHcj_fmA" src="https://www.youtube.com/embed/adLGHcj_fmA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=5" title="Music Video"></iframe>`, visits: 119, coverArt: "https://images.genius.com/9c645b3c8d1829fd001ded17baa79894.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bastille", title: "Pompeii", producer: "|Dan Smith|Mark Crew|", body: `[Directed by Jesse John Jenkins]
 
 [Intro]
 Eh, eheu, eheu
@@ -41331,7 +41331,7 @@ This the new style with the fresh type of flow (Nah, nah, baby)
 Wrist icicle, ride dick bicycle
 Come through yo, get you this type of blow
 If you want a ménage, I got a tricycle (No, eh, hey, eh, eh)
-`, media: `<iframe id="player-SXiSVQZLje8" src="https://www.youtube.com/embed/SXiSVQZLje8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 161, coverArt: "https://images.genius.com/aa35d69e7008062ae7b8d61977117332.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "BTS", title: "Butter", producer: "|Ron Perry|Rob Grimaldi|", body: `[Verse 1: Jung Kook, V & j-hope]
+`, media: `<iframe id="player-SXiSVQZLje8" src="https://www.youtube.com/embed/SXiSVQZLje8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 161, coverArt: "https://images.genius.com/aa35d69e7008062ae7b8d61977117332.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "BTS", title: "Butter", producer: "|Ron Perry|Rob Grimaldi|", body: `[Verse 1: Jung Kook, V & j-hope]
 Smooth like butter
 Like a criminal undercover
 Gon' pop like trouble
@@ -41495,7 +41495,7 @@ Shine bright like a diamond (Woah)
 Shine bright like a diamond (Woah)
 Shine bright like a diamond
 Shine bright like a diamond
-`, media: `<iframe id="player-lWA2pjMjpBs" src="https://www.youtube.com/embed/lWA2pjMjpBs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=38" title="Music Video"></iframe>`, visits: 87, coverArt: "https://images.genius.com/4fdaed37a6f53b920224e85ed1e9043c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Cardi B", title: "Bodak Yellow", producer: "|Laquan Green|J. White Did It|", body: `[Intro]
+`, media: `<iframe id="player-lWA2pjMjpBs" src="https://www.youtube.com/embed/lWA2pjMjpBs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=38" title="Music Video"></iframe>`, visits: 87, coverArt: "https://images.genius.com/4fdaed37a6f53b920224e85ed1e9043c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Cardi B", title: "Bodak Yellow", producer: "|Laquan Green|J. White Did It|", body: `[Intro]
 KSR
 It's Cardi, ayy
 Said I'm the shit, they can't fuck with me if they wanted to
@@ -41788,7 +41788,7 @@ That Bloody Mary's lacking in Tabasco
 (You're not coming back again)
 Remember when you used to be a rascal?
 (Oh...)
-`, media: `<iframe id="player-ma9I9VBKPiw" src="https://www.youtube.com/embed/ma9I9VBKPiw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 139, coverArt: "https://images.genius.com/d442fd59285070c1e5a39ddcf1a3f78c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "One Direction", title: "What Makes You Beautiful", producer: "|Carl Falk|Rami|", body: `[Verse 1: Liam]
+`, media: `<iframe id="player-ma9I9VBKPiw" src="https://www.youtube.com/embed/ma9I9VBKPiw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 139, coverArt: "https://images.genius.com/d442fd59285070c1e5a39ddcf1a3f78c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "One Direction", title: "What Makes You Beautiful", producer: "|Carl Falk|Rami|", body: `[Verse 1: Liam]
 You're insecure, don't know what for
 You're turning heads when you walk through the door
 Don't need makeup to cover up
@@ -41853,7 +41853,7 @@ Oh-oh-oh, you don't know you're beautiful, oh-oh
 That's what makes you beautiful
 
 [Written By Savan Kotecha]
-`, media: `<iframe id="player-S3IQwuYX_ls" src="https://www.youtube.com/embed/S3IQwuYX_ls?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 74, coverArt: "https://images.genius.com/f27cb4da140c8589aafafdc5837a56d9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "J. Cole", title: "MIDDLE CHILD", producer: "|J. Cole|T-Minus|", body: `[Intro]
+`, media: `<iframe id="player-S3IQwuYX_ls" src="https://www.youtube.com/embed/S3IQwuYX_ls?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 74, coverArt: "https://images.genius.com/f27cb4da140c8589aafafdc5837a56d9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "J. Cole", title: "MIDDLE CHILD", producer: "|J. Cole|T-Minus|", body: `[Intro]
 You good, T-Minus?
 
 [Refrain]
@@ -42084,7 +42084,7 @@ Aunque contra mí se levante guerra yo estaré confiado
 Brr, amén, ¿ah?
 El sistema a nosotro' no no' corrompe, papi, nosotro' nunca vamo' a chotear, jejeje
 Real hasta la muerte, cabrón
-`, media: `<iframe id="player-1UVrk_D6gLY" src="https://www.youtube.com/embed/1UVrk_D6gLY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 7, coverArt: "https://images.genius.com/767651d135d4b221591b9e1792bf635c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Calvin Harris (Ft. Frank Ocean & Migos)", title: "Slide", producer: "|Migos|Frank Ocean|Calvin Harris|", body: `[Intro: Frank Ocean]
+`, media: `<iframe id="player-1UVrk_D6gLY" src="https://www.youtube.com/embed/1UVrk_D6gLY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 7, coverArt: "https://images.genius.com/767651d135d4b221591b9e1792bf635c.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Calvin Harris (Ft. Frank Ocean & Migos)", title: "Slide", producer: "|Migos|Frank Ocean|Calvin Harris|", body: `[Intro: Frank Ocean]
 I might
 Empty my bank account
 And buy that boy with a pipe
@@ -42244,7 +42244,7 @@ And a lust for life, and a lust for life
 And a lust for life, and a lust for life
 Keeps us alive, keeps us alive
 Keeps us alive, keeps us alive (Oh)
-`, media: `<iframe id="player-eP4eqhWc7sI" src="https://www.youtube.com/embed/eP4eqhWc7sI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=29" title="Music Video"></iframe>`, visits: 149, coverArt: "https://images.genius.com/7ffd174f99aceb508120c72c0ffdc339.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Snake (Ft. Cardi B, Ozuna & Selena Gomez)", title: "Taki Taki", producer: "|Cardi B|Ozuna|DJ Snake|", body: `[Letra de "Taki Taki" ft. Ozuna, Cardi B & Selena Gomez]
+`, media: `<iframe id="player-eP4eqhWc7sI" src="https://www.youtube.com/embed/eP4eqhWc7sI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=29" title="Music Video"></iframe>`, visits: 149, coverArt: "https://images.genius.com/7ffd174f99aceb508120c72c0ffdc339.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Snake (Ft. Cardi B, Ozuna & Selena Gomez)", title: "Taki Taki", producer: "|Cardi B|Ozuna|DJ Snake|", body: `[Letra de "Taki Taki" ft. Ozuna, Cardi B & Selena Gomez]
 
 [Intro: Ozuna]
 Wo-oh, oh-oh
@@ -42338,7 +42338,7 @@ Wo-oh, oh-oh
 Hi Music Hi Flow
 Taki taki
 Taki taki
-`, media: `<iframe id="player-ixkoVwKQaJg" src="https://www.youtube.com/embed/ixkoVwKQaJg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=16" title="Music Video"></iframe>`, visits: 101, coverArt: "https://images.genius.com/0c22b85fa06b85f4878785b3479e4dbd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Coldplay", title: "Viva la Vida", producer: "|Rik Simpson|Brian Eno|", body: `[Verse 1: Chris Martin]
+`, media: `<iframe id="player-ixkoVwKQaJg" src="https://www.youtube.com/embed/ixkoVwKQaJg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=16" title="Music Video"></iframe>`, visits: 101, coverArt: "https://images.genius.com/0c22b85fa06b85f4878785b3479e4dbd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Coldplay", title: "Viva la Vida", producer: "|Rik Simpson|Brian Eno|", body: `[Verse 1: Chris Martin]
 I used to rule the world
 Seas would rise when I gave the word
 Now in the morning, I sleep alone
@@ -42474,7 +42474,7 @@ You don't even follow me
 Why you tweet my shit?
 You ain't used to read my shit
 Bitch, you used to fuckin' leave me on seen and shit
-`, media: `<iframe id="player-UC6USOV4ewc" src="https://www.youtube.com/embed/UC6USOV4ewc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=3" title="Music Video"></iframe>`, visits: 104, coverArt: "https://images.genius.com/085ad19592e1844ac721a68d28400ed9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bruno Mars", title: "That's What I Like", producer: "|The Stereotypes|Shampoo Press &amp; Curl|", body: `[Verse 1]
+`, media: `<iframe id="player-UC6USOV4ewc" src="https://www.youtube.com/embed/UC6USOV4ewc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=3" title="Music Video"></iframe>`, visits: 104, coverArt: "https://images.genius.com/085ad19592e1844ac721a68d28400ed9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bruno Mars", title: "That's What I Like", producer: "|The Stereotypes|Shampoo Press &amp; Curl|", body: `[Verse 1]
 Hey, hey, hey!
 I got a condo in Manhattan
 Baby girl, what's happenin'?
@@ -42661,7 +42661,7 @@ Nos vamos pegando, poquito a poquito
 Hasta provocar tus gritos (Fonsi)
 Y que olvides tu apellido (D.Y.)
 Despacito
-`, media: `<iframe id="player-72UO0v5ESUo" src="https://www.youtube.com/embed/72UO0v5ESUo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 402, coverArt: "https://images.genius.com/93e9e3fa0ab18bc4613d385f287090c6.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "NF", title: "WHY", producer: "|Tommee Profitt|Saint X|", body: `[Intro]
+`, media: `<iframe id="player-72UO0v5ESUo" src="https://www.youtube.com/embed/72UO0v5ESUo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 402, coverArt: "https://images.genius.com/93e9e3fa0ab18bc4613d385f287090c6.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "NF", title: "WHY", producer: "|Tommee Profitt|Saint X|", body: `[Intro]
 Too many faces, too many faces, too many faces
 
 [Verse]
@@ -42784,7 +42784,7 @@ Now you know, you're free to go
 Oh-oh-oh
 Please believe me
 Please believe me
-`, media: `<iframe id="player-I-QfPUz1es8" src="https://www.youtube.com/embed/I-QfPUz1es8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 83, coverArt: "https://images.genius.com/b22b8fb52555d0c66901579a5a0195c3.905x905x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Khaled (Ft. Drake)", title: "For Free", producer: "|Drake|Jordan Ullman|Nineteen85|", body: `[Intro: DJ Khaled & Complexion]
+`, media: `<iframe id="player-I-QfPUz1es8" src="https://www.youtube.com/embed/I-QfPUz1es8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 83, coverArt: "https://images.genius.com/b22b8fb52555d0c66901579a5a0195c3.905x905x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Khaled (Ft. Drake)", title: "For Free", producer: "|Drake|Jordan Ullman|Nineteen85|", body: `[Intro: DJ Khaled & Complexion]
 Would you fuck me for free?
 Another one (Another one, another one)
 We the Best Music! (Music, music) Major Key! (Major Key)
@@ -42862,7 +42862,7 @@ One time for 40
 One time for Drake
 Yeah, another one
 Bless up
-`, media: `<iframe id="player-vwzex56OjJ0" src="https://www.youtube.com/embed/vwzex56OjJ0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 62, coverArt: "https://images.genius.com/24e814efb2bce179785f65405387b5bd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "BLACKPINK & Selena Gomez", title: "Ice Cream", producer: "|Teddy Park|24|", body: `[Verse 1: Selena Gomez, Lisa, Jennie]
+`, media: `<iframe id="player-vwzex56OjJ0" src="https://www.youtube.com/embed/vwzex56OjJ0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 62, coverArt: "https://images.genius.com/24e814efb2bce179785f65405387b5bd.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "BLACKPINK & Selena Gomez", title: "Ice Cream", producer: "|Teddy Park|24|", body: `[Verse 1: Selena Gomez, Lisa, Jennie]
 Come a little closer 'cause you lookin' thirsty
 I'ma make it better, sip it like a Slurpee
 Snow cone chilly, get it free like Willy (Oh)
@@ -42940,7 +42940,7 @@ And I'm nice with the cream
 If you know what I mean
 Ice cream, ice cream
 Ice cream
-`, media: `<iframe id="player-vRXZj0DzXIA" src="https://www.youtube.com/embed/vRXZj0DzXIA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 58, coverArt: "https://images.genius.com/df3d28bfedf6095f2263684b34961039.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Selena Gomez", title: "Back to You", producer: "|Trackside|Ian Kirkpatrick|", body: `[Verse 1]
+`, media: `<iframe id="player-vRXZj0DzXIA" src="https://www.youtube.com/embed/vRXZj0DzXIA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 58, coverArt: "https://images.genius.com/df3d28bfedf6095f2263684b34961039.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Selena Gomez", title: "Back to You", producer: "|Trackside|Ian Kirkpatrick|", body: `[Verse 1]
 Took you like a shot
 Thought that I could chase you with a cold evenin'
 Let a couple years water down how I’m feelin' about you
@@ -43020,7 +43020,7 @@ I know I'd go back to you
 (Go back to you, go back to you)
 (Go back to you, go back to you)
 (Go back to you, go back to you)
-`, media: `<iframe id="player-VY1eFxgRR-k" src="https://www.youtube.com/embed/VY1eFxgRR-k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 101, coverArt: "https://images.genius.com/74de56dac086eadead12c098ee772461.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Meghan Trainor", title: "No Excuses", producer: "|Andrew Wells|", body: `[Intro]
+`, media: `<iframe id="player-VY1eFxgRR-k" src="https://www.youtube.com/embed/VY1eFxgRR-k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 101, coverArt: "https://images.genius.com/74de56dac086eadead12c098ee772461.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Meghan Trainor", title: "No Excuses", producer: "|Andrew Wells|", body: `[Intro]
 Woo
 Huh
 
@@ -43091,7 +43091,7 @@ You must've confused me, confused me with (Hey, come on, woo)
 Your mama raised you better than, better than that
 There ain't no excuses, excuses, babe (Yeah, baby)
 'Cause your mama raised you better than that, huh (She raised you better than that)
-`, media: `<iframe id="player-kton-qrKNLc" src="https://www.youtube.com/embed/kton-qrKNLc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 15, coverArt: "https://images.genius.com/21974119acbcf06742a6d08b74af227b.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Genius English Translations", title: "BTS - 전하지 못한 진심 (The Truth Untold) (English Translation)", producer: "", body: `[Verse 1: V]
+`, media: `<iframe id="player-kton-qrKNLc" src="https://www.youtube.com/embed/kton-qrKNLc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 15, coverArt: "https://images.genius.com/21974119acbcf06742a6d08b74af227b.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Genius English Translations", title: "BTS - 전하지 못한 진심 (The Truth Untold) (English Translation)", producer: "", body: `[Verse 1: V]
 Full of loneliness
 This garden bloomed
 Full of thorns
@@ -43171,7 +43171,7 @@ And I still want you
 But I still want you
 But I still want you
 And I still want you
-`, media: `<iframe id="player-GE_N1-fvms8" src="https://www.youtube.com/embed/GE_N1-fvms8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 40, coverArt: "https://images.genius.com/17ec7a755c21bdc7370645f5766d5513.820x820x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Machine Gun Kelly & Camila Cabello", title: "Bad Things", producer: "|The Futuristics|", body: `[Chorus: Camila Cabello]
+`, media: `<iframe id="player-GE_N1-fvms8" src="https://www.youtube.com/embed/GE_N1-fvms8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 40, coverArt: "https://images.genius.com/17ec7a755c21bdc7370645f5766d5513.820x820x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Machine Gun Kelly & Camila Cabello", title: "Bad Things", producer: "|The Futuristics|", body: `[Chorus: Camila Cabello]
 Am I out of my head?
 Am I out of my mind?
 If you only knew the bad things I like
@@ -43288,7 +43288,7 @@ Don't matter what you do
 I only wanna do bad things to you
 So good, that you can't explain it
 What can I say, it's complicated
-`, media: `<iframe id="player-QpbQ4I3Eidg" src="https://www.youtube.com/embed/QpbQ4I3Eidg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 115, coverArt: "https://images.genius.com/a03d4a144d99a820db3c688e6d028c1a.620x620x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Genius English Translations", title: "BTS - 작은 것들을 위한 시 (Boy With Luv) ft. Halsey (English Translation)", producer: "", body: `[Intro]
+`, media: `<iframe id="player-QpbQ4I3Eidg" src="https://www.youtube.com/embed/QpbQ4I3Eidg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 115, coverArt: "https://images.genius.com/a03d4a144d99a820db3c688e6d028c1a.620x620x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Genius English Translations", title: "BTS - 작은 것들을 위한 시 (Boy With Luv) ft. Halsey (English Translation)", producer: "", body: `[Intro]
 (Oh-oh-oh-oh-oh)
 (Oh-oh-oh-oh-oh)
 (Oh-oh-oh-oh-oh)
@@ -43402,7 +43402,7 @@ Than a moment, than a moment, love (Mo-moment, love)
 Love is nothing stronger (ooh ooh, oh yeah)
 (Oh-oh-oh-oh-oh)
 (Than a boy with) Than a boy with luv
-`, media: `<iframe id="player-XsX3ATc3FbA" src="https://www.youtube.com/embed/XsX3ATc3FbA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 50, coverArt: "https://images.genius.com/553d2a962f83a72f2b9edbc4aa17d5ba.841x841x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Panic! at the Disco", title: "High Hopes", producer: "|Jonny Coffer|Jonas Jeberg|", body: `[Intro]
+`, media: `<iframe id="player-XsX3ATc3FbA" src="https://www.youtube.com/embed/XsX3ATc3FbA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 50, coverArt: "https://images.genius.com/553d2a962f83a72f2b9edbc4aa17d5ba.841x841x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Panic! at the Disco", title: "High Hopes", producer: "|Jonny Coffer|Jonas Jeberg|", body: `[Intro]
 High, high hopes
 
 [Chorus]
@@ -43474,7 +43474,7 @@ Had to have high, high hopes for a living
 Didn't know how but I always had a feeling
 I was gonna be that one in a million
 Always had high, high hopes (High, high hopes)
-`, media: `<iframe id="player-IPXIgEAGe4U" src="https://www.youtube.com/embed/IPXIgEAGe4U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=6" title="Music Video"></iframe>`, visits: 158, coverArt: "https://images.genius.com/39ae242a600b3d2a903e7032b758d08d.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Cardi B", title: "Be Careful", producer: "|Frank Dukes|Boi-1da|", body: `[Intro]
+`, media: `<iframe id="player-IPXIgEAGe4U" src="https://www.youtube.com/embed/IPXIgEAGe4U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=6" title="Music Video"></iframe>`, visits: 158, coverArt: "https://images.genius.com/39ae242a600b3d2a903e7032b758d08d.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Cardi B", title: "Be Careful", producer: "|Frank Dukes|Boi-1da|", body: `[Intro]
 Yeah
 Care for me, care for me, care for me, uh
 Yeah, look
@@ -43756,7 +43756,7 @@ Whoa, baby, baby (Thunderstruck)
 You've been thunderstruck, thunderstruck
 Thunderstruck, thunderstruck
 You've been thunderstruck
-`, media: `<iframe id="player-v2AC41dglnM" src="https://www.youtube.com/embed/v2AC41dglnM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 38, coverArt: "https://images.genius.com/e1ce369be96a0b12af7bc8cdfc441b74.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Bad Bunny", title: "Tú No Metes Cabra", producer: "|Mambo Kingz|DJ Luian|", body: `[Letra de "Tu No Metes Cabra"]
+`, media: `<iframe id="player-v2AC41dglnM" src="https://www.youtube.com/embed/v2AC41dglnM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 38, coverArt: "https://images.genius.com/e1ce369be96a0b12af7bc8cdfc441b74.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Bad Bunny", title: "Tú No Metes Cabra", producer: "|Mambo Kingz|DJ Luian|", body: `[Letra de "Tu No Metes Cabra"]
 
 [Intro: Hector El Father & Bad Bunny]
 Cuando ustede' me ven, yo sé que tiemblan
@@ -43882,7 +43882,7 @@ You really got me and you, shook me all night long
 Yeah, you shook me
 Yeah, you shook me
 All night long
-`, media: `<iframe id="player-Lo2qQmj0_h4" src="https://www.youtube.com/embed/Lo2qQmj0_h4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 20, coverArt: "https://images.genius.com/d5f62498e56cc1dee3e405a53499c590.300x300x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "OneRepublic & Seeb", title: "Rich Love", producer: "|Ryan Tedder|Seeb|", body: `[Verse 1]
+`, media: `<iframe id="player-Lo2qQmj0_h4" src="https://www.youtube.com/embed/Lo2qQmj0_h4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 20, coverArt: "https://images.genius.com/d5f62498e56cc1dee3e405a53499c590.300x300x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "OneRepublic & Seeb", title: "Rich Love", producer: "|Ryan Tedder|Seeb|", body: `[Verse 1]
 I remember talking and drinking what we could find
 Burnin' all those candles and stayin' up through the night
 We'd make reservations for the places we know we'd never try
@@ -43958,7 +43958,7 @@ We're broke as a bottle of wine
 Cause if we don't find money
 Then what we got honey lifts it up
 We got some rich love
-`, media: `<iframe id="player-0qHGEgFucQU" src="https://www.youtube.com/embed/0qHGEgFucQU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 45, coverArt: "https://images.genius.com/90c9367df4ddfcfcc28319829c7498ae.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Jason Derulo (Ft. 2 Chainz)", title: "Talk Dirty", producer: "|2 Chainz|Ricky Reed|", body: `[Intro: Jason Derulo & Rie Abe]
+`, media: `<iframe id="player-0qHGEgFucQU" src="https://www.youtube.com/embed/0qHGEgFucQU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 45, coverArt: "https://images.genius.com/90c9367df4ddfcfcc28319829c7498ae.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Jason Derulo (Ft. 2 Chainz)", title: "Talk Dirty", producer: "|2 Chainz|Ricky Reed|", body: `[Intro: Jason Derulo & Rie Abe]
 Jason, haha
 Jason Derulo
 Haha, get Jazzy on 'em
@@ -44036,7 +44036,7 @@ Get Jazzy on 'em
 
 [Outro: Rie Abe]
 What? I don't understand
-`, media: `<iframe id="player-RbtPXFlZlHg" src="https://www.youtube.com/embed/RbtPXFlZlHg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 291, coverArt: "https://images.genius.com/7980861f0f615e4bc5bcdbe383f4a513.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Nicki Minaj (Ft. Drake & Lil Wayne)", title: "Truffle Butter", producer: "|Lil Wayne|Drake|Maya Jane Coles|Nineteen85|", body: `[Chorus: Maya Jane Coles]
+`, media: `<iframe id="player-RbtPXFlZlHg" src="https://www.youtube.com/embed/RbtPXFlZlHg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 291, coverArt: "https://images.genius.com/7980861f0f615e4bc5bcdbe383f4a513.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Nicki Minaj (Ft. Drake & Lil Wayne)", title: "Truffle Butter", producer: "|Lil Wayne|Drake|Maya Jane Coles|Nineteen85|", body: `[Chorus: Maya Jane Coles]
 You know, don't you?
 Yeah
 Night of
@@ -44174,7 +44174,7 @@ A-anytime
 I would do do do do
 Time away
 Yesterday-day-ay-ay-ay
-`, media: `<iframe id="player-2i2khp_npdE" src="https://www.youtube.com/embed/2i2khp_npdE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 28, coverArt: "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Migos (Ft. Travis Scott)", title: "Kelly Price", producer: "|Travis Scott|Cash Clay|Deraj Global|", body: `[Chorus: Quavo]
+`, media: `<iframe id="player-2i2khp_npdE" src="https://www.youtube.com/embed/2i2khp_npdE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 28, coverArt: "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Migos (Ft. Travis Scott)", title: "Kelly Price", producer: "|Travis Scott|Cash Clay|Deraj Global|", body: `[Chorus: Quavo]
 Bentley truck, yeah, that's my choice of ride (Skrrt, skrrt)
 Always keep some bitches on the side, yeah, yeah (Woo)
 Don't stand too close, my diamonds gonna bite (Bling)
@@ -44282,7 +44282,7 @@ I just can't understand her, understand
 I just can't understand, understand
 She drive, I drive hours, I always drive, I drive for you
 I black out, I black out too
-`, media: `<iframe id="player-7jkI38uJvzg" src="https://www.youtube.com/embed/7jkI38uJvzg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 61, coverArt: "https://images.genius.com/18b3b7b45fab00e8ac3b9c79df8f45b3.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sia", title: "Cheap Thrills", producer: "|Greg Kurstin|", body: `[Verse 1]
+`, media: `<iframe id="player-7jkI38uJvzg" src="https://www.youtube.com/embed/7jkI38uJvzg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 61, coverArt: "https://images.genius.com/18b3b7b45fab00e8ac3b9c79df8f45b3.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sia", title: "Cheap Thrills", producer: "|Greg Kurstin|", body: `[Verse 1]
 Come on, come on, turn the radio on
 It's Friday night and I won't be long
 Gotta do my hair, put my make up on
@@ -44402,7 +44402,7 @@ All the lonely people (Ah, look at all the lonely people!)
 Where do they all come from?
 All the lonely people (Ah, look at all the lonely people!)
 Where do they all belong?
-`, media: `<iframe id="player-HuS5NuXRb5Y" src="https://www.youtube.com/embed/HuS5NuXRb5Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 71, coverArt: "https://images.genius.com/ac01f000d3073d29530630870c2c060b.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Billie Eilish", title: "​everything i wanted", producer: "|FINNEAS|", body: `[Verse 1]
+`, media: `<iframe id="player-HuS5NuXRb5Y" src="https://www.youtube.com/embed/HuS5NuXRb5Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 71, coverArt: "https://images.genius.com/ac01f000d3073d29530630870c2c060b.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Billie Eilish", title: "​everything i wanted", producer: "|FINNEAS|", body: `[Verse 1]
 I had a dream
 I got everything I wanted
 Not what you'd think
@@ -44594,7 +44594,7 @@ I'm in the zone, baby
 Pick up the phone, baby (Like, "Brrt")
 (Like, "Brrt")
 I'm in the zone, baby
-`, media: `<iframe id="player-mZDinQ92OZQ" src="https://www.youtube.com/embed/mZDinQ92OZQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 312, coverArt: "https://images.genius.com/9a7fe94fd6a2cea1fb196ee8a3882b72.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Macklemore & Ryan Lewis (Ft. Wanz)", title: "Thrift Shop", producer: "|Wanz|Ryan Lewis|", body: `[Intro]
+`, media: `<iframe id="player-mZDinQ92OZQ" src="https://www.youtube.com/embed/mZDinQ92OZQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 312, coverArt: "https://images.genius.com/9a7fe94fd6a2cea1fb196ee8a3882b72.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Macklemore & Ryan Lewis (Ft. Wanz)", title: "Thrift Shop", producer: "|Wanz|Ryan Lewis|", body: `[Intro]
 "Hey, Macklemore, can we go thrift shopping?"
 What what, what, what
 What what, what, what
@@ -44706,7 +44706,7 @@ This is fucking awesome
 
 [Outro]
 "Is that your grandma's coat?"
-`, media: `<iframe id="player-QK8mJJJvaes" src="https://www.youtube.com/embed/QK8mJJJvaes?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 173, coverArt: "https://images.genius.com/7ae63364b4b759938ee549d49f4b393e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Big Sean & Metro Boomin (Ft. Kash Doll)", title: "So Good", producer: "|Kash Doll|Metro Boomin|", body: `[Intro: Big Sean & Kodak Black]
+`, media: `<iframe id="player-QK8mJJJvaes" src="https://www.youtube.com/embed/QK8mJJJvaes?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 173, coverArt: "https://images.genius.com/7ae63364b4b759938ee549d49f4b393e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Big Sean & Metro Boomin (Ft. Kash Doll)", title: "So Good", producer: "|Kash Doll|Metro Boomin|", body: `[Intro: Big Sean & Kodak Black]
 Yeah, yeah, Metro on the beat, Metro on the beat
 Ayy, Lil' Metro on that beat
 
@@ -44982,7 +44982,7 @@ And you'd come back
 And when I felt like I was an old cardigan
 Under someone's bed
 You put me on and said I was your favorite
-`, media: `<iframe id="player-K-a8s8OLBSE" src="https://www.youtube.com/embed/K-a8s8OLBSE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 143, coverArt: "https://images.genius.com/06eb9be0620a686ba2c8f981fdd741c0.600x600x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Chris Brown & Tyga", title: "Ayo", producer: "|Mark Kragen|Nic Nac|", body: `[Intro: Mila J]
+`, media: `<iframe id="player-K-a8s8OLBSE" src="https://www.youtube.com/embed/K-a8s8OLBSE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 143, coverArt: "https://images.genius.com/06eb9be0620a686ba2c8f981fdd741c0.600x600x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Chris Brown & Tyga", title: "Ayo", producer: "|Mark Kragen|Nic Nac|", body: `[Intro: Mila J]
 I need you, I need you
 I need you, I need you
 I need you, I need you (Lemme see)
@@ -45305,7 +45305,7 @@ Naa na na na na na na, na na na na, hey Jude
 (Go listen to ya ma ma ma ma ma ma ma ma)
 Naa na na na na na na, na na na na, hey Jude
 Naa na na na na na na, na na na na, hey Jude
-`, media: `<iframe id="player-A_MjCqQoLLA" src="https://www.youtube.com/embed/A_MjCqQoLLA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 91, coverArt: "https://images.genius.com/d3ed7c6e723c41aa6741b000259081fd.1000x707x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Offset & Metro Boomin", title: "Ric Flair Drip", producer: "|Metro Boomin|Bijan Amir|", body: `[Intro]
+`, media: `<iframe id="player-A_MjCqQoLLA" src="https://www.youtube.com/embed/A_MjCqQoLLA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 91, coverArt: "https://images.genius.com/d3ed7c6e723c41aa6741b000259081fd.1000x707x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Offset & Metro Boomin", title: "Ric Flair Drip", producer: "|Metro Boomin|Bijan Amir|", body: `[Intro]
 (Bijan 4 The 1 Time)
 Metro Boomin want some more, nigga! (Hey)
 
@@ -45375,7 +45375,7 @@ Ric Flair drip, go "woo" on a bitch (Woo)
 57 90, split the coupe on my wrist (Ice)
 Multi-million dollar, I'm a fool with the hits (Ayy)
 Hop up in the Lamb' and drop the roof, show the tits (Skrrt)
-`, media: `<iframe id="player-LPTlvQ1Zet0" src="https://www.youtube.com/embed/LPTlvQ1Zet0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 141, coverArt: "https://images.genius.com/68cdf0b9b5c2d28be8121f76b5ca8549.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Michael Jackson", title: "Wanna Be Startin' Somethin'", producer: "|Quincy Jones|Michael Jackson|", body: `[Chorus]
+`, media: `<iframe id="player-LPTlvQ1Zet0" src="https://www.youtube.com/embed/LPTlvQ1Zet0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 141, coverArt: "https://images.genius.com/68cdf0b9b5c2d28be8121f76b5ca8549.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Michael Jackson", title: "Wanna Be Startin' Somethin'", producer: "|Quincy Jones|Michael Jackson|", body: `[Chorus]
 I said you wanna be startin' somethin'
 You got to be startin' somethin'
 I said you wanna be startin' somethin'
@@ -45545,7 +45545,7 @@ Ma-ma-say, ma-ma-sah, ma-ma-coo-sah (Yeah)
 Ma-ma-say, ma-ma-sah, ma-ma-coo-sah (Sing it to the world)
 Ma-ma-say, ma-ma-sah, ma-ma-coo-sah (Sing it out loud)
 Ma-ma-say, ma-ma-sah, ma-ma-coo-sah (Hoo-hoo)
-`, media: `<iframe id="player-8KWf_-ofYgI" src="https://www.youtube.com/embed/8KWf_-ofYgI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 37, coverArt: "https://images.genius.com/00b2eaea6eec8c1025c167648134c45e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "OneRepublic", title: "Counting Stars", producer: "|Ryan Tedder|Noel Zancanella|", body: `[Intro]
+`, media: `<iframe id="player-8KWf_-ofYgI" src="https://www.youtube.com/embed/8KWf_-ofYgI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 37, coverArt: "https://images.genius.com/00b2eaea6eec8c1025c167648134c45e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "OneRepublic", title: "Counting Stars", producer: "|Ryan Tedder|Noel Zancanella|", body: `[Intro]
 Lately, I've been, I've been losing sleep
 Dreaming about the things that we could be
 But baby, I've been, I've been praying hard
@@ -45635,7 +45635,7 @@ Take that money, watch it burn
 Sink in the river the lessons I've learned
 Take that money, watch it burn
 Sink in the river the lessons I've learned
-`, media: `<iframe id="player-hT_nvWreIhg" src="https://www.youtube.com/embed/hT_nvWreIhg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 411, coverArt: "https://images.genius.com/76785cba45df6397ce5309d58a49cb4a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Cardi B", title: "Up", producer: "|Sean Island|DJ SwanQo|", body: `[Intro]
+`, media: `<iframe id="player-hT_nvWreIhg" src="https://www.youtube.com/embed/hT_nvWreIhg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 411, coverArt: "https://images.genius.com/76785cba45df6397ce5309d58a49cb4a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Cardi B", title: "Up", producer: "|Sean Island|DJ SwanQo|", body: `[Intro]
 Up, up, up (Ayy), up (Uh), up, look (This is fire)
 Once upon a time, man, I heard that I was ugly
 Came from a bitch who nigga wanna fuck on me
@@ -45781,7 +45781,7 @@ But I love it, but I love it, oh (But I love it)
 I can't feel my face when I'm with you (I can't feel my face when I'm with you)
 But I love it, but I love it, oh (When I'm with you, baby, when I'm with you, baby)
 Hey!
-`, media: `<iframe id="player-KEI4qSrkPAs" src="https://www.youtube.com/embed/KEI4qSrkPAs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 817, coverArt: "https://images.genius.com/fb35f79575da142d0455f631e2c1298a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Justin Bieber", title: "Sorry", producer: "|BloodPop®|Skrillex|", body: `[Written by Julia Michaels, Justin Tranter, and Justin Bieber]
+`, media: `<iframe id="player-KEI4qSrkPAs" src="https://www.youtube.com/embed/KEI4qSrkPAs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 817, coverArt: "https://images.genius.com/fb35f79575da142d0455f631e2c1298a.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Justin Bieber", title: "Sorry", producer: "|BloodPop®|Skrillex|", body: `[Written by Julia Michaels, Justin Tranter, and Justin Bieber]
 
 [Verse 1]
 You gotta go and get angry at all of my honesty
@@ -45838,7 +45838,7 @@ Sorry, oh
 Sorry
 Yeah, I know that I let you down
 Is it too late to say I'm sorry now?
-`, media: `<iframe id="player-fRh_vgS2dFE" src="https://www.youtube.com/embed/fRh_vgS2dFE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 98, coverArt: "https://images.genius.com/ff429a6c7bf8e73717ad263f800f1cf7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "JAY-Z (Ft. Justin Timberlake)", title: "Holy Grail", producer: "|Justin Timberlake|J-Roc|The-Dream|", body: `[Intro: Justin Timberlake]
+`, media: `<iframe id="player-fRh_vgS2dFE" src="https://www.youtube.com/embed/fRh_vgS2dFE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 98, coverArt: "https://images.genius.com/ff429a6c7bf8e73717ad263f800f1cf7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "JAY-Z (Ft. Justin Timberlake)", title: "Holy Grail", producer: "|Justin Timberlake|J-Roc|The-Dream|", body: `[Intro: Justin Timberlake]
 You'd take the clothes off my back and I'd let you
 You'd steal the food right out my mouth and I'd watch you eat it
 I still don’t know why
@@ -45967,7 +45967,7 @@ Ooh-ooh-ooh-ooh-ooh-ooh
 Don't know why
 
 [Produced by J-Roc, The-Dream & Timbaland]
-`, media: `<iframe id="player-KANd6w6oj9M" src="https://www.youtube.com/embed/KANd6w6oj9M?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 387, coverArt: "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Migos, Nicki Minaj & Cardi B", title: "MotorSport", producer: "|CuBeatz|Murda Beatz|", body: `[Intro: Quavo]
+`, media: `<iframe id="player-KANd6w6oj9M" src="https://www.youtube.com/embed/KANd6w6oj9M?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 387, coverArt: "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Migos, Nicki Minaj & Cardi B", title: "MotorSport", producer: "|CuBeatz|Murda Beatz|", body: `[Intro: Quavo]
 Yeah, woo, yeah, skrrt
 M-M-M-Murda
 
@@ -46105,7 +46105,7 @@ Girl, yeah, yeah, I wish my grandma could see me (Grandma)
 Take away pain, ain't easy (Pain)
 That's why I fire up a bleezy (Fire)
 Niggas not cappin' this season
-`, media: `<iframe id="player-9v_rtaye2yY" src="https://www.youtube.com/embed/9v_rtaye2yY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=5" title="Music Video"></iframe>`, visits: 267, coverArt: "https://images.genius.com/2ca05124280b3104c5e580d91d18d016.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Kygo & Selena Gomez", title: "It Ain't Me", producer: "|​watt|Kygo|", body: `[Intro: Selena Gomez]
+`, media: `<iframe id="player-9v_rtaye2yY" src="https://www.youtube.com/embed/9v_rtaye2yY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=5" title="Music Video"></iframe>`, visits: 267, coverArt: "https://images.genius.com/2ca05124280b3104c5e580d91d18d016.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Kygo & Selena Gomez", title: "It Ain't Me", producer: "|​watt|Kygo|", body: `[Intro: Selena Gomez]
 I had a dream
 We were sipping whiskey neat
 Highest floor, The Bowery
@@ -46184,7 +46184,7 @@ The Bowery, whiskey neat, grateful, I'm so grateful
 It ain't me
 The Bowery, whiskey neat, grateful, I'm so grateful
 It ain't me
-`, media: `<iframe id="player-u3VTKvdAuIY" src="https://www.youtube.com/embed/u3VTKvdAuIY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 138, coverArt: "https://images.genius.com/fa79cfad645a49218a24e3de4a25b16e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "BTS", title: "Dynamite", producer: "|David Stewart|", body: `[Intro: Jung Kook]
+`, media: `<iframe id="player-u3VTKvdAuIY" src="https://www.youtube.com/embed/u3VTKvdAuIY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 138, coverArt: "https://images.genius.com/fa79cfad645a49218a24e3de4a25b16e.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "BTS", title: "Dynamite", producer: "|David Stewart|", body: `[Intro: Jung Kook]
 'Cause I, I, I'm in the stars tonight
 So watch me bring the fire and set the night alight
 
@@ -46261,7 +46261,7 @@ Dyn-na-na-na, na-na-na-na-na, na-na-na, life is dynamite (Life is dynamite)
 Dyn-na-na-na, na-na-na-na-na, na-na-na, life is dynamite (Oh)
 Shinin' through the city with a little funk and soul
 So I'ma light it up like dynamite, woah-oh-oh
-`, media: `<iframe id="player-gdZLi9oWNZg" src="https://www.youtube.com/embed/gdZLi9oWNZg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=23" title="Music Video"></iframe>`, visits: 275, coverArt: "https://images.genius.com/df009633e4702b3838c793c7fd97adf3.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shawn Mendes", title: "Mercy", producer: "|Jake Gosling|Teddy Geiger|", body: `[Harmonizing Intro]
+`, media: `<iframe id="player-gdZLi9oWNZg" src="https://www.youtube.com/embed/gdZLi9oWNZg?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=23" title="Music Video"></iframe>`, visits: 275, coverArt: "https://images.genius.com/df009633e4702b3838c793c7fd97adf3.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shawn Mendes", title: "Mercy", producer: "|Jake Gosling|Teddy Geiger|", body: `[Harmonizing Intro]
 
 [Verse 1]
 You've got a hold on me
@@ -46611,7 +46611,7 @@ So just leave my dick in your mouth and keep my daughter out it
 You fuckin'—oh
 And I'm just playin', Diddy
 You know I love you
-`, media: `<iframe id="player-FxQTY-W6GIo" src="https://www.youtube.com/embed/FxQTY-W6GIo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 1000, coverArt: "https://images.genius.com/0d746c83f61c44aff7a1a812271822c5.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sam Smith", title: "Lay Me Down", producer: "|Steve Fitzmaurice|Jimmy Napes|", body: `[Verse 1]
+`, media: `<iframe id="player-FxQTY-W6GIo" src="https://www.youtube.com/embed/FxQTY-W6GIo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 1000, coverArt: "https://images.genius.com/0d746c83f61c44aff7a1a812271822c5.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sam Smith", title: "Lay Me Down", producer: "|Steve Fitzmaurice|Jimmy Napes|", body: `[Verse 1]
 Yes I do, I believe
 That one day I will be where I was
 Right there, right next to you
@@ -46654,7 +46654,7 @@ Lay me down tonight, lay me by your side
 
 [Outro]
 Can I lay by your side, next to you, you?
-`, media: `<iframe id="player-HaMq2nn5ac0" src="https://www.youtube.com/embed/HaMq2nn5ac0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=25" title="Music Video"></iframe>`, visits: 256, coverArt: "https://images.genius.com/e03b262e483619f35f7dfc6653cb2d93.820x820x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "J. Cole", title: "No Role Modelz", producer: "|Phonix Beats|J. Cole|", body: `[Verse 1]
+`, media: `<iframe id="player-HaMq2nn5ac0" src="https://www.youtube.com/embed/HaMq2nn5ac0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=25" title="Music Video"></iframe>`, visits: 256, coverArt: "https://images.genius.com/e03b262e483619f35f7dfc6653cb2d93.820x820x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "J. Cole", title: "No Role Modelz", producer: "|Phonix Beats|J. Cole|", body: `[Verse 1]
 First things first: rest in peace Uncle Phil
 For real
 You the only father that I ever knew
@@ -46894,7 +46894,7 @@ Black Seinfeld?
 Nigga, that's Martin!
 Damn, you're right...
 Shit, I'm fuckin' high
-`, media: `<iframe id="player-sxjC4CNG3_c" src="https://www.youtube.com/embed/sxjC4CNG3_c?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 118, coverArt: "https://images.genius.com/71bb135049fd2d5eec6551c744189c09.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "David Guetta, Martin Garrix & Brooks", title: "Like I Do", producer: "|Giorgio Tuinfort|Brooks|", body: `[Verse]
+`, media: `<iframe id="player-sxjC4CNG3_c" src="https://www.youtube.com/embed/sxjC4CNG3_c?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 118, coverArt: "https://images.genius.com/71bb135049fd2d5eec6551c744189c09.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "David Guetta, Martin Garrix & Brooks", title: "Like I Do", producer: "|Giorgio Tuinfort|Brooks|", body: `[Verse]
 Baby, I think of you
 When I'm all alone and it's half past two
 Bet you think about it too
@@ -46943,7 +46943,7 @@ Baby, I think of you
 When I'm all alone and it's half past two
 Bet you think about it too
 Ain't nobody love you like I do
-`, media: `<iframe id="player-WfPu9Jrcpuk" src="https://www.youtube.com/embed/WfPu9Jrcpuk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 11, coverArt: "https://images.genius.com/df06d3d95281e301d363bedf686d1b0f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Camila Cabello", title: "Shameless", producer: "|The Monsters &amp; Strangerz|​watt|", body: `[Verse 1]
+`, media: `<iframe id="player-WfPu9Jrcpuk" src="https://www.youtube.com/embed/WfPu9Jrcpuk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 11, coverArt: "https://images.genius.com/df06d3d95281e301d363bedf686d1b0f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Camila Cabello", title: "Shameless", producer: "|The Monsters &amp; Strangerz|​watt|", body: `[Verse 1]
 Don't speak, no, don't try
 It's been a secret for the longest time
 Don't run (Oh), no, don't hide
@@ -47025,7 +47025,7 @@ No-oh, uh-uh, don't wanna do this now
 No-oh, uh-uh, don't wanna do this now
 No-oh, uh-uh, don't wanna do this now
 No-oh, uh-uh, don't wanna do this now
-`, media: `<iframe id="player-Fp_P_e1cPOE" src="https://www.youtube.com/embed/Fp_P_e1cPOE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 100, coverArt: "https://images.genius.com/655c46217befaa4713f833a1749db575.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)", title: "Mercy", producer: "|Big Sean|Pusha T|Stepan “Lifted” Taft|Kanye West|", body: `[Intro: Fuzzy Jones]
+`, media: `<iframe id="player-Fp_P_e1cPOE" src="https://www.youtube.com/embed/Fp_P_e1cPOE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 100, coverArt: "https://images.genius.com/655c46217befaa4713f833a1749db575.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)", title: "Mercy", producer: "|Big Sean|Pusha T|Stepan “Lifted” Taft|Kanye West|", body: `[Intro: Fuzzy Jones]
 Well, it is a weepin' and a moanin' and a gnashin' of teeth
 It is a weepin' and a mournin' and a gnashin' of teeth
 It is a—when it comes to my sound which is the champion sound
@@ -47284,7 +47284,7 @@ Money out of sight cause fights
 Put up or shut up, huh?
 Nitt Da Gritt, RGF Productions
 Squad
-`, media: `<iframe id="player-i_kF4zLNKio" src="https://www.youtube.com/embed/i_kF4zLNKio?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=5" title="Music Video"></iframe>`, visits: 3000, coverArt: "https://images.rapgenius.com/694274eb49f35ea1ad1acc36ab99390e.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Nicki Minaj (Ft. Chris Brown, Drake & Lil Wayne)", title: "Only", producer: "|Lil Wayne|Drake|Cirkut|JMIKE|", body: `[Verse 1: Nicki Minaj]
+`, media: `<iframe id="player-i_kF4zLNKio" src="https://www.youtube.com/embed/i_kF4zLNKio?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=5" title="Music Video"></iframe>`, visits: 3000, coverArt: "https://images.rapgenius.com/694274eb49f35ea1ad1acc36ab99390e.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Nicki Minaj (Ft. Chris Brown, Drake & Lil Wayne)", title: "Only", producer: "|Lil Wayne|Drake|Cirkut|JMIKE|", body: `[Verse 1: Nicki Minaj]
 Yo, I never fucked Wayne, I never fucked Drake
 On my life, man, fuck's sake
 If I did, I'd ménage with 'em and let 'em eat my ass like a cupcake
@@ -47474,7 +47474,7 @@ Thunder, th-th-thunder, thunder
 (Woah-oh-ohh)
 Thunder, thunder, thun-
 Thunder, th-th-thunder, thunder
-`, media: `<iframe id="player-fKopy74weus" src="https://www.youtube.com/embed/fKopy74weus?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=22" title="Music Video"></iframe>`, visits: 141, coverArt: "https://images.genius.com/e7768dcddaa060c10a101fb220334640.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Khaled (Ft. Drake)", title: "GREECE", producer: "|Drake|Peter Eddins|Elijah Dax|", body: `[Intro: DJ Khaled]
+`, media: `<iframe id="player-fKopy74weus" src="https://www.youtube.com/embed/fKopy74weus?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=22" title="Music Video"></iframe>`, visits: 141, coverArt: "https://images.genius.com/e7768dcddaa060c10a101fb220334640.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Khaled (Ft. Drake)", title: "GREECE", producer: "|Drake|Peter Eddins|Elijah Dax|", body: `[Intro: DJ Khaled]
 We The Best Music
 Another one
 DJ Khaled
@@ -47553,7 +47553,7 @@ I could tell you're sick inside
 She don't wanna leave me
 She just wanna love me
 She don't wanna leave me
-`, media: `<iframe id="player-NMlBB2pK5qo" src="https://www.youtube.com/embed/NMlBB2pK5qo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 37, coverArt: "https://images.genius.com/766b86bfbe5410f292eda83ed09a7875.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Katy Perry (Ft. Skip Marley)", title: "Chained to the Rhythm", producer: "|Skip Marley|Max Martin|Ali Payami|", body: `[Verse 1: Katy Perry]
+`, media: `<iframe id="player-NMlBB2pK5qo" src="https://www.youtube.com/embed/NMlBB2pK5qo?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 37, coverArt: "https://images.genius.com/766b86bfbe5410f292eda83ed09a7875.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Katy Perry (Ft. Skip Marley)", title: "Chained to the Rhythm", producer: "|Skip Marley|Max Martin|Ali Payami|", body: `[Verse 1: Katy Perry]
 Are we crazy?
 Living our lives through a lens
 Trapped in our white picket fence
@@ -47654,7 +47654,7 @@ It goes on, and on, and on
 It goes on, and on, and on
 It goes on, and on, and on
 'Cause we're all chained to the rhythm
-`, media: `<iframe id="player-Um7pMggPnug" src="https://www.youtube.com/embed/Um7pMggPnug?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 91, coverArt: "https://images.genius.com/cf4e99004a462504bbed986db0c397b4.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Macklemore & Ryan Lewis", title: "Wing$", producer: "|Ryan Lewis|", body: `[Verse 1: Macklemore]
+`, media: `<iframe id="player-Um7pMggPnug" src="https://www.youtube.com/embed/Um7pMggPnug?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 91, coverArt: "https://images.genius.com/cf4e99004a462504bbed986db0c397b4.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Macklemore & Ryan Lewis", title: "Wing$", producer: "|Ryan Lewis|", body: `[Verse 1: Macklemore]
 I was seven years old when I got my first pair
 And I stepped outside, and I was like "Momma
 This air bubble right here, it's gonna make me fly"
@@ -47812,7 +47812,7 @@ My money
 Yo, my money
 That bitch better have my money
 Bitch better have my money
-`, media: `<iframe id="player-B3eAMGXFw1o" src="https://www.youtube.com/embed/B3eAMGXFw1o?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=92" title="Music Video"></iframe>`, visits: 779, coverArt: "https://images.genius.com/f109ee3a9b4a793fb674d25a20020af4.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Maroon 5", title: "Maps", producer: "|Ryan Tedder|​benny blanco|", body: `[Verse 1]
+`, media: `<iframe id="player-B3eAMGXFw1o" src="https://www.youtube.com/embed/B3eAMGXFw1o?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=92" title="Music Video"></iframe>`, visits: 779, coverArt: "https://images.genius.com/f109ee3a9b4a793fb674d25a20020af4.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Maroon 5", title: "Maps", producer: "|Ryan Tedder|​benny blanco|", body: `[Verse 1]
 I miss the taste of a sweeter life
 I miss the conversation
 I'm searching for a song tonight
@@ -47908,7 +47908,7 @@ The map that leads to you
 Ain't nothing I can do
 The map that leads to you
 Following, following, following
-`, media: `<iframe id="player-NmugSMBh_iI" src="https://www.youtube.com/embed/NmugSMBh_iI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 179, coverArt: "https://images.rapgenius.com/db3fab20f7df45e43dde3603a098ed5e.1000x524x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "David Guetta (Ft. Justin Bieber)", title: "2U", producer: "|Justin Bieber|David Guetta|Giorgio Tuinfort|", body: `[Verse 1: Justin Bieber]
+`, media: `<iframe id="player-NmugSMBh_iI" src="https://www.youtube.com/embed/NmugSMBh_iI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 179, coverArt: "https://images.rapgenius.com/db3fab20f7df45e43dde3603a098ed5e.1000x524x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "David Guetta (Ft. Justin Bieber)", title: "2U", producer: "|Justin Bieber|David Guetta|Giorgio Tuinfort|", body: `[Verse 1: Justin Bieber]
 No limit in the sky that I won't fly for ya
 No amount of tears in my eyes that I won't cry for ya, oh no
 With every breath that I take
@@ -48030,7 +48030,7 @@ Oh-oh-oh, na-na-na-na-na
 Oh-oh-oh, na-na-na-na-na
 Oh-oh-oh, na-na-na-na-na
 Oh-oh-oh, na-na-na-na-na
-`, media: `<iframe id="player-JZjAg6fK-BQ" src="https://www.youtube.com/embed/JZjAg6fK-BQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 211, coverArt: "https://images.genius.com/93682d19e0fe838094b4a663a6bbdb82.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Michael Jackson", title: "Billie Jean", producer: "|Quincy Jones|Michael Jackson|", body: `[Verse 1]
+`, media: `<iframe id="player-JZjAg6fK-BQ" src="https://www.youtube.com/embed/JZjAg6fK-BQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 211, coverArt: "https://images.genius.com/93682d19e0fe838094b4a663a6bbdb82.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Michael Jackson", title: "Billie Jean", producer: "|Quincy Jones|Michael Jackson|", body: `[Verse 1]
 She was more like a beauty queen from a movie scene
 I said, "Don't mind, but what do you mean, I am the one
 Who will dance on the floor in the round?"
@@ -48119,7 +48119,7 @@ Billie Jean is not my lover (She is just a girl)
 (Hoo! She's not at the scene)
 Billie Jean is not (Hee! Aaow! Ooh!)
 Billie Jean is
-`, media: `<iframe id="player-Zi_XLOBDo_Y" src="https://www.youtube.com/embed/Zi_XLOBDo_Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 126, coverArt: "https://images.genius.com/cbcea666bf3d3cbb0022d185ce4b95df.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Maroon 5 (Ft. Future)", title: "Cold", producer: "|Future|John Ryan|Phil Shaouy|", body: `[Chorus: Adam Levine]
+`, media: `<iframe id="player-Zi_XLOBDo_Y" src="https://www.youtube.com/embed/Zi_XLOBDo_Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 126, coverArt: "https://images.genius.com/cbcea666bf3d3cbb0022d185ce4b95df.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Maroon 5 (Ft. Future)", title: "Cold", producer: "|Future|John Ryan|Phil Shaouy|", body: `[Chorus: Adam Levine]
 Cold enough to chill my bones
 It feels like I don't know you anymore
 I don't understand why you're so cold to me
@@ -48228,7 +48228,7 @@ So tough, it’s a cold world
 Whoa, yeah
 So tough, it’s a cold world
 I don't understand why you're so cold
-`, media: `<iframe id="player-XatXy6ZhKZw" src="https://www.youtube.com/embed/XatXy6ZhKZw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=51" title="Music Video"></iframe>`, visits: 46, coverArt: "https://images.genius.com/a581c79e3201364cb5f11f3bd1b5f161.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Justin Bieber (Ft. Big Sean)", title: "As Long As You Love Me", producer: "|Big Sean|Andre Lindal|Rodney Jerkins|", body: `[Intro: Justin Bieber]
+`, media: `<iframe id="player-XatXy6ZhKZw" src="https://www.youtube.com/embed/XatXy6ZhKZw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=51" title="Music Video"></iframe>`, visits: 46, coverArt: "https://images.genius.com/a581c79e3201364cb5f11f3bd1b5f161.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Justin Bieber (Ft. Big Sean)", title: "As Long As You Love Me", producer: "|Big Sean|Andre Lindal|Rodney Jerkins|", body: `[Intro: Justin Bieber]
 As long as you love me
 (Love me, love me, love me, love me, love me, love me)
 As long as you love me
@@ -48307,7 +48307,7 @@ As long as you love me, you love me (Please don't go)
 As long as you love me, as long as you love me
 As long as you love me, yeah
 As long as you love me (Love me, love me, love me, love me)
-`, media: `<iframe id="player-R4em3LKQCAQ" src="https://www.youtube.com/embed/R4em3LKQCAQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=88" title="Music Video"></iframe>`, visits: 106, coverArt: "https://images.genius.com/f78103ada196b2a169e891c7f799d371.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Post Malone", title: "Better Now", producer: "|Louis Bell|Frank Dukes|", body: `[Chorus]
+`, media: `<iframe id="player-R4em3LKQCAQ" src="https://www.youtube.com/embed/R4em3LKQCAQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=88" title="Music Video"></iframe>`, visits: 106, coverArt: "https://images.genius.com/f78103ada196b2a169e891c7f799d371.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Post Malone", title: "Better Now", producer: "|Louis Bell|Frank Dukes|", body: `[Chorus]
 You prolly think that you are better now, better now
 You only say that 'cause I'm not around, not around
 You know I never meant to let you down, let you down
@@ -48379,7 +48379,7 @@ I only say that 'cause you're not around, not around
 You know I never meant to let you down, let you down
 Woulda gave you anything, woulda gave you everything
 Oh-oh
-`, media: `<iframe id="player-UYwF-jdcVjY" src="https://www.youtube.com/embed/UYwF-jdcVjY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 159, coverArt: "https://images.genius.com/ef176757a5735c7a104dd735543c1d20.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Michael Jackson", title: "Man in the Mirror", producer: "|Quincy Jones|Michael Jackson|", body: `[Verse 1]
+`, media: `<iframe id="player-UYwF-jdcVjY" src="https://www.youtube.com/embed/UYwF-jdcVjY?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 159, coverArt: "https://images.genius.com/ef176757a5735c7a104dd735543c1d20.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Michael Jackson", title: "Man in the Mirror", producer: "|Quincy Jones|Michael Jackson|", body: `[Verse 1]
 I'm gonna make a change
 For once in my life
 Gonna feel real good
@@ -48473,7 +48473,7 @@ Hoo, hoo, hoo! Ow! (Yeah, make that change)
 Go make that change, Shamone (Man in the mirror)
 You know it, you know it, you know it, you know (Change)
 Make that change
-`, media: `<iframe id="player-PivWY9wn5ps" src="https://www.youtube.com/embed/PivWY9wn5ps?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 81, coverArt: "http://assets.genius.com/images/sharing_fallback.png?1632344895", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "G-Eazy (Ft. A$AP Rocky, Belly, French Montana & Juicy J)", title: "No Limit REMIX", producer: "|A$AP Rocky|French Montana|Boi-1da|Allen Ritter|", body: `[Intro: Juicy J]
+`, media: `<iframe id="player-PivWY9wn5ps" src="https://www.youtube.com/embed/PivWY9wn5ps?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 81, coverArt: "http://assets.genius.com/images/sharing_fallback.png?1632344895", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "G-Eazy (Ft. A$AP Rocky, Belly, French Montana & Juicy J)", title: "No Limit REMIX", producer: "|A$AP Rocky|French Montana|Boi-1da|Allen Ritter|", body: `[Intro: Juicy J]
 Yeah, ho!
 Yeah, ho!
 Yeah, ho!
@@ -48731,7 +48731,7 @@ With your girlfriend, girlfriend, girlfriend, baby, girlfriend
 With your girlfriend
 With your girlfriend, girlfriend, girlfriend, girlfriend
 With your girlfriend
-`, media: `<iframe id="player-LH4Y1ZUUx2g" src="https://www.youtube.com/embed/LH4Y1ZUUx2g?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 171, coverArt: "https://images.genius.com/39e41252985b10aa8cdcedffe97d1ff7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Post Malone (Ft. 21 Savage)", title: "​​rockstar", producer: "|21 Savage|Tank God|Louis Bell|", body: `[Intro: Post Malone]
+`, media: `<iframe id="player-LH4Y1ZUUx2g" src="https://www.youtube.com/embed/LH4Y1ZUUx2g?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 171, coverArt: "https://images.genius.com/39e41252985b10aa8cdcedffe97d1ff7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Post Malone (Ft. 21 Savage)", title: "​​rockstar", producer: "|21 Savage|Tank God|Louis Bell|", body: `[Intro: Post Malone]
 Hahahahaha
 Tank God
 Ayy, ayy
@@ -49045,7 +49045,7 @@ If you think I need to be overseas and take a vacation
 To trip a broad, and make her fall on her face and
 Don't be a retard—be a king? Think not
 Why be a king when you can be a god?
-`, media: `<iframe id="player-XbGs_qK2PQA" src="https://www.youtube.com/embed/XbGs_qK2PQA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 6000, coverArt: "https://images.genius.com/2b8df56a45a20bd15e8ef464302e12ae.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Justin Bieber", title: "Love Yourself", producer: "|​benny blanco|", body: `[Produced by Benny Blanco]
+`, media: `<iframe id="player-XbGs_qK2PQA" src="https://www.youtube.com/embed/XbGs_qK2PQA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 6000, coverArt: "https://images.genius.com/2b8df56a45a20bd15e8ef464302e12ae.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Justin Bieber", title: "Love Yourself", producer: "|​benny blanco|", body: `[Produced by Benny Blanco]
 
 [Verse 1]
 For all the times that you rained on my parade
@@ -49114,7 +49114,7 @@ You should go and love yourself
 Oh baby, you should go and love yourself
 And if you think that I'm still holdin' on to somethin'
 You should go and love yourself
-`, media: `<iframe id="player-oyEuk8j8imI" src="https://www.youtube.com/embed/oyEuk8j8imI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 150, coverArt: "https://images.genius.com/ff429a6c7bf8e73717ad263f800f1cf7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Major Lazer (Ft. Justin Bieber & MØ)", title: "Cold Water", producer: "|MØ|Justin Bieber|Diplo|​benny blanco|", body: `[Verse 1: Justin Bieber]
+`, media: `<iframe id="player-oyEuk8j8imI" src="https://www.youtube.com/embed/oyEuk8j8imI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 150, coverArt: "https://images.genius.com/ff429a6c7bf8e73717ad263f800f1cf7.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Major Lazer (Ft. Justin Bieber & MØ)", title: "Cold Water", producer: "|MØ|Justin Bieber|Diplo|​benny blanco|", body: `[Verse 1: Justin Bieber]
 Everybody gets high sometimes, you know
 What else can we do when we're feelin' low?
 So take a deep breath and let it go
@@ -49509,7 +49509,7 @@ Please just don’t give up on me
 And my eyes are wide awake
 For my battle symphony
 For my battle symphony
-`, media: `<iframe id="player-D7ab595h0AU" src="https://www.youtube.com/embed/D7ab595h0AU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 60, coverArt: "https://images.genius.com/809ae09ce22f1ffc7683705b8c1913a5.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Selena Gomez", title: "Lose You To Love Me", producer: "|FINNEAS|Mattman &amp; Robin|", body: `[Verse 1]
+`, media: `<iframe id="player-D7ab595h0AU" src="https://www.youtube.com/embed/D7ab595h0AU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 60, coverArt: "https://images.genius.com/809ae09ce22f1ffc7683705b8c1913a5.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Selena Gomez", title: "Lose You To Love Me", producer: "|FINNEAS|Mattman &amp; Robin|", body: `[Verse 1]
 You promised the world and I fell for it
 I put you first and you adored it
 Set fires to my forest
@@ -49589,7 +49589,7 @@ To love, love, yeah
 To love, love, yeah
 To love, yeah
 And now it's goodbye, it's goodbye for us
-`, media: `<iframe id="player-b8kRrZ6PTU8" src="https://www.youtube.com/embed/b8kRrZ6PTU8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 108, coverArt: "https://images.genius.com/66c652d1f7d762fd5c5a0eef4bb8bf11.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Diplo (Ft. French Montana, Lil Pump & Zhavia Ward)", title: "Welcome to the Party", producer: "|French Montana|Lil Pump|Valentino Khan|Diplo|", body: `[Intro: French Montana & Lil Pump]
+`, media: `<iframe id="player-b8kRrZ6PTU8" src="https://www.youtube.com/embed/b8kRrZ6PTU8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 108, coverArt: "https://images.genius.com/66c652d1f7d762fd5c5a0eef4bb8bf11.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Diplo (Ft. French Montana, Lil Pump & Zhavia Ward)", title: "Welcome to the Party", producer: "|French Montana|Lil Pump|Valentino Khan|Diplo|", body: `[Intro: French Montana & Lil Pump]
 Haaan
 We on fire
 Step up in the party, step up in the party, ha (Haaan)
@@ -49667,7 +49667,7 @@ Ayy, welcome to the party
 [Outro: French Montana]
 We on fire
 Step up in the party, step up in the party, haan
-`, media: `<iframe id="player-QgOXIEhHU1Y" src="https://www.youtube.com/embed/QgOXIEhHU1Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 30, coverArt: "https://images.genius.com/d7ec1d0add6081c1c4160ff4a54bec6e.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Big Sean (Ft. Eminem)", title: "No Favors", producer: "|Eminem|Big Sean|FrancisGotHeat|", body: `[Chorus: Big Sean]
+`, media: `<iframe id="player-QgOXIEhHU1Y" src="https://www.youtube.com/embed/QgOXIEhHU1Y?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 30, coverArt: "https://images.genius.com/d7ec1d0add6081c1c4160ff4a54bec6e.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Big Sean (Ft. Eminem)", title: "No Favors", producer: "|Eminem|Big Sean|FrancisGotHeat|", body: `[Chorus: Big Sean]
 Make it, make it, make it, boy, we gotta make it
 You can save your hand, I ain't gotta shake it
 Everything lined up for the takin'
@@ -50068,7 +50068,7 @@ Fuck bitches, fuck bitches, fuck bitches
 My nigga we don't fuck… with ya
 So why you fuck with us?
 Fuck bitches, fuck bitches
-`, media: `<iframe id="player-CeMdIw1B6qI" src="https://www.youtube.com/embed/CeMdIw1B6qI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 13, coverArt: "https://images.genius.com/ea2d909e09e67f5bd9e159361cb4cab0.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Camila Cabello", title: "Never Be the Same", producer: "|Frank Dukes|", body: `[Verse 1]
+`, media: `<iframe id="player-CeMdIw1B6qI" src="https://www.youtube.com/embed/CeMdIw1B6qI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 13, coverArt: "https://images.genius.com/ea2d909e09e67f5bd9e159361cb4cab0.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Camila Cabello", title: "Never Be the Same", producer: "|Frank Dukes|", body: `[Verse 1]
 Somethin' must've gone wrong in my brain
 Got your chemicals all in my veins
 Feelin' all the highs, feelin' all the pain
@@ -50141,7 +50141,7 @@ And I'm a sucker for the way that you move, babe
 And I could try to run, but it would be useless
 You're to blame
 Just one hit of you, I knew I'll never ever, ever be the same
-`, media: `<iframe id="player-Ph54wQG8ynk" src="https://www.youtube.com/embed/Ph54wQG8ynk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 199, coverArt: "https://images.genius.com/e29c1edb750792c33d4d08418a6440a9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Jawsh 685 & Jason Derulo", title: "Savage Love (Laxed - Siren Beat)", producer: "|Jawsh 685|", body: `[Intro: Jason Derulo & Jawsh 685]
+`, media: `<iframe id="player-Ph54wQG8ynk" src="https://www.youtube.com/embed/Ph54wQG8ynk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 199, coverArt: "https://images.genius.com/e29c1edb750792c33d4d08418a6440a9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Jawsh 685 & Jason Derulo", title: "Savage Love (Laxed - Siren Beat)", producer: "|Jawsh 685|", body: `[Intro: Jason Derulo & Jawsh 685]
 Jason Derulo, ah
 Savage love (685, baby)
 
@@ -50219,7 +50219,7 @@ Your savage lo-lo-love (Ooh, yeah)
 Your savage lo-lo-love
 Girl, you could use me
 'Cause I still want that your savage love
-`, media: `<iframe id="player-gUci-tsiU4I" src="https://www.youtube.com/embed/gUci-tsiU4I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 25, coverArt: "https://images.genius.com/96727244b2dd653c22ce67b1a35c44f0.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Metro Boomin (Ft. Drake & Offset)", title: "No Complaints", producer: "|Offset|Drake|Metro Boomin|", body: `[Intro: Offset & Future]
+`, media: `<iframe id="player-gUci-tsiU4I" src="https://www.youtube.com/embed/gUci-tsiU4I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 25, coverArt: "https://images.genius.com/96727244b2dd653c22ce67b1a35c44f0.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Metro Boomin (Ft. Drake & Offset)", title: "No Complaints", producer: "|Offset|Drake|Metro Boomin|", body: `[Intro: Offset & Future]
 Know what I'm sayin'?
 Fuck what y'all niggas doin'
 What you got goin' on, what's happenin'?
@@ -50336,7 +50336,7 @@ She fuckin' for some
 [Outro: Drake & Young Thug]
 At 23 I bought it all, just to make sure, yeah, yeah!
 (Metro Boomin want some more, nigga)
-`, media: `<iframe id="player-WSHhp-VXTZs" src="https://www.youtube.com/embed/WSHhp-VXTZs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 69, coverArt: "https://images.genius.com/fdd2a3df6192625bf47d4fb67921accd.800x800x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Pop Smoke (Ft. 50 Cent & Roddy Ricch)", title: "The Woo", producer: "|50 Cent|Roddy Ricch|Jess Jackson|Ray Lennon|", body: `[Intro: Pop Smoke]
+`, media: `<iframe id="player-WSHhp-VXTZs" src="https://www.youtube.com/embed/WSHhp-VXTZs?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 69, coverArt: "https://images.genius.com/fdd2a3df6192625bf47d4fb67921accd.800x800x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Pop Smoke (Ft. 50 Cent & Roddy Ricch)", title: "The Woo", producer: "|50 Cent|Roddy Ricch|Jess Jackson|Ray Lennon|", body: `[Intro: Pop Smoke]
 She want a Woo nigga
 
 [Chorus: Pop Smoke]
@@ -50416,7 +50416,7 @@ She wanna fuck with the Woo
 She wanna fuck with the Woo
 She wanna ride with the Woo
 Yeah, yeah, yeah, yeah
-`, media: `<iframe id="player-G6XthQpk8uk" src="https://www.youtube.com/embed/G6XthQpk8uk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 53, coverArt: "https://images.genius.com/8a1f7823c54eceb8924a137571ab0b1c.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "G-Eazy (Ft. A$AP Rocky & Cardi B)", title: "No Limit", producer: "|A$AP Rocky|Cardi B|Boi-1da|Allen Ritter|", body: `[Chorus: A$AP Rocky, G-Eazy]
+`, media: `<iframe id="player-G6XthQpk8uk" src="https://www.youtube.com/embed/G6XthQpk8uk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 53, coverArt: "https://images.genius.com/8a1f7823c54eceb8924a137571ab0b1c.600x600x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "G-Eazy (Ft. A$AP Rocky & Cardi B)", title: "No Limit", producer: "|A$AP Rocky|Cardi B|Boi-1da|Allen Ritter|", body: `[Chorus: A$AP Rocky, G-Eazy]
 If I hit it one time, I'ma pipe her
 If I hit it two times then I like her
 If I fuck three times, I'ma wife her
@@ -50526,7 +50526,7 @@ Ayy, yeah, fuck with me and get some money
 Yeah, ayy, fuck with me and get some money
 Ayy, yeah, fuck with me and get some money
 Ayy, yeah, fuck with G and get some money
-`, media: `<iframe id="player-PGfSaVDymjk" src="https://www.youtube.com/embed/PGfSaVDymjk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 125, coverArt: "https://images.genius.com/e0eaf90ba683362e97470a0dba396227.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "NF", title: "Let You Down", producer: "|Tommee Profitt|", body: `[Chorus]
+`, media: `<iframe id="player-PGfSaVDymjk" src="https://www.youtube.com/embed/PGfSaVDymjk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 125, coverArt: "https://images.genius.com/e0eaf90ba683362e97470a0dba396227.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "NF", title: "Let You Down", producer: "|Tommee Profitt|", body: `[Chorus]
 Feels like we're on the edge right now
 I wish that I could say I'm proud
 I'm sorry that I let you down
@@ -50621,7 +50621,7 @@ Oh, let you down
 Yeah, I'm sorry
 I'm so sorry now
 Yeah, I'm sorry that I let you down
-`, media: `<iframe id="player-fbHbTBP_u7U" src="https://www.youtube.com/embed/fbHbTBP_u7U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 315, coverArt: "https://images.genius.com/81a5583fa75d96b2b42d04e2fca13c12.1000x419x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Camila Cabello (Ft. Young Thug)", title: "Havana", producer: "|Young Thug|Frank Dukes|", body: `[Intro: Pharrell Williams]
+`, media: `<iframe id="player-fbHbTBP_u7U" src="https://www.youtube.com/embed/fbHbTBP_u7U?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 315, coverArt: "https://images.genius.com/81a5583fa75d96b2b42d04e2fca13c12.1000x419x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Camila Cabello (Ft. Young Thug)", title: "Havana", producer: "|Young Thug|Frank Dukes|", body: `[Intro: Pharrell Williams]
 Hey
 
 [Chorus: Camila Cabello & Pharrell Williams]
@@ -50708,7 +50708,7 @@ Oh, na-na-na
 Oh, na-na-na (No, no, no, take me back)
 Oh, na-na-na
 Havana, ooh na-na
-`, media: `<iframe id="player-BQ0mxQXmLsk" src="https://www.youtube.com/embed/BQ0mxQXmLsk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=148" title="Music Video"></iframe>`, visits: 301, coverArt: "https://images.genius.com/e29c1edb750792c33d4d08418a6440a9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Migos", title: "Stir Fry", producer: "|Pharrell Williams|", body: `[Intro: Quavo]
+`, media: `<iframe id="player-BQ0mxQXmLsk" src="https://www.youtube.com/embed/BQ0mxQXmLsk?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=148" title="Music Video"></iframe>`, visits: 301, coverArt: "https://images.genius.com/e29c1edb750792c33d4d08418a6440a9.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Migos", title: "Stir Fry", producer: "|Pharrell Williams|", body: `[Intro: Quavo]
 Woo, woo, woo, woo
 Woo, woo, woo, woo
 
@@ -50791,7 +50791,7 @@ In the kitchen, wrist twistin' like it's stir fry (Whip it)
 In the kitchen, wrist twistin' like it's stir fry (Whip it)
 In the kitchen, wrist twistin' like it's stir fry (Whip it)
 In the kitchen, wrist twistin' like it's stir fry (Wroof)
-`, media: `<iframe id="player-HI-mXMr8glQ" src="https://www.youtube.com/embed/HI-mXMr8glQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=22" title="Music Video"></iframe>`, visits: 98, coverArt: "https://images.genius.com/2ca05124280b3104c5e580d91d18d016.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Machine Gun Kelly (Ft. Hailee Steinfeld)", title: "At My Best", producer: "|Hailee Steinfeld|Happy Perez|", body: `[Intro: Machine Gun Kelly]
+`, media: `<iframe id="player-HI-mXMr8glQ" src="https://www.youtube.com/embed/HI-mXMr8glQ?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=22" title="Music Video"></iframe>`, visits: 98, coverArt: "https://images.genius.com/2ca05124280b3104c5e580d91d18d016.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Machine Gun Kelly (Ft. Hailee Steinfeld)", title: "At My Best", producer: "|Hailee Steinfeld|Happy Perez|", body: `[Intro: Machine Gun Kelly]
 Turn my vocals up, alright
 
 [Verse 1: Machine Gun Kelly]
@@ -50862,7 +50862,7 @@ Gotta keep it goin', gotta keep my head up, uh
 Gotta keep it goin', gotta keep my head up, uh
 I gotta keep it goin', gotta keep my head up
 'Cause life is about...
-`, media: `<iframe id="player-tgvbhxb9yk8" src="https://www.youtube.com/embed/tgvbhxb9yk8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 35, coverArt: "https://images.genius.com/c98569b267e89696258cb20a9320523f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Marshmello (Ft. Khalid)", title: "Silence", producer: "|Khalid|Marshmello|", body: `[Verse 1]
+`, media: `<iframe id="player-tgvbhxb9yk8" src="https://www.youtube.com/embed/tgvbhxb9yk8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 35, coverArt: "https://images.genius.com/c98569b267e89696258cb20a9320523f.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Marshmello (Ft. Khalid)", title: "Silence", producer: "|Khalid|Marshmello|", body: `[Verse 1]
 Yeah, I'd rather be a lover than a fighter (Fighter)
 'Cause all my life, I've been fighting
 Never felt a feeling of comfort, oh
@@ -50908,7 +50908,7 @@ I've been quiet for too long
 I found peace in your violence
 Can't tell me there's no point in trying
 I'm at one, and I've been quiet for too long
-`, media: `<iframe id="player-Tx1sqYc3qas" src="https://www.youtube.com/embed/Tx1sqYc3qas?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=10" title="Music Video"></iframe>`, visits: 116, coverArt: "https://images.genius.com/eda133d0e85c38ac75a5bf0f12e19191.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Big Sean (Ft. Jay Electronica & Kendrick Lamar)", title: "Control", producer: "|Kendrick Lamar|Jay Electronica|No I.D.|", body: `[Produced by No I.D.]
+`, media: `<iframe id="player-Tx1sqYc3qas" src="https://www.youtube.com/embed/Tx1sqYc3qas?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=10" title="Music Video"></iframe>`, visits: 116, coverArt: "https://images.genius.com/eda133d0e85c38ac75a5bf0f12e19191.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Big Sean (Ft. Jay Electronica & Kendrick Lamar)", title: "Control", producer: "|Kendrick Lamar|Jay Electronica|No I.D.|", body: `[Produced by No I.D.]
 
 [Intro: Big Sean]
 Mhm, I look up
@@ -51069,7 +51069,7 @@ Jay Electricity, PBS Mysteries
 In a lofty place tanglin' with Satan over history
 You can’t say shit to me, الحمد لله‎
 It’s strictly by faith that we made it this far
-`, media: `<iframe id="player-_rTpYOmqkIE" src="https://www.youtube.com/embed/_rTpYOmqkIE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 618, coverArt: "https://images.rapgenius.com/fed29debbafe5b0650a0cd5e46216552.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Ski Mask the Slump God", title: "Catch Me Outside", producer: "|Timbaland|", body: `[Intro]
+`, media: `<iframe id="player-_rTpYOmqkIE" src="https://www.youtube.com/embed/_rTpYOmqkIE?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 618, coverArt: "https://images.rapgenius.com/fed29debbafe5b0650a0cd5e46216552.500x500x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Ski Mask the Slump God", title: "Catch Me Outside", producer: "|Timbaland|", body: `[Intro]
 Shout out, my mucus (Ayy, ayy, ayy)
 'Cause you know that be my slime
 (Ayy, catch me outside)
@@ -51256,7 +51256,7 @@ Dímelo, Colla, yeah
 Con lo' fucking Sensei
 Duars Entertainment
 The fucking remix, yeah
-`, media: `<iframe id="player-P9YwNtBS4m4" src="https://www.youtube.com/embed/P9YwNtBS4m4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 11, coverArt: "https://images.genius.com/0af3d25230cbb2147296181610164eaf.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shawn Mendes", title: "There's Nothing Holdin' Me Back", producer: "|Andrew Maury|Teddy Geiger|", body: `[Verse 1]
+`, media: `<iframe id="player-P9YwNtBS4m4" src="https://www.youtube.com/embed/P9YwNtBS4m4?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 11, coverArt: "https://images.genius.com/0af3d25230cbb2147296181610164eaf.640x640x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shawn Mendes", title: "There's Nothing Holdin' Me Back", producer: "|Andrew Maury|Teddy Geiger|", body: `[Verse 1]
 I wanna follow where she goes
 I think about her and she knows it
 I wanna let her take control
@@ -51318,7 +51318,7 @@ Baby, there's nothing holdin' me back (Oh whoa)
 There's nothing holdin' me back
 I feel so free when you're with me, baby
 Baby, there's nothing holdin' me back
-`, media: `<iframe id="player-dT2owtxkU8k" src="https://www.youtube.com/embed/dT2owtxkU8k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 154, coverArt: "https://images.genius.com/93880faf6e6cb2ae4598ab012e64acb8.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Sam Smith", title: "Stay with Me", producer: "|Steve Fitzmaurice|Jimmy Napes|", body: `[Verse 1]
+`, media: `<iframe id="player-dT2owtxkU8k" src="https://www.youtube.com/embed/dT2owtxkU8k?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 154, coverArt: "https://images.genius.com/93880faf6e6cb2ae4598ab012e64acb8.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Sam Smith", title: "Stay with Me", producer: "|Steve Fitzmaurice|Jimmy Napes|", body: `[Verse 1]
 Guess it's true, I'm not good at a one-night stand
 But I still need love 'cause I'm just a man
 These nights never seem to go to plan
@@ -51467,7 +51467,7 @@ I'll never be alright
 So I'm breaking the habit
 I'm breaking the habit
 I'm breaking the habit tonight
-`, media: `<iframe id="player-v2H4l9RpkwM" src="https://www.youtube.com/embed/v2H4l9RpkwM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 69, coverArt: "https://images.genius.com/fe104a811126443667345c1fe51d5dad.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Shakira (Ft. Freshlyground)", title: "Waka Waka (This Time for Africa)", producer: "|Freshlyground|Shakira|John Hill|", body: `[Intro]
+`, media: `<iframe id="player-v2H4l9RpkwM" src="https://www.youtube.com/embed/v2H4l9RpkwM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 69, coverArt: "https://images.genius.com/fe104a811126443667345c1fe51d5dad.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Shakira (Ft. Freshlyground)", title: "Waka Waka (This Time for Africa)", producer: "|Freshlyground|Shakira|John Hill|", body: `[Intro]
 Oooeeeeeeeeeeeeeeeehh!
 Viva Africa (Otra, otra)
 Viva Africa (Otra, otra)
@@ -51691,7 +51691,7 @@ With the birds, I'll share this lonely view
 With the birds, I'll share this lonely view
 
 [Guitar Solo]
-`, media: `<iframe id="player-mzJj5-lubeM" src="https://www.youtube.com/embed/mzJj5-lubeM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 93, coverArt: "https://images.genius.com/829b9657aa704020a959c959aee99315.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Snake (Ft. Lauv)", title: "A Different Way", producer: "|Lauv|DJ Snake|", body: `[Verse 1: Lauv]
+`, media: `<iframe id="player-mzJj5-lubeM" src="https://www.youtube.com/embed/mzJj5-lubeM?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 93, coverArt: "https://images.genius.com/829b9657aa704020a959c959aee99315.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Snake (Ft. Lauv)", title: "A Different Way", producer: "|Lauv|DJ Snake|", body: `[Verse 1: Lauv]
 Could you believe? I could be different
 I'll be the difference, I'll lift you high
 And I understand your hesitation
@@ -51835,7 +51835,7 @@ Baby, I'm right here
 [Post-Chorus: ZAYN & Sia]
 I'll be with you from dusk till dawn
 Baby, I'm right here
-`, media: `<iframe id="player-tt2k8PGm-TI" src="https://www.youtube.com/embed/tt2k8PGm-TI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 148, coverArt: "https://images.genius.com/6ccbf5ec0d742ae76371fafff685999d.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Blueface (Ft. Cardi B)", title: "Thotiana (Cardi B Remix)", producer: "|Cardi B|Scum Beatz|", body: `[Intro: Blueface]
+`, media: `<iframe id="player-tt2k8PGm-TI" src="https://www.youtube.com/embed/tt2k8PGm-TI?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 148, coverArt: "https://images.genius.com/6ccbf5ec0d742ae76371fafff685999d.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Blueface (Ft. Cardi B)", title: "Thotiana (Cardi B Remix)", producer: "|Cardi B|Scum Beatz|", body: `[Intro: Blueface]
 Blueface, baby
 Yeah, aight
 Bust down, Thotiana
@@ -51972,7 +51972,7 @@ I'm just pissed off because you pied me off
 After your show when you let go of my hand
 In front of some sket who wanted bit on your
 Nah, I’m just messing
-`, media: `<iframe id="player-1K93ioXL63c" src="https://www.youtube.com/embed/1K93ioXL63c?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 87, coverArt: "https://images.genius.com/94351031b3d9580eafa72fe2fa6ce6cc.910x910x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Nicky Jam & J Balvin", title: "X (EQUIS)", producer: "|Afro Bros|Jeon|", body: `[Letra de "X (EQUIS)"]
+`, media: `<iframe id="player-1K93ioXL63c" src="https://www.youtube.com/embed/1K93ioXL63c?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 87, coverArt: "https://images.genius.com/94351031b3d9580eafa72fe2fa6ce6cc.910x910x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Nicky Jam & J Balvin", title: "X (EQUIS)", producer: "|Afro Bros|Jeon|", body: `[Letra de "X (EQUIS)"]
 
 [Intro: Nicky Jam]
 Aquel día te vi y tu energía sentí
@@ -52110,7 +52110,7 @@ A little less lonely together
 A little less lonely now
 A little less lonely now
 A little less lonely now
-`, media: `<iframe id="player-vQ3XgMKAgxc" src="https://www.youtube.com/embed/vQ3XgMKAgxc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 45, coverArt: "https://images.genius.com/fd23c5a0626abe5ef5807534aa14f3ce.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "J. Cole, 21 Savage & Morray", title: "​​m y . l i f e", producer: "|WU10|J. Cole|", body: `[Intro: J. Cole]
+`, media: `<iframe id="player-vQ3XgMKAgxc" src="https://www.youtube.com/embed/vQ3XgMKAgxc?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 45, coverArt: "https://images.genius.com/fd23c5a0626abe5ef5807534aa14f3ce.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "J. Cole, 21 Savage & Morray", title: "​​m y . l i f e", producer: "|WU10|J. Cole|", body: `[Intro: J. Cole]
 Oh, you came there, God
 Yeah, yeah, yeah, yeah
 Oh, Lord
@@ -52193,7 +52193,7 @@ What you sayin' now won't budge me
 People you grow up with layin' in a coffin
 But I done made it through the pain and strife
 It's my time now, my world, my life, my life
-`, media: `<iframe id="player-wLQ8u3xRZd8" src="https://www.youtube.com/embed/wLQ8u3xRZd8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 177, coverArt: "https://images.genius.com/439279ef55cbef2bad0530aecda4f9d8.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Kanye West (Ft. Bon Iver, JAY-Z, Nicki Minaj & Rick Ross)", title: "Monster", producer: "|Bon Iver|Rick Ross|Plain Pat|MIKE DEAN|", body: `[Intro: Justin Vernon]
+`, media: `<iframe id="player-wLQ8u3xRZd8" src="https://www.youtube.com/embed/wLQ8u3xRZd8?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 177, coverArt: "https://images.genius.com/439279ef55cbef2bad0530aecda4f9d8.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Kanye West (Ft. Bon Iver, JAY-Z, Nicki Minaj & Rick Ross)", title: "Monster", producer: "|Bon Iver|Rick Ross|Plain Pat|MIKE DEAN|", body: `[Intro: Justin Vernon]
 I shoot the lights out
 Hide 'til it's bright out
 Oh, just another lonely night
@@ -52336,7 +52336,7 @@ So I, I am headed home
 
 [Produced by Kanye West, Mike Dean & Plain Pat]
 [Video directed by Jake Nava]
-`, media: `<iframe id="player-pS6HRKZQLFA" src="https://www.youtube.com/embed/pS6HRKZQLFA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 400, coverArt: "https://images.genius.com/06521ed20c7464b73cd1ca76968155ae.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Major Lazer (Ft. Wild Belle)", title: "Be Together", producer: "|Wild Belle|Diplo|Djemba Djemba|", body: `[Verse 1: Natalie Bergman]
+`, media: `<iframe id="player-pS6HRKZQLFA" src="https://www.youtube.com/embed/pS6HRKZQLFA?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 400, coverArt: "https://images.genius.com/06521ed20c7464b73cd1ca76968155ae.1000x1000x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Major Lazer (Ft. Wild Belle)", title: "Be Together", producer: "|Wild Belle|Diplo|Djemba Djemba|", body: `[Verse 1: Natalie Bergman]
 Let me escape in your arms
 Baby I'm yours, baby I'm yours
 Love don't come easy at all
@@ -52560,7 +52560,7 @@ Three, four, five, six, seven; shit
 Eight is the bullets if you say no after all this
 And I just couldn't take it, you're so motherfuckin' gorgeous
 Gorgeous, gorgeous, gorgeous, gorgeous
-`, media: `<iframe id="player-mFNaFeIm4bU" src="https://www.youtube.com/embed/mFNaFeIm4bU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=10" title="Music Video"></iframe>`, visits: 204, coverArt: "https://images.genius.com/75bf065e109fa3079c72ad2e9371efd0.320x180x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Pink Floyd", title: "Comfortably Numb", producer: "|James Guthrie|Bob Ezrin|", body: `[Intro]
+`, media: `<iframe id="player-mFNaFeIm4bU" src="https://www.youtube.com/embed/mFNaFeIm4bU?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=10" title="Music Video"></iframe>`, visits: 204, coverArt: "https://images.genius.com/75bf065e109fa3079c72ad2e9371efd0.320x180x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Pink Floyd", title: "Comfortably Numb", producer: "|James Guthrie|Bob Ezrin|", body: `[Intro]
 
 [Verse 1: Roger Waters]
 Hello? (Hello, hello, hello)
@@ -52742,7 +52742,7 @@ Ra-ra-ah-ah-ah
 Roma, Roma-ma
 Gaga, "Ooh la-la"
 Want your bad romance
-`, media: `<iframe id="player-qrO4YZeyl0I" src="https://www.youtube.com/embed/qrO4YZeyl0I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 65, coverArt: "https://images.genius.com/00a18085a3b234c034ab4283829a27b7.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Pink Floyd", title: "Wish You Were Here", producer: "|Pink Floyd|", body: `[Spoken Intro]
+`, media: `<iframe id="player-qrO4YZeyl0I" src="https://www.youtube.com/embed/qrO4YZeyl0I?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 65, coverArt: "https://images.genius.com/00a18085a3b234c034ab4283829a27b7.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Pink Floyd", title: "Wish You Were Here", producer: "|Pink Floyd|", body: `[Spoken Intro]
 And disciplinary remains mercifully
 Yes and um, I’m with you Derek, this star nonsense
 Yes, yes, now which is it?
@@ -52916,7 +52916,7 @@ Cop it, then I serve it up, give it up
 Really with the Gotti, Gotti
 Who, who really with the Gotti, Gotti?
 Who, who really with the?
-`, media: `<iframe id="player-z5WrgDzNIZ0" src="https://www.youtube.com/embed/z5WrgDzNIZ0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 62, coverArt: "https://images.genius.com/05f2343aa2b1a16692889723898f5b95.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Kanye West", title: "New Slaves", producer: "|Ben Bronfman|Che Pope|", body: `[Intro: Swizz Beatz]
+`, media: `<iframe id="player-z5WrgDzNIZ0" src="https://www.youtube.com/embed/z5WrgDzNIZ0?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 62, coverArt: "https://images.genius.com/05f2343aa2b1a16692889723898f5b95.1000x563x1.jpg", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "Kanye West", title: "New Slaves", producer: "|Ben Bronfman|Che Pope|", body: `[Intro: Swizz Beatz]
 Chill, chill, chill, chill, chill, chill
 Chill, chill, chill, chill, chill, chill
 
@@ -52988,7 +52988,7 @@ Az embereknek fájt a sötét
 Ő megsajnált, eljött közénk
 
 [Produced by Che Pope, Sham Joseph, Ben Bronfman, Noah Goldstein, Travis Scott, Mike Dean & Kanye West]
-`, media: `<iframe id="player-vQ0u09mFodw" src="https://www.youtube.com/embed/vQ0u09mFodw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 417, coverArt: "https://images.genius.com/f4daff29a000bf818c5e53355c12d672.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "DJ Khaled (Ft. Bryson Tiller & Rihanna)", title: "Wild Thoughts", producer: "|Bryson Tiller|Rihanna|DJ Khaled|L.V.M.|", body: `[Intro: DJ Khaled]
+`, media: `<iframe id="player-vQ0u09mFodw" src="https://www.youtube.com/embed/vQ0u09mFodw?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 417, coverArt: "https://images.genius.com/f4daff29a000bf818c5e53355c12d672.1000x1000x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 3, artist: "DJ Khaled (Ft. Bryson Tiller & Rihanna)", title: "Wild Thoughts", producer: "|Bryson Tiller|Rihanna|DJ Khaled|L.V.M.|", body: `[Intro: DJ Khaled]
 Another one
 We The Best music
 DJ Khaled
@@ -53249,7 +53249,7 @@ Yeah, hey, oh
 Oh, nah, nah
 (Oh-oh, oh-oh, oh-oh, oh-oh-oh-oh, oh, oh)
 You'll never bring me down
-`, media: `<iframe id="player-bFDzhKdrN9M" src="https://www.youtube.com/embed/bFDzhKdrN9M?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 67, coverArt: "https://images.genius.com/952e9fcb0db0cf03c6fb0f856c30e702.1000x420x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 1, artist: "Genius English Translations", title: "BTS - Magic Shop (English Translation)", producer: "", body: `[Verse 1: V, Jung Kook]
+`, media: `<iframe id="player-bFDzhKdrN9M" src="https://www.youtube.com/embed/bFDzhKdrN9M?controls=2&amp;enablejsapi=1&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;playsInline=0&amp;origin=https%3A%2F%2Fgenius.com&amp;start=0" title="Music Video"></iframe>`, visits: 67, coverArt: "https://images.genius.com/952e9fcb0db0cf03c6fb0f856c30e702.1000x420x1.png", createdAt: new Date(), updatedAt: new Date()},{userID: 2, artist: "Genius English Translations", title: "BTS - Magic Shop (English Translation)", producer: "", body: `[Verse 1: V, Jung Kook]
 I know that you're hesitating because even if you say the truth
 In the end it will all return as scars
 I'm not going to say anything blatant like "find strength"

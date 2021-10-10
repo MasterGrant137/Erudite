@@ -13,13 +13,12 @@ const submissionValidation = [
     handleValidationErrors
 ]
 
-
-router.get('/:songID/list', asyncHandler(async(req, res) => {
-    const songID = req.params.songID;
-    const comments = await Comment.findOne({ where: { songID } });
+router.get('/:title/list', asyncHandler(async(req, res) => {
+    const title = req.params.title;
+    const song = await Song.findOne({ where: { title } })
+    const comments = await Comment.findOne({ where: { songID: song.id } });
     return res.json(comments);
 }));
-
 
 router.post('/', submissionValidation, asyncHandler(async(req, res) => {
     const jwtToken = req.cookies.token;
@@ -39,6 +38,5 @@ router.post('/', submissionValidation, asyncHandler(async(req, res) => {
 
     res.json(createdComment);
 }))
-
 
 module.exports = router;

@@ -23,22 +23,19 @@ export const SongPage = () => {
         dispatch(queryActions1.addComment(songParams?.title));
     }, [dispatch, songParams])
 
-    const songSelector = useSelector(state => {
-        return state.song;
-    })
-    let song;
-    const songStateVals = Object.values(songSelector);
-    if (songStateVals.length === 1) song = songStateVals[0];
-    else song = songStateVals.find(song => song.title === songParams.title);
-
     useEffect(() => {
-        dispatch(queryActions1.commentSection(song?.id));
-    }, [dispatch, song])
+        dispatch(queryActions2.commentSection(songParams?.title));
+    }, [dispatch, songParams])
 
+    const songSelector = useSelector(state => state.song);
 
-    const commentsSelector = useSelector(state => {
-        return state.queriedSongs;
-    })
+    //* we should be able to refactor this now
+    let song = Object.values(songSelector)[0];
+    // const songStateVals = Object.values(songSelector);
+    // if (songStateVals.length === 1) song = songStateVals[0];
+    // else song = songStateVals.find(song => song.title === songParams.title);
+
+    const commentsSelector = useSelector(state => state.comments);
 
     const comments = Object.values(commentsSelector).map(comment => (
         <li>{comment.body}</li>

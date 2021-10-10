@@ -2,14 +2,15 @@ import { createStore, combineReducers, applyMiddleware, compose } from 'redux';
 import thunk from 'redux-thunk';
 import sessionReducer from './session';
 import queriedSongsReducer from './queries-1';
-import {topSongsReducer, songReducer} from './queries-2';
+import {topSongsReducer, songReducer, commentsReducer} from './queries-2';
 
 const rootReducer = combineReducers({
   //? reducer state keys and values
   session: sessionReducer,
+  queriedSongs: queriedSongsReducer,
   topSongs: topSongsReducer,
   song: songReducer,
-  queriedSongs: queriedSongsReducer
+  comments: commentsReducer
 });
 
 let enhancer;
