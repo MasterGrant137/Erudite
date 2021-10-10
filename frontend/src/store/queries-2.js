@@ -41,7 +41,6 @@ export const songPage = (title) => async dispatch => {
     const response = await csrfFetch(`/erudite/songs/${title}/lyrics`)
     if (response.ok) {
         const song = await response.json();
-        console.log('SONG PAGE RESPONSE', song);
         dispatch(getSongs(song));
     }
 }
@@ -55,17 +54,18 @@ export const commentSection = (title) => async dispatch => {
 }
 
 export const addComment = (comment) => async dispatch => {
-  console.log('this is what a comment looks like', comment.title);
   const response = await csrfFetch(`/erudite/comments/${comment.title}/list`, {
     method: 'POST',
     body: JSON.stringify(comment)
   });
 
   if (response.ok) {
-    console.log(response);
-    const newComment = await response.json();
-    dispatch(setComment(newComment));
-    return newComment;
+      const newComment = await response.json();
+      if (newComment.title === 'Comment failed') alert(newComment.error);
+      else {
+        dispatch(setComment(newComment));
+        return newComment;
+      }
   }
 }
 

@@ -12,7 +12,6 @@ export const SongPage = () => {
     const songParams = useParams();
 
     const [body, setBody] = useState('');
-    // const [commentList, setCommentList] = useState('');
 
     const songSelector = useSelector(state => state?.song);
     let song = Object.values(songSelector)[0];
@@ -25,7 +24,7 @@ export const SongPage = () => {
     }, [dispatch, songParams])
 
     useEffect(() => {
-        dispatch(queryActions2.commentSection(songParams?.title));
+        dispatch(queryActions2.commentSection(songParams?.title))
     }, [dispatch, songParams])
 
     const handleSubmit = (e) => {
@@ -34,7 +33,6 @@ export const SongPage = () => {
         const title = songParams?.title;
         dispatch(queryActions2.addComment({ title, body }));
         setBody('');
-        console.log('IN HANDLER', body, comments);
     }
 
     return (
