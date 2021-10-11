@@ -82,9 +82,6 @@ export const MySongsPage = () => {
         return state.queriedSongs;
     })
 
-    const [visibility, setVisibility] = useState(`hidden`);
-    const [size, setSize] = useState('big');
-
     const songDiv = Object.values(songs).map(song => (
         <div key={song?.id}>
             <div
@@ -92,12 +89,12 @@ export const MySongsPage = () => {
                 data-card-size='small'
                 className='mySongs-card'
                 onMouseOver={(e) => {
-                    setVisibility(onMouseOverHandler(e, 'visible'));
-                    setSize(onMouseOverHandler(e, 'big'));
+                    onMouseOverHandler(e, 'visible');
+                    onMouseOverHandler(e, 'big');
                 }}
                 onMouseOut={(e) => {
-                    setVisibility(onMouseOutHandler(e, 'hidden'));
-                    setSize(onMouseOutHandler(e, 'small'));
+                    onMouseOutHandler(e, 'hidden');
+                    onMouseOutHandler(e, 'small');
                 }}
 
                 onContextMenu={contextMenuHandler}
@@ -106,72 +103,72 @@ export const MySongsPage = () => {
                         data-identifier={`title-${song?.id}`}
                         data-ms-input='title' value={song?.title} disabled
                         onMouseOver={(e) => {
-                            setVisibility(onMouseOverHandler(e, 'visible'));
-                            setSize(onMouseOverHandler(e, 'big'));
+                            onMouseOverHandler(e, 'visible');
+                            onMouseOverHandler(e, 'big');
                         }}
                         onMouseOut={(e) => {
-                            setVisibility(onMouseOutHandler(e, 'hidden'));
-                            setSize(onMouseOutHandler(e, 'small'));
+                            onMouseOutHandler(e, 'hidden');
+                            onMouseOutHandler(e, 'small');
                         }}
                     />
                     <input
                         data-identifier={`artist-${song?.id}`}
                         data-ms-input='artist' value={song?.artist} disabled
                         onMouseOver={(e) => {
-                            setVisibility(onMouseOverHandler(e, 'visible'));
-                            setSize(onMouseOverHandler(e, 'big'));
+                            onMouseOverHandler(e, 'visible');
+                            onMouseOverHandler(e, 'big');
                         }}
                         onMouseOut={(e) => {
-                            setVisibility(onMouseOutHandler(e, 'hidden'));
-                            setSize(onMouseOutHandler(e, 'small'));
+                            onMouseOutHandler(e, 'hidden');
+                            onMouseOutHandler(e, 'small');
                         }}
                      />
                     <input
                         data-identifier={`producer-${song?.id}`}
                         data-ms-input='producer' value={song?.producer} disabled
                         onMouseOver={(e) => {
-                            setVisibility(onMouseOverHandler(e, 'visible'));
-                            setSize(onMouseOverHandler(e, 'big'));
+                            onMouseOverHandler(e, 'visible');
+                            onMouseOverHandler(e, 'big');
                         }}
                         onMouseOut={(e) => {
-                            setVisibility(onMouseOutHandler(e, 'hidden'));
-                            setSize(onMouseOutHandler(e, 'small'));
+                            onMouseOutHandler(e, 'hidden');
+                            onMouseOutHandler(e, 'small');
                         }}
                     />
                     <input
                         data-identifier={`media-${song?.id}`}
                         data-ms-input='media' value={song?.media} disabled
                         onMouseOver={(e) => {
-                            setVisibility(onMouseOverHandler(e, 'visible'));
-                            setSize(onMouseOverHandler(e, 'big'));
+                            onMouseOverHandler(e, 'visible');
+                            onMouseOverHandler(e, 'big');
                         }}
                         onMouseOut={(e) => {
-                            setVisibility(onMouseOutHandler(e, 'hidden'));
-                            setSize(onMouseOutHandler(e, 'small'));
+                            onMouseOutHandler(e, 'hidden');
+                            onMouseOutHandler(e, 'small');
                         }}
                     />
                     <input
                         data-identifier={`coverArt-${song?.id}`}
                         data-ms-input='cover-art' value={song?.coverArt} disabled
                         onMouseOver={(e) => {
-                            setVisibility(onMouseOverHandler(e, 'visible'));
-                            setSize(onMouseOverHandler(e, 'big'));
+                            onMouseOverHandler(e, 'visible');
+                            onMouseOverHandler(e, 'big');
                         }}
                         onMouseOut={(e) => {
-                            setVisibility(onMouseOutHandler(e, 'hidden'));
-                            setSize(onMouseOutHandler(e, 'small'));
+                            onMouseOutHandler(e, 'hidden');
+                            onMouseOutHandler(e, 'small');
                         }}
                     />
 
                     <NavLink to={`/edit/${song?.id}`}
                         data-identifier={`navLink-${song?.id}`}
                         onMouseOver={(e) => {
-                            setVisibility(onMouseOverHandler(e, 'visible'));
-                            setSize(onMouseOverHandler(e, 'big'));
+                            onMouseOverHandler(e, 'visible');
+                            onMouseOverHandler(e, 'big');
                         }}
                         onMouseOut={(e) => {
-                            setVisibility(onMouseOutHandler(e, 'hidden'));
-                            setSize(onMouseOutHandler(e, 'small'));
+                            onMouseOutHandler(e, 'hidden');
+                            onMouseOutHandler(e, 'small');
                         }}
                     >
                         Edit
@@ -180,12 +177,12 @@ export const MySongsPage = () => {
                         data-identifier={`textarea-${song?.id}`}
                         data-ms-input='body' value={song?.body} disabled
                         onMouseOver={(e) => {
-                            setVisibility(onMouseOverHandler(e, 'visible'));
-                            setSize(onMouseOverHandler(e, 'big'));
+                            onMouseOverHandler(e, 'visible');
+                            onMouseOverHandler(e, 'big');
                         }}
                         onMouseOut={(e) => {
-                            setVisibility(onMouseOutHandler(e, 'hidden'));
-                            setSize(onMouseOutHandler(e, 'small'));
+                            onMouseOutHandler(e, 'hidden');
+                            onMouseOutHandler(e, 'small');
                         }}
                     />
              </div>
@@ -194,23 +191,23 @@ export const MySongsPage = () => {
                 data-subcard-visibility='hidden'
                 className='mySongs-subcard'
                 onMouseOver={(e) => {
-                    setVisibility(onMouseOverHandler(e, 'visible'));
-                    setSize(onMouseOverHandler(e, 'big'));
+                    onMouseOverHandler(e, 'visible');
+                    onMouseOverHandler(e, 'big');
                 }}
                 onMouseOut={(e) => {
-                    setVisibility(onMouseOutHandler(e, 'hidden'));
-                    setSize(onMouseOutHandler(e, 'small'));
+                    onMouseOutHandler(e, 'hidden');
+                    onMouseOutHandler(e, 'small');
                 }}
              >
                 <span
                     data-identifier={`visitsSpan-${song?.id}`}
                     onMouseOver={(e) => {
-                        setVisibility(onMouseOverHandler(e, 'visible'));
-                        setSize(onMouseOverHandler(e, 'big'));
+                        onMouseOverHandler(e, 'visible');
+                        onMouseOverHandler(e, 'big');
                     }}
                     onMouseOut={(e) => {
-                        setVisibility(onMouseOutHandler(e, 'hidden'));
-                        setSize(onMouseOutHandler(e, 'small'));
+                        onMouseOutHandler(e, 'hidden');
+                        onMouseOutHandler(e, 'small');
                     }}
                 >
                     Visits: {`${song?.visits}`}
@@ -219,12 +216,12 @@ export const MySongsPage = () => {
                 <span
                     data-identifier={`createdSpan-${song?.id}`}
                     onMouseOver={(e) => {
-                        setVisibility(onMouseOverHandler(e, 'visible'));
-                        setSize(onMouseOverHandler(e, 'small'));
+                        onMouseOverHandler(e, 'visible');
+                        onMouseOverHandler(e, 'small');
                     }}
                     onMouseOut={(e) => {
-                        setVisibility(onMouseOutHandler(e, 'hidden'));
-                        setSize(onMouseOutHandler(e, 'big'));
+                        onMouseOutHandler(e, 'hidden');
+                        onMouseOutHandler(e, 'big');
                     }}
                 >
                     Created: {`${song?.createdAt}`}
@@ -233,12 +230,12 @@ export const MySongsPage = () => {
                 <span
                     data-identifier={`updatedSpan-${song?.id}`}
                     onMouseOver={(e) => {
-                        setVisibility(onMouseOverHandler(e, 'visible'));
-                        setSize(onMouseOverHandler(e, 'big'));
+                        onMouseOverHandler(e, 'visible');
+                        onMouseOverHandler(e, 'big');
                     }}
                     onMouseOut={(e) => {
-                        setVisibility(onMouseOutHandler(e, 'hidden'));
-                        setSize(onMouseOutHandler(e, 'small'));
+                        onMouseOutHandler(e, 'hidden');
+                        onMouseOutHandler(e, 'small');
                     }}
                 >
                     Updated: {`${song?.updatedAt}`}
