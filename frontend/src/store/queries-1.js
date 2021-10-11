@@ -26,9 +26,10 @@ const setSong = (song) => {
   };
 };
 
-const removeSong = () => {
+const removeSong = (songID) => {
   return {
     type: REMOVE_SONG,
+    payload: songID
   };
 };
 
@@ -94,8 +95,10 @@ const queriedSongsReducer = (state = initialState, action) => {
       newState[action.payload.id] = action.payload;
       return newState;
     case REMOVE_SONG:
-      newState = Object.assign({}, state);
+      // newState = Object.assign({}, state);
       newState[action.payload.id] = null;
+      // newState.filter(song => song )
+
       return newState;
     default:
       return state;

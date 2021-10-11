@@ -4,35 +4,44 @@ import { useHistory } from "react-router-dom";
 import * as sessionActions from '../../store/session';
 import { Link } from "react-router-dom";
 
-const ProfileButton = ({ user, query, setQuery, activePage }) => {
+const ProfileButton = ({ user }) => {
   const history = useHistory();
   const dispatch = useDispatch();
   const [showMenu, setShowMenu] = useState(false);
+  const [query, setQuery] = useState('')
 
 
-  const handleXClick = () => {
-      setQuery('');
-    }
+  const handleXClick = (e) => {
+    // setQuery('');
+    // const query = e.target.children[1].value;
+    setQuery('')
+  }
 
-    const handleInputChange = (e) => {
-      e.preventDefault();
-      setQuery(e.target.value);
-    }
+  const handleInputChange = (e) => {
+    e.preventDefault();
+    setQuery(e.target.value);
+  }
 
-    const onSubmit = (e) => {
-      e.preventDefault();
+  const onSubmit = (e) => {
+    e.preventDefault();
 
-      if (`${window.location}`.includes('/search')) {
-        history.push(`${query}`)
-      } else if (!`${window.location}`.includes('/search')) {
-        history.push(`search/${query}`)
-      }
-    }
+    // const query = e.target.children[1].value;
+    // console.log(query);
+    history.push(`songs/${query}/lyrics`);
+
+      // history.push('songs/')
+      // if (`${window.location}`.includes('/search')) {
+      //   history.push(`${query}`)
+      // } else if (!`${window.location}`.includes('/search')) {
+      //   history.push(`search/${query}`)
+      // }
+  }
 
 
   const logout = (e) => {
     e.preventDefault();
     dispatch(sessionActions.logout());
+    history.push('/');
   };
 
   return (

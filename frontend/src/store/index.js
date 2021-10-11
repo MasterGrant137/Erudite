@@ -4,7 +4,7 @@ import sessionReducer from './session';
 import queriedSongsReducer from './queries-1';
 import {topSongsReducer, songReducer, commentsReducer} from './queries-2';
 
-const rootReducer = combineReducers({
+const appReducer = combineReducers({
   //? reducer state keys and values
   session: sessionReducer,
   queriedSongs: queriedSongsReducer,
@@ -25,7 +25,7 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 const configureStore = (preloadedState) => {
-  return createStore(rootReducer, preloadedState, enhancer);
+  return createStore(appReducer, preloadedState, enhancer);
 };
 
 export default configureStore;
