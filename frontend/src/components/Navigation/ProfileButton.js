@@ -11,11 +11,8 @@ const ProfileButton = ({ user }) => {
   const [query, setQuery] = useState('')
 
 
-  const handleXClick = (e) => {
-    // setQuery('');
-    // const query = e.target.children[1].value;
-    setQuery('')
-  }
+  const handleXClick = (e) => setQuery('');
+
 
   const handleInputChange = (e) => {
     e.preventDefault();
@@ -24,17 +21,7 @@ const ProfileButton = ({ user }) => {
 
   const onSubmit = (e) => {
     e.preventDefault();
-
-    // const query = e.target.children[1].value;
-    // console.log(query);
     history.push(`songs/${query}/lyrics`);
-
-      // history.push('songs/')
-      // if (`${window.location}`.includes('/search')) {
-      //   history.push(`${query}`)
-      // } else if (!`${window.location}`.includes('/search')) {
-      //   history.push(`search/${query}`)
-      // }
   }
 
 
@@ -42,6 +29,7 @@ const ProfileButton = ({ user }) => {
     e.preventDefault();
     dispatch(sessionActions.logout());
     history.push('/');
+    window.location.reload();
   };
 
   return (

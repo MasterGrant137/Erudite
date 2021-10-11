@@ -29,7 +29,7 @@ const setSong = (song) => {
 const removeSong = (songID) => {
   return {
     type: REMOVE_SONG,
-    payload: songID
+    payload: songID,
   };
 };
 
@@ -68,14 +68,14 @@ export const editSong = (song) => async dispatch => {
   }
 }
 
-export const deleteSong = (id) => async dispatch => {
-  const response = await csrfFetch(`/erudite/songs/${id}/delete`, {
+export const deleteSong = (songID) => async dispatch => {
+  const response = await csrfFetch(`/erudite/songs/${songID}/delete`, {
     method: 'DELETE',
   });
 
-  const data = await response.json();
-  dispatch(removeSong(data))
-  return data;
+  const message = await response.json();
+  dispatch(removeSong(songID))
+  return message;
 }
 
 const initialState = {};
@@ -95,16 +95,12 @@ const queriedSongsReducer = (state = initialState, action) => {
       newState[action.payload.id] = action.payload;
       return newState;
     case REMOVE_SONG:
-      // newState = Object.assign({}, state);
-      newState[action.payload.id] = null;
-      // newState.filter(song => song )
-
+      newState = Object.assign({}, state);
+      delete newState[action.payload];
       return newState;
     default:
       return state;
   }
 };
-
-
 
 export default queriedSongsReducer;
