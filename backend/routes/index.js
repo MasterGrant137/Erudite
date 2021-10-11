@@ -18,7 +18,7 @@ if (process.env.NODE_ENV === 'production') {
     router.use(express.static(path.resolve("../frontend/build")));
 
     //? Serve the frontend's index.html file at all other routes NOT starting with /erudite
-    router.get(/^(?!\/?erudite).*/, (req, res) => {
+    router.get(/^(?!\/?api).*/, (req, res) => {
       res.cookie('XSRF-TOKEN', req.csrfToken());
       return res.sendFile(
         path.resolve(__dirname, '../../frontend', 'build', 'index.html')
@@ -33,5 +33,11 @@ if (process.env.NODE_ENV !== 'production') {
       return res.json({});
     });
 }
+
+//? base test route
+// router.get('/hello/world', function(req, res) {
+//     res.cookie('XSRF-TOKEN', req.csrfToken());
+//     res.send(`I'm alive!`);
+// });
 
 module.exports = router;
