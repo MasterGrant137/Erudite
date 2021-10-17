@@ -73,7 +73,6 @@ export const addComment = (comment) => async dispatch => {
 //? control how action creators' data is presented in the Redux store
 const initialState1 = {};
 export const topSongsReducer = (state = initialState1, action) => {
-
     switch (action.type) {
         case GET_SONGS:
             state = {};
