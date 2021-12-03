@@ -34,6 +34,7 @@ const HomePage = () => {
                 id={size}
                 className='home-video'
                 src={song?.media?.replace(iframeRegex,'$3')}
+                alt={song.title}
                 title={song.title}
                 allow='fullscreen'
                 onMouseOver={() => {
