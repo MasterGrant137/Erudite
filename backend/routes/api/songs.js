@@ -43,7 +43,8 @@ router.get('/:title/lyrics', asyncHandler(async(req, res) => {
     const title = req.params.title;
 
     const song = await Song.findOne({ where: { title } });
-    return res.json(song);
+    if (song) return res.json(song);
+    else return { errors: ['No results.'] };
 }));
 
 router.post('/', submissionValidation, asyncHandler(async(req, res) => {

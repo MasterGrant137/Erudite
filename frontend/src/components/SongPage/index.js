@@ -8,14 +8,17 @@ import './SongPage.css'
 
 export const SongPage = () => {
     const dispatch = useDispatch();
+    const [body, setBody] = useState('');
     const iframeRegex= /(<iframe)|width="(.*?)"|height="(.*?)"|id="(.*?)"|src="(.*?)"|title="(.*?)"(.*?)(><\/iframe>)/g
+    const songHrefRegex = /(\w{5}:\/\/\w{3}\.\w{7}\.\w{3}\/)(\w{5}\/)([\w|-]{1,})(.*)/
     const songParams = useParams();
 
-    const [body, setBody] = useState('');
-
+    
     const songSelector = useSelector(state => state?.song);
-    let song = Object.values(songSelector)[0];
-
+    const song = Object.values(songSelector)[0];
+    const iframeSrc = song?.media?.replace(iframeRegex,'$5');
+    const songHref = iframeSrc?.replace(songHrefRegex, '$1watch?v=$3')
+    
     const commentsSelector = useSelector(state => state?.comments);
     const comments = Object.values(commentsSelector).map(comment => ( <li key={comment.id}>{comment.body}</li> ));
 
@@ -65,12 +68,14 @@ export const SongPage = () => {
                              disabled
                          />
                     <div className='song-page-video'>
-                        <iframe
-                            className='song-page-video'
-                            src={song?.media?.replace(iframeRegex,'$5')}
-                            title={song?.title}
-                            allow='fullscreen'
-                         />
+                        <a href={songHref} target='_blank' rel='noreferrer noopener'>
+                            <img
+                                className='song-page-video'
+                                alt={song?.title}
+                                title={song?.title}
+                                src={song?.coverArt}
+                            />
+                        </a>
                     </div>
                 </div>
             </div>
