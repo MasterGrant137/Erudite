@@ -9,3 +9,5 @@
 
 ## Search songs and leave a comment.
 ![Gif 4](https://github.com/MasterGrant137/Erudite/blob/main/frontend/public/images/readme_gif_4.gif?raw=true)
+
+Take a trip to the [Wiki](https://github.com/MasterGrant137/Erudite/wiki) for more project details :D
