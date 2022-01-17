@@ -8,7 +8,6 @@ import './HomePage.css'
 const HomePage = () => {
     const history = useHistory();
     const dispatch = useDispatch();
-    const iframeRegex= /(<iframe)|id="(.*?)"|src="(.*?)"|title="(.*?)"(><\/iframe>)/g
 
     const [visibility, setVisibility] = useState('hidden-home-lyrics');
     const [size, setSize] = useState('big-home-video');
@@ -30,12 +29,12 @@ const HomePage = () => {
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
         <div key={song?.id} onClick={(e) => clickHandler(e)}>
-            <iframe
+            <img
                 id={size}
                 className='home-video'
-                src={song?.media?.replace(iframeRegex,'$3')}
+                src={song?.coverArt}
+                alt={song.title}
                 title={song.title}
-                allow='fullscreen'
                 onMouseOver={() => {
                     setVisibility('visible-home-lyrics');
                     setSize('small-home-video');
@@ -44,6 +43,7 @@ const HomePage = () => {
                     setVisibility('hidden-home-lyrics');
                     setSize('big-home-video');
                 }}
+                onClick={() => history.push(song.title)}
              />
              <textarea
                 id={visibility}

@@ -11,19 +11,18 @@ const ProfileButton = ({ user }) => {
   const [query, setQuery] = useState('')
 
 
-  const handleXClick = (e) => setQuery('');
+  // const clearQuery = (e) => setQuery('');
 
 
   const handleInputChange = (e) => {
-    e.preventDefault();
     setQuery(e.target.value);
   }
 
   const onSubmit = (e) => {
     e.preventDefault();
-    history.push(`songs/${query}/lyrics`);
+    // clearQuery(e);
+    window.location = `${window.location.origin}/songs/${query}/lyrics` 
   }
-
 
   const logout = (e) => {
     e.preventDefault();
@@ -42,7 +41,6 @@ const ProfileButton = ({ user }) => {
           <li><Link to='/my-songs'><button>My Songs</button></Link></li>
           <li>
             <form method='GET' onSubmit={onSubmit}>
-              <button onClick={handleXClick} type='button'>X</button>
               <input
                 type='search'
                 value={query}
