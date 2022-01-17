@@ -29,7 +29,7 @@ const songSeeder = (namesMetaStr, producerDivStr, bodyDivStr, media, visitsNum, 
     const producer = producerDivStr.replace(lastAnchorRegex, '$1000').replace(closedAnchor, pipe).replace(strayTagsRegex2, '$4');
 
     //? body
-     const body = bodyDivStr.replace(brDivRegex, '\n').replace(amp, ampersand).replace(nbsp, space).replace(strayTagsRegex1, '$2');
+    const body = bodyDivStr.replace(brDivRegex, '\n').replace(amp, ampersand).replace(nbsp, space).replace(strayTagsRegex1, '$2');
 
     //? visits
     const visits = visitsNum.replace(strippedDecFinder, '').replace(decPlaceFinderRegex, '$1$2$400')
