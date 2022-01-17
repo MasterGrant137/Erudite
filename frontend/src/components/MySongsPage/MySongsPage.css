@@ -104,8 +104,8 @@ div[data-subcard-visibility='visible']:hover {
 }
 
 #context-menu {
-    cursor: pointer;
-    background-color: red;
+    background-color: #57CC99;
+    cursor: copy;
 }
 
 #context-menu.invisible {

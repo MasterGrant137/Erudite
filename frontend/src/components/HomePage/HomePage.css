@@ -49,6 +49,7 @@
 }
 
 .home-video {
+    cursor: pointer;
     margin-bottom: -0.60vh;
     transition: height 1.5s;
 }
