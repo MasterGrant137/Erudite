@@ -73,7 +73,7 @@ export const SongPage = () => {
                                 alt={song?.title}
                                 title={song?.title}
                                 src={song?.coverArt}
-                                crossOrigin='anonymous'
+                                crossOrigin={process.env.NODE_ENV === 'production' ? 'anonymous' : false}
                             />
                         </a>
                     </div>

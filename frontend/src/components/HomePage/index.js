@@ -13,6 +13,8 @@ const HomePage = () => {
     const [size, setSize] = useState('big-home-video');
 
 
+    console.log(process.env.NODE_ENV);
+
     useEffect(() => {
         dispatch(queryActions2.homeSongs());
     }, [dispatch])
@@ -44,7 +46,7 @@ const HomePage = () => {
                     setSize('big-home-video');
                 }}
                 onClick={() => history.push(song.title)}
-                crossOrigin='anonymous'
+                crossOrigin={process.env.NODE_ENV === 'production' ? 'anonymous' : false}
              />
              <textarea
                 id={visibility}
