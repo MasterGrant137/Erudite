@@ -44,7 +44,7 @@ const HomePage = () => {
                     setSize('big-home-video');
                 }}
                 onClick={() => history.push(song.title)}
-                crossOrigin={true}
+                crossOrigin='anonymous'
              />
              <textarea
                 id={visibility}
