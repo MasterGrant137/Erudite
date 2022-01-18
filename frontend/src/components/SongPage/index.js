@@ -73,6 +73,7 @@ export const SongPage = () => {
                                 alt={song?.title}
                                 title={song?.title}
                                 src={song?.coverArt}
+                                crossOrigin
                             />
                         </a>
                     </div>

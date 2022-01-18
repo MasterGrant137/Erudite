@@ -14,11 +14,6 @@ app.use(morgan('dev'));
 app.use(cookieParser());
 app.use(express.json());
 
-app.use((req, res, next) => {
-  res.append('Cross-Origin-Resource-Policy', 'cross-origin');
-  next();
-});
-
 //? cors enabled for development only
 if (!isProduction) {
     app.use(cors());
