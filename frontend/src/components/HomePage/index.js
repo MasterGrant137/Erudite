@@ -44,7 +44,7 @@ const HomePage = () => {
                     setSize('big-home-video');
                 }}
                 onClick={() => history.push(song.title)}
-                crossOrigin
+                crossOrigin={true}
              />
              <textarea
                 id={visibility}
