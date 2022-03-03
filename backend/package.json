@@ -33,6 +33,6 @@
     "sequelize-cli": "^6.2.0"
   },
   "devDependencies": {
-    "dotenv-cli": "^4.0.0"
+    "dotenv-cli": "^5.0.0"
   }
 }
