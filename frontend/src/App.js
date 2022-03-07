@@ -23,13 +23,13 @@ function App() {
       <Navigation isLoaded={isLoaded} />
       {isLoaded && (
         <Routes>
-          <Route exact path='/'><HomePage /></Route>
-          <Route path='/my-songs'><MySongsPage /></Route>
-          <Route path='/songs/:title'><SongPage /></Route>
-          <Route path='/add'><AddSong /></Route>
-          <Route path='/edit/:id'><EditSong /></Route>
-          <Route path='/login'><LoginFormPage /></Route>
-          <Route path='/signup'><SignupFormPage /></Route>
+          <Route exact path='/' element={<HomePage />} />
+          <Route path='/my-songs' element={<MySongsPage />} />
+          <Route path='/songs/:title' element={<SongPage />} />
+          <Route path='/add' element={<AddSong />} />
+          <Route path='/edit/:id' element={<EditSong />} />
+          <Route path='/login' element={<LoginFormPage />} />
+          <Route path='/signup' element={<SignupFormPage />} />
         </Routes>
       )}
     </>
