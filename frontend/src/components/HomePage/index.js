@@ -26,7 +26,7 @@ const HomePage = () => {
 
     const clickHandler = (e) => {
         e.preventDefault();
-        history.push(`songs/${e.target.title}/lyrics`)
+        history.push(`songs/${e.target.title}/lyrics`);
     }
 
     const songAndLyricsDiv = Object.values(songs).map(song => (
