@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import * as sessionActions from '../../store/session';
 import { useDispatch, useSelector } from 'react-redux';
-import { Redirect } from 'react-router-dom';
+import { Navigate } from 'react-router-dom';
 import '../../auth.css';
 
 
@@ -13,7 +13,7 @@ const LoginFormPage = () => {
     const [errors, setErrors] = useState([]);
 
     if (sessionUser) return (
-      <Redirect to="/" />
+      <Navigate to="/" />
     );
 
     const handleSubmit = (e) => {

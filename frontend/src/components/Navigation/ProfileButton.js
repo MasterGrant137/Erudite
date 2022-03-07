@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import { useDispatch } from 'react-redux';
-import { useHistory } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import * as sessionActions from '../../store/session';
 import { Link } from "react-router-dom";
 
 const ProfileButton = ({ user }) => {
-  const history = useHistory();
+  const navigate = useNavigate();
   const dispatch = useDispatch();
   const [showMenu, setShowMenu] = useState(false);
   const [query, setQuery] = useState('')
@@ -16,13 +16,13 @@ const ProfileButton = ({ user }) => {
 
   const onSubmit = (e) => {
     e.preventDefault();
-    window.location = `${window.location.origin}/songs/${query}/lyrics` 
+    window.location = `${window.location.origin}/songs/${query}/lyrics`
   }
 
   const logout = (e) => {
     e.preventDefault();
     dispatch(sessionActions.logout());
-    history.push('/');
+    navigate('/');
     window.location.reload();
   };
 
@@ -40,7 +40,7 @@ const ProfileButton = ({ user }) => {
                 type='search'
                 value={query}
                 onChange={handleInputChange}
-                />
+              />
             </form>
           </li>
           <li><button onClick={logout}>Log Out</button></li>

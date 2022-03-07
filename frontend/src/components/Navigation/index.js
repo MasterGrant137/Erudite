@@ -1,20 +1,20 @@
 import React, { useState } from 'react';
-import { NavLink, useHistory } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import * as sessionActions from '../../store/session';
 import ProfileButton from './ProfileButton';
 import './Navigation.css';
 
-function Navigation({ isLoaded }){
+function Navigation({ isLoaded }) {
   const dispatch = useDispatch();
-  const history = useHistory();
+  const navigate = useNavigate();
   const sessionUser = useSelector(state => state.session.user);
   const [activePage] = useState('main');
   const [query, setQuery] = useState('');
 
   const demoLoginHandler = async (e) => {
     await dispatch(sessionActions.login({ credential: 'Demo-lition', password: 'password' }));
-    history.push('/my-songs');
+    navigate('/my-songs');
   }
 
   let sessionLinks;
