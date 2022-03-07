@@ -63,7 +63,7 @@ export const addComment = (comment) => async dispatch => {
       const newComment = await response.json();
       if (newComment.title === 'Comment failed') alert(newComment.error);
       else {
-        dispatch(setComment(newComment));
+        await dispatch(setComment(newComment));
         return newComment;
       }
   }

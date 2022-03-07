@@ -10,17 +10,12 @@ const ProfileButton = ({ user }) => {
   const [showMenu, setShowMenu] = useState(false);
   const [query, setQuery] = useState('')
 
-
-  // const clearQuery = (e) => setQuery('');
-
-
   const handleInputChange = (e) => {
     setQuery(e.target.value);
   }
 
   const onSubmit = (e) => {
     e.preventDefault();
-    // clearQuery(e);
     window.location = `${window.location.origin}/songs/${query}/lyrics` 
   }
 

@@ -37,7 +37,7 @@ export const mySongs = () => async dispatch => {
   const response = await csrfFetch(`/erudite/songs/my-songs`);
   if (response.ok) {
     const mySongs = await response.json();
-    dispatch(getMySongs(mySongs));
+    await dispatch(getMySongs(mySongs));
     return mySongs;
   }
 }
@@ -50,7 +50,7 @@ export const newSong = (song) => async dispatch => {
 
   if (response.ok) {
     const newSong = await response.json();
-    dispatch(setSong(newSong));
+    await dispatch(setSong(newSong));
     return newSong;
   }
 }
@@ -63,7 +63,7 @@ export const editSong = (song) => async dispatch => {
 
   if (response.ok) {
     const editedSong = await response.json();
-    dispatch(editMySong(editedSong));
+    await dispatch(editMySong(editedSong));
     return editedSong;
   }
 }
@@ -74,7 +74,7 @@ export const deleteSong = (songID) => async dispatch => {
   });
 
   const message = await response.json();
-  dispatch(removeSong(songID))
+  await dispatch(removeSong(songID))
   return message;
 }
 
