@@ -4,7 +4,6 @@ const router = express.Router();
 
 const { check } = require('express-validator')
 const { handleValidationErrors } = require('../../utils/validation');
-const { Op } = require('sequelize');
 const { Song } = require('../../db/models');
 
 const submissionValidation = [
@@ -21,12 +20,13 @@ const submissionValidation = [
 ]
 
 router.get('/', asyncHandler(async(req, res) => {
-    const songs = await Song.findAll({
-        order: [['visits', 'DESC']],
-        limit: 10
-    });
+  console.log('THIS IS THE REQ');
+  const songs = await Song.findAll({
+      order: [['visits', 'DESC']],
+      limit: 10
+  });
 
-    return res.json(songs);
+  return res.json(songs);
 }));
 
 router.get('/my-songs', asyncHandler(async(req, res) => {
@@ -40,11 +40,11 @@ router.get('/my-songs', asyncHandler(async(req, res) => {
 }));
 
 router.get('/:title/lyrics', asyncHandler(async(req, res) => {
-    const title = req.params.title;
-
-    const song = await Song.findOne({ where: { title } });
-    if (song) return res.json(song);
-    else return { errors: ['No results.'] };
+  const title = req.params.title;
+  console.log(title, 'THIS IS THE TITLE')
+  const song = await Song.findOne({ where: { title } });
+  if (song) return res.json(song);
+  else return { errors: ['No results.'] };
 }));
 
 router.post('/', submissionValidation, asyncHandler(async(req, res) => {

@@ -8,17 +8,12 @@ import './HomePage.css'
 const HomePage = () => {
   const navigate = useNavigate();
   const dispatch = useDispatch();
-
   const [visibility, setVisibility] = useState('hidden-home-lyrics');
   const [size, setSize] = useState('big-home-video');
-
-
-  console.log(process.env.NODE_ENV);
 
   useEffect(() => {
     dispatch(queryActions2.homeSongs());
   }, [dispatch])
-
 
   const songs = useSelector(state => {
     return state.topSongs;
