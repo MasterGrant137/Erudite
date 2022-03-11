@@ -20,7 +20,6 @@ const submissionValidation = [
 ]
 
 router.get('/', asyncHandler(async(req, res) => {
-  console.log('THIS IS THE REQ');
   const songs = await Song.findAll({
       order: [['visits', 'DESC']],
       limit: 10
@@ -97,8 +96,6 @@ router.delete('/:id/delete', asyncHandler(async(req, res) => {
         await Song.destroy({ where: { id } });
         return res.json({ message: 'success' });
     } else return res.json({ message: 'forbidden' });
-
-
 }));
 
 

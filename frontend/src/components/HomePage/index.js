@@ -25,7 +25,7 @@ const HomePage = () => {
   }
 
   const songAndLyricsDiv = Object.values(songs).map(song => (
-    <div key={song?.id} onClick={(e) => clickHandler(e)}>
+    <div key={song?.id} onClick={clickHandler}>
       <img
         id={size}
         className='home-video'
@@ -40,7 +40,7 @@ const HomePage = () => {
           setVisibility('hidden-home-lyrics');
           setSize('big-home-video');
         }}
-        onClick={() => navigate(song.title)}
+        onClick={() => navigate(`songs/${song.title}/lyrics`)}
         crossOrigin={process.env.NODE_ENV === 'production' ? 'anonymous' : undefined}
       />
       <textarea
