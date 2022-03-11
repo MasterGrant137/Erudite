@@ -5,57 +5,57 @@ import * as queryActions1 from '../../store/queries-1';
 import './MySongsPage.css'
 
 export const MySongsPage = () => {
-    const dispatch = useDispatch();
-    const body = document.querySelector('body');
+  const dispatch = useDispatch();
+  const body = document.querySelector('body');
 
-    useEffect(() => {
-        dispatch(queryActions1.mySongs());
-    }, [dispatch])
+  useEffect(() => {
+      dispatch(queryActions1.mySongs());
+  }, [dispatch])
 
-    const contextMenuHandler = async(mainE) => {
-        mainE.preventDefault();
-        let posX = mainE.pageX;
-        let posY = mainE.pageY;
+  const contextMenuHandler = async(mainE) => {
+    mainE.preventDefault();
+    let posX = mainE.pageX;
+    let posY = mainE.pageY;
 
-        const contextMenu = document.getElementById('context-menu');
-        contextMenu.classList.remove('invisible');
-        contextMenu.style.position = 'absolute';
-        contextMenu.style.display = 'visible';
-        contextMenu.style.top = `${posY}px`;
-        contextMenu.style.left = `${posX}px`;
+    const contextMenu = document.getElementById('context-menu');
+    contextMenu.classList.remove('invisible');
+    contextMenu.style.position = 'absolute';
+    contextMenu.style.display = 'visible';
+    contextMenu.style.left = `${posX}px`;
+    contextMenu.style.top = `${posY}px`;
 
-        const contextMenuItems = Array.from(contextMenu.children);
-        contextMenuItems.forEach(menuItem => {
-            menuItem.addEventListener('click', (subE) => {
-                const cardInputs = Array.from(mainE.target.children);
-                cardInputs.map(async(input) => {
-                    if (input.dataset.msInput === subE.target.dataset.msItem) {
-                        try {
-                            await input.select();
-                            await navigator.clipboard.writeText(input.value);
-                            alert('Successfully copied to clipboard :D');
-                        } catch (err) {
-                            alert('Failed to copy to clipboard ):')
-                        }
-                    }
-                })
-            })
+    const contextMenuItems = Array.from(contextMenu.children);
+    contextMenuItems.forEach(menuItem => {
+      menuItem.addEventListener('click', (subE) => {
+        const cardInputs = Array.from(mainE.target.children);
+        cardInputs.map(async(input) => {
+          if (input.dataset.msInput === subE.target.dataset.msItem) {
+            try {
+              await input.select();
+              await navigator.clipboard.writeText(input.value);
+              alert('Successfully copied to clipboard :D');
+            } catch (err) {
+              alert('Failed to copy to clipboard ):')
+            }
+          }
         })
-    }
+      })
+    })
+  }
 
-    const onMouseOverHandler = (e, value) => {
-        const attrRegex = /(.*?\w)(-)(\d)/
+  const onMouseOverHandler = (e, value) => {
+    const attrRegex = /(.*?\w)(-)(\d)/
 
-        if (e && value === 'visible') {
-            const attrVal = e.target.dataset.identifier.replace(attrRegex, 'subcard$2$3');
-            const subcard = document.querySelector(`div[data-identifier='${attrVal}']`);
-            subcard.dataset.subcardVisibility='visible';
-        } else if (e && value === 'big') {
-            const attrVal = e.target.dataset.identifier.replace(attrRegex, 'card$2$3');
-            const card = document.querySelector(`div[data-identifier='${attrVal}']`);
-            card.dataset.cardSize='big';
-        }
+    if (e && value === 'visible') {
+      const attrVal = e.target.dataset.identifier.replace(attrRegex, 'subcard$2$3');
+      const subcard = document.querySelector(`div[data-identifier='${attrVal}']`);
+      subcard.dataset.subcardVisibility='visible';
+    } else if (e && value === 'big') {
+      const attrVal = e.target.dataset.identifier.replace(attrRegex, 'card$2$3');
+      const card = document.querySelector(`div[data-identifier='${attrVal}']`);
+      card.dataset.cardSize='big';
     }
+  }
 
     const onMouseOutHandler = (e, value) => {
         const attrRegex = /(.*?\w)(-)(\d)/

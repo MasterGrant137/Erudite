@@ -1,105 +1,107 @@
 #song-page-container {
-    color: #F1D4D4;
-    display: grid;
-    grid-template-areas:
-    'a'
-    'b';
-    justify-content: center;
+  color: #F1D4D4;
+  display: grid;
+  grid-template-areas:
+  'a'
+  'b';
+  justify-content: center;
 
-    animation: song-page-scroll 30s ease-in-out infinite alternate;
-    background-image: url('../../images/background-art.png');
-    border: 0.25vw solid #F1D4D4;
-    height: 90vh;
-    overflow: hidden;
+  animation: song-page-scroll 30s ease-in-out infinite alternate;
+  background-image: url('../../images/background-art.png');
+  border: 0.25vw solid #F1D4D4;
+  height: 90vh;
+  overflow: hidden;
 }
 
 @keyframes song-page-scroll {
-    100% { background-position-y: 100%; }
+  100% { background-position-y: 100%; }
 }
 
 #add-comment-form {
-    text-align: center;
+  text-align: center;
 }
 
 #sp-background-color-wrapper {
-    background-color: rgba(0, 0, 0, 0.6);
-    width: 100vw;
-    height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100vw;
+  height: 100vh;
 }
 
 #song-page-headers-container {
-    cursor: default;
-    color: #57CC99;
-    width: 100%;
-    text-align: center;
+  cursor: default;
+  color: #57CC99;
+  width: 100%;
+  text-align: center;
 
-    grid-area: 'a';
-    display: grid;
-    grid-template-columns: 1fr 7fr 1fr;
+  grid-area: 'a';
+  display: grid;
+  grid-template-columns: 1fr 7fr 1fr;
 }
 
 #song-page-header {
-    font-size: 1.5vw;
-    grid-area: 'a';
+  font-size: 1.5vw;
+  grid-area: 'a';
 }
 
 #song-page-title {
-    font-size: 3.5vw;
-    grid-area: 'b';
+  font-size: 3.5vw;
+  grid-area: 'b';
 }
 
 #sp-inner-container {
-    max-height: 100%;
-    max-width: 100%;
+  max-height: 100%;
+  max-width: 100%;
 
-    grid-area: 'b';
-    display: grid;
-    grid-template-areas: "c a b";
-    grid-template-columns: 2.5fr 5fr 1fr;
+  grid-area: 'b';
+  display: grid;
+  grid-template-areas: "c a b";
+  grid-template-columns: 2.5fr 5fr 1fr;
+
+  overflow: scroll;
 }
 
 #sp-comments-container {
-    grid-area: 'c';
+  grid-area: 'c';
 }
 
 #sp-comments-holder{
-    height: calc(0.6 * 90vh);
-    overflow-y: scroll;
-    list-style: none;
-    text-align: left;
+  height: calc(0.6 * 90vh);
+  overflow-y: scroll;
+  list-style: none;
+  text-align: left;
 }
 
 #song-page-lyrics {
-    cursor: pointer;
-    color: black;
-    padding: 0;
+  cursor: pointer;
+  color: black;
+  padding: 0;
 
-    grid-area: 'a';
-    text-align: center;
-    background-color: rgba(87, 204, 153, 0.7);
+  grid-area: 'a';
+  text-align: center;
+  background-color: rgba(87, 204, 153, 0.7);
 
-    animation: lyrics-unravel 3s ease-out;
-    transition: color;
+  animation: lyrics-unravel 3s ease-out;
+  transition: color;
 }
 
 @keyframes lyrics-unravel {
-    0% { height: 0%; }
-    100% { height: 100% }
+  0% { height: 0%; }
+  100% { height: 100% }
 }
 
 .song-page-video {
-    max-width: fit-content;
-    height: 60%;
-    grid-area: 'b';
-    animation: video-unravel 3s ease-out;
+  max-width: fit-content;
+  height: 60%;
+  grid-area: 'b';
+  animation: video-unravel 3s ease-out;
 }
 
 @keyframes video-unravel {
-    0% { height: 0% }
-    100% { height: 80% }
+  0% { height: 0% }
+  100% { height: 80% }
 }
 
 #song-page-lyrics:hover {
-    background-color: rgba(0, 0, 0, 0.7);
-    color: #57CC99;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #57CC99;
 }
