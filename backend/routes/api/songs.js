@@ -40,7 +40,6 @@ router.get('/my-songs', asyncHandler(async(req, res) => {
 
 router.get('/:title/lyrics', asyncHandler(async(req, res) => {
   const title = req.params.title;
-  console.log(title, 'THIS IS THE TITLE')
   const song = await Song.findOne({ where: { title } });
   if (song) return res.json(song);
   else return { errors: ['No results.'] };
