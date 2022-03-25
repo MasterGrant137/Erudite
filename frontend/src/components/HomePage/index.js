@@ -8,17 +8,12 @@ import './HomePage.css'
 const HomePage = () => {
   const navigate = useNavigate();
   const dispatch = useDispatch();
-
   const [visibility, setVisibility] = useState('hidden-home-lyrics');
   const [size, setSize] = useState('big-home-video');
-
-
-  console.log(process.env.NODE_ENV);
 
   useEffect(() => {
     dispatch(queryActions2.homeSongs());
   }, [dispatch])
-
 
   const songs = useSelector(state => {
     return state.topSongs;
@@ -30,7 +25,7 @@ const HomePage = () => {
   }
 
   const songAndLyricsDiv = Object.values(songs).map(song => (
-    <div key={song?.id} onClick={(e) => clickHandler(e)}>
+    <div key={song?.id} onClick={clickHandler}>
       <img
         id={size}
         className='home-video'
@@ -45,7 +40,7 @@ const HomePage = () => {
           setVisibility('hidden-home-lyrics');
           setSize('big-home-video');
         }}
-        onClick={() => navigate(song.title)}
+        onClick={() => navigate(`songs/${song.title}/lyrics`)}
         crossOrigin={process.env.NODE_ENV === 'production' ? 'anonymous' : undefined}
       />
       <textarea

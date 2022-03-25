@@ -25,7 +25,7 @@ function App() {
         <Routes>
           <Route exact path='/' element={<HomePage />} />
           <Route path='/my-songs' element={<MySongsPage />} />
-          <Route path='/songs/:title' element={<SongPage />} />
+          <Route path='/songs/:title/lyrics' element={<SongPage />} />
           <Route path='/add' element={<AddSong />} />
           <Route path='/edit/:id' element={<EditSong />} />
           <Route path='/login' element={<LoginFormPage />} />

@@ -4,7 +4,6 @@ const router = express.Router();
 
 const { check } = require('express-validator')
 const { handleValidationErrors } = require('../../utils/validation');
-const { Op } = require('sequelize');
 const { Song } = require('../../db/models');
 
 const submissionValidation = [
@@ -21,12 +20,12 @@ const submissionValidation = [
 ]
 
 router.get('/', asyncHandler(async(req, res) => {
-    const songs = await Song.findAll({
-        order: [['visits', 'DESC']],
-        limit: 10
-    });
+  const songs = await Song.findAll({
+      order: [['visits', 'DESC']],
+      limit: 10
+  });
 
-    return res.json(songs);
+  return res.json(songs);
 }));
 
 router.get('/my-songs', asyncHandler(async(req, res) => {
@@ -40,11 +39,10 @@ router.get('/my-songs', asyncHandler(async(req, res) => {
 }));
 
 router.get('/:title/lyrics', asyncHandler(async(req, res) => {
-    const title = req.params.title;
-
-    const song = await Song.findOne({ where: { title } });
-    if (song) return res.json(song);
-    else return { errors: ['No results.'] };
+  const title = req.params.title;
+  const song = await Song.findOne({ where: { title } });
+  if (song) return res.json(song);
+  else return { errors: ['No results.'] };
 }));
 
 router.post('/', submissionValidation, asyncHandler(async(req, res) => {
@@ -97,8 +95,6 @@ router.delete('/:id/delete', asyncHandler(async(req, res) => {
         await Song.destroy({ where: { id } });
         return res.json({ message: 'success' });
     } else return res.json({ message: 'forbidden' });
-
-
 }));
 
 
