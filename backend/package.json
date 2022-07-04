@@ -33,6 +33,6 @@
   },
   "devDependencies": {
     "@faker-js/faker": "^6.0.0",
-    "dotenv-cli": "^5.0.0"
+    "dotenv-cli": "^6.0.0"
   }
 }
